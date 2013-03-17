@@ -1,0 +1,57 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2012-08-21T07:31:32-07:00</published>
+
+	<id>00a2966a-603e-4c19-b09b-b4b520b49953</id>
+
+	<title>Twitter's Correlation Question Examples</title>
+
+	<category term="Software Engineering" />
+	<category term="Statistics" />
+	<category term="Web Development" />
+
+	<content type="xhtml">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<div class="quote">
+				<blockquote cite="http://www.slideshare.net/kevinweil/nosql-at-twitter-nosql-eu-2010">
+
+					<h2>Correlating Big Data</h2>
+					<h3>probabilities, covariance, influence</h3>
+					<ul>
+						<li>
+							How does usage differ for mobile users?
+						</li>
+						<li>
+							How about for users with 3rd party desktop clients?
+						</li>
+						<li>
+							Cohort analyses
+						</li>
+						<li>
+							Site problems: what goes wrong at the same time?
+						</li>
+						<li>
+							Which features get users hooked?
+						</li>
+						<li>
+							Which features do successful users use often?
+						</li>
+						<li>
+							Search corrections, search suggestions
+						</li>
+						<li>
+							A/B testing
+						</li>
+					</ul>
+				</blockquote>
+				<p class="quote-by">
+					-- <a rel="nofollow" href="http://twitter.com/kevinweil">Kevin Weil</a>
+				</p>
+				<p class="quote-from">
+					from "<a rel="nofollow" href="http://www.slideshare.net/kevinweil/nosql-at-twitter-nosql-eu-2010">NoSQL at Twitter (NoSQL EU 2010)</a>"
+				</p>
+			</div> <!-- class="quote" -->
+		</div>
+	</content>
+</entry>

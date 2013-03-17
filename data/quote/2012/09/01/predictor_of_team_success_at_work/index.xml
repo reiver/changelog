@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2012-09-01T16:47:30-07:00</published>
+
+	<id>ee137b64-ab64-4698-8680-ff03298f43b5</id>
+
+	<title>Predictor of Team Success at Work</title>
+
+	<category term="Psychology" />
+
+	<content type="xhtml">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<div class="quote">
+				<blockquote>
+					<p>
+						The better we feel about these workplace relationships, the more effective we will be.
+						For example, a study of over 350 employees in 60 business units at a financial services company found that the greatest predictor of a team’s achievement was how the members felt about one another.
+						This is especially important for managers because, while they often have little control over the backgrounds or skill sets of employees placed on their teams, they do have control over the level of interaction and rapport.
+						Studies show that the more team members are encouraged to socialize and interact face-to-face, the more engaged they feel, the more energy they have, and the longer they can stay focused on a task.
+						In short, the more the team members invest in their social cohesion, the better the results of their work.
+					</p>
+				</blockquote>
+				<p class="quote-by">
+					-- <a rel="nofollow" href="http://twitter.com/shawnachor">Shawn Achor</a>
+				</p>
+				<p class="quote-from">
+					from "The Happiness Advantage: The Seven Principles of Positive Psychology That Fuel Success and Performance at Work"
+				</p>
+			</div> <!-- class="quote" -->
+		</div>
+	</content>
+</entry>

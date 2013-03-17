@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2011-09-19T23:49:54-07:00</published>
+
+	<id>c4a2cc82-8e83-4645-977a-1d56393d651b</id>
+
+	<title>Artificial Neural Networks: Seeing The Forest For The Trees</title>
+
+	<category term="Artificial Intelligence" />
+	<category term="Artificial Neural Network" />
+
+	<content type="xhtml">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<div class="quote">
+				<blockquote cite="http://fann.sourceforge.net/fann_en.pdf">
+					<p>
+						The number of layers and number of neurons in the hidden layer
+						[of a feedforward neural network]
+						has been selected experimentally, as there is really no easy way
+						of determining these values. It helps, however, to remember
+						that the ANN [Artificial Neural Network] learns by adjusting the weights, so if an ANN 
+						contains more neurons and thereby also more weights it can learn
+						more complicated problems. Having too many weights can also
+						be a problem, since learning can be more difficult and there is
+						also a chance that the ANN will learn specific features of the
+						input variables instead of general patterns which can be extrapolated 
+						to other data sets. In order for an ANN to accurately
+						classify data not in the training set, this ability to generalise is
+						crucial – without it, the ANN will be unable to distinguish
+						frequencies that it has not been trained with.
+
+					</p>
+				</blockquote>
+				<p class="quote-by">
+					-- <a rel="nofollow" href="http://leenissen.dk/">Steffen Nissen</a>
+				</p>
+				<p class="quote-from">
+					from "<a rel="nofollow" href="http://fann.sourceforge.net/fann_en.pdf">Neural Networks Made Simple</a>"
+				</p>
+			</div> <!-- class="quote" -->
+		</div>
+	</content>
+</entry>

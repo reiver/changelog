@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2012-04-02T23:16:49-07:00</published>
+
+	<id>b466b8bb-7c68-4023-a803-15c047825fb9</id>
+
+	<title>Dopamine, Creativity And Schizophrenia</title>
+
+	<category term="Creativity" />
+	<category term="Dopamine" />
+	<category term="Neuroscience" />
+	<category term="Psychology" />
+	<category term="Psychometrics" />
+	<category term="Schizophrenia" />
+
+	<content type="xhtml">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<div class="quote">
+				<blockquote cite="http://www.sciencedaily.com/releases/2010/05/100518064610.htm">
+					<p>
+						[R]esearch shows a possible explanation for the link between [...] [schizophrenia] and creativity.
+						By studying receptors in the brain, researchers at Karolinska Institutet have managed to show that the dopamine system in healthy, highly creative people is similar in some respects to that seen in people with schizophrenia.
+					</p>
+					<p>
+						[...]
+					</p>
+					<p>
+						"We have studied the brain and the dopamine D2 receptors, and have shown that the dopamine system of healthy, highly creative people is similar to that found in people with schizophrenia," says associate professor Fredrik Ullén from Karolinska Institutet's Department of Women's and Children's Health, co-author of the study that <a rel="nofollow" href="http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0010670">appears in the journal PLoS ONE</a>.
+					</p>
+					<p>
+						Just which brain mechanisms are responsible for this correlation is still something of a mystery, but Dr Ullén conjectures that the function of systems in the brain that use dopamine is significant; for example, studies have shown that dopamine receptor genes are linked to ability for divergent thought.
+						Dr Ullén's study measured the creativity of healthy individuals using divergent psychological tests, in which the task was to find many different solutions to a problem.
+					</p>
+					<p>
+						"The study shows that highly creative people who did well on the divergent tests had a lower density of D2 receptors in the thalamus than less creative people," says Dr Ullén.
+						"Schizophrenics are also known to have low D2 density in this part of the brain, suggesting a cause of the link between mental illness and creativity."
+					</p>
+				</blockquote>
+				<p class="quote-from">
+					from "<a rel="nofollow" href="http://www.sciencedaily.com/releases/2010/05/100518064610.htm">Dopamine System in Highly Creative People Similar to That Seen in Schizophrenics, Study Finds</a>"
+				</p>
+			</div> <!-- class="quote" -->
+		</div>
+	</content>
+</entry>

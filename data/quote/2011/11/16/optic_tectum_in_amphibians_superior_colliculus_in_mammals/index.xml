@@ -1,0 +1,77 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2011-11-16T10:06:58-08:00</published>
+
+	<id>be0df97f-dbc9-4173-a558-239d1bacc4d3</id>
+
+	<title>Optic Tectum In Amphibians, Superior Colliculus In Mammals</title>
+
+	<category term="Amphibian" />
+	<category term="Mammal" />
+	<category term="Neuroscience" />
+
+	<content type="xhtml">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<div class="quote">
+				<blockquote>
+					<p>
+						Frogs are very stupid animals.
+						This almost goes without saying.
+						Anyone who has spent half an hour trying to persuade a bunch of frogs that the garden pond which was there last year is no longer exists and they'd do well not to try swimming in the new flower beds, will know what I mean.
+						But our own ancestors were amphibians once and at the core of our brains we still carry around, and make use of, neural structures that originally evolved for managing our swampy existence, which have now been sidelined and specialised into something rather less central to our being.
+					</p>
+					<p>
+						One such structure is called the optic tectum in frogs and the superior colliculus in mammals.
+						[...] [T]he superior colliculus handles what is known as orienting behaviour
+						-- moving eyes, head and body to align our senses with a stimulus.
+						If we see a movement out of the corner of our eye, we can barely stop ourselves from glancing at it with our eyes and twisting our neck and body as necessary to bring it into view.
+						Much the same happens if we hear a sudden noise [...].
+					</p>
+					<p>
+						This sort of orienting response is a large part of what it means to be a frog.
+						Frogs aren't visually aware of anything that isn't moving
+						-- if it stays still, they simply don't see it.
+						But when something does move, the size, speed, direction and shape of the moving stimulus are all the information a frog needs in order to act.
+						If the moving object is small, it flicks out its tongue towards it and tries to eat it.
+						If it is large, it is assumed to be a predator (or a looming gardener) and the frog leaps away from it and flees towards the nearest shelter.
+						Such feeding and fleeing behaviours are triggered by the optic tectum, which constitutes the very highest part of the frog's visual system.
+						For all I know, if the stimulus is green and moves in a sexily frog-like way, the optic tectum might even be the part of the brain responsible for triggering a third behaviour beginning with 'f' [and means is a method of procreation], thus completing the frog's rather limited repertoire of choices.
+					</p>
+					<p>
+						The optic tectum provides the highest level of visual processing in amphibians but the colliculus is a long way from the top of the mammalian visual hierarchy.
+						It still controls reflex orienting responses to visual movement and (via the inferior colliculus) to sudden sounds and thus it retains some functional connection with the visually guided reflexes of frogs.
+						I guess there may even be vestiges of other behavioural reflexes that remain within its remit too, but when higher-level behaviours involving eye movements are called for, these are initiated by more recently evolved brain centres, especially the cerebral cortex.
+						Yet these higher levels of control are not completely separate and parallel systems
+						-- they send commands directly to the superior colliculus, suppressing its own reflex movements and replacing them with similar movements driven by more sophisticated sensory cues.
+					</p>
+					<p>
+						What does the superior colliculus do that makes it the logical stopping-off point for all kinds of visual saccades and other visual or auditory orienting behaviours?
+						It seems that the answer lies in its ability to perform a particular kind of coordinate transform.
+						Every visual stimulus occurs at a particular location on the retina, and therefore is mapped out in retinal coordinates.
+						But to look towards it, we need to know what angle to point our eyes, measured relative to our head.
+					</p>
+					<p>
+						If the stimulus appears just to the right of centre in our visual field, and our eyes are currently pointing slightly to the left of centre in our heads, we may actually need to look directly ahead in order for the stimulus to fall exactly on our eye-line.
+						Alternatively, if the stimulus is to the right of our visual field and our eyes are already pointing as far right as they will go, we won't be able to focus on the stimulus simply by moving our eyes, so we also need to work out where to point our head, as an angle measure relative to the body.
+					</p>
+					<p>
+						So, part of the superior colliculus's job is to convert information mapped out in retinal coordinates into different coordinate frames: head-relative and body-relative.
+						It doesn't matter whether the stimulus was a sudden movement (in which case the superior colliculus can perform the task entirely by itself) or something more sophisticated (which requires the involvement of cortical processing).
+						Either way, these coordinate transforms need to be carried out, which must be why various cortical maps such as V1 and the Frontal Eye Fields make use of the superior colliculus for arbitrating and computing eye and head movements.
+					</p>
+					<p>
+						[...] [I]t turns out that conditional coordinate transforms are far more universal and important than this alone.
+						Even servo action [in robotics] is a closely related concept.
+					</p>
+				</blockquote>
+				<p class="quote-by">
+					-- <a rel="nofollow" href="http://stevegrand.wordpress.com/">Steve Grand</a>
+				</p>
+				<p class="quote-from">
+					from "Growing up with Lucy: How to Build an Android in Twenty Easy Steps"
+				</p>
+			</div> <!-- class="quote" -->
+		</div>
+	</content>
+</entry>

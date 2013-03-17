@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2011-10-29T13:11:39-07:00</published>
+
+	<id>e0365e15-97c9-48c4-86e2-420144d1acbe</id>
+
+	<title>Uniform Non-Random Random Numbers</title>
+
+	<category term="Computer Science" />
+	<category term="Mathematics" />
+
+	<content type="xhtml">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<div class="quote">
+				<blockquote>
+					<p>
+						Nearly all random number generators, scalar or multivariate, simple or complex, rely on a source of uniform random numbers as their foundation.
+						They use one or more uniform random numbers to construct another specialized random number or vector.
+						What is a <i>uniform random number</i>?
+						It is a random number each of whose possible values is equally likely.
+						(Purists who take exception to the term <i>possible values</i> must remember that we are dealing with computers that have a finite resolution.)
+						Virtually all practical random number algorithms generate an integer whose range is from zero to some fixed maximum value.
+						If the algorithm is good, each of the integers in that range will be equally likely, and the value generated at any given time will have no statistical relationship to those numbers that were generated previously.
+						Naturally, there will be a relationship of some sort.
+						We are, after all, dealing with a deterministic algorithm here.
+						The next random number in a series is computed by means of an explicit formula, so in a sense, strict randomness is out of the question.
+						But that is not the point.
+						In fact, for many applications, repeatability is an asset that allows us to carefully study events.
+						All that we really care about is <i>statistical</i> randomness.
+						We want our definitely non-random random numbers to behave as if they were really random.
+						[...]
+						Knuth (1981) is an excellent reference for those who want more information.
+						<abbr title="Portable Random Number Generators (1992), by W. H. Press, S. A. Teukolsky">Press <i>et al.</i> (1992)</abbr> is also a great source for practical advice and algorithms.
+					</p>
+				</blockquote>
+				<p class="quote-by">
+					-- <a rel="nofollow" href="http://timothymasters.info/">Timothy Masters</a>
+				</p>
+				<p class="quote-from">
+					from "Advanced Algorithms for Neural Networks: A C++ Sourcebook"
+				</p>
+			</div> <!-- class="quote" -->
+		</div>
+	</content>
+</entry>

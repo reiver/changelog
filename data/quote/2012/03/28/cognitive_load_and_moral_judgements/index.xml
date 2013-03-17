@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2012-03-28T19:38:27-07:00</published>
+
+	<id>0a4ab1d8-ff08-470b-8da0-a34feb6f4eeb</id>
+
+	<title>Cognitive Load And Moral Judgements</title>
+
+	<category term="Psychology" />
+	<category term="Morality" />
+
+	<content type="xhtml">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<div class="quote">
+				<blockquote>
+					<p>
+						My question was simple: Can people make moral judgments just as well when carrying a heavy cognitive load as when carrying a light one?
+						The answer turned out to be yes.
+						I found no difference between conditions, no effect of cognitive load.
+						I tried it again with different stories and got the same outcome.
+						I tried another manipulation: I used a computer program to force some people to answer quickly, before they had time to think, and I forced other people to wait ten seconds before offering their judgment.
+						Surely that manipulation would weaken or strengthen moral reasoning and shift the balance of power, I though.
+						But it didn't.<sup>26</sup>
+					</p>
+					<p>
+						[...]
+					</p>
+					<p>
+						26.
+						I conducted these studies with Stephen Stose and Fredrik Bjorklund.
+						I never turned these data into a manuscript because at the time I thought these null findings would be unpublishable.
+					</p>
+				</blockquote>
+				<p class="quote-by">
+					-- <a rel="nofollow" href="http://jonathanhaidt.com/">Jonathan Haidt</a>
+				</p>
+				<p class="quote-from">
+					from "The Righteous Mind: Why Good People Are Divided by Politics and Religion"
+				</p>
+			</div> <!-- class="quote" -->
+		</div>
+	</content>
+</entry>

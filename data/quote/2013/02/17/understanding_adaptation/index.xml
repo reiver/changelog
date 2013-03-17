@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2013-02-17T19:48:01-08:00</published>
+
+	<id>2f616cbc-8b8e-4fe5-85d2-6dad395f626d</id>
+
+	<title>Evolutionary Biology and Understanding Adaptation</title>
+
+	<category term="Evolution" />
+	<category term="Genetics" />
+
+	<content type="xhtml">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<div class="quote">
+				<blockquote>
+					<p>
+						Evolutionary biology works by one cardinal rule: to understand an adaptation, one has to 
+understand its evolved function.
+						The analysis of adaptations is more than just-so stories, because according to evolutionary 
+theory there are only two fundamental kinds of functions that explain adaptations.
+						Adaptations can arise through natural selection for survival advantages, or sexual selection 
+for reproductive advantage.
+						Basically, that's it.
+					</p>
+				</blockquote>
+				<p class="quote-by">
+					-- <a rel="nofollow" href="http://www.unm.edu/~psych/faculty/lg_gmiller.html">Geoffrey F. Miller</a>
+				</p>
+				<p class="quote-from">
+					from "The Mating Mind: How Sexual Choice Shaped the Evolution of Human Nature"
+				</p>
+			</div> <!-- class="quote" -->
+		</div>
+	</content>
+</entry>

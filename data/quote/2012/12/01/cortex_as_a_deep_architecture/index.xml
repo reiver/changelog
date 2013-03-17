@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2012-12-01T09:18:53-08:00</published>
+
+	<id>601bab6a-2a1f-44af-a23b-a09315ded5a7</id>
+
+	<title>Cortex As A Deep Architecture</title>
+
+	<category term="Artificial Intelligence" />
+	<category term="AI" />
+	<category term="Machine Learning" />
+	<category term="Neuroscience" />
+
+	<content type="xhtml">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<div class="quote">
+				<blockquote cite="http://www.iro.umontreal.ca/~bengioy/papers/ftml_book.pdf">
+					<p>
+						<i>Depth of architecture</i> refers to the number of levels of composition of non-linear operations in the function learned.
+						Whereas most current learning algorithms correspond to <i>shallow architectures</i> (1, 2 or 3 levels), the mammal brain is organized in a <i>deep architecture</i> (173) with a given input percept represented at multiple levels of abstraction, each level corresponding to a different area of cortex.
+						Humans often describe such concepts in hierarchical ways, with multiple levels of abstraction.
+						The brain also appears to process information through multiple stages of transformation and representation.
+						This is particularly clear in the primate visual system (173), with its sequence of processing stages: detection of edges, primitive shapes, and moving up to gradually more complex visual shapes.
+					</p>
+					<p>
+						[...]
+					</p>
+					<p>
+						Based on current knowledge of brain anatomy (173), it appears that the cortex can be seen as a deep architecture, with 5–10 levels just for the visual system.
+					</p>
+					<p>
+						[...]
+					</p>
+					<p>
+						(173)
+						T. Serre,
+						G. Kreiman,
+						M. Kouh,
+						C. Cadieu,
+						U. Knoblich,
+						and
+						T. Poggio,
+						“<a rel="nofollow" href="http://klab.tch.harvard.edu/publications/pdfs/gk2329.pdf">A quantitative theory of immediate visual recognition</a>,”
+						<i>Progress in Brain Research, Computational Neuroscience: Theoretical Insights into Brain Function</i>,
+						vol. 165, pp. 33–56, 2007.
+					</p>
+				</blockquote>
+				<p class="quote-by">
+					-- <a rel="nofollow" href="http://www.iro.umontreal.ca/~bengioy/">Yoshua Bengio</a>
+				</p>
+				<p class="quote-from">
+					from "<a rel="nofollow" href="http://www.iro.umontreal.ca/~bengioy/papers/ftml_book.pdf">Learning Deep Architectures for AI</a>"
+				</p>
+			</div> <!-- class="quote" -->
+		</div>
+	</content>
+</entry>

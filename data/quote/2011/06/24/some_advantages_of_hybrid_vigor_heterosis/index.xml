@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2011-06-24T22:24:00-07:00</published>
+
+	<id>512a6a47-891a-413c-8c49-07d59b3117be</id>
+
+	<title>Some Advantages Of Hybrid Vigor (Heterosis)</title>
+
+	<category term="Genetics" />
+
+	<content type="xhtml">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<div class="quote">
+				<blockquote cite="http://rspb.royalsocietypublishing.org/content/early/2010/07/29/rspb.2010.1272.full">
+					<p>
+						When previously isolated populations meet and mix, the resulting admixed population can benefit from several genetic advantages, including increased genetic variation, the creation of novel genotypes and the masking of deleterious mutations.
+					</p>
+				</blockquote>
+				<p class="quote-by">
+					--	<a rel="nofollow" href="http://www.nioo.knaw.nl/users/kverhoeven">Koen J. F. Verhoeven</a>,
+						<a rel="nofollow" href="http://www.nioo.knaw.nl/users/mmacel">Mirka Macel</a>,
+						<a rel="nofollow" href="http://www.bio.georgiasouthern.edu/Bio-home/wolfe/Wolfe.html">Lorne M. Wolfe</a> 
+						and <a rel="nofollow" href="http://www.nioo.knaw.nl/users/abiere">Arjen Biere</a>
+				</p>
+				<p class="quote-from">
+					from "<a rel="nofollow" href="http://rspb.royalsocietypublishing.org/content/early/2010/07/29/rspb.2010.1272.full">Population admixture, biological invasions and the balance between local adaptation and inbreeding depression</a>"
+				</p>
+			</div> <!-- class="quote" -->
+		</div>
+	</content>
+</entry>

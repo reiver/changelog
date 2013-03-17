@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2012-12-14T22:44:17-08:00</published>
+
+	<id>ed9adc11-1e34-44fc-b322-1352168064f1</id>
+
+	<title>Neuron Variety</title>
+
+	<category term="Neuron" />
+	<category term="Neuroscience" />
+
+	<content type="xhtml">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<div class="quote">
+				<blockquote>
+					<p>
+						Neurons are fascinating, widely diverse devices.
+						Some like the giraffe primary afferent, have axons that are at least 15 feet long.
+						Others, like the typical granule cell, have axons that are only about 100 microns long.
+						Some, like the common pyramidal cells, produce and transmit stereotypical action potentials (neural spikes) down their axon.
+						Others, like the retinal horizontal cells, communicate without such spikes.
+						Some send action potentials at speeds over 400 km/h.
+						Others transmit spikes at a mere 2 km/h.
+						Some, like the purkinje cells, have about 200,000 input connections.
+						There are literally hundreds and hundreds -- by some estimates thousands -- of different <i>kinds</i> of neurons in the brain.<sup>1</sup>
+						And, taken together their numbers are staggering: <span class="math">10<sup>10</sup></span> neurons in the brain;
+						at least <span class="math">10<sup>13</sup></span> synapses;
+						45 miles of fiber;
+						100 different kinds of neurotransmitters.
+					</p>
+				</blockquote>
+				<p class="quote-by">
+					-- <a rel="nofollow" href="http://arts.uwaterloo.ca/~celiasmi/">Chris Eliasmith</a>
+					 , Charles H. Anderson
+				</p>
+				<p class="quote-from">
+					from "Neural Engineering: Computation, Representation, and Dynamics in Neurobiological Systems"
+				</p>
+			</div> <!-- class="quote" -->
+		</div>
+	</content>
+</entry>

@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2011-06-22T17:29:00-07:00</published>
+
+	<id>c4046d20-7b92-47f5-a6cd-04ad803d2c11</id>
+
+	<title>The Cause Of The Cambrian Explosion?</title>
+
+	<category term="Biology" />
+
+	<content type="xhtml">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<div class="quote">
+				<blockquote cite="http://scienceblogs.com/neurophilosophy/2011/04/box_jellyfish_stable_eyes_vision_to_hunt_prey.php">
+					<p>
+						I've hypothesized that the ability to lock cells into somatic roles, through epigenetic changes activated during embryogenesis, was the trigger of the Cambrian Explosion. When highly branched network structures (e.g. vascular) can be reliable, and highly ramified cellular structures can be maintained without constant signaling, then body types can get a lot more complex.
+					</p>
+				</blockquote>
+				<p class="quote-by">
+					-- <a rel="nofollow" href="http://scienceblogs.com/neurophilosophy/">Mo Costandi</a>
+				</p>
+				<p class="quote-from">
+					from "<a rel="nofollow" href="http://scienceblogs.com/neurophilosophy/2011/04/box_jellyfish_stable_eyes_vision_to_hunt_prey.php">Box jellyfish stable-eyes vision to hunt prey</a>"
+				</p>
+			</div> <!-- class="quote" -->
+		</div>
+	</content>
+</entry>

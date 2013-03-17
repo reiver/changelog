@@ -1,0 +1,117 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2012-09-22T21:46:18-07:00</published>
+
+	<id>b6836a6d-6493-4ad6-971b-4bd3addc248c</id>
+
+	<title>Asperger As Predictor Of Programming Aptitude?</title>
+
+	<category term="Asperger" />
+	<category term="Autism" />
+	<category term="Computer Science" />
+	<category term="Psychology" />
+	<category term="Psychometrics" />
+
+	<content type="xhtml">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<div class="quote">
+				<blockquote cite="http://www.ppig.org/papers/19th-Wray.pdf">
+					<p>
+						[M]ight it be possible that measurements of mild autistic-spectrum tendencies would show a useful correlation with programming ability? The popular image of an expert programmer is a man (seldom a woman) careless of physical appearance, socially inept, with narrow and intense interests and a peculiarly literal way of interpreting spoken or written statements.
+						While this is a stereotype, there is some truth in it, and all of these characteristics are commonly shared by people with a mild autistic-spectrum condition or Asperger syndrome.
+						This is not fanciful association, since it has been observed that scientists and engineers are more likely to have autistic-spectrum conditions than the general population and that fathers and grandfathers of autistic-spectrum children are more likely to work as scientists and engineers (6).
+					</p>
+					<p>
+						Only a self-administered test would be practical.
+						However, rather than use a direct measure of autistic tendencies such as AQ (7), it was decided to use a pair of instruments, “Systemizing Quotient” (SQ) and “Empathy Quotient” (EQ).
+						These are designed to be used together and the quantity SQ – EQ has been shown to have a strong correlation with independent diagnoses of Asperger syndrome and other autistic-spectrum tendencies (8).
+					</p>
+					<p>
+						[...]
+					</p>
+					<p>
+						An experiment was therefore designed to test the hypothesis that SQ and EQ scores, either together or individually, would be strongly correlated with a measure of programming ability. 
+					</p>
+					<p>
+						[...]
+					</p>
+					<p>
+						The SQ and EQ tests both have values in the range 0 to 80, with fairly similar distributions.
+						They were designed to be used in conjunction and the value SQ – EQ has been shown to be significantly different for males, females and Asperger syndrome individuals (8).
+						Plotting SQ – EQ against programming test score, in figure 8, we see a high correlation (r = 0.67, p = 0.002).
+					</p>
+
+					<br />
+					<figure style="text-align:center;">
+						<a href="http://changelog.ca/quote/2012/09/22/aspie_programmer/sq-eq_versus_programming_test_score.png"><img
+							src="http://changelog.ca/quote/2012/09/22/aspie_programmer/sq-eq_versus_programming_test_score.png"
+							style="width:80%;"
+						/></a>
+						<figcaption>
+							<b>Fig. 8.</b> SQ – EQ plotted against programming test score.
+						</figcaption>
+					</figure>
+
+					<p>
+						For this class, mean programming test score was 6.8 (SD = 2.4), median 8; the mean SQ was 34.3 (SD = 12.0), median 33; the mean EQ was 34.5 (SD = 11.7), median 33; the mean SQ – EQ was -0.2 (SD = 15.9), median -1.
+						In contrast, for the general population of males the mean SQ is 30.3 (SD = 11.5) and the mean EQ is 41.8 (SD = 11.2) (10, 11)
+					</p>
+					<p>
+						[...]
+					</p>
+					<p>
+						6.
+						BBC:
+						<i>Scientific brain linked to autism.</i>
+						BBC, London.
+						Available from: <a rel="nofollow" href="http://news.bbc.co.uk/1/hi/health/4661402.stm">http://news.bbc.co.uk/1/hi/health/4661402.stm</a>
+						(2006)
+					</p>
+					<p>
+						7.
+						S. Baron-Cohen, et al.:
+						<i>The Autism Spectrum Quotient (AQ): Evidence from Asperger Syndrome/High Functioning Autism, Males and Females, Scientists and Mathematicians.</i>
+						Journal of Autism and Developmental Disorders 31:5-17
+						(2001)
+					</p>
+					<p>
+						8.
+						Goldenfeld, N. et al.:
+						<i>Empathizing and Systemizing in Males, Females and Autism.</i>
+						International Journal of Clinical Neuropsychiatry 2, 338-345
+						(2005).
+					</p>
+					<p>
+						[...]
+					</p>
+					<p>
+						10.
+						Baron-Cohen, S., et al:
+						<i>The Systemising Quotient (SQ) : An investigation of adults with Asperger Syndrome or High Functioning Autism and normal sex differences.</i>
+						Philosophical Transactions of the Royal Society, Series B, Special issue on "Autism : Mind and Brain" 358:361-374
+						(2003)
+					</p>
+					<p>
+						11.
+						Baron-Cohen, S.
+						and
+						S. Wheelwright:
+						<i>The Empathy Quotient (EQ). An investigation of adults with Asperger Syndrome or High Functioning Autism, and normal sex differences.</i>
+						Journal of Autism and Developmental Disorders 34:163-175
+						(2004)
+					</p>
+					<p>
+						
+					</p>
+				</blockquote>
+				<p class="quote-by">
+					-- <a rel="nofollow" href="http://www.stuartwray.net/">Stuart Wray</a>
+				</p>
+				<p class="quote-from">
+					from "<a rel="nofollow" href="http://www.ppig.org/papers/19th-Wray.pdf">SQ Minus EQ can Predict Programming Aptitude</a>"
+				</p>
+			</div> <!-- class="quote" -->
+		</div>
+	</content>
+</entry>

@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2012-10-28T10:12:35-07:00</published>
+
+	<id>7abde520-70b7-4036-bc4c-f202b6cf2990</id>
+
+	<title>Greatness is Subjective</title>
+
+	<content type="xhtml">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<div class="quote">
+				<blockquote>
+					<p>
+						Nothing great will ever be achieved without great men, and men are great only if they are determined to be so.
+					</p>
+				</blockquote>
+				<p class="quote-by">
+					-- Charles André Joseph Marie de Gaulle
+				</p>
+			</div> <!-- class="quote" -->
+		</div>
+	</content>
+</entry>

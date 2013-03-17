@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2011-06-24T08:20:00-07:00</published>
+
+	<id>ded44240-ba56-4197-9e52-9d4a25f5d018</id>
+
+	<title>Infant Mortality Not Measured The Same All Over The World</title>
+
+	<category term="Economics" />
+	<category term="Politics" />
+
+	<content type="xhtml">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<div class="quote">
+				<blockquote cite="http://mises.org/story/3650">
+					<p>
+						[T]he United States has one of the highest rates of [infant-mortality of] the industrialized world only because it counts all dead infants, including premature babies, which is where most of the fatalities occur.  Most countries do not count premature-infant deaths. Some don't count any deaths that occur in the first 72 hours. Some countries don't even count any deaths from the first two weeks of life. In Cuba, which boasts a very low infant-mortality rate, infants are only registered when they are several months old, thereby leaving out of the official statistics all infant deaths that take place within the first several months of life.
+					</p>
+				</blockquote>
+				<p class="quote-by">
+					-- Yuri Nicholas Maltsev
+				</p>
+				<p class="quote-from">
+					from "<a rel="nofollow" href="http://mises.org/story/3650">What Soviet Medicine Teaches Us</a>"
+				</p>
+			</div> <!-- class="quote" -->
+		</div>
+	</content>
+</entry>

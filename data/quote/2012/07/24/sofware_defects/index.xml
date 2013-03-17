@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2012-07-24T22:12:46-07:00</published>
+
+	<id>c83771df-c439-48fb-a96e-3dc114c564e6</id>
+
+	<title>Software Defects &amp; Why Encouraging High Quality In Software Matters</title>
+
+	<category term="Software Engineering" />
+	<category term="Software Management" />
+
+	<content type="xhtml">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<div class="quote">
+				<blockquote>
+					<p>
+						[E]xcessive defects [in software] are the biggest waste in software development.
+						The numbers on this are staggering and show several orders of magnitude variation.
+						Capers Jones<sup>2</sup> reports that in 2000, during the dot-com bubble, he measured software quality for North American teams that ranged from 6 defects per function point down to less than 3 per 100 function points, a range of 200 to 1.
+						The midpoint is approximately 1 defect per 0.6 to 1.0 function points.
+						This implies that it is common for teams to spend more than 90 percent of their effort fixing defects.
+						As direct evidence, late in 2007, Aaron Sanders, an early proponent of Kanban, reported, in the Kanbandev Yahoo! group, that a team he was working with was spending 90 percent of available capacity on defect fixes.
+					</p>
+					<p>
+						[...]
+					</p>
+					<p>
+						2.
+						Jones, Capers.
+						<i>Software Assessment Benchmarks and Best Practices</i>.
+						Boston: Addison Wesly, 2000.
+					</p>
+				</blockquote>
+				<p class="quote-by">
+					-- David J. Anderson
+				</p>
+				<p class="quote-from">
+					from "Kanban"
+				</p>
+			</div> <!-- class="quote" -->
+		</div>
+	</content>
+</entry>

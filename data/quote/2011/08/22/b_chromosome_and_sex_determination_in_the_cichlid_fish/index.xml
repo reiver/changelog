@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2011-08-22T10:35:21-07:00</published>
+
+	<id>73284a77-9916-40e1-b128-d52ad411979a</id>
+
+	<title>B Chromosome and Sex Determination in the Cichlid Fish</title>
+
+	<category term="B Chromosome" />
+	<category term="Chromosomes" />
+	<category term="Gender" />
+	<category term="Genetics" />
+
+	<content type="xhtml">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<div class="quote">
+				<blockquote cite="http://www.sciencedaily.com/releases/2011/08/110818190546.htm">
+					<p>
+						B chromosomes have a functional effect on sex determination in a species of cichlid fishes from Lake Victoria [...] The researchers found sex-ratio distortions caused by B chromosomes in the breeding line of the cichlids, as well as several protein-coding genes in the B chromosomes. The resultant ratio was female biased, suggesting a role for B chromosomes in female sex determination.
+					</p>
+					<p>
+						[...]
+					</p>
+					<p>
+						In the present study, the researchers performed an extensive analysis of B chromosomes in cichlid fishes from Lake Victoria to investigate their effect on cichlid evolution. Karyotype analysis of Lake Victoria cichlids suggested that, in one species, Lithochromis rubripinnis, there are female-specific B chromosomes. Crossbreeding experiments suggested that an effector of female sex determination in this species was the B chromosome. Furthermore, analyses of large-scale sequences of B chromosomes in Lake Victoria cichlids revealed multiple protein-coding genes in B chromosomes.
+					</p>
+					<p>
+						The sex determination gene was not found in this research. However, the researchers provide evidence that B chromosomes have a functional effect on sex determination and that they demonstrate a capacity to evolve into sex chromosomes.
+					</p>
+				</blockquote>
+				<p class="quote-from">
+					from "<a rel="nofollow" href="http://www.sciencedaily.com/releases/2011/08/110818190546.htm">B Chromosomes Affect Sex Determination in Cichlid Fishes</a>"
+				</p>
+			</div> <!-- class="quote" -->
+		</div>
+	</content>
+</entry>

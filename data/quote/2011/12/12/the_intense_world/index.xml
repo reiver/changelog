@@ -1,0 +1,54 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2011-12-12T20:09:30-08:00</published>
+
+	<id>fa31e712-7320-4c01-9da4-5605722bf09b</id>
+
+	<title>The Intense World</title>
+
+	<category term="Asperger" />
+	<category term="Autism" />
+	<category term="Psychology" />
+
+	<content type="xhtml">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<div class="quote">
+				<blockquote cite="http://www.talkingbrains.org/2011/12/why-autism-has-nothing-to-do-with.html">
+					<p>
+						I'm going to argue [...] that ASD involves, in fact, hyper-sensitivity to emotional states, both their own and others.
+						This hypothesis is not new.
+						In fact, Henry Markram, Tania Rinaldi, and Kamila Markram proposed exactly this in their 2007 paper titled, The Intense World Syndrome -- <i>An Alternative Hypothesis for Autism</i>. I would just like to underline their perspective here.
+					</p>
+					<p>
+						An analogy is useful for seeing why hyper- rather than hypo-sensitivity makes more sense.
+						Imagine a person who is hypo-sensitive to sound.
+						Is such a person more or less likely to walk into very loud environments?
+						More likely!
+						If you are less sensitive to sound you might actually prefer loud environments because that's how you get your acoustic sensation to a normal level.
+						Conversely, a person who is hyper-sensitive to sound is going to avoid loud environments because it hurts. 
+					</p>
+					<p>
+						Now consider the same scenario translated to the social/emotional domain.
+						For starters let's agree that a large part of one's emotional stimulation comes from social situations.
+						Not all emotional stimulation comes from the social domain, to be sure:
+						I can get pretty emotional when I can't figure out how to fix my leaky faucet.
+						But we get a lot more emotional and more often when a family member is sick or injured, or when a colleague rolls his or her eyes when we try to make a point, and so on.
+						Now, imagine a person who is hyper-sensitive emotionally.
+						Is such a person more or less likely to engage in social situations?
+						Less!
+						For someone who is hyper-sensitive to emotion, engaging in a normal social situation would be like walking into an excessively loud environment:
+						it's uncomfortable and causes an avoidance response.
+						ASD individuals may avoid social interaction not because they lack empathy but rather because social interaction is simply too stressful.
+					</p>
+				</blockquote>
+				<p class="quote-by">
+					-- <a rel="nofollow" href="http://www.talkingbrains.org/">Greg Hickok</a>
+				</p>
+				<p class="quote-from">
+					from "<a rel="nofollow" href="http://www.talkingbrains.org/2011/12/why-autism-has-nothing-to-do-with.html">Why autism has nothing to do with 'broken mirrors'</a>"
+				</p>
+			</div> <!-- class="quote" -->
+		</div>
+	</content>
+</entry>

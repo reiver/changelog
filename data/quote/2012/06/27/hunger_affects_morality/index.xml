@@ -1,0 +1,65 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2012-06-27T21:15:30-07:00</published>
+
+	<id>fcda46ac-9802-4a20-9f64-1a2a4e01dc20</id>
+
+	<title>Hunger Affects Some People's Morality</title>
+
+	<category term="Morality" />
+	<category term="Politics" />
+	<category term="Psychology" />
+
+	<content type="xhtml">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<div class="quote">
+				<blockquote cite="http://www.epjournal.net/blog/2012/06/are-hungry-people-more-liberal/">
+					<p>
+						Generally, as organisms get hungrier and hungrier, we should expect their behavior to change, prioritizing acquiring food over other tasks, taking greater risks to obtain food, and, of course, when food is available, eating more of it.
+					</p>
+					<p>
+						[...]
+						[There is]
+						some <a rel="nofollow" href="http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2091536">research</a> that extended this idea in an intriguing new direction.
+						Michael Bang Petersen and colleagues reasoned as follows.
+						As people get hungrier, they ought to adopt strategies that will aid in either acquiring food from others coercively – showing more aggression, selfishness, etc. – or acquiring food from others voluntarily. 
+						In modern environments, one way that people can increase the chance of receiving aid from others is through the welfare machinery of the state.
+						(This might be a good time to mention that the lead author on the study, Petersen, is at Aarhus University, Denmark…)
+						So, the authors reasoned, maybe hungry people will be more favorably disposed towards policies that result in wealth transfers than people who have recently eaten.
+					</p>
+					<p>
+						[...]
+					</p>
+					<p>
+						To look at this issue, Petersen and colleagues report a series of studies
+						[...].
+						They looked at data collected as part of the Danish National Election online survey which, because it was administered online, contained a field that indicated when the survey was taken.
+						They looked at several hundred responses from people who took the survey between 11 and 12 – and so were between meals – compared to data from people who took it between 1 and 2 – right after, presumably, the respondent had eaten.
+						Specifically, they compared agree/disagree responses on items such as, “Too many get social welfare without needing it.”
+						After controlling for a set of variables – age, income, etc. – they find that, indeed, hungry people have more pro-welfare views.
+						The authors replicated this finding in an additional survey using a similar method, and then conducted a third study in which they directly asked people how hungry they were, to see if they would find the same effects, which they did.
+					</p>
+					<p>
+						[...]
+					</p>
+					<p>
+						Petersen, M. B.,
+						Aarøe, L.,
+						Jensen, N. H.,
+						and
+						Curry, O.
+						(2012).
+						Social Welfare and the Psychology of Food Sharing: Short-Term Hunger Increases Support for Social Welfare.
+					</p>
+				</blockquote>
+				<p class="quote-by">
+					-- <a rel="nofollow" href="http://www.psych.upenn.edu/~kurzban/">Robert Kurzban</a>
+				</p>
+				<p class="quote-from">
+					from "<a rel="nofollow" href="http://www.epjournal.net/blog/2012/06/are-hungry-people-more-liberal/">Are Hungry People More Liberal?</a>"
+				</p>
+			</div> <!-- class="quote" -->
+		</div>
+	</content>
+</entry>

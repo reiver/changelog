@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2011-09-08T01:39:33-07:00</published>
+
+	<id>0d7a0f6c-4ad2-410b-ac2a-ec90e86d2a2c</id>
+
+	<title>The Evolutionary Approach: Small Steps And Occasional Wild Gambles</title>
+
+	<category term="Economics" />
+	<category term="Evolution" />
+	<category term="Mathematics" />
+
+	<content type="xhtml">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<div class="quote">
+				<blockquote>
+					<p>
+						Stuart Kauffmann and John Holland, both complexity theorists affiliated with the multidisciplinary Santa Fe Institute, have shown that the evolutionary approach is not just another way of solving complex problems.
+						Given the likely shape of these ever-shifting [fitness] landscapes, the evolutionary mix of small steps and occasional wild gambles is the best possible way to search for solutions.
+					</p>
+					<p>
+						Evolution is effective because, rather than engaging in an exhaustive, time-consuming search for the highest peak -- a peak that may not even be there tomorrow -- it produces ongoing, 'works for now' solutions to a complex and ever-changing set of problems.
+					</p>
+				</blockquote>
+				<p class="quote-by">
+					-- <a rel="nofollow" href="http://www.timharford.com/">Tim Harford</a>
+				</p>
+				<p class="quote-from">
+					from "Adapt: Why Success Always Starts with Failure"
+				</p>
+			</div> <!-- class="quote" -->
+		</div>
+	</content>
+</entry>

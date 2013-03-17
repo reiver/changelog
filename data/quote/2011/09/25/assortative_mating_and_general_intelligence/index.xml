@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2011-09-25T22:55:03-07:00</published>
+
+	<id>9a6238ed-82b3-4d2a-aafc-cc35281922b8</id>
+
+	<title>Assortative Mating And General Intelligence</title>
+
+	<category term="Genetics" />
+	<category term="Intelligence" />
+	<category term="Psychology" />
+	<category term="Psychometrics" />
+
+	<content type="xhtml">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<div class="quote">
+				<blockquote cite="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1288305/">
+					<p>
+						An interesting finding from genetic research, which [Nicholas J.] Mackintosh mentions, only in passing [in his book "IQ and Human Intelligence"], as posing a problem in the estimation of the heritability of <i>g</i>, is that there is greater assortative mating for <i>g</i> than for any other behavioral trait; that is, spouse correlations are only ~.1 for personality and only ~.2 for height or weight, but the correlation for assortative mating for <i>g</i> is ~.4. In addition to indicating that people are able to make judgments about <i>g</i> in real life, this finding suggests that assortative mating may contribute to the substantial additive genetic variance for <i>g,</i> because positive assortative mating for a character can increase its additive genetic variance.
+					</p>
+				</blockquote>
+				<p class="quote-by">
+					-- <a rel="nofollow" href="http://www.iop.kcl.ac.uk/staff/profile/default.aspx?go=10628">Robert Plomin</a>
+				</p>
+				<p class="quote-from">
+					from "<a rel="nofollow" href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1288305/">IQ and Human Intelligence.</a>"
+				</p>
+			</div> <!-- class="quote" -->
+		</div>
+	</content>
+</entry>

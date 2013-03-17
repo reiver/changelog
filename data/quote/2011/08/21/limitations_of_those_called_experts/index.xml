@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2011-08-21T17:01:43-07:00</published>
+
+	<id>b43b3e1b-b24a-4a2e-9e7e-9a02ca4de6e7</id>
+
+	<title>Limitations Of Those Called "Experts"</title>
+
+	<category term="Economics" />
+	<category term="Politics" />
+
+	<content type="xhtml">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<div class="quote">
+				<blockquote>
+					<p>
+						[E]ven deep expertise is not enough to solve today's complex problems.
+					</p>
+					<p>
+						Perhaps the best illustration of this comes from an extraordinary two-decade investigation into the  limits of expertise, begun in 1984 by a young psychologist called Philip Tetlock.
+						He was the most junior member of a committee of the National Academy of Sciences changed with working out what the Soviet response might be to the Reagan administration’s hawkish stance in the Cold War.
+						Would Reagan call the bluff of a bully or was he about to provoke a deadly reaction?
+						Tetlock canvassed every expert he could find.
+						He struck by the fact that, again and again, the most influential thinkers of the Cold War flatly contradicted one another.
+						We are so used to talking heads disagreeing that perhaps this doesn't seem surprising.
+						But when we realise that the leading experts cannot agree on the most basic level about the key problem of the age, we begin to understand that this kind of expertise is far less useful than we might hope.
+					</p>
+					<p>
+						Tetlock didn't leave it at that.
+						He worried away at this question of expert judgement for twenty years.
+						He rounded up nearly three hundred experts -- by which he meant people whose job was to comment or advise on political and economic trends.
+						They were a formidable bunch: political scientists, economists, lawyers and diplomats.
+						There were spooks and think-tankers, journalists and academics.
+						Over half of them had PhDs; almost all had postgraduate degrees.
+						And Tetlock's method for evaluating the quality of their expert judgement was to pin the experts down: he asked them to make specific, quantifiable forecasts -- answering 27,450 of his questions between them -- and then waited to see their forecasts came true.
+						They rarely did.
+						The experts failed, and their failure to forecast the future is a symptom of their failure to understand fully the complexities of the present.
+					</p>
+					<p>
+						It wasn't that expertise was entirely useless.
+						Tetlock compared this expert's responses to those of a control group of undergraduates, and the experts did better.
+						But by any objective standard, they didn't do well.
+						And the return on expertise was distinctly limited.
+						Once experts have acquired a broad knowledge of the political world, deeper expertise in a specific field doesn't seem to help much.
+						Predictions about Russia from experts on Russia were no more accurate than predictions about Russia from experts on Canada.
+					</p>
+				</blockquote>
+				<p class="quote-by">
+					-- <a rel="nofollow" href="http://www.timharford.com/">Tim Harford</a>
+				</p>
+				<p class="quote-from">
+					from "Adapt: Why Success Always Starts with Failure"
+				</p>
+			</div> <!-- class="quote" -->
+		</div>
+	</content>
+</entry>

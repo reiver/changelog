@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2011-09-25T10:15:15-07:00</published>
+
+	<id>e58b7e86-2753-4773-8b03-637cd743dcfb</id>
+
+	<title>Some Uses Of Artificial Neural Networks</title>
+
+	<category term="Artificial Neural Network" />
+
+	<content type="xhtml">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<div class="quote">
+				<blockquote>
+					<p>
+						Artificial neural networks are viable computational models for a wide variety of problems. These include pattern classification, speech synthesis and recognition, adaptive interfaces between humans and complex physical systems, function approximation, image compression, associative memory, clustering, forecasting and prediction, combinatorial optimization, nonlinear system modeling, and control.
+					</p>
+				</blockquote>
+				<p class="quote-by">
+					-- <a rel="nofollow" href="http://neuron.eng.wayne.edu/hassoun.html">Mohamad H. Hassoun</a>
+				</p>
+				<p class="quote-from">
+					from "Fundamentals of Artificial Neural Networks"
+				</p>
+			</div> <!-- class="quote" -->
+		</div>
+	</content>
+</entry>

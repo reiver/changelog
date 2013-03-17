@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2012-12-15T10:17:23-08:00</published>
+
+	<id>a46ae993-829f-4db1-b84c-7ca5271a4bca</id>
+
+	<title>Neural Systems Do Not Evenly Sample Signals</title>
+
+	<category term="Neuron" />
+	<category term="Neuroscience" />
+
+	<content type="xhtml">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<div class="quote">
+				<blockquote>
+					<p>
+						[I]t is standard practise in communications theory to assume that incoming signals are evenly sampled over the range of the signal.
+						A number of optimal decoding strategies have been devised that take advantage of this particular kind of sampling.
+						However, this kind of sampling is clearly <i>not</i> present in neural systems.
+						Sampling densities often change over the range of the signal, and the particular sample points can be quite different even between two members of the same species.
+						This is because neurons are diverse, unlike the typical components of artificial communication systems.
+						
+					</p>
+				</blockquote>
+				<p class="quote-by">
+					-- <a rel="nofollow" href="http://arts.uwaterloo.ca/~celiasmi/">Chris Eliasmith</a>
+					 , Charles H. Anderson
+				</p>
+				<p class="quote-from">
+					from "Neural Engineering: Computation, Representation, and Dynamics in Neurobiological Systems"
+				</p>
+			</div> <!-- class="quote" -->
+		</div>
+	</content>
+</entry>

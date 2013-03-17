@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2012-03-19T22:37:06-07:00</published>
+
+	<id>dd31b976-73c4-4c14-8450-8f0d34056d24</id>
+
+	<title>Social Norms, The Brain And Morality</title>
+
+	<category term="Psychology" />
+	<category term="Morality" />
+
+	<content type="xhtml">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<div class="quote">
+				<blockquote>
+					<p>
+						S[tephen ]S[tich]:
+						[...]
+						[W]hat I've tried to do, in collaboration with Chandra Sripada, is assemble a body of data from the literature in anthropology, psychology, neuroscience, experimental economics, and several other domains, to support a theory which claims that a special-purpose part of the human mind is designed to detect and store socially salient norms.
+					</p>
+					<p>
+						[...]
+					</p>
+					<p>
+						S[tephen ]S[tich]:
+						[...]
+						Norms, as we conceive of them, are mentally represented rules specifying how people should or should not behave.
+						They serve to trigger emotions and moral judgments -- probably the emotions play a very important role in the production of the judgments.
+						So the crucial bit here is that there is a component of the mind which is in one respect like the language faculty.
+						(Only in one respect, let me stress.)
+						It's an innate part of the mind whose function is to acquire information from the environment and to store it and use it.
+						And we believe that, as in the case of language, once those rules are in place, it is very hard to dislodge them.
+						In particular, learning a bunch of facts is not going to do it.
+						So, to use a crude analogy, when you learned English as a child you internalized a set of rules in the part of the mind devoted to storing language competence.
+						You can learn facts until you're a very old man, but that won't stop you from being an English speaker.
+						Similarly, we claim once you take on board the norms of the surrounding culture, there are no facts you can learn that will get those norms out of the mind devoted to storing norms.
+					</p>
+					<p>
+						T[amler ]S[ommers]:
+						And these norms are different across cultures, developed as responses to different parts of the social and physical environment.
+					</p>
+					<p>
+						S[tephen ]S[tich]:
+						Absolutely.
+					</p>
+				</blockquote>
+				<p class="quote-by">
+					-- <a rel="nofollow" href="http://www.class.uh.edu/faculty/tsommers/">Tamler Sommers</a>
+					 , <a rel="nofollow" href="http://www.rci.rutgers.edu/~stich/">Stephen Stich</a>
+				</p>
+				<p class="quote-from">
+					from "A Very Bad Wizard: Morality Behind the Curtain"
+				</p>
+			</div> <!-- class="quote" -->
+		</div>
+	</content>
+</entry>

@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2013-01-28T20:11:29-08:00</published>
+
+	<id>08b7c90b-d8a4-4438-958a-96c1a4a125e2</id>
+
+	<title>Framing Efferct and Reactions to Crime</title>
+
+	<category term="Politics" />
+	<category term="Psychology" />
+
+	<content type="xhtml">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<div class="quote">
+				<blockquote cite="http://www.economist.com/blogs/johnson/2013/01/political-language">
+					<p>
+						"CRIME is a beast ravaging the city of Addison."
+						So began a fictional news report in an experiment at Stanford University.
+						The report goes on to describe crime statistics in the town.
+						Of those who read this passage, 71% recommended tougher law enforcement for controlling crime.
+						But when a second group read an identical report with just one word changed—"Crime is a virus ravaging the city of Addison"—the proportion of those recommending tougher enforcement fell to 54%.
+						One word, 17 percentage points of change, in the <a rel="nofollow" href="http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0016782">study</a> by Lera Boroditsky and Paul Thibodeau in 2011.
+					</p>
+				</blockquote>
+				<p class="quote-by">
+					-- R.L.G
+				</p>
+				<p class="quote-from">
+					from "<a rel="nofollow" href="http://www.economist.com/blogs/johnson/2013/01/political-language">'Gun safety' versus 'gun control'</a>"
+				</p>
+			</div> <!-- class="quote" -->
+		</div>
+	</content>
+</entry>

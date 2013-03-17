@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2012-07-01T22:20:24-07:00</published>
+
+	<id>7409aeee-64e3-4afe-a19e-022a9d4e47cf</id>
+
+	<title>Imprinted Genes</title>
+
+	<category term="Genetics" />
+
+	<content type="xhtml">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<div class="quote">
+				<blockquote cite="http://www.edge.org/3rd_culture/badcock08/badcock08_index.html">
+					<p>
+						Imprinted genes are those which are only expressed when they are inherited from one parent rather than the other.
+						The classic example is IGF2, a growth factor gene only normally expressed when inherited from the father, but silent when inherited from the mother.
+						According to the most widely-accepted theory, genes like IGF2 are silenced by mammalian mothers because only the mother has to pay the costs associated with gestating and giving birth to a large offspring.
+						The father, on the other hand, gets all the benefit of larger offspring, but pays none of the costs.
+						Therefore his copy is activated.
+						The symbolism of a tug-of-war represents the mother's genetic self-interest in countering the growth-enhancing demands of the father's genes expressed in the foetus—the mother, after all, has to gestate and give birth to the baby at enormous cost to herself.
+					</p>
+				</blockquote>
+				<p class="quote-by">
+					-- <a rel="nofollow" href="http://www.psychologytoday.com/experts/christopher-badcock-phd">Christopher Badcock</a>
+				</p>
+				<p class="quote-from">
+					from "<a rel="nofollow" href="http://www.edge.org/3rd_culture/badcock08/badcock08_index.html">The Imorunted Brain Theory</a>"
+				</p>
+			</div> <!-- class="quote" -->
+		</div>
+	</content>
+</entry>

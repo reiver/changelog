@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2011-06-27T22:26:00-07:00</published>
+
+	<id>8e167313-86f4-4587-a435-c36c23b19d43</id>
+
+	<title>An Emergent Approach To Artificial General Intelligence</title>
+
+	<category term="Artificial General Intelligence" />
+
+	<content type="xhtml">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<div class="quote">
+				<blockquote>
+					<p>
+						Instead of trying to emulate the mind directly with a computer program, perhaps we can emulate the structure of the brain instead, and let the mind emerge all by itself. Rather than use the digital computer as a logical processing device to run some hypothetical 'algorithm of thought', we can use it as a substitute <em>material</em>, from which we can construct virtual neurons and maybe even virtual chemicals and other biological building blocks inside cyberspace.
+					</p>
+				</blockquote>
+				<p class="quote-by">
+					-- <a rel="nofollow" href="http://stevegrand.wordpress.com">Steve Grand</a>
+				</p>
+				<p class="quote-from">
+					from "Growing up with Lucy: How to Build an Android in Twenty Easy Steps"
+				</p>
+			</div> <!-- class="quote" -->
+		</div>
+	</content>
+</entry>

@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2011-08-29T10:37:43-07:00</published>
+
+	<id>c3dde241-88ad-486c-802a-e664b122ac99</id>
+
+	<title>A Human Atavism: An Innate Ability To Recognize Animals</title>
+
+	<category term="Brain" />
+	<category term="Neuroscience" />
+	<category term="Psychology" />
+
+	<content type="xhtml">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<div class="quote">
+				<blockquote cite="http://bps-research-digest.blogspot.com/2011/08/animal-sensitive-cells-discovered-in.html">
+					<p>
+						A part of the human brain that's involved in emotion gets particularly excited at the sight of animals, a new study has shown. The brain structure in question is the amygdala
+					</p>
+					<p>
+						[...]
+					</p>
+					<p>
+						[C]ells in the right-sided amygdala, but not the other regions, were far more likely to respond to pictures of animals, and to be aroused more powerfully by them, as compared with pictures of people (mostly celebrities), landmarks and objects (e.g. food and tools). By contrast, hippocampus cells responded similarly to the different picture categories, whilst the entorhinal cortex cells showed a reduced likelihood of response to pictures of people.
+					</p>
+					<p>
+						Cells in the right-sided amygdala weren't only more likely to respond to the sight of animals than other pictures, and to do so more powerfully, they also did so extra fast, with a mean latency of 324ms. 
+					</p>
+				</blockquote>
+				<p class="quote-by">
+					-- <a rel="nofollow" href="http://www.psychologywriter.org.uk/">Christian Jarrett</a>
+				</p>
+				<p class="quote-from">
+					from "<a rel="nofollow" href="http://bps-research-digest.blogspot.com/2011/08/animal-sensitive-cells-discovered-in.html">Animal-sensitive cells discovered in the human brain</a>"
+				</p>
+			</div> <!-- class="quote" -->
+		</div>
+	</content>
+</entry>

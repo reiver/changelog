@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2011-07-25T21:57:00-07:00</published>
+
+	<id>08018f28-4192-43ec-8a14-5f58083362b9</id>
+
+	<title>Sex and Natural Selection</title>
+
+	<category term="Evolution" />
+
+	<content type="xhtml">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<div class="quote">
+				<blockquote>
+					<p>
+						Each animal, plant, fungus, bacterium and virus on earth today is here because its parents, grandparents and every one of its ancestors succeeded in having and raising at least one offspring. Natural selection is simply what happens when some individuals reproduce and other don't. [...]  All of the exquisite functionality in the living world, from the delicate wings of a dragonfly to our human capacity for language, is the by-product of one utterly boring fact: that in every generation of every species some individuals reproduce more successfully than others. So it should not be a surprise that evolutionary biologists like me share a healthy and enthusiastic fascination for reproduction and for sex.
+					</p>
+				</blockquote>
+				<p class="quote-by">
+					-- <a rel="nofollow" href="http://robbrooks.net/">Rob Brooks</a>
+				</p>
+				<p class="quote-from">
+					from "Sex, Genes and Rock 'n' Roll: How Evolution Has Shaped the Modern World"
+				</p>
+			</div> <!-- class="quote" -->
+		</div>
+	</content>
+</entry>

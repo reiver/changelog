@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2011-06-22T06:59:00-07:00</published>
+
+	<id>4834249b-b495-446a-a74c-176ee46cd889</id>
+
+	<title>IQ and Expertise Capacity</title>
+
+	<category term="Expertise Capacity" />
+	<category term="IQ" />
+	<category term="Psychology" />
+	<category term="Psychometrics" />
+
+	<content type="xhtml">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<div class="quote">
+				<blockquote cite="http://twitter.com/harpersnotes/status/77402851990708224">
+					<p>
+						IQ doesn't measure what some think of as "expertise capacity".
+					</p>
+				</blockquote>
+				<p class="quote-by">
+					-- <a rel="nofollow" href="http://twitter.com/harpersnotes">Richard Harper</a>
+				</p>
+				<p class="quote-from">
+					from "<a rel="nofollow" href="http://twitter.com/harpersnotes/status/77402851990708224">@harpersnotes</a>"
+				</p>
+			</div> <!-- class="quote" -->
+		</div>
+	</content>
+</entry>

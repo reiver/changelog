@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2011-07-25T10:41:00-07:00</published>
+
+	<id>71d73674-bf6f-4cf2-b727-411b6c367c0d</id>
+
+	<title>Cultural Evolution and Memetics</title>
+
+	<category term="Evolution" />
+
+	<content type="xhtml">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<div class="quote">
+				<blockquote>
+					<p>
+						Humanity is experiencing an extraordinary burst of evolutionary change, driven by good old-fashioned Darwinian natural selection [...] among ideas [...] The habitat in which these ideas reside consists of human brains. This notion has been trying to surface in the social sciences for a long time. The French sociologist Gabriel Tarde wrote in 1888: "We may call it social evolution when an invention quietly spreads through imitation." The Austrian economist Friedrich Hayek wrote in the 1960s that in social evolution the decisive factor is "selection by imitation of successful institutions and habits". The evolutionary biologist Richard Dawkins in 1976 coined the term "meme" for the unit of cultural imitation. The economist Richard Nelson in the 1980s proposed that whole economies evolve by natural selection.
+					</p>
+					<p>
+						This is what i mean when I talk of cultural evolution
+					</p>
+				</blockquote>
+				<p class="quote-by">
+					-- <a rel="nofollow" href="http://www.rationaloptimist.com/">Matthew White Ridley</a>
+				</p>
+				<p class="quote-from">
+					from "The Rational Optimist: How Prosperity Evolves"
+				</p>
+			</div> <!-- class="quote" -->
+		</div>
+	</content>
+</entry>

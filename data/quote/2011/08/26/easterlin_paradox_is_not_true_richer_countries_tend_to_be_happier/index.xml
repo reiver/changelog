@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2011-08-26T01:58:44-07:00</published>
+
+	<id>25ab0739-42ba-4d9a-9143-056fcc163c1d</id>
+
+	<title>Easterlin Paradox Is Not True: Richer Countries Tend To Be Happier</title>
+
+	<category term="Economics" />
+	<category term="Eudaimonia" />
+	<category term="Happiness" />
+	<category term="Politics" />
+	<category term="Psychology" />
+	<category term="Subjective Well-Being" />
+
+	<content type="xhtml">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<div class="quote">
+				<blockquote cite="http://www.ifo.de/portal/pls/portal/docs/1/1185210.PDF">
+					<p>
+						<a href="./easterlin_paradox_is_not_true_richer_countries_tend_to_be_happier/life-satisfaction-and-real-gdp-per-capita.png"><img src="./easterlin_paradox_is_not_true_richer_countries_tend_to_be_happier/THUMBNAIL_life-satisfaction-and-real-gdp-per-capita.png" /></a>
+					</p>
+				</blockquote>
+				<p class="quote-by">
+					-- <a rel="nofollow" href="http://sites.google.com/site/sacksdaniel/">Daniel W. Sacks</a>
+					,  <a rel="nofollow" href="http://bpp.wharton.upenn.edu/betseys">Betsey Stevenson</a>
+					,  <a rel="nofollow" href="http://www.nber.org/~jwolfers">Justin Wolfers</a>
+				</p>
+				<p class="quote-from">
+					from "<a rel="nofollow" href="http://www.ifo.de/portal/pls/portal/docs/1/1185210.PDF">Subjective well-being, income, economic development and growth</a>"
+				</p>
+			</div> <!-- class="quote" -->
+		</div>
+	</content>
+</entry>

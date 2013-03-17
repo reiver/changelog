@@ -1,0 +1,59 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2012-07-22T11:48:25-07:00</published>
+
+	<id>96addb0d-e295-4de3-b441-9f356296f6aa</id>
+
+	<title>Coffee Cup Kanban</title>
+
+	<category term="Software Engineering" />
+	<category term="Software Management" />
+
+	<content type="xhtml">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<div class="quote">
+				<blockquote>
+					<p>
+						Coffee bars employ a couple of different strategies for taking and filling orders.
+						Each strategy makes different tradeoffs.
+					</p>
+					<p>
+						Sometimes someone will take your order, ring you up, and then make your drink and give it to you.
+						Other times someone will take your order, mark up a cup with the details of your order, place the cup in a queue to be picked up by a barista who will make the drink and then place it on a shelf and call it out.
+					</p>
+					<p>
+						That second arrangement is a kanban system, and the cup is the kanban.
+						The cup-ban doubles as an order form that can encode most combinations that a barista should expect.
+					</p>
+					<p>
+						There are reasons to choose one process over another.
+						Small or lower-volume shops with only one employee on shift usually apply the first method.
+						Larger, higher-volume stores with two or more workers on shift usually apply the second method.
+						The store using the kanban method gains the advantage of taking your order (and collecting your money) quickly.
+						[...]
+					</p>
+					<p>
+						It is good news for you when the barista asks you, "can I get a drink started for you?" because that should mean he has slack capacity.
+						[...]
+						[O]nce the kanban queue starts backing up, the cashier should start stalling, even if that appears to make the cashier queue back up.
+						The second queue has limited capacity before waiting customers start crowding each other or irritating seated customers.
+					</p>
+					<p>
+						Some shops get obnoxiously long lines during the morning rush.
+						The solution to that often appears to be adding an additional espresso machine, because the making of the drink ends up being the bottleneck.
+					</p>
+					<p>
+						The trade-off for businesses is that the rushes don't last, and then the surplus capacity goes unutilized for most of the day.
+					</p>
+				</blockquote>
+				<p class="quote-by">
+					-- Corey Ladas
+				</p>
+				<p class="quote-from">
+					from "Scrumban: Essays on Kanban Systems for Lean Software Development"
+				</p>
+			</div> <!-- class="quote" -->
+		</div>
+	</content>
+</entry>

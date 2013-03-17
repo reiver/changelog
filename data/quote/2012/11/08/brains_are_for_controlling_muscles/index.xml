@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2012-11-12T18:35:52-08:00</published>
+
+	<id>a2808f3f-6a5d-4304-b95d-fc0c66bfd904</id>
+
+	<title>Brains are for Controlling Muscles, Muscles are for Movement</title>
+
+	<category term="Brain" />
+	<category term="Muscle" />
+	<category term="Neuroscience" />
+
+	<content type="xhtml">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<div class="quote">
+				<blockquote cite="http://www.ted.com/talks/daniel_wolpert_the_real_reason_for_brains.html">
+					<p>
+						[W]hy do we and other animals have brains.
+						Not all species on our planet have brains, so if we want to know what the brain is for, let's think about why we evolved one.
+						Now you may reason that we have one to perceive the world or to think, and that's completely wrong.
+						If you think about this question for any length of time, it's blindingly obvious why we have a brain.
+						We have a brain for one reason and one reason only,
+						and that's to produce adaptable and complex movements.
+						There is no other reason to have a brain.
+						Think about it.
+						Movement is the only way you have
+						of affecting the world around you.
+						Now that's not quite true. There's one other way, and that's through sweating.
+						But apart from that,
+						everything else goes through contractions of muscles.
+					</p>
+					<p>	
+						So think about communication --
+						speech, gestures, writing, sign language --
+						they're all mediated through contractions of your muscles.
+						So it's really important to remember
+						that sensory, memory and cognitive processes are all important,
+						but they're only important
+						to either drive or suppress future movements.
+						There can be no evolutionary advantage
+						to laying down memories of childhood
+						or perceiving the color of a rose
+						if it doesn't affect the way you're going to move later in life.
+					</p>
+					<p>
+						Now for those who don't believe this argument,
+						we have trees and grass on our planet without the brain,
+						but the clinching evidence is this animal here --
+						the humble sea squirt.
+						Rudimentary animal, has a nervous system,
+						swims around in the ocean in its juvenile life.
+						And at some point of its life,
+						it implants on a rock.
+						And the first thing it does in implanting on that rock, which it never leaves,
+						is to digest its own brain and nervous system
+						for food.
+						So once you don't need to move,
+						you don't need the luxury of that brain.
+					</p>
+				</blockquote>
+				<p class="quote-by">
+					-- <a rel="nofollow" href="http://www.wolpertlab.com/">Daniel Wolpert</a>
+				</p>
+				<p class="quote-from">
+					from "<a rel="nofollow" href="http://www.ted.com/talks/daniel_wolpert_the_real_reason_for_brains.html">Daniel Wolpert: The real reason for brains</a>"
+				</p>
+			</div> <!-- class="quote" -->
+		</div>
+	</content>
+</entry>

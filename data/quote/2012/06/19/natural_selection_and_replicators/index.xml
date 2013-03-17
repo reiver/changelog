@@ -1,0 +1,62 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2012-06-19T00:32:03-07:00</published>
+
+	<id>a359486c-bf6c-4473-a766-cc329e0b1560</id>
+
+	<title>Natural Selection And Replicators</title>
+
+	<category term="Biology" />
+	<category term="Evolution" />
+	<category term="Genetics" />
+
+	<content type="xhtml">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<div class="quote">
+				<blockquote cite="http://edge.org/conversation/the-false-allure-of-group-selection">
+					<p>
+						Natural selection is a special explanatory concept in the sciences, worthy, in my view, of Daniel Dennett's designation as "the best idea that anyone ever had."
+						That's because it explains one of the greatest mysteries in science, the illusion of design in the natural world.
+						The core of natural selection is that when replicators arise and make copies of themselves, (1) their numbers will tend, under ideal conditions, to increase exponentially; (2) they will necessarily compete for finite resources; (3) some will undergo random copying errors ("random" in the sense that they do not anticipate their effects in the current environment); and (4) whichever copying errors happen to increase the rate of replication will accumulate in a lineage and predominate in the population.
+						After many generations of replication, the replicators will show the appearance of design for effective replication, while in reality they have just accumulated the copying errors that had successful replication as their effect.
+					</p>
+					<p>
+						What's satisfying about the theory is that it is so mechanistic.
+						The copying errors (mutations) are random (more accurately, blind to their effects).
+						The outcome of interest is the number of copies in a finite population.
+						The surprising outcome is a product of the cumulative effects of many generations of replication.
+						If the copying errors were not random (that is, if Lamarck had been correct that changes in an organism arise in response to a felt need, or if creationists were right that a superior intelligence directed mutations to be beneficial to the organism), then natural selection would be otiose—the design could come from the mutation stage.
+						If the outcome of interest were not the number of copies in a finite population, but some human-centered criterion of success (power, preeminence, influence, beauty), then natural selection would not be mechanistic: the dynamics of change in the population could not be mathematically computed from its prior state.
+						And if it took place in a single generation, then natural selection would be banal, since it would add nothing to ordinary physical cause and effect.
+						When a river erodes the soft rock layers on its bed and leaves behind the harder layers, or when the more volatile compounds in petroleum evaporate faster than the less volatile ones, one hardly needs to invoke the theory of natural selection.
+						One can just say that some things are stronger, or longer-lasting, or more stable than others.
+						Only when selection operates over multiple generations of replication, yielding a cumulative result that was not obvious from cause and effect applying to a single event, does the concept of natural selection add anything.  
+					</p>
+					<p>
+						The theory of natural selection applies most readily to genes because they have the right stuff to drive selection, namely making high-fidelity copies of themselves.
+						Granted, it's often convenient to speak about selection at the level of individuals, because it's the fate of individuals (and their kin) in the world of cause and effect which determines the fate of their genes.
+						Nonetheless, it's the genes themselves that are replicated over generations and are thus the targets of selection and the ultimate beneficiaries of adaptations.
+						Sexually reproducing organisms don't literally replicate themselves, because their offspring are not clones but rather composites of themselves and their mates.
+						Nor can any organism, sexual or asexual, pass onto its offspring the traits it has acquired in its lifetime.
+						Individual bodies are simply not passed down through the generations the way that genes are.
+						As Stephen Jay Gould put it, "You can't take it with you, in this sense above all."
+					</p>
+					<p>
+						[...]
+					</p>
+					<p>
+						[S]ome extensions of natural selection to replicators other than genes are rigorous and illuminating, because they preserve the essential features of replicator dynamics.
+						Examples include bits of code in genetic algorithms, the analogs of genes in artificial-life simulations, and, if the physicist Lee Smolin is correct, the laws and constants of entire universes.
+					</p>
+				</blockquote>
+				<p class="quote-by">
+					-- <a rel="nofollow" href="http://www.stevenpinker.com/">Steven Arthur Pinker</a>
+				</p>
+				<p class="quote-from">
+					from "<a rel="nofollow" href="http://edge.org/conversation/the-false-allure-of-group-selection">The False Allure Of Group Selection</a>"
+				</p>
+			</div> <!-- class="quote" -->
+		</div>
+	</content>
+</entry>

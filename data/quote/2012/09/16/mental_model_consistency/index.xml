@@ -1,0 +1,76 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2012-09-16T19:52:12-07:00</published>
+
+	<id>0775aae2-8fb1-49af-b6d7-ae733fe4120e</id>
+
+	<title>Mental Model Consistency As Predictor Of Programming Aptitude?</title>
+
+	<category term="Computer Science" />
+	<category term="Psychology" />
+	<category term="Psychometrics" />
+
+	<content type="xhtml">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<div class="quote">
+				<blockquote cite="http://www.eis.mdx.ac.uk/research/PhDArea/saeed/paper1.pdf">
+					<p>
+						It has long been suspected that some people have a natural aptitude for programming [...]
+					</p>
+					<p>
+						We have found a test for programming aptitude, of which we give details.
+						We can predict success or failure even before students have had any contact with any programming language with very high accuracy, and by testing with the same instrument after a few weeks of exposure, with extreme accuracy.
+					</p>
+					<p>
+						[...]
+					</p>
+					<p>
+						Despite the enormous changes which have taken place since electronic computing was invented in the 1950s, some things remain stubbornly the same.
+						In particular, most people can’t learn to program
+					</p>
+					<p>
+						[...]
+					</p>
+					<p>
+						[I]t rapidly became clear that despite their various choices of model, in the first administration they divided into three distinct groups with no overlap at all:
+					</p>
+					<ul>
+						<li>
+							44% used the same model for all, or almost all, of the questions. We call this the <b><i>consistent</i></b> group.
+						</li>
+						<li>
+							39% used different models for different questions. We call this the the <b><i>inconsistent</i></b> group.
+						</li>
+						<li>
+							The remaining 8% refused to answer all or almost all of the questions. We call this the <b><i>blank</i></b> group.
+						</li>
+					</ul>
+					<p>
+						We did not interview our subjects to determine anything about their group membership, so we do not know whether students chose consciously or unconsciously to follow one strategy or another, nor how conscious choices (if any) were motivated, nor what any particular choice meant to a subject who made it.
+						We have no information about how group membership correlates with earlier education, employment experience, age, sex, marital status or indeed anything else.
+					</p>
+					<p>
+						[...]
+						Remarkably, it is the consistent group, and almost exclusively the consistent group, that is successful [at programming].
+					</p>
+					<p>
+						[...]
+					</p>
+					<p>
+						There is a test for programming aptitude, or at least for success in a first programming course.
+						We have speculated on the reasons for its success, but in truth we don’t understand how it works any more than you do.
+						An enormous space of new problems has opened up before us all.
+					</p>
+				</blockquote>
+				<p class="quote-by">
+					-- <a rel="nofollow" href="http://www.eis.mdx.ac.uk/research/PhDArea/saeed/">Saeed Dehnadi</a>
+					 , <a rel="nofollow" href="http://www.eis.mdx.ac.uk/staffpages/r_bornat/">Richard Bornat</a>
+				</p>
+				<p class="quote-from">
+					from "<a rel="nofollow" href="http://www.eis.mdx.ac.uk/research/PhDArea/saeed/paper1.pdf">The camel has two humps (working title)</a>"
+				</p>
+			</div> <!-- class="quote" -->
+		</div>
+	</content>
+</entry>

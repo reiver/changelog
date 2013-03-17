@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2012-06-11T12:03:57-07:00</published>
+
+	<id>a85de7e1-8767-4032-ad11-a83293c5aab5</id>
+
+	<title>Breastfeeding Reduces Mammary Cancer Risk</title>
+
+	<category term="Biology" />
+	<category term="Cancer" />
+
+	<content type="xhtml">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<div class="quote">
+				<blockquote cite="http://www.nytimes.com/2012/06/10/opinion/sunday/our-animal-natures.html">
+					<p>
+						The latte you sipped this morning contained milk from an animal sorority that very rarely gets breast cancer.
+						Professional lactators — the dairy cows and goats that make milk for a living — have rates of mammary cancer that are so low as to be statistically insignificant.
+						That animals which lactate early and long seem to have some protection against breast cancer is not only fascinating, it parallels human epidemiologic data that tie breast-feeding to reduced mammary cancer risk.
+					</p>
+				</blockquote>
+				<p class="quote-by">
+					-- <a rel="nofollow" href="http://www.uclahealth.org/body.cfm?xyzpdqabc=0&amp;id=479&amp;action=detail&amp;ref=11288">Barbara Natterson-Horowitz</a>
+					 , <a rel="nofollow" href="http://twitter.com/kathrynsbowers">Kathryn Bowers</a>
+				</p>
+				<p class="quote-from">
+					from "<a rel="nofollow" href="http://www.nytimes.com/2012/06/10/opinion/sunday/our-animal-natures.html">Our Animal Natures</a>"
+				</p>
+			</div> <!-- class="quote" -->
+		</div>
+	</content>
+</entry>

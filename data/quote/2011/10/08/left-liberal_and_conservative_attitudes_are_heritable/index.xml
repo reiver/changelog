@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2011-10-08T14:23:20-07:00</published>
+
+	<id>cebf8420-49c9-4a83-a0e4-c2836cbbd8ba</id>
+
+	<title>Left-Liberal And Conservative Attitudes Are Heritable</title>
+
+	<category term="Genetics" />
+	<category term="Morality" />
+	<category term="Politics" />
+	<category term="Psychology" />
+
+	<content type="xhtml">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<div class="quote">
+				<blockquote>
+					<p>
+						Liberal and conservative political attitudes are largely, though far from completely, heritable.
+						When identical twins who were separated at birth are tested in adulthood, their political attitudes turn out to be similar, with a correlation coefficient of .62 (on a scale from -1 to +1).<sup>2</sup>
+						Liberal and conservative attitudes are heritable not, of course, because attitudes are synthesized directly from DNA but because they come naturally to people with different temperaments.
+					</p>
+					<p>
+						[...]
+					</p>
+					<p>
+						2. Personal communication, D. Lykken, April 11, 2001.
+						Other estimates of the heritability of conservative attitudes are typically in the range of .4 to .5: Bouchard et al., 1990;
+						Eaves, Eysenck, &amp; Martin, 1989; Holden, 1987;
+						Martin et al., 1986;
+						Plomin et al., 1997, p.206;
+						Scarr &amp; Weinberg, 1981.
+					</p>
+				</blockquote>
+				<p class="quote-by">
+					-- <a rel="nofollow" href="http://www.stevenpinker.com/">Steven Arthur Pinker</a>
+				</p>
+				<p class="quote-from">
+					from "The Blank Slate: The Modern Denial of Human Nature"
+				</p>
+			</div> <!-- class="quote" -->
+		</div>
+	</content>
+</entry>

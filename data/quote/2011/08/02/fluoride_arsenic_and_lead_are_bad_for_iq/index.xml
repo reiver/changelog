@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2011-08-02T13:04:00-07:00</published>
+
+	<id>b6ef978f-90c5-422e-b32f-80f66db92d6d</id>
+
+	<title>Fluoride, Arsenic and Lead Are Bad For IQ</title>
+
+	<category term="Arsenic" />
+	<category term="Fluoride" />
+	<category term="Lead" />
+	<category term="Psychology" />
+	<category term="Psychometrics" />
+
+	<content type="xhtml">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<div class="quote">
+				<blockquote cite="http://www.adb.org/Documents/Periodicals/ADR/ADR-Vol28-1-jones.pdf">
+					<p>
+						A study of excessive fluoride in Indian drinking water found a 13 IQ point-difference between children "residing in two separate {village} areas of India with similar educational and socioeconomic conditions" (Trivedi et al. 2007, 178). [...]
+					</p>
+					<p>
+						Arsenic and fluoride exposure are also associated with low IQ in the People's Republic of China's (PRC) Shanxi province, even when comparing "groups {who} lived in rural areas with similar geographic and cultural conditions and a comparable level of socioeconomic development" (Wang et al. 2007, p. 644). High arsenic exposure was associated with a 10-point IQ gap, and high fluoride exposure with a 4-point gap. In both cases, the "normal" group had an IQ of 105, 5 points above the US mean.
+					</p>
+					<p>
+						In the Visayas region of the Philippines, Solon et al. (2008) found evidence that lead levels reduced the IQ of children. In their study, one microgram of lead per liter of blood was associated with a 2.5 point reduction in the verbal IQ of older children, and a 3.3 point reduction in the IQ of young children. In their sample of children, the levels of lead in the blood averages 7.1 micrograms per liter, so lead exposure could be costing the average child in this sample 15 IQ points even under conservative estimates.
+					</p>
+				</blockquote>
+				<p class="quote-by">
+					-- <a rel="nofollow" href="http://mason.gmu.edu/~gjonesb/">Garett Jones</a>
+				</p>
+				<p class="quote-from">
+					from "<a rel="nofollow" href="http://www.adb.org/Documents/Periodicals/ADR/ADR-Vol28-1-jones.pdf">National IQ and National Productivity: The Hive Mind Across Asia</a>"
+				</p>
+			</div> <!-- class="quote" -->
+		</div>
+	</content>
+</entry>

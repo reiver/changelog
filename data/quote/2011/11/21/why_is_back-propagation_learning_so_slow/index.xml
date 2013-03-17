@@ -1,0 +1,81 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2011-11-21T10:55:37-08:00</published>
+
+	<id>c08254a6-01b7-4224-890f-c868bf1f8a62</id>
+
+	<title>Why Is Back-Propagation Learning So Slow?</title>
+
+	<category term="Artificial Intelligence" />
+	<category term="Artificial Neural Network" />
+
+	<content type="xhtml">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<div class="quote">
+				<blockquote cite="http://www.dtic.mil/cgi-bin/GetTRDoc?AD=ADA256635&amp;Location=U2&amp;doc=GetTRDoc.pdf">
+					<p>
+						The most important of these limitations [of the  back-propagation (or "backprop") learning algorithm (Rumelhart, 1986)] is the slow pace at which backprop learns from examples.
+						Even on simple benchmark problems, a back-propagation network may require many thousands of epochs to learn the desired behavior from examples.
+						(An <i>epoch</i> is defined as one pass through the entire set of training examples.)
+						We have attempted to analyze the reasons why backprop learning is so slow, and we have identified two major problems that contribute to the slowness.
+						We call these the <i>step-size problem</i> and the <i>moving target problem</i>.
+						There may, of course, be other contributing factors that we have not yet identified.
+					</p>
+
+					<h2>[...] The Step-Size Problem</h2>
+					<p>
+						The step-size problem occurs because the standard back-propagation method computed only <span class="math"><i><sup>&#8706;E</sup>&#8260;<sub>&#8706;w</sub></i></span>, the partial first derivative of the overall error function with respect to each weight in the network.
+						Give these derivatives, we can perform a gradient descent in weight space, reducing the error with each step.
+						It is straightforward to show that if we take infinitesimal steps down the gradient vector, running a new training epoch to recompute the gradient after each step, we will eventually reach a local minimum of the error function.
+						Experience has shown that in most situations this local minimum will be a global minimum as well, or at least "good enough" solution to the problem at hand.
+					</p>
+					<p>
+						In a practical learning system, however, we do not want to take infinitesimal steps;
+						for fast learning, we want to take the largest steps that we can.
+						Unfortunately, if we choose a step size that is too large, the network will not reliably converge to a good solution.
+						In order to choose a reasonable step size, we need to know not just the slope of the error function, but something about its higher-order derivatives -- its curvature -- in the vicinity of the current point in weight space.
+						This information is not available in the standard back-propagation algorithm.
+					</p>
+					<p>
+						[...]
+					</p>
+
+					<h2>[...] The Moving Target Problem</h2>
+					<p>
+						A second source of inefficiency in back-propagation learning is what we call the <i>moving target problem</i>.
+						Briefly stated, the problem is that each unit in the interior of the network is trying to evolve into a feature detector that will play some useful role in the network's overall computation, but its task is greatly complicated by the fact that all the other units are changing at the same time.
+						The hidden units in a given layer of the [artificial neural] net[work] cannot communicate with one another directly;
+						each unit sees only its inputs and the error signal propagated back to it from the network's outputs.
+						The error signal defines the problem that the unit is trying to solve, but this problem changes constantly.
+						Instead of a situation in which each unit moves quickly and directly to assume some useful role, we see a complex dance among all the units that takes a long time to settle down.
+					</p>
+					<p>
+						Many experimenters have reported that backprop learning slows down dramatically (perhaps exponentially) as we increase the number of hidden layers in the network.
+						In part, this slowdown is due to an attenuation and dilution of the error signal as it propagates backward through the layers of the network.
+						We believe that another part of this slowdown is due to moving-target effect.
+						Units in the interior layers of the [artificial neural] net[work] see a constantly shifting picture as both the upstream and downstream units evolve, and this makes it impossible for such units to move decisively toward a good solution.
+					</p>
+					<p>
+						One common manifestion of the moving-target problem is what we call the <i>herd effect</i>.
+						Suppose we have two separate computational sub-tasks, A and B, that must be performed by the hidden units in a network.
+						Suppose that we have a number of hidden units, any one of which could handle either of the two tasks.
+						Since the units common communicate with one another, each unit must decide independently which of the two problems it will tackle.
+						If task A generates a larger or more coherent error signal than task B, there is a tendency for all the units to concentrate on A and ignore B.
+						Once problem A is solved, redundantly, the units can then see task B as the only remaining source of error.
+						However, if they all begin to move towards B at once, problem A reappears.
+						In most cases, the "herd" of units will eventually split up and deal with both of the sub-tasks at once, but there may be a long period of indecision before this occurs.
+						The weights in a backprop network are given random initial values to prevent all the units from behaving identically, but this initial variability tends to dissipate as the network is trained.
+					</p>
+				</blockquote>
+				<p class="quote-by">
+					-- <a rel="nofollow" href="http://www.cs.cmu.edu/~sef/">Scott Elliott Fahlman</a>
+					 , <a rel="nofollow" href="http://www.andrew.cmu.edu/user/cl/home.html">Christian Lebiere</a>
+				</p>
+				<p class="quote-from">
+					from "<a rel="nofollow" href="http://www.dtic.mil/cgi-bin/GetTRDoc?AD=ADA256635&amp;Location=U2&amp;doc=GetTRDoc.pdf">The Cascade-Correlation Learning Architecutre </a>"
+				</p>
+			</div> <!-- class="quote" -->
+		</div>
+	</content>
+</entry>

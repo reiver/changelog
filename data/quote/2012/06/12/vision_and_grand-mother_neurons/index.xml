@@ -1,0 +1,57 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2012-06-12T22:19:49-07:00</published>
+
+	<id>83f5b7e1-101a-4102-b73b-5d8e14506e09</id>
+
+	<title>Vision and Grand-Mother Neurons</title>
+
+	<category term="Neural Network" />
+	<category term="Neuroscience" />
+	<category term="Vision" />
+
+	<content type="xhtml">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<div class="quote">
+				<blockquote cite="icml.cc/2012/papers/73.pdf">
+					<p>
+						[W]e would like to understand if it is possible to build a face detector from only unlabeled images.
+						This approach is inspired by the neuroscientific conjecture that there exist highly class-specific neurons in the human brain, generally and informally known as “grand-mother neurons.”
+						The extent of class-specificity of neurons in the brain is an area of active investigation, but current experimental evidence suggests the possibility that some neurons in the temporal cortex are highly selective for object categories such as faces or hands (Desimone et al., 1984), and perhaps even specific people (Quiroga et al., 2005).
+
+					</p>
+					<p>
+						[...]
+					</p>
+					<p>
+						Desimone, R., Albright, T., Gross, C., and Bruce, C.
+						Stimulus-selective properties of inferior temporal neurons in the macaque.
+						<i>The Journal of Neuroscience</i>, 1984.
+					</p>
+					<p>
+						[...]
+					</p>
+					<p>
+						Quiroga, R. Q., Reddy, L., Kreiman, G., Koch, C., and Fried, I.
+						Invariant visual representation by single neurons in the human brain.
+						<i>Nature</i>, 2005.
+					</p>
+				</blockquote>
+				<p class="quote-by">
+					-- <a rel="nofollow" href="http://ai.stanford.edu/~quocle/">Quoc V. Le</a>
+					 , <a rel="nofollow" href="http://www.cs.toronto.edu/~ranzato/">Marc’Aurelio Ranzato</a>
+					 , Rajat Monga
+					 , Matthieu Devin
+					 , Kai Chen
+					 , Greg S. Corrado
+					 , <a rel="nofollow" href="http://research.google.com/people/jeff/">Jeff Dean</a>
+					 , <a rel="nofollow" href="http://ai.stanford.edu/~ang/">Andrew Y. Ng</a>
+				</p>
+				<p class="quote-from">
+					from "<a rel="nofollow" href="http://icml.cc/2012/papers/73.pdf">Building High-level Features Using Large Scale Unsupervised Learning</a>"
+				</p>
+			</div> <!-- class="quote" -->
+		</div>
+	</content>
+</entry>

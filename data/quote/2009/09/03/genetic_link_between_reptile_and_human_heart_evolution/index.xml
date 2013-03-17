@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2009-09-03T03:51:19-07:00</published>
+
+	<id>357dd828-2bce-4546-b82f-28060769a3a1</id>
+
+	<title>Genetic Link Between Reptile And Human Heart Evolution</title>
+
+	<category term="Genetics" />
+
+	<content type="xhtml">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<div class="quote">
+				<blockquote cite="http://www.sciencedaily.com/releases/2009/09/090902133629.htm">
+					<p>
+						The research [...] shows how a specific protein that turns on genes is involved in heart formation in turtles, lizards and humans.
+					</p>
+					<p>
+						"This is the first genetic link to the evolution of two, rather than one, pumping chamber in the heart, which is a key event in the evolution of becoming warm-blooded," said Gladstone investigator Benoit Bruneau, PhD, who led the study. "The gene involved, Tbx5, is also implicated in human congenital heart disease, so our results also bring insight into human disease."
+					</p>
+					<p>
+						From an evolutionary standpoint, the reptiles occupy a critical point in heart evolution.
+					</p>
+					<p>
+						[...]
+					</p>
+				</blockquote>
+				<p class="quote-from">
+					from "<a rel="nofollow" href="http://www.sciencedaily.com/releases/2009/09/090902133629.htm">First Genetic Link Between Reptile And Human Heart Evolution Found</a>"
+				</p>
+			</div> <!-- class="quote" -->
+		</div>
+	</content>
+</entry>

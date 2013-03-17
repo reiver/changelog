@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2013-02-16T20:34:46-08:00</published>
+
+	<id>6c586fbd-ade8-4e5a-bb3d-912f090b13e6</id>
+
+	<title>Imitating The Decisions Of Others</title>
+
+	<category term="Psychology" />
+
+	<content type="xhtml">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<div class="quote">
+				<blockquote cite="http://www.cs.cornell.edu/home/kleinber/networks-book/">
+					<p>
+						[P]eople influence each other’s behavior.
+						In short, as you see more and more people doing something, you generally become more likely to do it as well.
+						Understanding why this happens, and what its consequences are, is a central issue for our understanding of networks and aggregate behavior.
+					</p>
+					<p>
+						At a surface level, one could hypothesize that people imitate the decisions of others simply because of an underlying human tendency to conform: we have a fundamental inclination to behave as we see others behaving.
+						This is clearly an important observation, but as an explanation it leaves some crucial questions unresolved.
+						In particular, by taking imitation as a given, we miss the opportunity to ask why people are influenced by the behavior of others.
+						This is a broad and difficult question, but in fact it is possible to identify multiple reasons why even purely rational agents — individuals with no a priori desire to conform to what others are doing — will nonetheless copy the behavior of others.
+					</p>
+					<p>
+						One class of reasons is based on the fact that the behavior of others conveys information.
+						You may have some private information on which to base a decision between alternatives, but if you see many people making a particular choice, it is natural to assume that they too have their own information, and to try inferring how people are evaluating different choices from how they are behaving. 
+						In the case of a Web site like YouTube or Flickr, seeing a lot of people using it can suggest that these people know something about its quality.
+						Similarly, seeing that a certain restaurant is extremely crowded every weekend can suggest that many people think highly of it.
+						But this sort of reasoning raises surprisingly subtle issues: as many people make decisions sequentially over time, the later decisions can be based in complex ways on a mixture of private information and inferences from what has already happened, so that the actions of a large set of people can in fact be based on surprisingly little genuine information.
+						In an extreme form of this phenomenon we may get information cascades, where even rational individuals can choose to abandon their private information and follow a crowd.
+					</p>
+					<p>
+						There is a completely different but equally important class of reasons why people might imitate the behavior of others — when there is a direct benefit from aligning your behavior with that of others, regardless of whether they are making the best decision.
+						Let’s go back to our examples of social-networking and media-sharing sites.
+						If the value of such sites is in the potential to interact with others, to have access to a wide range of content, and to have a large audience for the content you post, then these types of sites become more and more valuable as people join them.
+						In other words, regardless of whether YouTube had better features than its competitors, once it became the most popular video-sharing site, there was almost by definition an added value in using it.
+						Such network effects amplify the success of products and technologies that are already doing well; in a market where network effects are at work, the leader can be hard to displace.
+						Still, this type of dominance is not necessarily permanent; as we will see, it is possible for a new technology to displace an old one if it offers something markedly different — and often when it starts in a part of the network where there is room for it to take hold.
+					</p>
+					<p>
+						These considerations show how popularity — as a general phenomenon — is governed by a “rich-get-richer” feedback process in which popularity tends to build on itself.
+						It is possible to build mathematical models for this process, with predictions for the distribution of popularity that are borne out by empirical data — a picture in which society’s attention is divided between a small number of prominent items and a “long tail” of more obscure ones.
+					</p>
+				</blockquote>
+				<p class="quote-by">
+					-- <a rel="nofollow" href="http://www.arts.cornell.edu/econ/deasley/">David Easley</a>
+					 , <a rel="nofollow" href="http://www.cs.cornell.edu/home/kleinber/">Jon Kleinberg</a>
+				</p>
+				<p class="quote-from">
+					from "<a rel="nofollow" href="http://www.cs.cornell.edu/home/kleinber/networks-book/">Networks, Crowds, and Markets: Reasoning About a Highly Connected World</a>"
+				</p>
+			</div> <!-- class="quote" -->
+		</div>
+	</content>
+</entry>

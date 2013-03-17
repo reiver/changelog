@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2011-06-22T07:16:00-07:00</published>
+
+	<id>022d2513-e2c7-49e5-a452-a65ead021d89</id>
+
+	<title>IQ and Height</title>
+
+	<category term="Height" />
+	<category term="IQ" />
+	<category term="Psychology" />
+	<category term="Psychometrics" />
+
+	<content type="xhtml">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<div class="quote">
+				<blockquote cite="http://blogs.discovermagazine.com/gnxp/2011/05/fashionable-bipedalism/">
+					<p>
+						In the paper the author correctly notes that tall individuals tend to have higher I.Q.s. This has lead to speculation on this weblog from commenters about pleiotropy between genes for height and intelligence, or height and I.Q. as independent signals for mutational load. There's a problem with this: the height-I.Q. correlation disappears within families. In other words, it is likely that the correlation is driven by other factors such as <a rel="nofollow" href="http://www.gnxp.com/blog/2007/11/are-tall-women-like-porsches.php">assortative mating</a> across these two favored traits.
+					</p>
+				</blockquote>
+				<p class="quote-by">
+					-- <a rel="nofollow" href="http://razib.com/">Razib Khan</a>
+				</p>
+				<p class="quote-from">
+					from "<a rel="nofollow" href="http://blogs.discovermagazine.com/gnxp/2011/05/fashionable-bipedalism/">Fashionable bipedalism</a>"
+				</p>
+			</div> <!-- class="quote" -->
+		</div>
+	</content>
+</entry>

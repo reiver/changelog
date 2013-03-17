@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2012-01-15T23:21:28-08:00</published>
+
+	<id>b1cfb218-2810-4661-8536-85883b7ff1d7</id>
+
+	<title>MacKinnon: Briefcase Syndrome Of Creativity</title>
+
+	<category term="Psychology" />
+	<category term="Psychometrics" />
+
+	<content type="xhtml">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<div class="quote">
+				<blockquote>
+					<p>
+						One of the most striking observations we have made is that the creative person seldom fits the layman's stereotype of him.
+						In out experience he is not the emotionally unstable, sloppy, loose-jointed Bohemian.
+						More often it is the unoriginal and uncreative person who appears to be artistic, clever, emotional, whereas we discover ourselves using such adjectives as deliberate, reserved, industrious, and thorough to describe truly original and creative persons.
+						Among ourselves we have jokingly described this cluster of traits characteristic of the creative person as "the briefcase syndrome of creativity" -- closer, if you will, to the notion of professional responsibility than to the Greenwich Village Bohemian or to the North Beach Beatnik.
+					</p>
+					<p>
+						The truly creative individual has an image of himself as a responsible person with a sense of destiny about himself as a human being.
+						This includes a degree of resoluteness and almost inevitably a measure of egotism.
+						But over and above these there is a belief in the foregone certainty of the wroth and validity of one's creative efforts.
+						This is not to say that our creative subjects have been spared periods of frustration and depression when blocked in their creative striving, but only that overriding these moods has been an unquestioning commitment to their creative endeavor.
+					</p>
+				</blockquote>
+				<p class="quote-by">
+					-- D. W. MacKinnon
+				</p>
+				<p class="quote-from">
+					from "Genius and Eminence"
+				</p>
+			</div> <!-- class="quote" -->
+		</div>
+	</content>
+</entry>

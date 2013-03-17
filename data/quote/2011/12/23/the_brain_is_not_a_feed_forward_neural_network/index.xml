@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2011-12-23T11:40:36-08:00</published>
+
+	<id>717e93ac-164b-4f93-90e7-f4798e083c9d</id>
+
+	<title>The Brain Is Not A Feed Forward Neural Network</title>
+
+	<category term="Artificial Intelligence" />
+	<category term="Artificial General Intelligence" />
+	<category term="Artificial Neural Network" />
+	<category term="Neuroscience" />
+	<category term="Transistor" />
+
+	<content type="xhtml">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<div class="quote">
+				<blockquote>
+					<p>
+						Let me give you an analogy to show how far [three-row feed forward artificial] neural networks were from real brains.
+						Imagine that instead of trying to figure out how a brain worked we were trying to figure out how a digital computer worked.
+						After years of study, we discover that everything in the computer is made of transistors.
+						There are hundreds of millions of transistors in a computer and they are connected together in precise and complex ways.
+						But we don't understand how the computer works or why the transistors are connected the way they are.
+						So one day we decide to connect just a few transistors together to see what happens.
+						Lo and behold we find that as few as three transistors, when connected together in certain way, become an amplifier.
+						A small signal put into one end is magnified on the other end.
+						(Amplifiers in radios and televisions are made using transistors in this fashion.)
+						This is an important discovery, and overnight an industry springs up making transistor radios, televisions, and other electronic appliances using transistor amplifiers.
+						This is all well and good, but it doesn't tell us anything about how the computer works.
+						Even though an amplifier and a computer are both made of transistors, they have almost nothing else in common.
+						In the same way, a real brain and a three-row neural network are built with neurons, but have almost nothing else in common.
+					</p>
+				</blockquote>
+				<p class="quote-by">
+					-- <a rel="nofollow" href="http://www.onintelligence.org/">Jeffrey Hawkins</a>
+				</p>
+				<p class="quote-from">
+					from "On Intelligence"
+				</p>
+			</div> <!-- class="quote" -->
+		</div>
+	</content>
+</entry>

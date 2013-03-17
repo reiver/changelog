@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2011-06-21T22:16:00-07:00</published>
+
+	<id>87fc892b-8833-4c2d-b26a-7e694a56c654</id>
+
+	<title>The Golden Rule and Moral Psychology</title>
+
+	<category term="Morality" />
+	<category term="Psychology" />
+
+	<content type="xhtml">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<div class="quote">
+				<blockquote cite="http://www.nytimes.com/2008/01/13/magazine/13Psychology-t.html">
+					<p>
+						[T]he core of this idea -- the interchangeability of perspectives -- keeps reappearing in history's best-thought-through moral philosophies, including the Golden Rule (itself discovered many times); Spinoza's Viewpoint of Eternity; the Social Contract of Hobbes, Rousseau and Locke; Kant's Categorical Imperative; and Rawls's Veil of Ignorance. It also underlies Peter Singer's theory of the Expanding Circle -- the optimistic proposal that our moral sense, though shaped by evolution to overvalue self, kin and clan, can propel us on a path of moral progress, as our reasoning forces us to generalize it to larger and larger circles of sentient beings.
+					</p>
+				</blockquote>
+				<p class="quote-by">
+					-- <a rel="nofollow" href="http://www.stevenpinker.com/">Steven Arthur Pinker</a>
+				</p>
+				<p class="quote-from">
+					from "<a rel="nofollow" href="http://www.nytimes.com/2008/01/13/magazine/13Psychology-t.html">The Moral Instinct</a>"
+				</p>
+			</div> <!-- class="quote" -->
+		</div>
+	</content>
+</entry>

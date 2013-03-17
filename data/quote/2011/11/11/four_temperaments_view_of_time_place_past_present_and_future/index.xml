@@ -1,0 +1,137 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2011-11-11T11:08:44-08:00</published>
+
+	<id>bb850181-2527-4ece-981e-2c6dcf1131ec</id>
+
+	<title>Four Temperaments View Of Time, Place, Past, Present And Future</title>
+
+	<category term="Psychology" />
+	<category term="Psychometrics" />
+
+	<content type="xhtml">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<div class="quote">
+				<blockquote>
+					<figure>
+						<table>
+							<thead>
+								<tr>
+									<th style="padding:0.5em;font-weight:bold;">
+										Orientation
+									</th>
+									<th style="padding:0.5em;">
+										Artisans
+									</th>
+									<th style="padding:0.5em;">
+										Guardians
+									</th>
+									<th style="padding:0.5em;">
+										Idealists
+									</th>
+									<th style="padding:0.5em;">
+										Rationalists
+									</th>
+								</tr>
+							</thead>
+							<tbody>
+								<tr>
+									<th scope="row" style="padding:0.5em;">
+										Present
+									</th>
+									<td style="border:1px solid;padding:0.5em;">
+										Hedonistic
+									</td>
+									<td style="border:1px solid;padding:0.5em;">
+										Stoical
+									</td>
+									<td style="border:1px solid;padding:0.5em;">
+										Altruistic
+									</td>
+									<td style="border:1px solid;padding:0.5em;">
+										Pragmatic
+									</td>
+								</tr>
+								<tr>
+									<th scope="row" style="padding:0.5em;">
+										Future
+									</th>
+									<td style="border:1px solid;padding:0.5em;">
+										Optimistic
+									</td>
+									<td style="border:1px solid;padding:0.5em;">
+										Pessimistic
+									</td>
+									<td style="border:1px solid;padding:0.5em;">
+										Credulous
+									</td>
+									<td style="border:1px solid;padding:0.5em;">
+										Skeptical
+									</td>
+								</tr>
+								<tr>
+									<th scope="row" style="padding:0.5em;">
+										Past
+									</th>
+									<td style="border:1px solid;padding:0.5em;">
+										Cynical
+									</td>
+									<td style="border:1px solid;padding:0.5em;">
+										Fatalistic
+									</td>
+									<td style="border:1px solid;padding:0.5em;">
+										Mystical
+									</td>
+									<td style="border:1px solid;padding:0.5em;">
+										Relativistic
+									</td>
+								</tr>
+								<tr>
+									<th scope="row" style="padding:0.5em;">
+										Place
+									</th>
+									<td style="border:1px solid;padding:0.5em;">
+										Centers
+									</td>
+									<td style="border:1px solid;padding:0.5em;">
+										Gateways
+									</td>
+									<td style="border:1px solid;padding:0.5em;">
+										Pathways
+									</td>
+									<td style="border:1px solid;padding:0.5em;">
+										Intersections
+									</td>
+								</tr>
+								<tr>
+									<th scope="row" style="padding:0.5em;">
+										Time
+									</th>
+									<td style="border:1px solid;padding:0.5em;">
+										Present
+									</td>
+									<td style="border:1px solid;padding:0.5em;">
+										Past
+									</td>
+									<td style="border:1px solid;padding:0.5em;">
+										Future
+									</td>
+									<td style="border:1px solid;padding:0.5em;">
+										Intervals
+									</td>
+								</tr>
+							</tbody>
+						</table>
+					</figure>
+				</blockquote>
+				<p class="quote-by">
+					-- <a rel="nofollow" href="http://keirsey.com/">David West Keirsey</a>
+				</p>
+				<p class="quote-from">
+					from "Please Understand Me II: Temperament, Character, Intelligence"
+				</p>
+			</div> <!-- class="quote" -->
+		</div>
+	</content>
+</entry>

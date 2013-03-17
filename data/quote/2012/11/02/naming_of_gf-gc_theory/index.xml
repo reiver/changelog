@@ -1,0 +1,67 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2012-11-02T10:23:16-08:00</published>
+
+	<id>ae09ab00-1b5f-41b1-b8bb-4899d06c3f55</id>
+
+	<title>The Naming of Gf-Gc Theory</title>
+
+	<category term="Intelligence" />
+	<category term="IQ" />
+	<category term="Psychology" />
+	<category term="Psychometrics" />
+
+	<content type="xhtml">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<div class="quote">
+				<blockquote>
+					<p>
+						The original G<i>f</i>-G<i>c</i> theory [not to be confused with <em>extended G<i>f</i>-G<i>c</i> theory</em>, which has other broad, second-order factors at the top level of its hierarchical structure] received its name when Raymond Cattell (1943; 1963) divided Spearman's factor of general intelligence into two broad, independent ones:
+						fluid intelligence (G<i>f</i>) and crystallized intelligence (G<i>c</i>).
+						The purpose of this separation was to account for individuals' cognitive development in adolescence and adulthood.
+						G<i>f</i> involves mentally working well with novel information and it is dependent on the efficient functioning of the central nervous system.
+						In contrast, G<i>c</i> is dependent on education and other forms of acculturation.
+						G<i>c</i> consists of the set of skills and information that individuals acquire and retain in memory throughout their lives.
+						Cattell (1941) proposed that G<i>f</i> is derived from genetic and biological effects, while G<i>c</i> primarily reflects environmental influences, such as amount of education and socioeconomic status.
+					</p>
+					<p>
+						[...]
+					</p>
+					<p>
+						Cattell, R. B.
+						(1941)
+						Some theoretical issues in adult intelligence testing.
+						<i>Psychological Bulletin</i>,
+						<b>38</b>,
+						592.
+					</p>
+					<p>
+						Cattell, R. B.
+						(1943).
+						The measurement of adult intelligence.
+						<i>Psychological Bulletin</i>,
+						<b>40</b>,
+						153-193.
+					</p>
+					<p>
+						Cattell, R. B.
+						(1963).
+						Theory of fluid and crystallized intelligence:
+						A critical experiment.
+						<i>Journal of Educational Psychology</i>,
+						<b>54</b>,
+						1-22.
+					</p>
+				</blockquote>
+				<p class="quote-by">
+					-- Janet E. Davidson
+					 , Iris A. Kemp
+				</p>
+                                <p class="quote-from">
+                                        from "The Cambridge Handbook of Intelligence"
+                                </p>
+			</div> <!-- class="quote" -->
+		</div>
+	</content>
+</entry>

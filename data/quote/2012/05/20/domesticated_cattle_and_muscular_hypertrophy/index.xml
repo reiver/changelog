@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2012-05-20T11:48:13-07:00</published>
+
+	<id>966a1d2d-b9b2-4cfd-9ec2-555db3ada383</id>
+
+	<title>Rapid Selection, Overdominance &amp; Disease As A Side Effect Of Adaptation: Domesticated Cattle And Muscular Hypertrophy</title>
+
+	<category term="Cattle" />
+	<category term="Disease" />
+	<category term="Evolution" />
+	<category term="Genetics" />
+	<category term="Overdominance" />
+
+	<content type="xhtml">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<div class="quote">
+				<blockquote cite="http://psychology.msu.edu/pers_hambric3/PSY493%20Spring%202012/Week%206%20-%20Cochran%20et%20al.%20(2006).pdf">
+					<p>
+						In another example of overdominance resulting from quantitative trait selection, several breeds of cattle (such as Belgian Blue and South Devon) have polymorphic frequencies of a mutation of the myostatin gene that caused muscular hypertrophy (Wiener, 2002).
+						This mutation has a frequency of 37% in the South Devon breed, where it significantly increases muscle mass but increases calving difficulty.
+						The fact that this mutation has not gone to fixation, even though selection favours heterozygotes, suggests that it is overdominant.
+
+					</p>
+					<p>
+						[...]
+					</p>
+					<p>
+						<b>Wiener, P.,
+						Smith, J. A.,
+						Lewis, A. M.,
+						Woolliams, J. A.
+						&amp;
+						Williams, J. L.</b>
+						(2002)
+						Muscle-related traits in cattle: the role of the myostatin gene in the South Devon Breed.
+						<i>Genetic Selection and Evolution</i> <b>34</b>,
+						221–232.
+
+					</p>
+				</blockquote>
+				<p class="quote-by">
+					-- <a rel="nofollow" href="http://gc.homeunix.net/">Gregory Cochran</a>
+					 , Jason Hardy
+					 , <a rel="nofollow" href="http://harpending.humanevo.utah.edu/harpindex.html">Henry Harpending</a>
+
+				</p>
+				<p class="quote-from">
+					from "<a rel="nofollow" href="http://psychology.msu.edu/pers_hambric3/PSY493%20Spring%202012/Week%206%20-%20Cochran%20et%20al.%20(2006).pdf">Natural History Of Ashkenazi Intelligence</a>"
+				</p>
+			</div> <!-- class="quote" -->
+		</div>
+	</content>
+</entry>

@@ -1,0 +1,56 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2012-11-04T20:44:05-08:00</published>
+
+	<id>71e66d93-f360-4306-9096-35775edd5292</id>
+
+	<title>Torsion Dystonia and IQ</title>
+
+	<category term="Genetics" />
+	<category term="IQ" />
+	<category term="Intelligence" />
+	<category term="Psychology" />
+	<category term="Psychometics" />
+
+	<content type="xhtml">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<div class="quote">
+				<blockquote cite="http://www.jerrypournelle.com/reports/cochran/overclocking.html">
+					<p>
+						Torsion dystonia is caused by a dominant gene with low penetrance..
+						The symptoms involve inappropriate contractions of muscles.
+						In a mild case, that might mean a tendency to writer's cramp: in a severe case, it means uncontrollable contractions that leave your limbs twisted and useless.
+						About 30% of the individuals with this gene have some noticeable symptoms, about 10% have very serious symptoms that can leave them in a wheel chair.
+						The problem is not in the muscles, but in areas of the brain that control muscles.
+						Torsion dystonia does not cause retardation... not hardly.
+					</p>
+					<p>
+						[...]
+					</p>
+					<p>
+						Unlike most genetic diseases, it [torsion dystoni] is dominant.
+						You only need one copy of the mutant gene to have problems.
+						That also means that any benefit must be large.
+						When a recessive mutation is rare, there are many more carriers than homozygotes, and even a small advantage among heterozygotes can balance serious bad effects in the rare homozygtes.
+						A dominant has to give a hefty advantage, even more so if it has any costs, which the torsion dystonia gene surely does.
+						So if torsion dystonia is [...] [a] hereditary neurological disease [...] [that] pays off in IQ, it must make a big difference, and that difference will probably show up in patients.
+						( Note that in diseases like Tay-Sachs, nobody even studies carriers.
+						Doctors are not geneticists.)
+						Apparently it does. I found several reports of materially increased IQ among Ashkenazi torsion dystonia patients. .
+						The difference is apparently so striking that it is mentioned in the very first scientific article on the disease, by Flatau back in 1911.
+						Many other physicians made the same observation.
+						And if you think that plenty that being crippled makes you smarter, think again: nobody every said that about polio victims.
+						Roswell Eldridge, in a small group of patients, found that the average IQ was 122, 10 points higher than their controls matched for age, sex, ethnic background, and school. .
+					</p>
+				</blockquote>
+				<p class="quote-by">
+					-- <a rel="nofollow" href="http://gc.homeunix.net/">Gregory Cochran</a>
+				</p>
+				<p class="quote-from">
+					from "<a rel="nofollow" href="http://www.jerrypournelle.com/reports/cochran/overclocking.html">Overclocking</a>"
+				</p>
+			</div> <!-- class="quote" -->
+		</div>
+	</content>
+</entry>

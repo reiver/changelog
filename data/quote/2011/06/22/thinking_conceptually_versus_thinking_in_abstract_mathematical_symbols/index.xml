@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2011-06-22T06:39:00-07:00</published>
+
+	<id>db4f0189-64ed-4e99-ba87-bd9519b3085a</id>
+
+	<title>Thinking Conceptually Versus Thinking In Abstract Mathematical Symbols</title>
+
+	<category term="Mathematics" />
+	<category term="Psychology" />
+
+	<content type="xhtml">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<div class="quote">
+				<blockquote cite="http://math-blog.com/2011/06/06/but-it-worked-in-the-computer-simulation/">
+					<p>
+						Most human beings think almost entirely conceptually. The vast majority of human beings rarely if ever use abstract mathematical symbols to think, and then only in specialized contexts. A "cat" is a concept: a special kind of "animal," another concept, distinguishable from, for example, a "dog," yet another concept. Many things that scientists and engineers deal with are concepts: particle accelerators, rockets, airplanes, electrons, cancer, and so forth. In only a few special cases, such as simple geometrical forms like the perfect sphere, can we express the concept in purely symbolic mathematical terms that can be programmed on a computer.
+					</p>
+				</blockquote>
+				<p class="quote-by">
+					-- John F. McGowan
+				</p>
+				<p class="quote-from">
+					from "<a rel="nofollow" href="http://math-blog.com/2011/06/06/but-it-worked-in-the-computer-simulation/">But It Worked in the Computer Simulation!</a>"
+				</p>
+			</div> <!-- class="quote" -->
+		</div>
+	</content>
+</entry>

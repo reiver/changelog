@@ -1,0 +1,80 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2012-03-18T13:15:56-07:00</published>
+
+	<id>af27f319-bfb4-4521-a76f-1dace5389d29</id>
+
+	<title>Brain Training Improves Intelligence In Some (But Not All) Children?</title>
+
+	<category term="Intelligence" />
+	<category term="Memory" />
+	<category term="Psychology" />
+	<category term="Psychometrics" />
+
+	<content type="xhtml">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<div class="quote">
+				<blockquote cite="http://articles.latimes.com/2011/jun/14/health/la-he-iq-boost-20110614-1">
+					<p>
+						Brain games can help with abstract reasoning months after the training, but they work only for those who really need and enjoy the exercises, a study says.
+					</p>
+					<p>
+						[...]
+					</p>
+					<p>
+						Children who've had [...] training [to hold a whole cluster of items in his or her memory for even a short time] have better abstract reasoning and solve problems more creatively than kids who haven't, the study found.
+					</p>
+					<p>
+						[...]
+						These drills, the scientists found, pay the greatest dividends for children who actually need them and who find the escalating challenge of the games fun, not frustrating.
+					</p>
+					<p>
+						For others,
+						"it might be difficult if you push your kid too much," said study lead author Susanne M. Jaeggi, a psychology professor at the University of Michigan.
+						"It's like a parent pushing a child to do sports or learn a musical instrument: There's always this delicate balance between too much or too little."
+					</p>
+					<p>
+						The training program used by Jaeggi and co-workers focused on ramping up working memory: the ability to hold in mind a handful of information bits briefly, and to update them as needed.
+						[...]
+					</p>
+					<p>
+						[Strengthening short-term memory capacity]
+						can, and it does
+						[boost a person's overall intellectual function, and will do so even after the brain-training sessions are over],
+						according to <a href="http://www.pnas.org/content/105/19/6829.full">this new research, published in the Proceedings of the National Academy of Sciences</a>.
+					</p>
+					<p>
+						[...]
+					</p>
+					<p>
+						The working-memory programs [...] required children to follow and remember a sequence of positions on a grid and, shortly after seeing the pattern, to answer questions about it. When a child did well on a game, the next sequence would become longer, increasingly challenging the child's ability to hold in mind the sequence and spatial information.
+					</p>
+					<p>
+						The task requires a child's rapt attention for as long as a minute and emphasizes the ability to screen out distractions while focusing on a single task.
+						The child must recall where and in what order items appeared on a screen, then work backward through that remembered information to answer questions correctly.
+					</p>
+					<p>
+						Jaeggi called the task, known as the "n-back test" by psychologists, "really devilish.
+						If you lose track just a little bit, you're completely out of it and you have to start anew."
+					</p>
+					<p>
+						When the children were tested at the end of the month of training, the Michigan researchers at first found scant differences between the group that got the working-memory training and the general knowledge group. 
+						Although those who had received working-memory training were better at holding several items in mind for a short while, on a test of abstract reasoning -- fluid intelligence -- they were, as a group, no smarter than the control group.
+					</p>
+					<p>
+						But then the researchers took a closer look and noticed a clear pattern:
+						The children who had improved the most on the memory-training task did indeed perform better on the fluid intelligence test.
+						And three months later, they still did better as a group than both the control group and the children who hadn't improved.
+					</p>
+				</blockquote>
+				<p class="quote-by">
+					-- Melissa Healy
+				</p>
+				<p class="quote-from">
+					from "<a rel="nofollow" href="http://articles.latimes.com/2011/jun/14/health/la-he-iq-boost-20110614-1">Memory training improves intelligence in some children, report says</a>"
+				</p>
+			</div> <!-- class="quote" -->
+		</div>
+	</content>
+</entry>

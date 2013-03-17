@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2013-01-30T08:38:11-08:00</published>
+
+	<id>9660d55f-82e2-4f7c-b27d-8eedc43dfe40</id>
+
+	<title>D4 Dopamine Receptor (DRD4) Locus and Attention Deficit Hyperactivity (ADHD)</title>
+
+	<category term="Genetics" />
+	<category term="Psychology" />
+
+	<content type="xhtml">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<div class="quote">
+				<blockquote cite="http://www.pnas.org/content/99/1/10.fulll">
+					<p>
+						The D4 dopamine receptor (DRD4) locus may be a model system for understanding the relationship between genetic variation and human cultural diversity.
+						It has been the subject of intense interest in psychiatry, because bearers of one variant are at increased risk for attention deficit hyperactivity disorder (ADHD) (1).
+					</p>
+					<p>
+						[...]
+					</p>
+					<p>
+						1.
+						Faraone S,
+						Doyle A E,
+						Mick E,
+						Biederman J
+						(2001) Am J Psychiatry 158:1052–1057.
+					</p>
+				</blockquote>
+				<p class="quote-by">
+					-- <a rel="nofollow" href="http://harpending.humanevo.utah.edu/harpindex.html">Henry Harpending</a>
+					 , <a rel="nofollow" href="http://gc.homeunix.net/">Gregory Cochran</a>
+				</p>
+				<p class="quote-from">
+					from "<a rel="nofollow" href="http://www.pnas.org/content/99/1/10.fulll">In our genes</a>"
+				</p>
+			</div> <!-- class="quote" -->
+		</div>
+	</content>
+</entry>

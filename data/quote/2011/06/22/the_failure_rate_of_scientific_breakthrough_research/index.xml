@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2011-06-22T07:11:00-07:00</published>
+
+	<id>98f57910-eb54-49f3-92b4-5481460addfb</id>
+
+	<title>The Failure Rate of Scientific Breakthrough Research</title>
+
+	<category term="Science" />
+
+	<content type="xhtml">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<div class="quote">
+				<blockquote cite="http://math-blog.com/2011/05/23/the-manhattan-project-considered-as-a-fluke">
+					<p>
+						If success is defined as a published paper, well then, the success rate of research could easily match or exceed 20% (an 80% failure rate). A great deal of modern research in fact consists of measuring something to slightly greater accuracy ("measuring X to another decimal point" is the standard put down) or calculating some theoretical quantity to slightly greater accuracy or detail. This sort of research may well have a 20% success rate (or higher, which the author suspects). Genuine breakthrough research, however, may well have a failure rate exceeding 99% or indeed, more accurately, have a 100% failure rate until a key enabling technology or method is developed, something obvious only in retrospect.
+					</p>
+				</blockquote>
+				<p class="quote-by">
+					-- John F. McGowan
+				</p>
+				<p class="quote-from">
+					from "<a rel="nofollow" href="http://math-blog.com/2011/05/23/the-manhattan-project-considered-as-a-fluke">The Manhattan Project Considered as a Fluke</a>"
+				</p>
+			</div> <!-- class="quote" -->
+		</div>
+	</content>
+</entry>

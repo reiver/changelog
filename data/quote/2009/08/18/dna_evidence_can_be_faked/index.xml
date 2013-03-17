@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2009-08-18T09:23:29-07:00</published>
+
+	<id>fee70571-3d2d-4205-9fa8-1a3e3214ac83</id>
+
+	<title>DNA "Evidence" Can Be Faked</title>
+
+	<category term="DNA" />
+	<category term="Genetics" />
+	<category term="Politics" />
+
+	<content type="xhtml">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<div class="quote">
+				<blockquote cite="http://www.nytimes.com/2009/08/18/science/18dna.html">
+					<p>
+						The scientists fabricated blood and saliva samples containing DNA from a person other than the donor of the blood and saliva. They also showed that if they had access to a DNA profile in a database, they could construct a sample of DNA to match that profile without obtaining any tissue from that person.
+					</p>
+				</blockquote>
+				<p class="quote-by">
+					-- Andrew Pollack
+				</p>
+				<p class="quote-from">
+					from "<a rel="nofollow" href="http://www.nytimes.com/2009/08/18/science/18dna.html">DNA Evidence Can Be Fabricated, Scientists Show</a>"
+				</p>
+			</div> <!-- class="quote" -->
+		</div>
+	</content>
+</entry>

@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2011-06-24T08:03:00-07:00</published>
+
+	<id>6b4e4427-6892-4c13-a5a8-074c237c76d1</id>
+
+	<title>Modal Person Has Innate Inclinations Towards Supernatural Beliefs?</title>
+
+	<category term="Psychology" />
+	<category term="Religion" />
+
+	<content type="xhtml">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<div class="quote">
+				<blockquote cite="http://blogs.discovermagazine.com/gnxp/2009/12/Who-believes-in-the-evil-eye/">
+					<p>
+						[M]any psychologists posit that humans have an innate predisposition toward supernatural beliefs because of the cognitive biases we're hardwired with. For example, it isn't a coincidence that almost all human societies seem to have the idea of what we would term ghosts, or that systematic astrology arose independent several times. Naive intuitions about mind-body duality or inferences one might make from the repetitive action of the stars against the cosmos are evoked by our common hardwire.
+					</p>
+				</blockquote>
+				<p class="quote-by">
+					-- <a rel="nofollow" href="http://razib.com/">Razib Khan</a>
+				</p>
+				<p class="quote-from">
+					from "<a rel="nofollow" href="http://blogs.discovermagazine.com/gnxp/2009/12/Who-believes-in-the-evil-eye/">Who believes in the evil eye?</a>"
+				</p>
+			</div> <!-- class="quote" -->
+		</div>
+	</content>
+</entry>

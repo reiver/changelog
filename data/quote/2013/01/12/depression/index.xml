@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2013-01-12T16:47:56-08:00</published>
+
+	<id>5e787102-2358-4677-a44f-5046ab8d1886</id>
+
+	<title>Lower IQ people, who are more impulsive, &amp; less conscientious, tend to self-report more severe depression</title>
+
+	<category term="Depression" />
+	<category term="IQ" />
+	<category term="Intelligence" />
+	<category term="Psychology" />
+
+	<content type="xhtml">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<div class="quote">
+				<blockquote cite="http://neuroskeptic.blogspot.ca/2013/01/smart-people-say-theyre-less-depressed.html">
+					<p>
+						<a href="http://www.ncbi.nlm.nih.gov/pubmed/23270973">[A]n interesting new study</a> looks at the question in issue from a new angle, asking: what <i>kind</i> of people report feeling more or less depressed? Korean researchers Kim and colleagues found that intelligence and personality variables were both linked to the tendency to self-rate depression more severely.
+					</p>
+					<p>
+						The study involved 100 patients who'd previously suffered from an episode of depression or mania and who, according to their psychiatrist, had now recovered and were back to normal. Kim et al looked to see what the <i>patient</i> thought about their mood, by getting them to complete the Beck Depression Inventory (BDI) self-report questionnaire.
+					</p>
+					<p>
+						This was compared to the clinican-administered HAMD scale [...] which is meant to be independent of self report.
+					</p>
+					<p>
+						It turns out that the BDI and HAMD scores were only weakly correlated - with a coefficient of just r=0.32.
+						That's really not very good considering that, in theory, they both measure the same thing: 'depression'.
+						Many people reported being considerably depressed when their clinicians rated them as fine.
+					</p>
+					<p>
+						But more interestingly, certain characteristics of the patients were correlated with their self-report/clinician-rating discrepancy.
+						Specifically, patients with a lower IQ, who were more impulsive, and less conscientious, tended to self-report more severe depression.
+					</p>
+				</blockquote>
+				<p class="quote-by">
+					-- <a rel="nofollow" href="http://neuroskeptic.blogspot.com/">Neuroskeptic </a>
+				</p>
+				<p class="quote-from">
+					from "<a rel="nofollow" href="http://neuroskeptic.blogspot.com/2013/01/smart-people-say-theyre-less-depressed.html">Smart People Say They're Less Depressed</a>"
+				</p>
+			</div> <!-- class="quote" -->
+		</div>
+	</content>
+</entry>

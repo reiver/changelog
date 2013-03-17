@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2011-09-25T22:45:29-07:00</published>
+
+	<id>ffe4c70e-fb0e-4518-8845-609c5642704e</id>
+
+	<title>What Many Artificial Neural Networks Are Like</title>
+
+	<category term="Artificial Neural Network" />
+	<category term="Mathematics" />
+	<category term="Statistics" />
+
+	<content type="xhtml">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<div class="quote">
+				<blockquote>
+					<p>
+						[Many artificial neural] networks are "neural" in the sense that they may have been inspired by neuroscience, but not necessarily because they are faithful models of biological neural or cognitive phenomena. In fact, [... many artificial neural networks ...] are more closely related to traditional mathematical and/or statistical models such as non-parametric pattern classifiers, clustering algorithms, nonlinear filters, and statistical regression models than they do with neurobiological models.
+					</p>
+				</blockquote>
+				<p class="quote-by">
+					-- <a rel="nofollow" href="http://neuron.eng.wayne.edu/hassoun.html">Mohamad H. Hassoun</a>
+				</p>
+				<p class="quote-from">
+					from "Fundamentals of Artificial Neural Networks"
+				</p>
+			</div> <!-- class="quote" -->
+		</div>
+	</content>
+</entry>

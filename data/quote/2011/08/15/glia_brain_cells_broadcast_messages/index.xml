@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2011-08-15T00:53:18-07:00</published>
+
+	<id>8080eb05-b138-4ad4-bbbc-ba33615e9a33</id>
+
+	<title>Glia Brain Cells Broadcast Messages</title>
+
+	<category term="Glia" />
+	<category term="Neural Networks" />
+	<category term="Neuroscience" />
+
+	<content type="xhtml">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<div class="quote">
+				<blockquote>
+					<p>
+						Crowding around the computer screen in a darkened room in 1990, scientists watched information passing through peculiar brain cells, bypassing neurons and communicating without using electrical impulses. Until this discovery scientists had presumed that information in the brain flowed only through neurons by using electricity. In fact, a mere 15 percent of the cells in our brain are neurons. The rest of out brain cells -- called glia -- have been overlooked as little more than packing material stuffed between the electric neurons. "Housekeeping cells" they were called. Dismissed a cellular domestic servant, glia were neglected for more than a century after they were discovered.
+					</p>
+					<p>
+						Now scientists are shocked to learn that these odd brain cells communicate among themselves. [...] [glia] cells not only sense electrical activity flowing through neural circuits -- the can control it.
+					</p>
+					<p>
+						[...] Glia are not connected through synapses into circuits the way neurons are. Rather than passing messages sequentially like a falling line of dominos [like neurons], glia broadcast their message broadly throughout the brain. 
+					</p>
+				</blockquote>
+				<p class="quote-by">
+					-- <a rel="nofollow" href="http://rdouglasfields.wordpress.com/">R. Douglas Fields</a>
+				</p>
+				<p class="quote-from">
+					from "The Other Brain" 
+				</p>
+			</div> <!-- class="quote" -->
+		</div>
+	</content>
+</entry>

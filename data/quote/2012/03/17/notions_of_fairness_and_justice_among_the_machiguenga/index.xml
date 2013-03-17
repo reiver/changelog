@@ -1,0 +1,56 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2012-03-17T20:58:22-07:00</published>
+
+	<id>407326c7-6d1d-4e23-84c8-639715dc95ff</id>
+
+	<title>Notions Of Fairness And Justice Among The Machiguenga</title>
+
+	<category term="Morality" />
+	<category term="Psychology" />
+
+	<content type="xhtml">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<div class="quote">
+				<blockquote>
+					<p>
+						[T]he ultimatum game [...] works like this:
+						subjects are randomly assigned into two roles, proposer or responder.
+						Proposers are given twenty dollars and told that they can offer their responder anything between one dollar and the whole amount.
+						Responders have two choices: they can accept and walk away with whatever amount the proposer has offered, or they can reject the offer, in which case neither the proposer nor the responder will receive any money at all.
+						That's the whole game.
+					</p>
+					<p>
+						[...]
+					</p>
+					<p>
+						In the experiments conducted in America in the past twenty years, the most common offer proposers make is a full 50 percent of the pot.
+						And when low or unfair offers do come, responders tend to reject them, even in high-stakes games when the amount is still substantial.
+					</p>
+					<p>
+						[...]
+					</p>
+					<p>
+						[Joseph Henrich] took the ultimatum game and other experiments to southeastern Peru and ran them with the Machiguenga, a family-centered forager-horticultural society scattered throughout the Peruvian Amazon.
+					</p>
+					<p>
+						[...]
+					</p>
+					<p>
+						[Joseph] Henrich [...] came back with unexpected results.
+						[...] [T]he Machiguenga people [...] didn't behave like Americans [...].
+						For one thing, they didn't reject low offers in the ultimatum game.
+						Further studies indicated that Americans and Machiguenga have strikingly different ideas about fairness and justice [...].
+					</p>
+				</blockquote>
+				<p class="quote-by">
+					-- <a rel="nofollow" href="http://www.class.uh.edu/faculty/tsommers/">Tamler Sommers</a>
+				</p>
+				<p class="quote-from">
+					from "A Very Bad Wizard: Morality Behind the Curtain"
+				</p>
+			</div> <!-- class="quote" -->
+		</div>
+	</content>
+</entry>

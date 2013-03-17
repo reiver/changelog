@@ -1,0 +1,74 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2011-12-23T17:21:43-08:00</published>
+
+	<id>b849b16e-0e43-4706-9ac4-9d82ef94dad7</id>
+
+	<title>What Does "Understanding" Really Mean: The Chinese Room</title>
+
+	<category term="Artificial General Intelligence" />
+	<category term="Intelligence" />
+
+	<content type="xhtml">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<div class="quote">
+				<blockquote>
+					<p>
+						John Searle, an influential philosophy professor at the University of California at Berkeley, was at that time saying that computers were not, and could not be, intelligent.
+						To prove it, in 1980 he came up with a thought experiment call the Chinese Room.
+						It goes like this:
+					</p>
+					<p>
+						Suppose you have a room with a slot in one wall, and inside is an English-speaking person sitting at a desk.
+						He has a big book of instructions and all the pencils and scratch paper he could ever need.
+						Flipping through the book, he sees that the instructions, written in English, dictate ways to manipulate, sort, and compare Chinese characters.
+						Mind you, the directions say nothing about the meanings of the Chinese characters;
+						they only deal with how the characters are to be copied, erased, reordered, transcribed, and so forth.
+					</p>
+					<p>
+						Someone outside the room slips a piece of paper through the slot.
+						On it is written a story and questions about the story, all in Chinese.
+						The man inside doesn't speak or read a word of Chinese, but he picks up the paper and goes to work with the rulebook.
+						He toils and toils, rotely following the instructions in the book.
+						At times the instructions tell him to write characters on scrap paper, and at other times to move and erase characters.
+						Applying rule after rule, writing and erasing characters, the man works until the book's instructions tell hum he is done.
+						When he is finished at last he has written a new page of characters, which unbeknownst to him are the answers to the questions.
+						The book tells hum to pass his paper back through the slot.
+						He does it, and wonders what this whole tedious exercise has been about.
+					</p>
+					<p>
+						Outside, a Chinese speaker reads the page.
+						The answers are all correct, she notes -- even insightful.
+						If she is asked whether those answers came from an intelligent mind that had understood the story, she will definitely say yes.
+						But can she be right?
+						Who understood the story?
+						It wasn't the fellow inside, certainly;
+						he is ignorant of Chinese and has no idea what the story was about.
+						It wasn't the book, which is just, well, a book, sitting inertly on the writing desk amid piles of paper.
+						So where did the understanding occur?
+						Searle's answer is that no understanding did occur;
+						it was just a bunch of mindless page flipping and pencil scratching.
+						And now the bait-and-switch:
+						the Chinese Room is exactly analogous to a digital computer.
+						The person is the CPU, mindlessly executing instructions, the book is the software program feeding instructions to the CPU, and the scratch paper is the memory.
+						Thus, no matter how cleverly a computer is designed to simulate intelligence by producing the same behavior as a human, it has no understanding and it is not intelligent.
+						(Searle made it clear he didn't know what intelligence is; he was only saying that whatever it is, computers don't have it.)
+					</p>
+					<p>
+						
+					</p>
+					<p>
+						
+					</p>
+				</blockquote>
+				<p class="quote-by">
+					-- <a rel="nofollow" href="http://www.onintelligence.org/">Jeffrey Hawkins</a>
+				</p>
+				<p class="quote-from">
+					from "On Intelligence"
+				</p>
+			</div> <!-- class="quote" -->
+		</div>
+	</content>
+</entry>

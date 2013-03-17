@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2012-03-18T15:21:09-07:00</published>
+
+	<id>f67da309-f6e0-4e63-8919-9f723400099f</id>
+
+	<title>For Laplace, Institutions Of Science Were Not A Meritocracy</title>
+
+	<category term="History" />
+	<category term="Mathematics" />
+	<category term="Science" />
+	<category term="Statistics" />
+
+	<content type="xhtml">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<div class="quote">
+				<blockquote>
+					<p>
+						[W]ith his eye on membership in the [French] Royal Academy [of Sciences], [Pierre-Simon] Laplace bombarded the society with 13 papers in five years.
+						He submitted hundreds of pages of powerful and original mathematics needed in astronomy, celestial mechanics, and important related issues.
+						Astutely, he timed his reports to appear when openings occurred in the academy's membership.
+						The secretary of the academy, the Marquis de Condorcet, wrote that never before had the society seen "anyone so young, present to it in so little time, so many important M&#233;moires, and on such diverse and such difficult matters."<sup>5</sup>
+					</p>
+					<p>
+						Academy members considered Laplace for membership six times but rejected him repeatedly in favor of more senior scientists.
+						D'Alembert complained furiously that the organization refused to recognize talent.
+						Laplace considered emigrating to Prussia or Russia to work in their academies.
+					</p>
+					<p>
+						[...]
+					</p>
+					<p>
+						5. Stigler (1978) 234-35.
+					</p>
+				</blockquote>
+				<p class="quote-by">
+					-- <a rel="nofollow" href="http://www.mcgrayne.com/">Sharon Bertsch McGrayne</a>
+				</p>
+				<p class="quote-from">
+					from "The Theory That Would Not Die: How Bayes' Rule Cracked the Enigma Code, Hunted Down Russian Submarines, and Emerged Triumphant from Two Centuries of Controversy"
+				</p>
+			</div> <!-- class="quote" -->
+		</div>
+	</content>
+</entry>

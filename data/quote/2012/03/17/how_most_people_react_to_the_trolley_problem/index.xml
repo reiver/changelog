@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2012-03-17T20:00:43-07:00</published>
+
+	<id>387f9aee-79eb-4855-8e06-4c167f13b834</id>
+
+	<title>How Most People React To The Trolley Problem</title>
+
+	<category term="Morality" />
+	<category term="Psychology" />
+
+	<content type="xhtml">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<div class="quote">
+				<blockquote>
+					<p>
+						Here's the situation.
+						A trolley is racing down the tracks, out of control, and will kill five unsuspecting workers unless you act.
+						You're standing at a switch that can divert the trolley to a second track where there is only one unsuspecting worker.
+						Should you flip the switch?
+					</p>
+					<p>
+						Most subjects in studies posing this dilemma say that you ought to flick the switch.
+						The reasoning is simple: if you act, one person will die instead of five -- a net gain of four lives.
+						But watch what happens when the scenario is adjusted in one small but apparently significant way:
+						the same trolley with the same dead conductor is barreling down the track, headed for the same five unsuspecting workers, but this time there is only one track, and you are on a footbridge, looking down at the situation.
+						In front of you is an unsuspecting fat man.
+						You know that if you push the fat man over the bridge, his girth will be enough to stop the train.
+						He'll be killed, but the five workers will be saved.
+						Should you push him over the bridge?
+					</p>
+					<p>
+						Now the results are completely different.
+						The vast majority of subjects think that it would be morally wrong to push the man in order to stop the runaway trolley.
+						What's puzzling is that in many ways the scenarios are identical.
+						In both cases, your act causes one man to die -- who wouldn't otherwise -- instead of five others.
+						There's the same net gain of four lives.
+						The only difference is that in case one you're flicking a switch, and in case two you make physical contact with the doomed man.
+						What accounts for the radical difference in [...] [most people's] moral intuitions?
+					</p>
+				</blockquote>
+				<p class="quote-by">
+					-- <a rel="nofollow" href="http://www.class.uh.edu/faculty/tsommers/">Tamler Sommers</a>
+				</p>
+				<p class="quote-from">
+					from "A Very Bad Wizard: Morality Behind the Curtain"
+				</p>
+			</div> <!-- class="quote" -->
+		</div>
+	</content>
+</entry>

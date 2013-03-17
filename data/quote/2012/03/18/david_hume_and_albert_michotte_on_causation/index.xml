@@ -1,0 +1,90 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2012-03-18T16:55:16-07:00</published>
+
+	<id>d1ab0eb6-32ed-4400-9ddd-0ccfabe59a98</id>
+
+	<title>David Hume And Albert Michotte On Causation</title>
+
+	<category term="Psychology" />
+	<category term="Science" />
+
+	<content type="xhtml">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<div class="quote">
+				<blockquote cite="http://www.wired.com/magazine/2011/12/ff_causation/all/1">
+					<p>
+						[C]auses are a strange kind of knowledge.
+						This was first pointed out by David Hume, the 18th-century Scottish philosopher.
+						Hume realized that, although people talk about causes as if they are real facts -- tangible things that can be discovered -- they're actually not at all factual.
+						Instead, Hume said, every cause is just a slippery story, a catchy conjecture, a “lively conception produced by habit.”
+						When an apple falls from a tree, the cause is obvious: gravity.
+						Hume's skeptical insight was that we don't see gravity -- we see only an object tugged toward the earth.
+						We look at X and then at Y, and invent a story about what happened in between.
+						We can measure facts, but a cause is not a fact -- it's a fiction that helps us make sense of facts.
+					</p>
+					<p>
+						The truth is, our stories about causation are shadowed by all sorts of mental shortcuts.
+						Most of the time, these shortcuts work well enough.
+						They allow us to hit fastballs, discover the law of gravity, and design wondrous technologies.
+						However, when it comes to reasoning about complex systems -- say, the human body -- these shortcuts go from being slickly efficient to outright misleading.
+					</p>
+					<p>
+						Consider a set of classic experiments designed by Belgian psychologist Albert Michotte, first conducted in the 1940s.
+						The research featured a series of short films about a blue ball and a red ball.
+						In the first film, the red ball races across the screen, touches the blue ball, and then stops.
+						The blue ball, meanwhile, begins moving in the same basic direction as the red ball.
+						When Michotte asked people to describe the film, they automatically lapsed into the language of causation.
+						The red ball hit the blue ball, which caused it to move.
+					</p>
+					<p>
+						This is known as the launching effect, and it's a universal property of visual perception.
+						Although there was nothing about causation in the two-second film -- it was just a montage of animated images -- people couldn't help but tell a story about what had happened.
+						They translated their perceptions into causal beliefs.
+					</p>
+					<p>
+						Michotte then began subtly manipulating the films, asking the subjects how the new footage changed their description of events.
+						For instance, when he introduced a one-second pause between the movement of the balls, the impression of causality disappeared.
+						The red ball no longer appeared to trigger the movement of the blue ball. Rather, the two balls were moving for inexplicable reasons.
+					</p>
+					<p>
+						Michotte would go on to conduct more than 100 of these studies.
+						Sometimes he would have a small blue ball move in front of a big red ball.
+						When he asked subjects what was going on, they insisted that the red ball was “chasing” the blue ball.
+						However, if a big red ball was moving in front of a little blue ball, the opposite occurred: 
+						The blue ball was “following” the red ball.
+					</p>
+					<p>
+						There are two lessons to be learned from these experiments.
+						The first is that our theories about a particular cause and effect are inherently perceptual, infected by all the sensory cheats of vision.
+						(Michotte compared causal beliefs to color perception: We apprehend what we perceive as a cause as automatically as we identify that a ball is red.)
+						While Hume was right that causes are never seen, only inferred, the blunt truth is that we can't tell the difference.
+						And so we look at moving balls and automatically see causes, a melodrama of taps and collisions, chasing and fleeing.
+					</p>
+					<p>
+						The second lesson is that causal explanations are oversimplifications.
+						This is what makes them useful -- they help us grasp the world at a glance.
+						For instance, after watching the short films, people immediately settled on the most straightforward explanation for the ricocheting objects.
+						Although this account felt true, the brain wasn't seeking the literal truth -- it just wanted a plausible story that didn't contradict observation.
+					</p>
+					<p>
+						This mental approach to causality is often effective, which is why it's so deeply embedded in the brain.
+						However, those same shortcuts get us into serious trouble in the modern world when we use our perceptual habits to explain events that we can't perceive or easily understand.
+						Rather than accept the complexity of a situation -- say, that snarl of causal interactions in the cholesterol pathway—we persist in pretending that we're staring at a blue ball and a red ball bouncing off each other.
+						There's a fundamental mismatch between how the world works and how we think about the world.
+					</p>
+					<p>
+						
+					</p>
+				</blockquote>
+				<p class="quote-by">
+					-- <a rel="nofollow" href="http://www.jonahlehrer.com/">Jonah Lehrer</a>
+				</p>
+				<p class="quote-from">
+					from "<a rel="nofollow" href="http://www.wired.com/magazine/2011/12/ff_causation/all/1">Trials and Errors: Why Science Is Failing Us</a>"
+				</p>
+			</div> <!-- class="quote" -->
+		</div>
+	</content>
+</entry>

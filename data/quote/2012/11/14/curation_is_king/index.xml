@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2012-11-14T13:21:01-08:00</published>
+
+	<id>ef9e4d79-0b0f-4bd5-a686-9f8ff2f44d63</id>
+
+	<title>Curation is King?</title>
+
+	<category term="Blogging" />
+	<category term="Publishing" />
+
+	<content type="xhtml">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<div class="quote">
+				<blockquote cite="http://conversableeconomist.blogspot.com/2012/11/the-uncertain-future-for-universities.html">
+					<p>
+						In an age of ubiquitous content, ‘content is king’ no longer applies. Credibility is king — and increasingly ‘curation is king’.
+					</p>
+				</blockquote>
+				<p class="quote-from">
+					from "<a rel="nofollow" href="www.ey.com/Publication/vwLUAssets/University_of_the_future/$FILE/University_of_the_future_2012.pdf">University of the future: A thousand year old industry on the cusp of profound change</a>"
+				</p>
+			</div> <!-- class="quote" -->
+		</div>
+	</content>
+</entry>

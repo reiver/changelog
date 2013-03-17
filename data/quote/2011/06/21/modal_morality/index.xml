@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2011-06-21T23:55:00-07:00</published>
+
+	<id>7e74bf00-8899-42d1-b6d5-62e8ed965e4c</id>
+
+	<title>Modal Morality?</title>
+
+	<category term="Morality" />
+	<category term="Psychology" />
+
+	<content type="xhtml">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<div class="quote">
+				<blockquote cite="http://www.nytimes.com/2008/01/13/magazine/13Psychology-t.html">
+					<p>
+						When anthropologists like Richard Shweder and Alan Fiske survey moral concerns across the globe, they find that a few themes keep popping up from amid the diversity. People everywhere, at least in some circumstances and with certain other folks in mind, think it's bad to harm others and good to help them. They have a sense of fairness: that one should reciprocate favors, reward benefactors and punish cheaters. They value loyalty to a group, sharing and solidarity among its members and conformity to its norms. They believe that it is right to defer to legitimate authorities and to respect people with high status. And they exalt purity, cleanliness and sanctity while loathing defilement, contamination and carnality.
+					</p>
+					<p>
+						The exact number of themes depends on whether you're a lumper or a splitter, but Haidt counts five -- harm, fairness, community (or group loyalty), authority and purity -- and suggests that they are the primary colors of our moral sense. Not only do they keep reappearing in cross-cultural surveys, but each one tugs on the moral intuitions of people in our own culture.
+					</p>
+				</blockquote>
+				<p class="quote-by">
+					-- <a rel="nofollow" href="http://www.stevenpinker.com/">Steven Arthur Pinker</a>
+				</p>
+				<p class="quote-from">
+					from "<a rel="nofollow" href="http://www.nytimes.com/2008/01/13/magazine/13Psychology-t.html">The Moral Instinct</a>"
+				</p>
+			</div> <!-- class="quote" -->
+		</div>
+	</content>
+</entry>

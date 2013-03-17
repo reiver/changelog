@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2012-08-14T20:43:56-07:00</published>
+
+	<id>2727cdfe-c546-487c-b3df-6210569b25fb</id>
+
+	<title>On The Changing IQ</title>
+
+	<category term="Intelligence" />
+	<category term="IQ" />
+	<category term="Psychology" />
+	<category term="Psychometrics" />
+
+	<content type="xhtml">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<div class="quote">
+				<blockquote>
+					<p>
+						There's no such thing as a person's IQ.
+						It varies.
+						Change the IQ test and you change the IQ.
+						Change the examiner, the day of the test, the person's mood, or the examiner's alertness, and you change the IQ.
+						Test the person 12 times and you might get a dozen different IQs.
+					</p>
+				</blockquote>
+				<p class="quote-by">
+					-- Alan S. Kaufman
+				</p>
+				<p class="quote-from">
+					from "IQ Testing 101 (Psych 101)"
+				</p>
+			</div> <!-- class="quote" -->
+		</div>
+	</content>
+</entry>

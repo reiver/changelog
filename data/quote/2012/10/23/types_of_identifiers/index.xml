@@ -1,0 +1,80 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2012-10-23T06:28:12-07:00</published>
+
+	<id>6437cfd6-d188-43cc-a9e9-31cfd6ee2edd</id>
+
+	<title>Types of Identifiers</title>
+
+	<category term="Identity" />
+	<category term="Privacy" />
+	<category term="Security" />
+
+	<content type="xhtml">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<div class="quote">
+				<blockquote>
+					<p>
+						The building blocks of identification are "identifiers."
+						Identifiers are facts that distinguish people and entities from one another.
+						What we often call a "characteristic" or an "attribute" becomes an identifier when it is used for sorting and organizing people and institutions in our thoughts and records.
+					</p>
+					<p>
+						For example, an attribute of a person named Thomas is the fact that his name is "Thomas."
+						Thomas may have other characteristics or attributes, such as his owning a T-shirt, but his name will be more commonly used as an identifier.
+						Indeed, names exist to be identifiers.
+					</p>
+					<p>
+						A T-shirt is unlikely to be used as an identifier very often, though it can be.
+						In a remote village of sub-Saharan Africa or high in the Himalayas, for example, ownership of a T-shirt may be a distinguishing characteristic and this a useful identifier.
+						People might call Thomas "the guy with the T-shirt."
+						Wearing a bright blue ascot in such a place might be an extremely distinct attribute and thus a worthy identifier.
+						Perhaps there, as in most places, it would earn the effete Thomas a punch in the stomach.
+					</p>
+					<p>
+						So identifiers are facts used to sort and categorize people and entities from one another.
+						Although there are many different kinds,
+						identifiers have traditionally been grouped into three categories:
+						something you are, something you know, and something you have.<sup>1</sup>
+						An additional category -- something you are assigned -- is sufficiently distinct from the others to be treated separately.
+						These categories are not hermetically sealed from one another, but they are a helpful way of organizing the world of identifiers.
+						[...]
+					</p>
+					<p>
+						"Something-you-are" identifiers are characteristics that are inherent in a person or attached to his or her physical body.
+						They include hair color, fingerprints, DNA, voice, signature, and other biometrics,
+					</p>
+					<p>
+						"Something-you-are-assigned" identifiers include names, titles, numbers, and addresses.
+						These identifiers are socially defined.
+						That is, they exist because of traditions in human societies that define and organize people, places, statuses, times, and so on.
+						These identifiers are associated with people but not inherent or attached.
+					</p>
+					<p>
+						"Something you know" is the characteristic of having some distinct knowledge -- usually knowledge that few others have.
+						Common examples of something-you-know identifiers include knowledge of passwords and mothers' maiden names.
+					</p>
+					<p>
+						Finally, a "something-you-have" identifier is the characteristic of possessing some distinct item.
+						Identification cards are the most common example.
+						Something-you-have identifiers are often called "tokens" because there are many examples beyond cards.
+						In the future, something-you-have identifiers may take many forms and use many different technologies.
+					</p>
+					<p>
+						Different identifiers have different qualities.
+						Some identifiers are fixed to a person -- or at least they are likely to stay fixed -- for life, such as the fingerprint or mother's maiden name.
+						Others are transient and exist only for a few moments, such as "bending over tying his shoe."
+						Some identifiers are unique to each individual (DNA), whereas others are quite commonplace (brown hair).
+					</p>
+				</blockquote>
+				<p class="quote-by">
+					-- <a rel="nofollow" href="http://twitter.com/Jim_Harper">Jim Harper</a>
+				</p>
+				<p class="quote-from">
+					from "Identity Crisis: How Identification is Overused and Misunderstood"
+				</p>
+			</div> <!-- class="quote" -->
+		</div>
+	</content>
+</entry>

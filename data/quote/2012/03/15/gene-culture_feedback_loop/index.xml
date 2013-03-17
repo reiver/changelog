@@ -1,0 +1,73 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2012-03-15T13:13:52-07:00</published>
+
+	<id>26795edb-a33a-459a-8b9e-ab2f2764f042</id>
+
+	<title>Gene-Culture Feedback Loop</title>
+
+	<category term="Evolution" />
+	<category term="Genetics" />
+	<category term="Psychology" />
+
+	<content type="xhtml">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<div class="quote">
+				<blockquote>
+					<p>
+						T[amler ]S[ommers]:
+						A couple of things about the book [Why Humans Cooperate (2007)]: one methodological.
+						Your book brings together research from many fields within the sciences -- mathematical modeling from evolutionary theory, behavioral experiments in economics, and thick ethnography. [...]
+						This hasn't been done before, has it?
+					</p>
+					<p>
+						J[oseph ]H[enrich]:
+						As far as I know, it's not been done.
+						Certainly not the particular combination of things we have.
+						The problem is in the way social science works with the training.
+						If you're trained in anthropology, you're trained how to do thick ethnography.
+						You know zero about how to do experiments.
+						But if you're trained in psychology -- I'm in a psychology department right now -- you learn how to do laboratory experiments with undergraduate kids, but you learn nothing about how to observe life and make systematic recordings about how people interact in real life.
+						And in neither of those places do you learn much about evolutionary biology and how to make formal models of social interaction.
+						So our effort is to pull all three together and how how each can tell part of the story and work synergistically.
+					</p>
+					<p>
+						[...]
+					</p>
+					<p>
+						T[amler ]S[ommers]:
+						[...]
+						The dominant view in anthropology is still that evolution has no effect on how humans behave.
+					</p>
+					<p>
+						J[oseph ]H[enrich]:
+						Yeah.
+						It's fine for talking about stones and bones, but any kind of interesting social behavior -- no.
+						This is cultural anthropology.
+						There's also biological anthropology [...].
+					</p>
+					<p>
+						T[amler ]S[ommers]:
+						[...]
+						And your view is that evolution does play a large role in influencing human behavior, but that it interacts with culture, too, and there's this feedback between the two.
+					</p>
+					<p>
+						J[oseph ]H[enrich]:
+						Right, so you need evolution and you need gene-culture coevolution, which means that part of our genetic evolution has been shaped by culture.
+						And then there's just plain "We're a cultural species, we're heavily reliant on learning from other people."
+						That's just cultural evolution.
+						All of these things play a role in explaining human behavior, and the relative importance depends on the particular problem one is examining.
+					</p>
+				</blockquote>
+				<p class="quote-by">
+					-- <a rel="nofollow" href="http://www.class.uh.edu/faculty/tsommers/">Tamler Sommers</a>
+					 , <a rel="nofollow" href="http://www2.psych.ubc.ca/~henrich/">Joseph Henrich</a>
+				</p>
+				<p class="quote-from">
+					from "A Very Bad Wizard: Morality Behind the Curtain"
+				</p>
+			</div> <!-- class="quote" -->
+		</div>
+	</content>
+</entry>

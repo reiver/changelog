@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2011-06-22T00:15:00-07:00</published>
+
+	<id>96135ec7-59c2-4d48-819d-05090b1ba976</id>
+
+	<title>In The Fossil Record, A Species Is A Hypothesis</title>
+
+	<category term="Genetics" />
+	<category term="Paleontology" />
+
+	<content type="xhtml">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<div class="quote">
+				<blockquote cite="http://johnhawks.net/weblog/reviews/early_hominids/phylogeny/anamensis-sinking-kenyanthropus-2009.html">
+					<p>
+						In the fossil record, a species is a hypothesis. We can't test that hypothesis in the way we do with living animals. Even in the dark, after all the paleontologists have left, the fossil bones just won't get it on. No reproduction, no test.
+					</p>
+					<p>
+						So, sometimes we have to live with hypotheses that we can't immediately test. Because many hypotheses are wrong, we have to keep juggling in our minds the names of more species than probably existed.
+					</p>
+				</blockquote>
+				<p class="quote-by">
+					-- <a rel="nofollow" href="http://johnhawks.net/">John Hawks</a>
+				</p>
+				<p class="quote-from">
+					from "<a rel="nofollow" href="http://johnhawks.net/weblog/reviews/early_hominids/phylogeny/anamensis-sinking-kenyanthropus-2009.html">Why didn't they let Kenyanthropus save them?</a>"
+				</p>
+			</div> <!-- class="quote" -->
+		</div>
+	</content>
+</entry>

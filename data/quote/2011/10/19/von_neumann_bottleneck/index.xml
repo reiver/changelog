@@ -1,0 +1,64 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2011-10-19T20:25:20-07:00</published>
+
+	<id>f5017bd9-14eb-4110-9895-2dc2331f4bcd</id>
+
+	<title>Von Neumann Bottleneck</title>
+
+	<category term="Computer Hardware" />
+	<category term="Computer Science" />
+	<category term="Von Neumann Architecture" />
+
+	<content type="xhtml">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<div class="quote">
+				<blockquote cite="http://dspace.mit.edu/bitstream/handle/1721.1/14719/18524280.pdf">
+					<p>
+						One reason that computers are slow is that their hardware is used extremely inefficiently.
+						[...]
+						The reasons for the inefficiency are partly technical but mostly historical.
+						The basic forms of today's architectures were developed under a very different set of technologies, when different assumptions applied than are appropriate today.
+						[...]
+					</p>
+					<p>
+						A modern computer contains about one square meter of silicon.
+						This square meter contains approximately one billion transistors which make up the processor and memory of the computer.
+						The interesting point here is that both the processor and memory are made of the same stuff.
+						This was not always the case.
+						When von Neumann and his colleagues were designing the first computers, their processors were made of relatively fast and expensive switching components such as vacuum tubes, whereas the memories were made of relatively slow and inexpensive components such as delay lines or storage tubes.
+						The result was a two-part design which kept the expensive vacuum tubes as busy as possible.
+						This two-part design, with memory on one side and processing on the other, we call the von Neumann architecture, and it is the way that we build almost all computer today.
+						This basic design has been so successful that most computer designers have kept it even though the technological reason for the memory / processor split no longer makes sense.
+					</p>
+
+					<h2>The Memory / Processor Split Leads to Inefficiency</h2>
+					<p>
+						In a large von Neumann computer almost none of its billion or so transistors are doing any useful processing at any given instant.
+						Almost all of the transistors are in the memory section of the machine, and only a few of those memory locations are being accessed at any given time.
+						The two-part architecture keeps the silicon devoted to processing wonderfully busy, but this is only two or three percent of the silicon area.
+						The other 97 percent sits idle.
+						[...] [T]his is an expensive resource to waste.
+						If we were to take another measure of cost in the computer, kilometers of wire, the results would be much the same:
+						most of the hardware is in memory, so most of the hardware is doing nothing most of the time.
+					</p>
+					<p>
+						As we build larger computers the problem becomes even worse.
+						It is relatively straightforward to increase the size of memory in a machine, it is far from obvious how to increase the size of the processor.
+						The result is that as we build bigger machines with more silicon, or equivalently, as we squeeze more transistors into each unit of area, the machines have a larger ratio of memory to processing power and are consequently even less efficient.
+						This inefficiency remains no matter how fast we make the processor because the length of the computation becomes dominated by the time required to move data between processor and memory.
+						This is call the "von Neumann bottleneck."
+						The bigger we build machines, the worse it gets.
+					</p>
+				</blockquote>
+				<p class="quote-by">
+					-- William Daniel Hillis
+				</p>
+				<p class="quote-from">
+					from "<a rel="nofollow" href="http://dspace.mit.edu/bitstream/handle/1721.1/14719/18524280.pdf">The Connection Machine</a>"
+				</p>
+			</div> <!-- class="quote" -->
+		</div>
+	</content>
+</entry>

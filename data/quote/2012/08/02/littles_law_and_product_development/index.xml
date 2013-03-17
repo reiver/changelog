@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2012-08-02T06:55:59-07:00</published>
+
+	<id>f11f2f32-8435-4c30-a2ef-e7fa7da441e4</id>
+
+	<title>Little's Law and Product Development</title>
+
+	<category term="Software Engineering" />
+	<category term="Software Development" />
+
+	<content type="xhtml">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<div class="quote">
+				<blockquote cite="http://www.shmula.com/littles-law-for-product-development/263/">
+					<p>
+						For product development, we can use a transformation of Little’s Law, like the following:
+					</p>
+					<blockquote>
+						<p>
+							[(Throughput) = (Things-in-Process) / (Average Completion Rate)]
+						</p>
+					</blockquote>
+					<p>
+						What this equation tells us and what experience has shown time-after-time, is that the number one driver of Product Development Cycle Time are the “things-in-process” [which is also called the "work-in-progress"].
+						There is no quicker way to reduce the cycle time by which your company can get a product from concept-to-delivery than through first prioritizing all the projects or products and focusing on the ones that make strategic and tactical sense, and killing the lower priority projects.
+					</p>
+					<p>
+						You might be thinking: “True, but couldn’t we also increase the average completion rate”? You’re right, but the impact of doing that is much lower than reducing the TIP — that is, influencing the average completion rate is rather difficult and is often a function of available resources, scope creep, market demands and changes, etc.
+						Here’s the bottom line: the number one driver for shipping products quicker is by focusing on the important ones and killing the unimportant ones.
+					</p>
+				</blockquote>
+				<p class="quote-by">
+					-- <a rel="nofollow" href="http://www.shmula.com/">Pete Abilla</a>
+				</p>
+				<p class="quote-from">
+					from "<a rel="nofollow" href="http://www.shmula.com/littles-law-for-product-development/263/">Little’s Law for Product Development</a>"
+				</p>
+			</div> <!-- class="quote" -->
+		</div>
+	</content>
+</entry>

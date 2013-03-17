@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2012-06-11T12:07:34-07:00</published>
+
+	<id>a85de7e1-8767-4032-ad11-a83293c5aab5</id>
+
+	<title>Animal Intoxication And Addiction</title>
+
+	<category term="Biology" />
+	<category term="Psychology" />
+
+	<content type="xhtml">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<div class="quote">
+				<blockquote cite="http://www.nytimes.com/2012/06/10/opinion/sunday/our-animal-natures.html">
+					<p>
+						Animals don’t have access to liquor stores, pharmacies or corner drug dealers.
+						But the intoxicants in those drugs are found in nature — opium in poppies, alcohol in fermented fruit and berries, stimulants in coca leaves and coffee.
+						Given the opportunity, some animals do indulge ... and get intoxicated. 
+					</p>
+					<p>
+						[...]
+					</p>
+					<p>
+						Cedar waxwing birds are known to ingest fermented berries, fly while intoxicated and crash into glass walls.
+						In Tasmania, wallabies have broken into fields where medical opium was growing, eaten the sap and got stoned. 
+					</p>
+					<p>
+						Some animals show chronic drug-seeking behaviors.
+						Bighorn sheep grind their teeth to the gums scraping hallucinogenic lichen off boulders in the Canadian Rockies; some Siberian reindeer seek out magic mushrooms. 
+					</p>
+					<p>
+						A friendly cocker spaniel in Texas once sent her owners’ lives into a tailspin when she turned her attention to toad licking.
+						As described in an NPR story, the spaniel, Lady, had been the perfect pet, until one day she got a taste of the hallucinogenic toxin on the skin of a cane toad. 
+						Soon she was obsessed with the back door, always begging to get out. 
+						She’d beeline to the pond in the backyard and sniff out the toads.
+						Once she found them, she mouthed them so vigorously she sucked the pigment right out of their skin.
+						According to her owners, after these amphibian benders Lady would be “disoriented and withdrawn, soporific and glassy-eyed.” 
+					</p>
+				</blockquote>
+				<p class="quote-by">
+					-- <a rel="nofollow" href="http://www.uclahealth.org/body.cfm?xyzpdqabc=0&amp;id=479&amp;action=detail&amp;ref=11288">Barbara Natterson-Horowitz</a>
+					 , <a rel="nofollow" href="http://twitter.com/kathrynsbowers">Kathryn Bowers</a>
+				</p>
+				<p class="quote-from">
+					from "<a rel="nofollow" href="http://www.nytimes.com/2012/06/10/opinion/sunday/our-animal-natures.html">Our Animal Natures</a>"
+				</p>
+			</div> <!-- class="quote" -->
+		</div>
+	</content>
+</entry>

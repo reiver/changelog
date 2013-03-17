@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2012-11-22T20:34:12-08:00</published>
+
+	<id>805de581-3b54-4159-95d6-6bde00bffe21</id>
+
+	<title>Bacterial Swarming</title>
+
+	<category term="#### TAG #1 HERE ####" />
+	<category term="#### TAG #2 HERE ####" />
+	<category term="#### TAG #3 HERE ####" />
+
+	<content type="xhtml">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<div class="quote">
+				<blockquote cite="http://www.ploscompbiol.org/article/info%3Adoi%2F10.1371%2Fjournal.pcbi.1002177">
+					<p>
+#### QUOTE HERE ####
+					</p>
+				</blockquote>
+				<p class="quote-by">
+					-- <a rel="nofollow" href="#### AUTHOR HREF HERE ####">#### AUTHOR HERE ####</a>
+				</p>
+				<p class="quote-from">
+					from "<a rel="nofollow" href="http://www.ploscompbiol.org/article/info%3Adoi%2F10.1371%2Fjournal.pcbi.1002177">#### FROM HERE ####</a>"
+				</p>
+			</div> <!-- class="quote" -->
+		</div>
+	</content>
+</entry>

@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2011-06-22T00:38:00-07:00</published>
+
+	<id>e0de83e7-04f7-4f90-9ccc-239ecdb24588</id>
+
+	<title>Spandrels and Psychology</title>
+
+	<category term="Psychology" />
+
+	<content type="xhtml">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<div class="quote">
+				<blockquote>
+					<p>
+						Many significant aspects of human psychology are adaptations -- they exist because of reproductive advantages that they gave our ancestors [...] But other aspects of the mind are by-products; they are, to use a term introduced by the evolutionary biologists Stephen Jay Gould and Richard Lewontin, <em>spandrels</em>.
+					</p>
+					<p>
+						Many people enjoy pornography, for instance, but there is no reproductive advantage associated with spending one's days and nights looking at pictures and videos of attractive naked people. The appeal of pornography is an accident: a by-product of an evolved interest in actual naked people.
+					</p>
+				</blockquote>
+				<p class="quote-by">
+					-- <a rel="nofollow" href="http://pantheon.yale.edu/~pb85/Site/Paul_Bloom.html">Paul Bloom</a>
+				</p>
+				<p class="quote-from">
+					from "How Pleasure Works: The New Science of Why We Like What We Like"
+				</p>
+			</div> <!-- class="quote" -->
+		</div>
+	</content>
+</entry>

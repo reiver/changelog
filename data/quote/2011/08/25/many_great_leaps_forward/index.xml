@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2011-08-25T01:20:24-07:00</published>
+
+	<id>458fdde8-fb6c-4805-9772-91d8c90f1e57</id>
+
+	<title>Many Great Leaps Forward?</title>
+
+	<category term="Genetics" />
+	<category term="Psychology" />
+
+	<content type="xhtml">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<div class="quote">
+				<blockquote cite="http://blogs.discovermagazine.com/gnxp/2011/08/non-zero-sum-transitions-in-the-human-past/">
+					<p>
+						If there was a great leap forward to behavioral modernity ~40,000 years ago, then I think one should logically assert that there was another “great leap forward” ~10,000 years ago in the Middle East with the first farmers. There was also another “great leap forward” ~5,000 years ago ago with the invention of writing. There was another “great leap forward” ~300 years ago in Western Europea with the crystallization of a genuine scientific community.
+					</p>
+				</blockquote>
+				<p class="quote-by">
+					-- <a rel="nofollow" href="http://razib.com/">Razib Khan</a>
+				</p>
+				<p class="quote-from">
+					from "<a rel="nofollow" href="http://blogs.discovermagazine.com/gnxp/2011/08/non-zero-sum-transitions-in-the-human-past/">Non-zero sum transitions in the human past</a>"
+				</p>
+			</div> <!-- class="quote" -->
+		</div>
+	</content>
+</entry>

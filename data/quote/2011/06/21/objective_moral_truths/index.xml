@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2011-06-21T23:49:00-07:00</published>
+
+	<id>09e4235f-69a7-4081-90d1-7b1903c3cd1d</id>
+
+	<title>Objective Moral Truths?</title>
+
+	<category term="Morality" />
+	<category term="Psychology" />
+
+	<content type="xhtml">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<div class="quote">
+				<blockquote cite="http://www.nytimes.com/2008/01/13/magazine/13Psychology-t.html">
+					<p>
+						[One possibility is] moral truths exist in some abstract Platonic realm, there for us to discover, perhaps in the same way that mathematical truths (according to most mathematicians) are there for us to discover. On this analogy, we are born with a rudimentary concept of number, but as soon as we build on it with formal mathematical reasoning, the nature of mathematical reality forces us to discover some truths and not others. (No one who understands the concept of two, the concept of four and the concept of addition can come to any conclusion but that 2 + 2 = 4.) Perhaps we are born with a rudimentary moral sense, and as soon as we build on it with moral reasoning, the nature of moral reality forces us to some conclusions but not others.
+					</p>
+				</blockquote>
+				<p class="quote-by">
+					-- <a rel="nofollow" href="http://www.stevenpinker.com/">Steven Arthur Pinker</a>
+				</p>
+				<p class="quote-from">
+					from "<a rel="nofollow" href="http://www.nytimes.com/2008/01/13/magazine/13Psychology-t.html">The Moral Instinct</a>"
+				</p>
+			</div> <!-- class="quote" -->
+		</div>
+	</content>
+</entry>

@@ -1,0 +1,54 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2013-02-21T07:34:35-08:00</published>
+
+	<id>714aa42a-a508-4785-9f90-560d965ea461</id>
+
+	<title>Weak Ties Serve To Link Together Different Tightly-Knit Communities: An Example</title>
+
+	<category term="Graph Theory" />
+	<category term="Mathematics" />
+	<category term="Psychology" />
+
+	<content type="xhtml">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<div class="quote">
+				<blockquote cite="http://www.cs.cornell.edu/home/kleinber/networks-book/">
+					<p>
+						[W]eak ties serve to link together different tightly-knit communities that each contain a large number of stronger ties.
+						Here, Onnela et al. provided an indirect analysis to address this question, as follows.
+						They first deleted edges from the network one at a time, starting with the strongest ties and working downward in order of tie strength.
+						The giant component shrank steadily as they did this, its size going down gradually due to the elimination of connections among the nodes.
+						They then tried the same thing, but starting from the weakest ties and working upward in order of tie strength.
+						In this case, they found that the giant component shrank more rapidly, and moreover that its remnants broke apart abruptly once a critical number of weak ties had been removed.
+						This is consistent with a picture in which the weak ties provide the more crucial connective structure for holding together disparate communities, and for keeping the global structure of the giant component intact. 
+					</p>
+					<p>
+						[...]
+					</p>
+					<p>
+						J.-P. Onnela,
+						J. Saramaki,
+						J. Hyvonen,
+						G. Szabo,
+						D. Lazer,
+						K. Kaski,
+						J. Kertesz,
+						and
+						A.-L. Barabasi.
+						Structure and tie strengths in mobile communication networks.
+						Proc. Natl. Acad. Sci. USA, 104:7332–7336, 2007.
+					</p>
+				</blockquote>
+				<p class="quote-by">
+					-- <a rel="nofollow" href="http://www.arts.cornell.edu/econ/deasley/">David Easley</a>
+					 , <a rel="nofollow" href="http://www.cs.cornell.edu/home/kleinber/">Jon Kleinberg</a>
+				</p>
+				<p class="quote-from">
+					from "<a rel="nofollow" href="http://www.cs.cornell.edu/home/kleinber/networks-book/">Networks, Crowds, and Markets: Reasoning About a Highly Connected World</a>"
+				</p>
+			</div> <!-- class="quote" -->
+		</div>
+	</content>
+</entry>

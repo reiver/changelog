@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2011-10-29T10:44:42-07:00</published>
+
+	<id>5d5914ff-5704-4200-b64c-a8d28c4093b6</id>
+
+	<title>Evolution Before Darwin</title>
+
+	<category term="Evolution" />
+	<category term="History" />
+
+	<content type="xhtml">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<div class="quote">
+				<blockquote>
+					<p>
+						Charles Darwin was not the first thinker to suggest that living organisms evolved through time.
+						The pre-Socratic philosopher Anaximander said as much 2,500 years ago, and the concept had become widely accepted by Darwin's own time.
+						Nor did Darwin's originality lie with the idea that all animal life is related, or that parts of organisms or their behavior patterns are conductive to survival: by Darwin's time, such facts were constantly being appealed to by theologians as evidence for God's hand in nature.
+						Darwin's theory of evolution triumphed because it proposed a physical mechanism to make evolution both intelligible and possible:
+						the development of species by a process of <i>random mutation and selective retention</i>, known forever as natural selection.
+					</p>
+				</blockquote>
+				<p class="quote-by">
+					-- <a rel="nofollow" href="http://www.denisdutton.com/">Denis Dutton</a>
+				</p>
+				<p class="quote-from">
+					from "The Art Instinct: Beauty, Pleasure, and Human Evolution"
+				</p>
+			</div> <!-- class="quote" -->
+		</div>
+	</content>
+</entry>

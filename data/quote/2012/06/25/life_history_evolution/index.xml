@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2012-06-25T11:05:33-07:00</published>
+
+	<id>e5b286e6-2d61-4e74-9956-0fc0d7746cdc</id>
+
+	<title>Life History Theory and Aurelio José Figueredo</title>
+
+	<category term="Evolution" />
+	<category term="Genetics" />
+	<category term="Psychology" />
+
+	<content type="xhtml">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<div class="quote">
+				<blockquote>
+					<p>
+						[T]he person who is [... predominant ...] in life history evolution is
+						[<a href="http://www.u.arizona.edu/~ajf/">Aurelio José Figueredo</a>]
+					</p>
+					<p>
+						His expression of the ideas is the clearest, and about a third to half of the papers on it are by him and former students of his.
+					</p>
+				</blockquote>
+				<p class="quote-by">
+					-- <a rel="nofollow" href="http://twitter.com/harpersnotes">Richard Harper</a>
+				</p>
+				<p class="quote-from">
+					from "<a rel="nofollow" href="http://twitter.com/harpersnotes">@harpersnotes</a>"
+				</p>
+			</div> <!-- class="quote" -->
+		</div>
+	</content>
+</entry>

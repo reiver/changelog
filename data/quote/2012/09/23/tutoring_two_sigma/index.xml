@@ -1,0 +1,119 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2012-09-23T12:23:05-07:00</published>
+
+	<id>71e12873-5968-4b83-aaa3-89057c15a2e0</id>
+
+	<title>One-On-One Tutoring Can Improve Student's Performance By 2 Standard Deviations</title>
+
+	<category term="Psychology" />
+
+	<content type="xhtml">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<div class="quote">
+				<blockquote cite="http://web.mit.edu/bosworth/MacData/afs.course/5/5.95/readings/bloom-two-sigma.pdf">
+					<p>
+						Two University of Chicago doctoral students in education, Anania (1982, 1983) and Burke (1984), completed dissertations in which they compared students learning under the following three conditions of instruction:
+					</p>
+					<p>
+						1.
+						<i>Conventional</i>.
+						Students learn the subject matter in a class with about 30 students per teacher.
+						Tests are given periodically for marking the students.
+					</p>
+					<p>
+						2.
+						<i>Mastery Learning</i>.
+						Students learn the subject matter in a class with about 30 students per teacher.
+						The instruction is the same as in the conventional class (usually with the same teacher).
+						Formative tests (the same tests used with the conventional group) are given for feedback followed by corrective procedures and parallel formative tests to determine the extent to which the students have mastered the subject matter.
+					</p>
+					<p>
+						3.
+						<i>Tutoring</i>.
+						Students learn the subject matter with a good tutor for each student (or for two or three students simultaneously).
+						This tutoring instruction is followed periodically by formative tests, feedback-corrective procedures, and parallel formative tests as in the mastery learning classes.
+						It should be pointed out that the need for corrective work under tutoring is very small.
+					</p>
+					<p>
+						The students were randomly assigned the three learning conditions, and their initial aptitude tests scores, previous achievement in the subject were similar.
+						The amount of time for instruction was the same for all three groups except for the corrective work in the mastery learning and tutoring groups.
+                                                Burke (1984) and Anania (1982, 1983) replicated the study with four different samples of students at grades four, five, and eight and with two different subject matters, Probability and Cartography.
+						In each sub-study, the instructional treatment was limited to 11 periods of instruction over 3-week block of time.
+					</p>
+					<p>
+						Most striking were the differences in final achievement measures under the three conditions.
+						Using the standard deviation (sigma) of the control (conventional) class, it was typically found that the average student under tutoring was about two standard deviations above the average of the control class (the average tutored student was above 98% of the students in the control class).<sup>1</sup>
+						The average student under mastery learning was about one standard deviation above the average of the control class (the average mastery learning student was above 84% of the students in the control class).
+					</p>
+					<p>
+						The variation of the students' achievement also changed under these learning conditions such that about 90% of the tutored students and 70% of the mastery learning students attained the level of summative achievement reached by only the highest 20% of the students under conventional instructional conditions.
+						(See Figure 1.)
+					</p>
+					<p>
+						These were corresponding changes in students time on task in the classroom (65% under conventional instruction, 75% under Mastery Learning, and 90+% under tutoring) and students' attitudes and interests (least positive under conventional instruction and most positive under tutoring).
+						There were great reductions in the relations between prior measures (aptitude or achievement) and the summative achievement measures.
+						Typically, the aptitude-achievement correlations changed from +.60 under conventional to +.35 under mastery learning and +.25 under tutoring.
+						It is recognized that the correlations for mastery learning and tutoring groups were so low because of the restricted range of scores under these learning conditions.
+						However, the most striking of the findings is that under the best learning conditions we can devise (tutoring), the average student is 2 sigma above the average control student taught under conventional group method instruction.
+					</p>
+					<p>
+						The tutoring process demonstrates that <i>most</i> of the students do have the potential to reach this high level of learning.
+					</p>
+					<p>
+						[...]
+					</p>
+
+					<br />
+					<figure style="text-align:center;">
+						<figcaption>
+							<b>FIGURE 1</b>
+							Achievement distrubution for students under conventional, mastery learning, and tutorial instruction.
+						</figcaption>
+						<a href="http://changelog.ca/quote/2012/09/23/tutoring_two_sigma/tutoring_two_sigma.png"><img
+							src="http://changelog.ca/quote/2012/09/23/tutoring_two_sigma/tutoring_two_sigma.png"
+							style="width:70%;"
+						/></a>
+					</figure>
+
+					<p>
+						[...]
+					</p>
+					<p>
+						Anania, J.
+						(1982).
+						The effects of quality of instruction on the cognitive and affective learning of students.
+						(Doctorial dissertation, Universtiy of Chicago, 1981).
+						<i>Dissertation Abstracts International, 42</i>,
+						4269A.
+					</p>
+					<p>
+						Anania, J.
+						(1983).
+						"The influence of instructional conditions on student learning archievement."
+						<i>Evaluation in Education: An International Review Series, 7</i>,
+						1, 1-92.
+					</p>
+					<p>
+						[...]
+					</p>
+					<p>
+						Burke, A.J.
+						(1984).
+						Students' potential for learning contrasted under tutorial and group approaches to instruction.
+						(Doctoral dissertation, University of Chicago, 1983).
+						<i>Dissertation Abstracts International, 44</i>,
+						2025A.
+					</p>
+				</blockquote>
+				<p class="quote-by">
+					-- Benjamin Samuel Bloom
+				</p>
+				<p class="quote-from">
+					from "<a rel="nofollow" href="http://web.mit.edu/bosworth/MacData/afs.course/5/5.95/readings/bloom-two-sigma.pdf">The 2 Sigma Problem: The Search for Methods of Group Instruction as Effective as One-to-One Tutoring</a>"
+				</p>
+			</div> <!-- class="quote" -->
+		</div>
+	</content>
+</entry>

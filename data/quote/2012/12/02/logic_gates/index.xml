@@ -1,0 +1,136 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2012-12-02T10:28:57-08:00</published>
+
+	<id>9a81a683-da1f-48be-a9e3-3286eb0d88c6</id>
+
+	<title>Canonical Form For Logic Gates As Shallow Architectures With Large Space Computational Complexities</title>
+
+	<category term="Computational Complexity" />
+	<category term="Computer Science" />
+	<category term="Hardware" />
+	<category term="Logic Gates" />
+
+	<content type="xhtml">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<div class="quote">
+				<blockquote cite="http://www.iro.umontreal.ca/~bengioy/papers/ftml_book.pdf">
+					<p>
+						A two-layer circuit of logic gates can represent any Boolean function (127).
+						Any Boolean function can be written as a sum of products (disjunctive normal form: AND gates on the first layer with optional negation of inputs, and OR gate on the second layer) or a product of sums (conjunctive normal form: OR gates on the first layer with optional negation of inputs, and AND gate on the second layer).
+						To understand the limitations of shallow architectures, the first result to consider is that with depth-two logical circuits, most Boolean functions require an <i>exponential</i> (with respect to input size) number of logic gates (198) to be represented.
+					</p>
+					<p>
+						More interestingly, there are functions computable with a polynomial-size logic gates circuit of depth k that require exponential size when restricted to depth k − 1 (62).
+						The proof of this theorem relies on earlier results (208) showing that <i>d-bit parity circuits of depth 2 have exponential size</i>.
+						The d-bit <i>parity function</i> is defined as usual:
+
+					</p>
+					<math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
+						<mrow>
+
+							<mi>parity</mi><mo>:</mo>
+
+							<mfenced>
+								<msub>
+									<mi>b</mi>
+									<mn>0</mn>
+								</msub>
+								<mo>...</mo>
+								<msub>
+									<mi>b</mi>
+									<mn>d</mn>
+								</msub>
+							</mfenced>
+
+							<mo>&#8712;</mo>
+
+							<msup>
+								<mfenced open="{" close="}">
+									<mn>0</mn>
+									<mn>1</mn>
+								</mfenced>
+								<mn>d</mn>
+							</msup>
+
+							<mo>&#8594;</mo>
+
+							<mrow>
+								<mo>{</mo>
+								<mfrac linethickness="0">
+									<mrow>
+										<mn>1</mn>
+										<mo>if</mo>
+										<mrow>
+											<munderover>
+												&#931;
+												<mrow>
+													<mi>i</mi>
+													<mo>=</mo>
+													<mn>1</mn>
+												</mrow>
+												<mn>d</mn>
+											</munderover>
+											<msub>
+												<mi>b</mi>
+												<mi>i</mi>
+											</msub>
+										</mrow>
+										<mo>is even</mo>
+									</mrow>
+									<mrow>
+										<mn>0</mn>
+										<mo>,</mo>
+										<mo>otherwise.</mo>
+									</mrow>
+								</mfrac>
+							</mrow>
+						</mrow>
+					</math>
+					<p>
+						[...]
+					</p>
+					<p>
+						(62)
+						J. H&#229;stad,
+						“Almost optimal lower bounds for small depth circuits,”
+						in <i>Proceedings of the 18th annual ACM Symposium on Theory of Computing</i>,
+						pp. 6–20, Berkeley, California: ACM Press, 1986.
+
+					</p>
+					<p>
+						[...]
+					</p>
+					<p>
+						(127)
+						E. Mendelson, <i>Introduction to Mathematical Logic, 4th ed</i>. 1997. Chapman &amp; Hall.
+					</p>
+					<p>
+						[...]
+					</p>
+					<p>
+						(198)
+						I. Wegener, <i>The Complexity of Boolean Functions</i>. John Wiley &amp; Sons, 1987.
+					</p>
+					<p>
+						[...]
+					</p>
+					<p>
+						(208)
+						A. Yao,
+						“Separating the polynomial-time hierarchy by oracles,”
+						in <i>Proceedings of the 26th Annual IEEE Symposium on Foundations of Computer Science</i>,
+						pp. 1–10, 1985.
+					</p>
+				</blockquote>
+				<p class="quote-by">
+					-- <a rel="nofollow" href="http://www.iro.umontreal.ca/~bengioy/">Yoshua Bengio</a>
+				</p>
+				<p class="quote-from">
+					from "<a rel="nofollow" href="http://www.iro.umontreal.ca/~bengioy/papers/ftml_book.pdf">Learning Deep Architectures for AI</a>"
+				</p>
+			</div> <!-- class="quote" -->
+		</div>
+	</content>
+</entry>

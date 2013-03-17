@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2011-06-22T07:19:00-07:00</published>
+
+	<id>185b26b2-0e03-4913-b5ce-1b0a2d152e0a</id>
+
+	<title>How Humans Remember So Many Faces: Face Space Model?</title>
+
+	<category term="Neuroscience" />
+	<category term="Vision" />
+
+	<content type="xhtml">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<div class="quote">
+				<blockquote cite="http://neurobonkers.com/?p=2746">
+					<p>
+						The current consensus in the literature is that we can remember such an extraordinarily large number of faces because we use a vector based mathematical model called the "Face Space model". According to this model we remember faces by what makes them specifically different from the average face rather than having a photographic memory for faces as a whole. This explanation has been used to generate the powerful face recognition algorithms we are beginning to see employed in intelligent CCTV systems.
+					</p>
+				</blockquote>
+				<p class="quote-by">
+					-- <a rel="nofollow" href="http://neurobonkers.com/">Neurobonkers</a>
+				</p>
+				<p class="quote-from">
+					from "<a rel="nofollow" href="http://neurobonkers.com/?p=2746">The Intriguing Case of Chuck Close</a>"
+				</p>
+			</div> <!-- class="quote" -->
+		</div>
+	</content>
+</entry>

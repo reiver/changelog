@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2011-09-18T12:38:23-07:00</published>
+
+	<id>0cb8cdd6-bc80-4632-96cf-383356b5f90d</id>
+
+	<title>Fundamentally Unidentified Questions</title>
+
+	<category term="Science" />
+
+	<content type="xhtml">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<div class="quote">
+				<blockquote>
+					<p>
+						[T]here's another powerful obstacle to randomised trial approach.
+						This is the existence of 'fundamentally unidentified questions', or as the econometrician Josh Angrist indelicately puts it,
+						"questions that are completely FUQed".
+						A FUQed question is one that cannot be answered by an experiment -- for instance, the effect of carbon dioxide emissions on the world's climate.
+						We can measure and calculate, extrapolate from our existing knowledge, but one thing we can't do is run a controlled experiment.
+						We won't know exactly what our carbon dioxide emissions will do to the climate until they've already done it; even then we won't know for sure whether a different course of action would have had a different effect.
+					</p>
+				</blockquote>
+				<p class="quote-by">
+					-- <a rel="nofollow" href="http://www.timharford.com/">Tim Harford</a>
+				</p>
+				<p class="quote-from">
+					from "Adapt: Why Success Always Starts with Failure"
+				</p>
+			</div> <!-- class="quote" -->
+		</div>
+	</content>
+</entry>

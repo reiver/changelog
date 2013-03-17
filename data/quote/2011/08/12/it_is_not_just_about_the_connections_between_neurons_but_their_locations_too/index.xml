@@ -1,0 +1,94 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2011-08-12T07:54:00-07:00</published>
+
+	<id>672a252b-61fd-4ff1-a9b6-49b9535a0e8f</id>
+
+	<title>Micro Brain Waves: It's Not Just About The Connections Between Neurons, But Their Locations Too</title>
+
+	<category term="Neuroscience" />
+	<category term="Neural Networks" />
+	<category term="Neurons" />
+
+	<content type="xhtml">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<div class="quote">
+				<blockquote cite="http://www.quora.com/Are-brain-waves-epiphenomena/answer/Bradley-Voytek">
+					<p>
+						[Brain wave] oscillations [...] have a causal role in shaping neuronal spiking. 
+					</p>
+					<p>[...]</p> 
+					<p>
+						Oscillatory activity can be picked up using EEG and magnetoencephalography (MEG) [...] Importantly, both of these methods record oscillations outside the skull, at the scalp. 
+					</p>
+					<p>
+						Not surprisingly (and I've shown this experimentally) being removed from the source of the oscillatory signal (the brain) affects the quality of the signal you can record (Voytek et al. (2010). Hemicraniectomy: a new model for human electrophysiology with high spatio-temporal resolution. J. Cogn. Neurosci. 22, 2491-502): 
+						<br />
+						<a href="http://www.wired.com/wiredscience/2010/01/skull-free-eeg/">http://www.wired.com/wiredscience/2010/01/skull-free-eeg/</a> 
+					</p>
+					<p> [...]</p>
+					<p>
+						Basically, EEG activity represents the sum of millions of neuron action potentials (the electrical signal neurons send to communicate).
+					</p>
+					<p>
+						Importantly, oscillations can be observed at many scales. For example, when electrodes are placed inside the skull, on top of the brain's surface, you can record oscillations with better fidelity. If you stick a micro-wire into the brain, you can record oscillations arising from small groups (~10) neurons. This type of recording (called a "local field potential", or LFP) reflects the electrical potential just outside of the neuron. 
+					</p>
+					<p>
+						So, when a neuron sends an action potential, this happens because of a change in the concentration of ions inside and outside the cell. Because the action potential travels down the axon (usually), this creates an ionic concentration gradient that can be measured. Neurons that fire synchronously and rhythmically cause oscillations.
+					</p>
+					<p>
+						Think of a simple sine wave: a bunch of neurons fire, this changes the electrical potential in the nearby space because of the influx and outflow of ions, which can be measured.
+					</p>
+					<p>[...]</p>
+					<p>
+						If a group of neurons fire in synch, then the ionic concentration outside that group changes, making it harder to them to fire. 
+					</p>
+					<p>
+						When framed this way, it's hard to see how the oscillations <em>aren't</em> affecting neuronal firing.
+					</p>
+					<p> 
+						In December I wrote a blog post describing an experiment that showed this to be true (Fr&#246;hlich F &amp; McCormick DA (2010). Endogenous Electric Fields May Guide Neocortical Network Activity. Neuron 67, 129-143):
+						<br /> 
+						<a href="http://blog.ketyov.com/2010/12/endogenous-electric-fields-may-guide.html">http://blog.ketyov.com/2010/12/endogenous-electric-fields-may-guide.html</a>
+
+					</p>
+					<blockquote>
+						<p>
+							Anyway, it's often interpreted that the slow oscillation represents the extracellular membrane potential. That is, the space in between neurons has a charge, and if this charge is a little lower (the trough of the slow oscillation) then neurons are more likely to fire (more activity). If the charge is larger (the peak) then neurons are less likely to fire (less activity).
+						</p> 
+						<p>
+							So what's really been twisting my noodle is that maybe this interpretation is wrong. Maybe across millions of years of divergent evolution, the axon of a giant squid has evolved to perform computations necessary for the survival of giant squids, and maybe mammalian neurons have evolved somewhat differently. Maybe individual action potentials are important in humans, but maybe they're not the only things doing &#8220;computing&#8221; in the brain. <strong>Maybe these oscillations are also playing an important computational role. Maybe they're not just epiphenomena of action potentials. But maybe there's a complex feedback system between action potentials and oscillations.</strong> 
+						</p> 
+						<p> 
+							And that's just what Flavio Fr&#246;hlich and David McCormick have shown. And that's why this paper is awesome. I'm pretty sure that the more research that's done on this topic, the more it will be shown that oscillations are pretty key players in this whole consciousness and cognition thing.
+						</p>
+					</blockquote>
+					<p>
+						Other researchers have expanded on this recently (Anastassiou CA et al., (2010). Ephaptic coupling of cortical neurons. Nat. Neurosci. 14, 217-223). 
+					</p> 
+					<p>
+						This is a topic important to me, because I'm convinced we can also pick this up at a macro scale (recordings from the surface of the brain, but inside the skull). As I state in this paper (Voytek et al. (2010). Shifts in gamma phase-amplitude coupling frequency from theta to alpha over posterior cortex during visual tasks. Front. Hum. Neurosci.):
+					</p>
+					<blockquote>
+						<p>
+							We propose that fluctuations in the local and global extracellular membrane potential bias the statistics of local neuronal firing rates, analogous to Up and Down states, which can influence cortical processing. These low-frequency fluctuations would coordinate multiple brain regions and allow for parallel processing by overlapping neuronal networks with the distributed pattern of low-frequency phase regulating information flow within and between networks acting as a type of switch or router.
+						</p>
+						<p>
+							In our study we observe that high gamma amplitude is modulated by both the theta and alpha phase... This observation suggests that PAC dynamics can switch between frequencies depending on task demands and supports the contention that multiple overlapping neuronal oscillations are important for cortical functioning.
+						</p>
+					</blockquote>
+					<p> 
+						My work is trying to provide a connection between the EEG research from the past 50 years with our understanding of the basic physiology of neurons and neuronal groups.
+					</p> 
+				</blockquote>
+				<p class="quote-by">
+					-- <a rel="nofollow" href="http://blog.ketyov.com/">Bradley Voytek</a>
+				</p>
+				<p class="quote-from">
+					from "<a rel="nofollow" href="http://www.quora.com/Are-brain-waves-epiphenomena/answer/Bradley-Voytek">Are brain waves epiphenomena?</a>"
+				</p>
+			</div> <!-- class="quote" -->
+		</div>
+	</content>
+</entry>

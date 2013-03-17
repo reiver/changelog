@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2012-01-14T11:24:23-08:00</published>
+
+	<id>587306a3-b198-4a0f-85e0-1950f6249800</id>
+
+	<title>Mental Illness/Disorder: Culturally Derived</title>
+
+	<category term="Psychiatry" />
+	<category term="Psychology" />
+
+	<content type="xhtml">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<div class="quote">
+				<blockquote cite="http://articles.boston.com/2012-01-08/ideas/30596717_1_mental-illness-cultural-sensitivity-appendix">
+					<p>
+						A different group of thinkers — including, most prominently, cultural psychiatrists — sees culture as doing more than just giving different names to universal mental disorders. Culture doesn’t just shape what a mentally ill person calls his or her illness, they argue — it determines what counts as illness in the first place.
+					</p>
+					<p>
+						<q>Culture tells us what is normal, what is abnormal, what is deviant, what is not deviant, and where you seek help from,</q> says Bhugra.
+					</p>
+					<p>
+						If this is true — if it’s culture that decides what’s “crazy” and what’s reasonable behavior — then there may be no such thing as an [mental] illness that isn’t culture-bound. It’s not that a handful of disorders no longer belong in a cultural appendix [of the DSM]; it’s that perhaps they all do.
+					</p>
+				</blockquote>
+				<p class="quote-by">
+					-- Latif Nasser
+				</p>
+				<p class="quote-from">
+					from "<a rel="nofollow" href="http://articles.boston.com/2012-01-08/ideas/30596717_1_mental-illness-cultural-sensitivity-appendix">Do some cultures have their own ways of going mad?</a>"
+				</p>
+			</div> <!-- class="quote" -->
+		</div>
+	</content>
+</entry>

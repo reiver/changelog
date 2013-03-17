@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2012-11-11T11:46:18-08:00</published>
+
+	<id>5fd7eae7-0a29-4f1d-a624-922e2576f52b</id>
+
+	<title>Genetic Influences on Social Networks</title>
+
+	<category term="Genetics" />
+	<category term="Psychology" />
+	<category term="Social Networks" />
+
+	<content type="xhtml">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<div class="quote">
+				<blockquote cite="http://www.youtube.com/watch?v=2U-tOghblfE">
+					<p>
+						46% of the variation in how many friends you have is explain by your genes.
+						[...]
+						47% of the variation in whether your friends know each other is attributable to <em>your</em> genes.
+						Whether your friends know each other has not just to do with their genes but with yours.
+						[...]
+						30% of the variation in whether or not people are in the middle or on the edge of the network can also attributed to their genes.
+						So whether you find yourself in the middle or on the edge is also partially heritable.
+					</p>
+				</blockquote>
+				<p class="quote-by">
+					-- <a rel="nofollow" href="http://christakis.med.harvard.edu/">Nicholas A. Christakis</a>
+				</p>
+				<p class="quote-from">
+					from "<a rel="nofollow" href="http://www.youtube.com/watch?v=2U-tOghblfE">Nicholas Christakis: The hidden influence of social networks</a>"
+				</p>
+			</div> <!-- class="quote" -->
+		</div>
+	</content>
+</entry>

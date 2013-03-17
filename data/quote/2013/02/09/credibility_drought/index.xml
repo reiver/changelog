@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2013-02-09T09:23:58-08:00</published>
+
+	<id>54aba8dc-5c2a-4690-9595-ce1994a8ef1a</id>
+
+	<title>Credibility Drought</title>
+
+	<category term="Software Business" />
+	<category term="Software Management" />
+
+	<content type="xhtml">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<div class="quote">
+				<blockquote cite="http://news.ycombinator.com/item?id=5177748">
+					<p>
+						[I will explain what a] Credibility Drought [is].
+						Companies define credibility so that only managers have it, in order to create an artificial scarcity that makes employees easier to control.
+						That's what enables the managerial extortion that forces employees to serve local goals (the manager's own career) rather than the benefit of the company (or the growth of the individual).
+					</p>
+					<p>
+						Very few companies formally allow a manager to unilaterally fire.
+						That's <i>way</i> too much of an HR/lawsuit risk.
+						Instead, these closed-allocation dinosaur companies define credibility in such a limited way that managers can either support or not support the employee, and then if the person is not supported, that person's credibility is zero and the manager isn't firing that person.
+						"The company" does it, after "careful review" of "objective" performance statistics.
+						On top of this, they set tight headcount limits so that for anyone to get a good project requires a special favor, allowing the company to say "no" and appear consistent on the matter.
+					</p>
+				</blockquote>
+				<p class="quote-by">
+					-- <a rel="nofollow" href="http://michaelochurch.wordpress.com/">Michael O. Church</a>
+				</p>
+				<p class="quote-from">
+					from "<a rel="nofollow" href="http://news.ycombinator.com/item?id=5177748">Re: Employees leave managers, not companies</a>"
+				</p>
+			</div> <!-- class="quote" -->
+		</div>
+	</content>
+</entry>

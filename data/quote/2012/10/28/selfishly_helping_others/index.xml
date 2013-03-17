@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2012-10-28T09:23:53-07:00</published>
+
+	<id>ed0bfd97-a63e-4c96-b933-b548259cd803</id>
+
+	<title>Selfishly Helping Others</title>
+
+	<category term="Economics" />
+	<category term="Morality" />
+	<category term="Psychology" />
+
+	<content type="xhtml">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<div class="quote">
+				<blockquote>
+					<p>
+						It is not from the benevolence of the butcher, the brewer, or the baker, that we expect our dinner, but from their regard to their own interest.
+					</p>
+				</blockquote>
+				<p class="quote-by">
+					-- Adam Smith
+				</p>
+				<p class="quote-from">
+					from "An Inquiry into the Nature and Causes of the Wealth of Nations"
+				</p>
+			</div> <!-- class="quote" -->
+		</div>
+	</content>
+</entry>

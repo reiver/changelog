@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2012-07-30T17:29:26-07:00</published>
+
+	<id>4fd8869b-0e4f-44d8-86eb-7c61bde93e01</id>
+
+	<title>Kanban and Limiting Work-in-Progress</title>
+
+	<category term="Software Engineering" />
+	<category term="Software Management" />
+
+	<content type="xhtml">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<div class="quote">
+				<blockquote>
+					<p>
+						There is causation between quantity of work-in-progress and average lead time, and the relationship is linear.
+						In the manufacturing industry, this relationship is known as Little's Law.
+						The evidence from these two teams at Motorola suggests that there is a correlation between increased lead time and poorer quality.
+						Longer lead times seem to be associated with significantly poorer quality.
+						In fact, an approximately six-and-a-half times increase in average lead time resulted in a greater than 30-fold increase in initial defects.
+						Longer average lead times result from greater amounts of work-in-progress.
+						Hence, the management leverage point for improving quality is to reduce the quantity of work-in-progress.
+						Since uncovering this evidence I have managed work-in-progress as a means to control quality and have become convinced of the relationship between the quantity of <abbr title="work-in-progress">WIP</abbr> and initial quality.
+						However, at the time of writing [i.e., circa 2011] there is no scientific evidence to back up this empirically observed result.
+					</p>
+					<p>
+						Reducing work-in-progress, or shortening the length of an iteration, will have a significant impact on initial quality.
+						It appears that the relationship between quantity of work-in-progress and initial quality is non-linear;
+						that is, defects will rise disproportionately to increases in quantity of <abbr title="work-in-progress">WIP</abbr>.
+						Therefore, it makes sense that two-week interations are better than four-week iterations and that one week iterations are better still.
+						Shorter iterations will drive higher quality.
+					</p>
+				</blockquote>
+				<p class="quote-by">
+					-- David J. Anderson
+				</p>
+				<p class="quote-from">
+					from "Kanban"
+				</p>
+			</div> <!-- class="quote" -->
+		</div>
+	</content>
+</entry>

@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2011-06-27T07:36:00-07:00</published>
+
+	<id>cfe94d64-e353-4a3a-97c3-1e467154543d</id>
+
+	<title>Is she just shy? Or is it Social Anxiety Disorder?</title>
+
+	<category term="Psychology" />
+	<category term="Politics" />
+
+	<content type="xhtml">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<div class="quote">
+				<blockquote cite="http://www.nytimes.com/2011/06/26/opinion/sunday/26shyness.html">
+					<p>
+						A Beautiful woman lowers her eyes demurely beneath a hat. In an earlier era, her gaze might have signaled a mysterious allure. [...] "Is she just shy? Or is it Social Anxiety Disorder?" [...]  [S]hyness and introversion -- or more precisely, the careful, sensitive temperament from which both often spring -- are not just normal. They are valuable. And they may be essential to the survival of our species.
+					</p>
+					<p>
+						Theoretically, shyness and social anxiety disorder are easily distinguishable. But a blurry line divides the two. Imagine that the woman [...] enjoys a steady paycheck, a strong marriage and a small circle of close friends -- a good life by most measures -- except that she avoids a needed promotion because she's nervous about leading meetings. She often criticizes herself for feeling too shy to speak up.
+					</p>
+					<p>
+						What do you think now? Is she ill, or does she simply need public-speaking training?
+					</p>
+				</blockquote>
+				<p class="quote-by">
+					-- <a rel="nofollow" href="http://twitter.com/susancain">Susan Cain</a>
+				</p>
+				<p class="quote-from">
+					from "<a rel="nofollow" href="http://www.nytimes.com/2011/06/26/opinion/sunday/26shyness.html">Shyness: Evolutionary Tactic?</a>"
+				</p>
+			</div> <!-- class="quote" -->
+		</div>
+	</content>
+</entry>

@@ -1,0 +1,85 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2012-02-09T13:09:56-08:00</published>
+
+	<id>7d76a498-e07b-4bef-be51-1892359aebe2</id>
+
+	<title>Sex Ratio And Gender Roles</title>
+
+	<category term="Genetics" />
+
+	<content type="xhtml">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<div class="quote">
+				<blockquote cite="http://bsb-lab.org/site/wp-content/uploads/DelGiudice_2012_sex-ratio_fluctuating-selection_jtb.pdf">
+					<p>
+						Sex ratios play a crucial role in mating-related processes, and affect behavior in multiple, interconnected ways.
+						The adult sex ratio (ASR; also called the tertiary sex ratio) is simply the ratio of adult males to adult females; the operational sex ratio (OSR) is defined as the ratio of sexually active males to receptive females in a population, or, alternatively, the ratio of male to female individuals that are ‘‘ready to mate’’ at a given time (Emlen and Oring, 1977; Clutton-Brock and Parker, 1992). Obviously, the OSR depends on the ASR; but while the ASR can be calculated in a straightforward way from population demographics, the OSR is affected by factors such as the mating system, the stability of pair-bonds, the potential reproductive rate of the two sexes, sex differences in maturation rates and reproductive longevity, and so on.
+						In this paper, I use the generic term ‘‘sex ratio’’ to include both the ASR and the OSR.<sup>1</sup>
+					</p>
+					<p>
+						The OSR contributes to determine the intensity and type of competition for mates in a given population.
+						As a general rule, the more abundant sex faces stronger competition for access to individuals of the opposite sex.
+						In some species, changes in the OSR may induce sex role reversals, shifting the burden of mating competition from males to females and vice versa; in other species, sex roles remain fixed but the intensity of competition changes dramatically (Kvarnemo and Ahnesjo, 1996; Pettersson et al., 2004).
+						In a recent meta-analysis, Weir and colleagues (2011) found that male-biased OSRs ( &gt; 1) tend to (a) increase male–male competition (up to a value of about 2, after which the costs of competition may become too high and competition decreases); (b) decrease male courtship displays; and (c) increase female guarding by males in a range of nonhuman species.
+					</p>
+					<p>
+						Above and beyond this general pattern, the behavioral effects of sex ratios can change considerably depending on the details of a species’ ecology.
+						A key element is the presence of paternal care; if males can increase their fitness by caring for their offspring, the increased male competition engendered by high sex ratios can actually prompt males to decrease their mating effort and invest more in parental care (Kokko and Jennions, 2008).
+						Also, responses to increased competition may involve delaying reproduction, so as to accumulate competitive skills and/or resources for future mating attempts.
+					</p>
+					<p>
+						[...]
+					</p>
+					<p>
+						<sup>1</sup>
+						This paper is not concerned with the primary sex ratio (i.e., the sex ratio at conception) nor with the secondary sex ratio (i.e., the sex ratio at birth).
+					</p>
+					<p>
+						[...]
+					</p>
+					<p>
+						Clutton-Brock, T.H., Parker, G.A., 1992. Potential reproductive rates and the operation of sexual selection. Q. Rev. Biol. 67, 437–456.
+					</p>
+					<p>
+						[...]
+					</p>
+					<p>
+						Emlen, S.T., Oring, L.W., 1977. Ecology, sexual selection, and the evolution of mating systems. Science 197, 215–223.
+					</p>
+					<p>
+						[...]
+					</p>
+					<p>
+						Kokko, H., Jennions, M., 2008. Parental investment, sexual selection and sex ratios. J. Evol. Biol. 21, 919–948.
+					</p>
+					<p>
+						[...]
+					</p>
+					<p>
+						Kvarnemo, C., Ahnesjo, I., 1996. The dynamics of operational sex ratios and competition for mates. Trends Ecol. Evol. 11, 404–408.
+					</p>
+					<p>
+						[...]
+					</p>
+					<p>
+						Pettersson, L.B., Ramnarine, I.W., Becher, S.A., Mahabir, R., Magurran, A.E., 2004. Sex ratio dynamics and fluctuating selection pressures in natural populations of the Trinidadian guppy, Poecilia reticulata. Behav. Ecol. Sociobiol. 55, 461–468.
+					</p>
+					<p>
+						[...]
+					</p>
+					<p>
+						Weir, L.K., Grant, J.W., Hutchings, J.A., 2011. The influence of operational sex ratio on the intensity of competition for mates. Am. Nat. 177, 167–186.
+					</p>
+				</blockquote>
+				<p class="quote-by">
+					-- <a rel="nofollow" href="http://bsb-lab.org/people/marco-del-giudice/">Marco Del Giudice</a>
+				</p>
+				<p class="quote-from">
+					from "<a rel="nofollow" href="http://bsb-lab.org/site/wp-content/uploads/DelGiudice_2012_sex-ratio_fluctuating-selection_jtb.pdf">Sex ratio dynamics and fluctuating selection on personality</a>"
+				</p>
+			</div> <!-- class="quote" -->
+		</div>
+	</content>
+</entry>

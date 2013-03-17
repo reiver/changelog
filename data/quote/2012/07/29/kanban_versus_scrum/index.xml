@@ -1,0 +1,147 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2012-07-29T10:59:25-07:00</published>
+
+	<id>ec3a0ba2-7371-4c90-b0ca-cb0f2d2f53c5</id>
+
+	<title>Kanban versus Scrum</title>
+
+	<category term="Software Engineering" />
+	<category term="Software Management" />
+
+	<content type="xhtml">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<div class="quote">
+				<blockquote cite="http://www.ugrad.cs.ubc.ca/~cs310/slides/Kanban.pdf">
+					<h2>[In Kanban,] Doing &gt; Talking</h2>
+					<p>
+						[...]
+					</p>
+
+					<h2>Scrum</h2>
+					<ul>
+						<li>
+							Estimation
+						</li>
+						<li>
+							Talking / Planning
+						</li>
+						<li>
+							<abbr title="work-in-progress">WIP</abbr> is uneven across roles
+						</li>
+						<li>
+							Squeeze on QA
+						</li>
+						<li>
+							Squeeze on  PO
+						</li>
+						<li>
+							No downtime
+						</li>
+						<li>
+							Big Backlogs
+						</li>
+					</ul>
+					<p>
+						[...]
+					</p>
+
+					<h2>Kanban</h2>
+					<ul>
+						<li>
+							No time-boxes [that you find in Scrum]
+						</li>
+						<li>
+							No estimation
+						</li>
+						<li>
+							Cycle Time replaces Velocity [used in Scrum]
+						</li>
+						<li>
+							Slacktime
+						</li>
+						<li>
+							Visualize work
+						</li>
+						<li>
+							Limit work in progress (WIP)
+						</li>
+						<li>
+							Measure and manage Flow
+						</li>
+					</ul>
+					<p>
+						[...]
+					</p>
+
+					<h2>[With Kanban] Measure</h2>
+					<ul>
+						<li>
+							Time to complete a cycle
+						</li>
+						<li>
+							Throughput
+						</li>
+						<li>
+							Value delivered
+						</li>
+						<li>
+							Quality
+						</li>
+						<li>
+							Developer days per completed item
+						</li>
+					</ul>
+					<p>
+						[...]
+					</p>
+
+					<h2>Kanban #recap</h2>
+					<ul>
+						<li>
+							Visualize a process
+						</li>
+						<li>
+							Limit work in process (WIP) to improve throughput and cycle time
+						</li>
+						<li>
+							Measure and manage Flow to handle bottlenecks
+						</li>
+						<li>
+							No time-boxes
+						</li>
+						<li>
+							No estimation
+						</li>
+						<li>
+							Cycle Time replaces Velocity
+						</li>
+						<li>
+							Idleness is not a bad thing
+						</li>
+					</ul>
+
+					<h2>Takeaway</h2>
+					<ul>
+						<li>
+							Visualization
+						</li>
+						<li>
+							Measurement
+						</li>
+						<li>
+							Continuous improvement (experimentation)
+						</li>
+					</ul>
+				</blockquote>
+				<p class="quote-by">
+					-- <a rel="nofollow" href="http://twitter.com/noelpullen">Noel Pullen</a>
+				</p>
+				<p class="quote-from">
+					from "<a rel="nofollow" href="http://www.ugrad.cs.ubc.ca/~cs310/slides/Kanban.pdf">Kanban: July 17, 2012 @ UBC</a>"
+				</p>
+			</div> <!-- class="quote" -->
+		</div>
+	</content>
+</entry>

@@ -1,0 +1,165 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2012-11-12T22:13:09-08:00</published>
+
+	<id>1408581c-dc1a-43ab-ab77-809f62f42fe9</id>
+
+	<title>Spontaneous Retinal Waves: Training Patterns for Initial Development of Cortex?</title>
+
+	<category term="Neuroscience" />
+
+	<content type="xhtml">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<div class="quote">
+				<blockquote>
+					<p>
+						[V]isual development in nature is highly stable, and the visual cortex 
+						of most animals is partially organized already at birth (or eye-opening).  Such robustness 
+						could be achieved with a specific, fixed blue print, but [...] 
+						there is not enough information available in the genome to represent it.
+					</p>
+					<p>
+						Recent experimental findings in neuroscience suggest that nature may have found 
+						a clever way to utilize self-organization to achieve the same result.  Developing sensory 
+						systems are now known to be spontaneously active even before birth, i.e., before 
+						they could be learning from the environment (see O'Donovan 1999; Wong 1999 for 
+						reviews [...]).  This spontaneous, internal activity may actually guide the process 
+						of cortical development, acting as genetically specified training patterns for a 
+						learning algorithm (Constantine-Paton, Cline, and Debski 1990; Hirsch 1985; Jouvet 
+						1998; Kats and Shatz 1996; Marks, Shaffery, Oksenberg, Speciale, and Roffwarg 
+						1995; Roffwarg, Muzio, and Dement 1996; Shatz 1990, 1996; Sur and Leamey 
+						2001).  For a biological species, being able to control the training patterns can guarantee 
+						that each organism has rudimentary level of performance from the start.  Such 
+						training would also ensure that initial development does not depend on the details of 
+						the external environment.  Thus, internally generated patterns can preserve the benefits 
+						of a blueprint, within a learning system capable of much higher complexity and performance.
+					</p>
+					<p>
+						[...]
+					</p>
+					<p>
+						Constantine-Paton, M.,
+						Cline, H. T.,
+						and
+						Debski, E.
+						(1990).
+						Patterned activity, synaptic convergence, and the NMDA receptor in developing visual pathways.
+						<i>Annual Review of Neuroscience</i>, 13:129-154.
+					</p>
+					<p>
+						[...]
+					</p>
+					<p>
+						Hirsch, H. V. B.
+						(1985).
+						The role of visual experience in the development of cat striate cortex.
+						<i>Cellular and Molecular Neurobiology</i>, 5:103-121.
+					</p>
+					<p>
+						[...]
+					</p>
+					<p>
+						Jouvet, M.
+						(1998).
+						Paradoxical sleep as a programming system.
+						<i>Journal of Sleep Research</i>, 7:1-5.
+					</p>
+					<p>
+						[...]
+					</p>
+					<p>
+						Katz, L. C.,
+						and
+						Shatz, C. J.
+						(1996).
+						Synaptic activity and the construction of cortical circuits.
+						<i>Science</i>, 274:1133-1138.
+					</p>
+					<p>
+						[...]
+					</p>
+					<p>
+						Marks, G. A.,
+						Shaffery, J. P.,
+						Oksenberg, A.,
+						Speciale, S. G.,
+						and
+						Roffwarg, H. P.
+						(1995).
+						A functional role for REM sleep in brain maturation.
+						<i>Behavioural Brain Research</i>, 69:1-11.
+					</p>
+					<p>
+						[...]
+					</p>
+					<p>
+						O'Donovan, M. J.
+						(1999).
+						The origin of spontaneous activity in developing networks of the vertebrate nervous system.
+						<i>Current Opinion in Neurobiology</i>, 9:94-104.
+					</p>
+					<p>
+						[...]
+					</p>
+					<p>
+						Roffwarg, H. P.,
+						Muzio, J. N.,
+						and
+						Dement, W. C.
+						(1966).
+						Ontogenetic development of the human sleep-dream cycle.
+						<i>Science</i>, 152:604-619.
+					</p>
+					<p>
+						[...]
+					</p>
+					<p>
+						Shatz, C. J.
+						(1990).
+						Impulse activity and the patterning of connections during CNS development.
+						<i>Neuron</i>, 5:745-756.
+					</p>
+					<p>
+						[...]
+					</p>
+					<p>
+						Shatz, C. J.
+						(1996).
+						Emergence of order in visual system development.
+						<i>Proceedings of the National Academy of Sciences, USA</i>, 93:602-608.
+					</p>
+					<p>
+						[...]
+					</p>
+					<p>
+						Sur, M.,
+						and
+						Leamey, C. A.
+						(2001).
+						Development and plasticity of cortical areas and networks.
+						<i>Nature Reviews Neuroscience</i>, 2:251-262.
+					</p>
+					<p>
+						[...]
+					</p>
+					<p>
+						Wong, R. O. L.
+						(1999).
+						Retinal waves and visual system development.
+						<i>Annual Review of Neuroscience</i>, 22:29-47.
+					</p>
+				</blockquote>
+                                <p class="quote-by">
+                                        -- <a rel="nofollow" href="http://www.cs.utexas.edu/~risto/">Risto Miikkulainen</a>
+                                         , <a rel="nofollow" href="http://homepages.inf.ed.ac.uk/jbednar/">James A. Bednar</a>
+                                         , <a rel="nofollow" href="http://faculty.cs.tamu.edu/choe/">Yoonsuck Choe</a>
+                                         , <a rel="nofollow" href="https://twitter.com/jsirosh">Joseph Sirosh</a>
+                                </p>
+                                <p class="quote-from">
+                                        from "Computational Maps in the Visual Cortex"
+                                </p>
+			</div> <!-- class="quote" -->
+		</div>
+	</content>
+</entry>

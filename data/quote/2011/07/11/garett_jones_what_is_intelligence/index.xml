@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2011-07-11T13:57:00-07:00</published>
+
+	<id>bc587e3f-2544-4412-b785-df8ca81d4316</id>
+
+	<title>Garett Jones: What Is Intelligence?</title>
+
+	<category term="Psychology" />
+	<category term="Psychometrics" />
+
+	<content type="xhtml">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<div class="quote">
+				<blockquote cite="http://www.adb.org/Documents/Periodicals/ADR/ADR-Vol28-1-jones.pdf">
+					<p>
+						[T]he most important fact to know about mental abilities is that across large populations, different mental abilities are positively correlated. In other words, people who are above average in arithmetic tend to perform above average in vocabulary tests, block puzzles, as well as in memorizing lists of numbers and then repeating them in reverse order. This positive correlation conflicts with the commonsense view that abilities are negatively correlated, that for instance while some people are good in math, others are good in verbal tasks.
+					</p>
+					<p>
+						This positive correlation is at the heart of the psychological concept of intelligence. Quantitatively, it is at the heart of psychometric methods that extract a principal component from a broad variety of mental ability subtests. This principal component is formally called g, or the g factor. Lay persons, and most routine psychological research, refer to IQ instead of g, but it is worth keeping the concept of g in mind. Across thousands of studies on the correlation across mental abilities across populations, no one has yet found a reliable negative correlation.
+					</p>
+					<p>
+						This fact should strengthen our priors when we come across new mental tasks and we ask ourselves, "Will high IQ groups be better than average at this new mental task?" For every mental task so far that involves any level of sophistication, the answer has been yes.
+					</p>
+				</blockquote>
+				<p class="quote-by">
+					-- <a rel="nofollow" href="http://mason.gmu.edu/~gjonesb/">Garett Jones</a>
+				</p>
+				<p class="quote-from">
+					from "<a rel="nofollow" href="http://www.adb.org/Documents/Periodicals/ADR/ADR-Vol28-1-jones.pdf">National IQ and National Productivity: The Hive Mind Across Asia</a>"
+				</p>
+			</div> <!-- class="quote" -->
+		</div>
+	</content>
+</entry>

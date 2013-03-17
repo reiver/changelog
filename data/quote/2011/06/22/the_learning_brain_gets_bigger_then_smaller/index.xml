@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2011-06-22T06:32:00-07:00</published>
+
+	<id>a63e2578-e51e-4947-98a5-73cfea113890</id>
+
+	<title>The Learning Brain Gets Bigger, Then Smaller</title>
+
+	<category term="Brain" />
+	<category term="Neuroscience" />
+	<category term="Psychology" />
+
+	<content type="xhtml">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<div class="quote">
+				<blockquote cite="http://www.scientificamerican.com/article.cfm?id=the-learning-brain-gets-bigger-then-smaller">
+					<p>
+						the expansion of a 'skill-specific' brain area with training is only short lived, even when changes in ability are long lasting.  Instead of working like a muscle, where training adds size and size begets prowess, learning seems to involve some heavy duty trimming as well. In fact, if Kilgard's theory of learning holds up, both the biology of learning and our experience of it share a common principle: skill must be culled from a string of mistakes. Lots of them.
+					</p>
+				</blockquote>
+				<p class="quote-by">
+					-- Jason Castro
+				</p>
+				<p class="quote-from">
+					from "<a rel="nofollow" href="http://www.scientificamerican.com/article.cfm?id=the-learning-brain-gets-bigger-then-smaller">The Learning Brain Gets Bigger--Then Smaller</a>"
+				</p>
+			</div> <!-- class="quote" -->
+		</div>
+	</content>
+</entry>

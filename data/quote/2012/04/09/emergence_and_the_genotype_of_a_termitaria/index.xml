@@ -1,0 +1,186 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2012-04-09T10:39:53-07:00</published>
+
+	<id>56dd042c-0a80-4184-b591-08dfca4cb52f</id>
+
+	<title>Emergence And The Genotype Of A Termitaria</title>
+
+	<category term="Genetics" />
+
+	<content type="xhtml">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<div class="quote">
+				<blockquote>
+					<p>
+						What [...] would a genetics of termite mounds look like?
+						Suppose we were to do a population survey of compass mounds in the Australian steppe, scoring a trait such as colour, basal length/width ratio, or some internal structural feature -- for termite mounds are like bodies with a complex 'organ' structure.
+						How could we do a genetic study of such group-manufactured phenotypes?
+						We need not hope to find normal Mendelian inheritance with simple dominance.
+						An obvious complication, as already mentioned, is that the genotypes of the individuals working on any one mound are not identical.
+						For most of the life of an average colony, however, all the workers are full siblings, the children of the primary royal pair of alates who founded the colony.
+						Like their parents the workers are diploid.
+						We may presume that the king's two sets of genes and the queen's two sets of genes are permuted throughout the several million worker bodies.
+						The 'genotype' of the aggregate of workers may therefore be regarded, in a sense, as a single <i>tetraploid</i> genotype consisting of all the genes which the original founding pair contributed.
+						It is not quite as simple as that, for various reasons, for instance secondary reproductives often arise in older colonies and these may take on the full reproductive role if one of the original royal pair dies.
+						This means that the workers building the later parts of a mound may hot be full siblings of those that began the task, but their nephews and nieces (probably inbred and rather uniform, incidentally -- Hamilton 1972; Bartz 1979).
+						These later reproductives still draw their genes from the 'tetraploid' set introduced by the original royal pair, but their progeny will permute a particular subset of those original genes.
+						One of the things a 'mound-geneticist' might look out for, then, is a sudden change in details of mound-building after replacement of a primary reproductive by a secondary reproductive.
+					</p>
+					<p>
+						Ignoring the problem introduced by secondary reproductives, let us confine our hypothetical genetic study to younger colonies whose workers consist entirely of full siblings.
+						Some characters in which mounds may vary may turn out to be largely controlled by one locus, while others will be polygenically controlled at many loci.
+						This is no different from ordinary diploid genetics, but our new quasi-tetraploid genetics now introduces some complications.
+						Suppose the behavioural mechanism involved in choosing the colour of the mud used in building varies genetically.
+						(Again, colour is chosen for continuity with earlier thought experiments, although again it would be more realistic to avoid a visual trait, since termites make little use of vision.
+						If necessary, we may suppose the choice to be made chemically, mud colour being incidentally correlated with the chemical cues.
+						This is instructive, for it again emphasizes the fact that out way of labelling a phenotypic trait is a matter of arbitrary convenience.)
+						For simplicity, assume that mud choice is influenced by the diploid genotype of the individual worker doing the choosing, in a simple one locus Mendelian fashion with choice of dark mud dominant over choice of light mud.
+						Then a mound built by a colony containing some dark-preferring workers and some light preferring workers will consist of a mixture of dark and light muds and will presumably be intermediate in overall colour.
+						Of course such simple genetic assumptions are highly improbable.
+						They are equivalent to the simplifying assumptions we ordinarily make when explaining elementary conventional genetics, and I make them here to explain analogously the principles of how  a science of 'extended genetics' might work.
+					</p>
+					<p>
+						Using these assumptions, then, we can write down the expected extended phenotypes, considering mud colour only, resulting from crosses between the various possible founding pair genotypes.
+						For instance, all colonies founded by a heterozygous king and a heterozygous queen will contain dark-building and light-building workers in the ratio 3:1.
+						The resulting extended phenotype will be a mound built of three parts dark mud and one part light mud, therefore nearly,  but not completely, dark in colour.
+						If choice in mud colour is influenced by polygenes at many loci, the 'tetraploid genotype' of the colony may be expected to influence the extended phenotype, perhaps in an additive way.
+						The colony's immense size will lead to its acting as a statistical averaging device, making the mound as a whole become the extended phenotypic expression of all the genes of the royal pair, manifested via the behaviour of several million workers each containing a different diploid sample of those genes.
+					</p>
+					<p>
+						Mud colour was an easy character for us to choose, because mud itself blends in a simple additive manner: mix dark and light mud, and you get khaki mud.
+						It was therefore easy for us to deduce the result of assuming that each worker goes its own way, choosing mud of its own preferred colour (or chemical associated with colour), as determined by its own diploid genotype.
+						But what can we say about a characteristic of overall mound morphology, say basal width/length ratio?
+						In itself, this is not a character that any single worker can determine.
+						Each single worker must be obeying behavioural rules, the result of which, summed over thousands of individuals, is the production of a mound of regular shape and state dimensions.
+						Once again, the difficultly is one we have met before, in the embryonic development of an ordinary diploid multicellular body.
+						Embryologists are still wrestling with problems of this kind, and very formidable they are.
+						There do appear to be some close analogies with termite mound development.
+						For instance, conventional embryologists frequently appeal to the concept of the chemical gradient, while in <i>Macrotermes</i> there is evidence that the shape and size of the royal cell is determined by a pheromonal gradient around the body of the queen (Bruinsma &amp; Leuthold 1977).
+						Each cell in a developing embryo behaves as if it 'knows' where it is in the body, and it grows to have a form and physiology appropriate to that part of the body (Wolpert 1970).
+					</p>
+					<p>
+						[...]
+					</p>
+					<p>
+						Presumably an individual termite working on a little corner of a big mound is in a similar position to a cell in a developing embryo, or a single soldier tirelessly obeying orders whose purpose in the larger scheme of things he does not understand.
+						Nowhere in a single termite's nervous system is there anything remotely equivalent to a complete image of what the finished mound will look like (Wilson 1971, p.228).
+						Each worker is equipped with a small toolkit of behavioural rules, and he/she is probably stimulated to choose an item of behaviour by local stimuli emanating from the work already accomplish, no matter whether he/she or other workers accomplished it -- stimuli emanating from the present state of the nest in the worker's immediate vicinity ('stigmergie', Grass&#233; 1959).
+						For my purposes it doesn't matter exactly what the behavioural rules are, but they would be something like: 'If you come upon a heap of mud with a certain pheromone on it, put another dollop of mud on top.'
+						The important point about such rules is that they have a purely local effect.
+						The grand design of the whole mound emerges only as the summed consequences of thousands of obeyings of micro-rules (Hansell 1984).
+						Particular interest attaches to the local rules that are responsible for determining global properties such as the base length of the compass mound.
+						How do the individual workers on the ground 'know' that they have reached the boundary of the ground plan?
+						Perhaps in something like the same way as the cell at the boundary of a liver 'know' that they are not in the middle of the liver.
+						In any case, whatever the local behavioural rules may be that determine the overall shape and size of a termite mound, they are presumably subject to genetic variation in the population at large.
+						It is entirely plausible, indeed almost inevitable, that both the shape and the size of compass termite mounds have evolved by natural selection, just like any feature of bodily morphology.
+						This can only have come about through the selection of mutations acting at the local level on the building behaviour of individual worker termites.
+					</p>
+					<p>
+						Now our special problem arises, which would not arise in the ordinary embryogenesis of a multicellular body, nor in the example of mixing light and dark muds.
+						Unlike the cells of a multicellular body, the workers are not genetically identical.
+						In the example of dark and light mud, it was easy to suppose that a genetically heterogeneous work-force would simply construct a mound of mixed mud.
+						But a work-force which was genetically heterogeneous with respect to one of the behavioural rules that affected overall mound shape might produce curious results.
+						By analogy with our simple Mendelian model of mud selection, a colony might contain workers favouring two different rules for determining the boundary for the mound, say in the ratio three to one.
+						It is pleasing to imagine that such a bimodal colony might produce a mound with a strange double wall and a moat between!
+						More probably, the rules obeyed by the individuals would include provision for the minority to allow themselves to be overruled by majority decisions, so that only one clear-cut wall would emerge.
+						This could work in a similar way to the 'democratic' choice of a new nest site in honeybee swarms, observed by Lindauer (1961).
+					</p>
+					<p>
+						[...]
+					</p>
+					<p>
+						Bartz, S. H.
+						(1979).
+						Evolution of eusociality in termites.
+						<i>Proceedings of the National Academy of Science, U.S.A.</i>
+						<b>76</b>
+						5764-5768.
+					</p>
+					<p>
+						[...]
+					</p>
+					<p>
+						Bruinsma, O.
+						&amp;
+						Leuthold R. H.
+						(1977).
+						Pheromones involved in the building behaviour of <i>Macrotermes subhyalinus</i> (Rambur).
+						<i>Proceedings of the 8th International Congress of the International Union for the Study of Social Insects</i>,
+						Wageningen,
+						257-258.
+					</p>
+					<p>
+						[...]
+					</p>
+					<p>
+						Grass&#233;, P. P.
+						(1959).
+						La r&#233;construction du nid et les coordinations interindividuelles chez <i>Bellicositermes natalensis</i> et <i>Cubitermes</i> sp.
+						La th&#233;orie de la stigmergie: essai d'interpretation du comportement des termites constructeurs.
+						<i>Insectes Sociaux</i>
+						<b>6</b>,
+						41-80.
+					</p>
+					<p>
+						[...]
+					</p>
+					<p>
+						Hamilton, W. D.
+						(1972).
+						Altruism and related phenomena, mainly in social insects.
+						<i>Annual Review of Ecology and Systematics</i>
+						<b>3</b>,
+						193-232.
+					</p>
+					<p>
+						[...]
+					</p>
+					<p>
+						Hansell, M. H.
+						(1984).
+						Animal architecture and building behaviour.
+						London: Longman.
+					</p>
+					<p>
+						[...]
+					</p>
+					<p>
+						Lindauer, M.
+						(1961).
+						<i>Communication among Social Bees</i>.
+						Cambridge, Mass.: Harvard University Press.
+					</p>
+					<p>
+						[...]
+					</p>
+					<p>
+						Wilson, E. O.
+						(1971).
+						<i>The Insect Societies</i>.
+						Cambridge, Mass.: Harvard University Press.
+					</p>
+					<p>
+						[...]
+					</p>
+					<p>
+						Wolpert, L.
+						(1970).
+						Positional information and pattern formation.
+						In <i>Towards a Theoretical Biology, 3: Drafts</i>
+						(ed. C. H. Waddington),
+						pp. 198-230.
+						Edinburgh: Edinburgh University Press.
+					</p>
+				</blockquote>
+				<p class="quote-by">
+					-- <a rel="nofollow" href="http://richarddawkins.net/">Clinton Richard Dawkins</a>
+				</p>
+				<p class="quote-from">
+					from "The Extended Phenotype: The Long Reach of the Gene"
+				</p>
+			</div> <!-- class="quote" -->
+		</div>
+	</content>
+</entry>

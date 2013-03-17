@@ -1,0 +1,69 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2012-07-23T22:11:37-07:00</published>
+
+	<id>f0004b27-d23c-4f17-9d04-c18f90083eea</id>
+
+	<title>Park Kanban</title>
+
+	<category term="Software Engineering" />
+	<category term="Software Management" />
+
+	<content type="xhtml">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<div class="quote">
+				<blockquote>
+					<p>
+						On Saturday, April 9, 2005, I entered the park via the north entrance, crossing the bridge over the moat close to the Takebashi subway station.
+					</p>
+					<p>
+						[...]
+					</p>
+					<p>
+						As I crossed the bridge with my family, an elderly Japanese gentleman [...] produced a handful of plastic cards.
+						He offered one to each of us, pausing briefly to decide whether my three-month-old daughter strapped to my chest required a card.
+						He decided she did and handed me two cards.
+						He said nothing, and, as my Japanese is limited, I offered no conversation.
+						We walked on into the gardens to look for a spot to enjoy our family picnic.
+						Two hours later [...] we packed up our picnic things and headed towards the exit at the East Gate at Otemachi.
+						As we approached the exit, we joined a line of people in front of a small kiosk.
+						As the line shuffled forward I saw people returning their plastic entrance cards.
+						I fished around in my pocket and retrieved the cards I'd been given.
+						[...]
+						I slid my plastic cards across the countertop [of the kiosk] through the hole in the glass [screen, to the Japanese lady inside].
+						The lady took them [...] and stacked them in a rack with others.
+						She bowed her head slightly and thanked me with a smile.
+						No money changed hands.
+						No explanation was given for why I'd been carrying around two white plastic admission cards since entering the park two hours earlier.
+					</p>
+					<p>
+						What was going on with these admission tickets?
+						Why bother to issue a ticket if no fee was charged?
+						[...]
+						I realized then that the Imperial Palace Gardens was using a kanban system!
+					</p>
+					<p>
+						[...]
+					</p>
+					<p>
+						In the Imperial Palace Gardens, the gardens themselves are the system:
+						The visitors are the work-in-progress, and the capacity is limited by the number of admission cards in circulation.
+						Newly arriving visitors gain admission only when there are available tickets to hand out.
+						On a normal day this is never an issue.
+						However. on busy days, such as a holiday or a Saturday during cherry-blossom season, the park is popular.
+						When all the admission tickets are given out, new visitors must queue outside across the bridge and wait for cards to be recycled from visitors as they leave.
+						The kanban system provides a simple, cheap, and easily implemented method for controlling the size of the crowd by limiting the number of people inside the park.
+						This allows the park wardens to maintain the gardens in good condition and avoid damage caused by too much foot traffic and overcrowding.
+					</p>
+				</blockquote>
+				<p class="quote-by">
+					-- David J. Anderson
+				</p>
+				<p class="quote-from">
+					from "Kanban"
+				</p>
+			</div> <!-- class="quote" -->
+		</div>
+	</content>
+</entry>

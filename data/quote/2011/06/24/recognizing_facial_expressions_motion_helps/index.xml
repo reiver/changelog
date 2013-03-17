@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2011-06-24T08:28:00-07:00</published>
+
+	<id>a6b15695-a448-4d06-b791-ce61d041fdde</id>
+
+	<title>Recognizing Facial Expressions, Motion Helps</title>
+
+	<category term="Neuroscience" />
+
+	<content type="xhtml">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<div class="quote">
+				<blockquote cite="http://www.sciencedaily.com/releases/2009/12/091223215119.htm">
+					<p>
+						[W]e [humans] are able to recognize facial expressions in motion -- for example, in a movie -- far better than in a static photograph.
+					</p>
+				</blockquote>
+				<p class="quote-from">
+					from "<a rel="nofollow" href="http://www.sciencedaily.com/releases/2009/12/091223215119.htm">Facial Expression Is Worth a Thousand Words</a>"
+				</p>
+			</div> <!-- class="quote" -->
+		</div>
+	</content>
+</entry>

@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2012-11-02T10:48:50-08:00</published>
+
+	<id>09d2bc85-6009-41e8-9be2-8fd91e0750c0</id>
+
+	<title>At Least 3 Bodies Of Intelligence Research: Psychometric, Physiological and Social</title>
+
+	<category term="Intelligence" />
+	<category term="IQ" />
+	<category term="Psychology" />
+	<category term="Psychometrics" />
+
+	<content type="xhtml">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<div class="quote">
+				<blockquote>
+					<p>
+						[I]ntelligence is currently defined, assessed, and studied on at least three different levels:
+						psychometric, psychological, and social (Eysenck, 1988; Flynn 2007).
+						Each level has its own organizing concepts, hypotheses, research methodologies, and conclusions that can limit comparison and consensus.
+						For example, the physiologial approach typically employs advanced technology to examine indices of intelligence in the brain, whereas the social (or societal usefulness) approach uses performance on "real-world" tasks to study intellectual skills in context.
+						Fortunately, there has been some recent cross-fertilization between levels, which bodes well for future agreement on what it means to be intelligent (Flynn, 2007).
+					</p>
+					<p>
+						[...]
+					</p>
+					<p>
+						Eysenck, H. J.
+						(1998).
+						The concept of "intelligence":
+						Useful or useless?
+						<i>Intelligence</i>,
+						<b>12</b>,
+						1-16.
+					</p>
+					<p>
+						[...]
+					</p>
+					<p>
+						Flynn, J. R.
+						(2007).
+						<i>What is intelligence? Beyond the Flynn effect.</i>
+						New York, NY: Cambridge University Press.
+					</p>
+				</blockquote>
+                                <p class="quote-by">
+                                        -- Janet E. Davidson
+                                         , Iris A. Kemp
+                                </p>
+                                <p class="quote-from">
+                                        from "The Cambridge Handbook of Intelligence"
+                                </p>
+			</div> <!-- class="quote" -->
+		</div>
+	</content>
+</entry>

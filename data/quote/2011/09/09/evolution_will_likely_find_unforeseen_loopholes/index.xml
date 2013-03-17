@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2011-09-09T15:14:45-07:00</published>
+
+	<id>3f8b3693-9973-43ec-94d2-d67d9284b750</id>
+
+	<title>Corollary To Orgel's Second Rule: Evolution Will Likely Find Unforeseen Loopholes</title>
+
+	<category term="Economics" />
+	<category term="Emergence" />
+	<category term="Evolution" />
+	<category term="Genetics" />
+
+	<content type="xhtml">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<div class="quote">
+				<blockquote>
+					<p>
+						As the biochemist Leslie Orgel famously remarked, "Evolution is cleverer than you are", meaning that when an evolutionary process is let loose upon a problem, it will often find solutions that no human designer would have dreamed of.
+					</p>
+					<p>
+						But there is an unhelpful corollary to Orgel's maxim: if the problem is misstated [such as in a virtual environment in a computer, or with a state central planner] then evolution is likely to find loopholes few of us could have imagined.
+					</p>
+				</blockquote>
+				<p class="quote-by">
+					-- <a rel="nofollow" href="http://www.timharford.com/">Tim Harford</a>
+				</p>
+				<p class="quote-from">
+					from "Adapt: Why Success Always Starts with Failure"
+				</p>
+			</div> <!-- class="quote" -->
+		</div>
+	</content>
+</entry>

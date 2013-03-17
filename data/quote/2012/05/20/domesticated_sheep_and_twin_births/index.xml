@@ -1,0 +1,75 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2012-05-20T11:14:20-07:00</published>
+
+	<id>4d86e6a4-a069-45dc-8f8f-c7b0180835e2</id>
+
+	<title>Rapid Selection, Overdominance &amp; Disease As A Side Effect Of Adaptation: Domesticated Sheep And Twin Births</title>
+
+	<category term="Disease" />
+	<category term="Evolution" />
+	<category term="Genetics" />
+	<category term="Overdominance" />
+	<category term="Sheep" />
+
+	<content type="xhtml">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<div class="quote">
+				<blockquote cite="http://psychology.msu.edu/pers_hambric3/PSY493%20Spring%202012/Week%206%20-%20Cochran%20et%20al.%20(2006).pdf">
+					<p>
+						Multiple ovulations are uncommon in most breeds of sheep.
+						Presumably this was adaptive among the wild ancestors of sheep, since it is considerably harder to feed and protect twins.
+						Singleton births were probably the optimal course until recent years, when some sheep farmers have created far more favourable environments than existed in the past.
+						In such environments, twinning is favoured by selection, and mutations favouring twinning have reached polymorphic frequencies in some breeds of sheep.
+						Inverdale sheep (Galloway et al., 2000) carry a naturally occurring X-linked mutation of the BMP15 gene (bone morphological protein 15, a growth and differentiation factor expressed in ovaries) which causes increased ovulation rate and twin and triplet births in heterozygotes, but sterility due to primary ovarian failure in homozygotes.
+						Hanna sheep carry a different mutation in BMP15 with similar effects.
+						It is interesting that in these cases, the very function that is hypertrophied in heterozygotes and favoured by selection is completely destroyed in homozygotes.
+						Booroola sheep (McNatty et al., 2001) carry a mutation in the receptor of BMP-1B, another member of the bone morphological protein family.
+						In this case ovulation is increased even further in homozygotes.
+						Note the tendency of selection to affect genes that are closely biochemically related because they lead to similar outcomes.
+					</p>
+					<p>
+						[...]
+					</p>
+					<p>
+						<b>Galloway, S. M.,
+						McNatty, K. P.,
+						Cambridge, L. M.,
+						Laitinen, M. P.,
+						Juengel, J. L.,
+						Jokirata, T. S. <i>et al.</i></b>
+						(2000)
+						Mutations in an oocyte-derived growth factor gene (BMP15) cause increased ovulation rate and infertility in a dosage-sensitive manner.
+						<i>Nature Genetics</i> <b>25</b>,
+						279–283.
+					</p>
+					<p>
+						[...]
+					</p>
+					<p>
+						<b>McNatty, K. P.,
+						Juengel, J. L.,
+						Wilson, T.,
+						Galloway, S. M.
+						&amp;
+						Davis, G. H.</b>
+						(2001)
+						Genetic mutations influencing ovulation rate in sheep.
+						<i>Reproduction Fertility and Development</i> <b>13</b>,
+						549–555.
+					</p>
+				</blockquote>
+				<p class="quote-by">
+					-- <a rel="nofollow" href="http://gc.homeunix.net/">Gregory Cochran</a>
+					 , Jason Hardy
+					 , <a rel="nofollow" href="http://harpending.humanevo.utah.edu/harpindex.html">Henry Harpending</a>
+
+				</p>
+				<p class="quote-from">
+					from "<a rel="nofollow" href="http://psychology.msu.edu/pers_hambric3/PSY493%20Spring%202012/Week%206%20-%20Cochran%20et%20al.%20(2006).pdf">Natural History Of Ashkenazi Intelligence</a>"
+				</p>
+			</div> <!-- class="quote" -->
+		</div>
+	</content>
+</entry>

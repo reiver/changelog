@@ -1,0 +1,57 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2012-09-21T20:55:41-07:00</published>
+
+	<id>93638d48-a469-4fc4-afed-ba20e20f7a85</id>
+
+	<title>IQ No Longer A Quotient</title>
+
+	<category term="Intelligence" />
+	<category term="IQ" />
+	<category term="Psychology" />
+	<category term="Psychometrics" />
+
+	<content type="xhtml">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<div class="quote">
+				<blockquote>
+					<p>
+						[T]here is really no longer an IQ, much less an IQ test.
+						IQs are, literally, Intelligence Quotients, but the so-called IQ tests haven't yielded actual quotients for a few generations [...]
+					</p>
+					<p>
+						Originally, IQ was thought of as a ratio of Mental Age (MA) divided by Chronological Age (CA) and multiplied by 100.
+						Mental age was the age at which a person was functioning intellectually according to the test.
+						So if a person of any age scores as well as the average child of 8 on an intelligence test, then that person's MA = 8 years.
+						For an 8-year-old, an MA of 8 yields an IQ of 100.
+						At age 6, MA = 8 corresponds to an IQ of 133 (great performance), and at age 16, the IQ of 50 is not so good.
+						The idea was clever, but it didn't work too well, because one year's growth in mental ability or height has very different meanings across the age range -- it corresponds to a great deal of growth from age 3 to 4, for example, but not so much from age 16 to 17.
+						And what do you do with adults who are 25 or 40 or 80 years old?
+						The whole notion of the ratio IQ falls apart.
+					</p>
+					<p>
+						So back in 1939, David Wechsler [...] got rid of the quotient and replaced it with standard scores, a terrific statistic.
+						But he continued to call the overall scores IQs.
+						[...]
+					</p>
+					<p>
+						The IQ as a ratio or quotient is long gone, and the IQ test label should be a thing of the past.
+						Today's tests are referred to as cognitive ability tests, mental processing tests, or tests of multiple cognitive abilities by the professionals who develop the tests and by those who interpret them.
+						But "IQ test" remains in the public's vernacular and is alive and well in the professional community as well.
+						[...]
+						[N]either [the] label ["IQ" or "IQ test"] is technically correct.
+						But they do communicate.
+						And they are much quicker to write and say than "Broad Cognitive Ability Composite" or "standardscore-yielding-multiple-cognitive-abilities test."
+					</p>
+				</blockquote>
+				<p class="quote-by">
+					-- Alan S. Kaufman
+				</p>
+				<p class="quote-from">
+					from "IQ Testing 101 (Psych 101)"
+				</p>
+			</div> <!-- class="quote" -->
+		</div>
+	</content>
+</entry>

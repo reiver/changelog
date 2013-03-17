@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2012-08-10T14:08:20-07:00</published>
+
+	<id>b6f0b93c-d931-4cca-b737-59ba84aa66c7</id>
+
+	<title>Suffering-Oriented Programming</title>
+
+	<category term="Software Engineering" />
+	<category term="Software Management" />
+
+	<content type="xhtml">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<div class="quote">
+				<blockquote cite="http://nathanmarz.com/blog/suffering-oriented-programming.html">
+					<p>
+						Suffering-oriented programming can be summarized like so: don't build technology unless you feel the pain of not having it.
+						It applies to the big, architectural decisions as well as the smaller everyday programming decisions.
+						Suffering-oriented programming greatly reduces risk by ensuring that you're always working on something important, and it ensures that you are well-versed in a problem space before attempting a large investment.
+					</p>
+					<p>
+						I have a mantra for suffering-oriented programming:
+						"First make it possible.
+						Then make it beautiful.
+						Then make it fast."
+					</p>
+				</blockquote>
+				<p class="quote-by">
+					-- <a rel="nofollow" href="http://nathanmarz.com/">Nathan Marz</a>
+				</p>
+				<p class="quote-from">
+					from "<a rel="nofollow" href="http://nathanmarz.com/blog/suffering-oriented-programming.html">Suffering-oriented programming</a>"
+				</p>
+			</div> <!-- class="quote" -->
+		</div>
+	</content>
+</entry>

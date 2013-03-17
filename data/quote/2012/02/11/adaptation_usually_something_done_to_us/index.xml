@@ -1,0 +1,69 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2012-02-11T20:15:33-08:00</published>
+
+	<id>5bc49a6a-bb13-4346-9dd1-bf5b7c54087f</id>
+
+	<title>Adaptation: Usually Something Done To Us</title>
+
+	<category term="Economics" />
+	<category term="Evolution" />
+	<category term="Genetics" />
+
+	<content type="xhtml">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<div class="quote">
+				<blockquote>
+					<p>
+						When John Endler first studied guppies in the streams of Venezuela and Trinidad in the 1970s, he noticed an intriguing pattern: guppies in the pools at the boom of waterfalls tended to be rather drab, while those in pools further upstream were eye-catchingly gaudy.
+						Endler suspected the likely cause of the difference: while guppies were able to swim upstream past the waterfalls, the voracious guppy-eating pike cichlid could not, so the upper pools were cichlid-free.
+						The drab guppies were camouflaged because they had evolved in a dangerous environment.
+						The brightly-coloured ones lived in Guppy Eden, safely separated from the cichlids by a waterfall, and their colours were simply useful for attracting the attentions of other amorous guppies.
+					</p>
+					<p>
+						Endler decided to test his hypothesis in a more controlled environment, and filled a large greenhouse with ten guppy pools.
+						Some pools had pebbles on the bottom, other pools were lined with finer gravel.
+						Endler released the dangerous pike cichlids into some of each type of pool, and other pools were stocked either with gentler predators or no predators at all.
+						Within fourteen months, ten generations, the guppy population adapted.
+						In the dangerous pools, only the most boring guppies survived to breed; what is more, the guppy camouflage fitted the lining of the pool, with larger patterning in the pebble-floored pool and smaller patterning in the gravel-floored pool.
+						In the safer pools, it was the brightly-spotted guppies that bred more -- female guppies, it seems, have a taste for colourful polka dot males.
+					</p>
+					<p>
+						Professor Endler's guppy experiments are modern classic in evolutionary biology, and a striking example of how a population adapts to a new problem, such as the appearance of a pike cichlid.
+						Not only was the adaptation fast, it was sensitive to context: the right response to a pike cichlid depends on what sort of material the pool is lined with.
+						It was a decentralised process, because no guppy planned the response.
+						And it was driven by failure: some guppies were eaten, while others went on to produce future generations of well-adapted baby guppies.
+					</p>
+					<p>
+						[...]
+					</p>
+					<p>
+						Adapting is not necessarily something we do.
+						It may well be something that is <i>done</i> to <i>us</i>.
+						We may think of ourselves as Professor Endler, but we're actually the guppies.
+						No individual guppy adapted, but some guppies avoided being eaten and some did not.
+						[...]
+					</p>
+					<p>
+						So let's first acknowledge a crucial difference:
+						individuals, unlike populations, can succeed without adapting.
+						The guppy <i>population</i> evolved pebble-camouflage through trial and error, but no <i>individual</i> guppy did: each was born either with good-enough camouflage, or not.
+					</p>
+					<p>
+						[...]
+					</p>
+					<p>
+						Fortunately we [humans] have something that guppies do not: the ability to adapt as we go along.
+					</p>
+				</blockquote>
+				<p class="quote-by">
+					-- <a rel="nofollow" href="http://www.timharford.com/">Tim Harford</a>
+				</p>
+				<p class="quote-from">
+					from "Adapt: Why Success Always Starts with Failure"
+				</p>
+			</div> <!-- class="quote" -->
+		</div>
+	</content>
+</entry>

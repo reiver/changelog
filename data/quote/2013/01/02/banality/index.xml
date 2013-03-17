@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2013-03-16T12:54:18-07:00</published>
+
+	<id>d54a84e9-a61c-415c-91d3-f19172a1ccba</id>
+
+	<title>The Banality Of Genius</title>
+
+	<content type="xhtml">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<div class="quote">
+				<blockquote cite="http://twitter.com/afoolswisdom/status/286293893740376064">
+					<p>
+						Scientist: "Eureka!" Engineer: "Duh!"
+					</p>
+				</blockquote>
+				<p class="quote-by">
+					-- <a rel="nofollow" href="http://sarkology.wordpress.com/">sark</a>
+				</p>
+				<p class="quote-from">
+					from "<a rel="nofollow" href="http://twitter.com/afoolswisdom/status/286293893740376064">TWEET</a>"
+				</p>
+			</div> <!-- class="quote" -->
+		</div>
+	</content>
+</entry>

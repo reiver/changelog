@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2011-08-02T22:26:35-07:00</published>
+
+	<id>7514480d-7652-450f-8873-e71d4ead490d</id>
+
+	<title>The Economy Is Not A Machine, It Is An Ecosystem</title>
+
+	<category term="Economics" />
+	<category term="Evolution" />
+
+	<content type="xhtml">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<div class="quote">
+				<blockquote cite="http://www.econlib.org/library/Columns/y2011/Borderseconomy.html">
+					<p>
+						A much more accurate metaphor for the economy is an ecosystem. We are simultaneously independent and interdependent. We can no more fix an economy than we can fix a rainforest or a coral reef. At best, we can leave it alone. Such is not the faith of a "market fundamentalist," but the implication of a tradition informed by evolutionary thinking, the science of complexity and self-organizing systems.
+					</p>
+				</blockquote>
+				<p class="quote-by">
+					-- Max Borders
+				</p>
+				<p class="quote-from">
+					from "<a rel="nofollow" href="http://www.econlib.org/library/Columns/y2011/Borderseconomy.html">The Economy: Metaphors We (Shouldn't) Live By</a>"
+				</p>
+			</div> <!-- class="quote" -->
+		</div>
+	</content>
+</entry>

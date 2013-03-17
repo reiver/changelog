@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2011-06-22T06:52:00-07:00</published>
+
+	<id>77de2ac5-2d75-4be4-9859-74b64e6f4742</id>
+
+	<title>The Ugly Side Of Scientific Breakthroughs</title>
+
+	<category term="Politics" />
+	<category term="Science" />
+
+	<content type="xhtml">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<div class="quote">
+				<blockquote cite="http://math-blog.com/2011/05/23/the-manhattan-project-considered-as-a-fluke">
+					<p>
+						The enormous financial gains, professional benefits, glory, and even political power associated with a genuine breakthrough give extreme and exceptional motives for deception and dishonesty by participants. A close examination of many breakthroughs often reveals controversy, lawsuits, and other complications. Did Alexander Graham Bell really invent the telephone or did he rip it off from another inventor as some claim? Was Marconi a boy genius who invented the radio or did he rip off the work of others as more than a few have concluded? What is the truth of the many lawsuits and bitter conflicts between the Wright Brothers, their rivals, and Octave Chanute? Who invented the laser? Many other controversies may be cited. Is the official history of the Manhattan Project taught in schools and widely accepted by many true? Was it altered for legitimate national security reasons, to hide the secret of how to make the atomic bomb, or to further the careers of some of the participants?
+					</p>
+				</blockquote>
+				<p class="quote-by">
+					-- John F. McGowan
+				</p>
+				<p class="quote-from">
+					from "<a rel="nofollow" href="http://math-blog.com/2011/05/23/the-manhattan-project-considered-as-a-fluke">The Manhattan Project Considered as a Fluke</a>"
+				</p>
+			</div> <!-- class="quote" -->
+		</div>
+	</content>
+</entry>

@@ -1,0 +1,60 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2012-07-28T10:03:46-07:00</published>
+
+	<id>37efa465-89a1-4c6b-9726-186aa07bf975</id>
+
+	<title>Example Software Release Planning Meeting Checklist</title>
+
+	<category term="Software Engineering" />
+	<category term="Software Management" />
+
+	<content type="xhtml">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<div class="quote">
+				<blockquote>
+					<p>
+						A mature organization will have a checklist or framwork for release that facilitates planning.
+						Some of the things to be considered are the following.
+					</p>
+					<ul>
+						<li>
+							Which items in the system are (or will be) ready for release?
+						</li>
+						<li>
+							What is required to actually release each item to production?
+						</li>
+						<li>
+							What testing will be required post-release to validate the integrity of production systems?
+						</li>
+						<li>
+							What risks are involved?
+						</li>
+						<li>
+							How are these risks being mitigated?
+						</li>
+						<li>
+							What contingency plans are required?
+						</li>
+						<li>
+							Who needs to be involved in the release and present during the push to production (or other delivery mechanism)?
+						</li>
+						<li>
+							How long will the release take?
+						</li>
+						<li>
+							What other logistics will be involved?
+						</li>
+					</ul>
+				</blockquote>
+				<p class="quote-by">
+					-- David J. Anderson
+				</p>
+				<p class="quote-from">
+					from "Kanban"
+				</p>
+			</div> <!-- class="quote" -->
+		</div>
+	</content>
+</entry>

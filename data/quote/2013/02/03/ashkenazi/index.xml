@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2013-02-03T22:24:29-08:00</published>
+
+	<id>af100d48-cc6b-46ac-a2d6-dabb6dbd6654</id>
+
+	<title>Ashkenazi Actually Two Separate Populations?</title>
+
+	<category term="Genetics" />
+	<category term="History" />
+
+	<content type="xhtml">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<div class="quote">
+				<blockquote cite="http://gbe.oxfordjournals.org/content/5/1/61.full">
+					<p>
+						In common parlance, Eastern and Central European Jews are practically synonymous with Ashkenazi Jews and are considered a single entity (Tian et al. 2008; Atzmon et al. 2010; Behar et al. 2010).
+						However, the term is misleading, for the Hebrew word “Ashkenaz” was applied to Germany in medieval rabbinical literature—contributing to the narrative that modern Eastern European Jewry originated on the Rhine.
+						We thus refrained from using the term “Ashkenazi Jews.”
+						Jews were roughly subdivided into Eastern (Belorussia, Latvia, Poland, and Romania) and Central (Germany, Netherlands, and Austria) European Jews.
+						In congruence with the literature that considers “Ashkenazi Jews” distinct from “Sephardic Jews,” we excluded the later.
+					</p>
+					<p>
+						[...]
+					</p>
+					<p>
+						Atzmon G,
+						et al
+						. Abraham’s children in the genome era: major Jewish diaspora populations comprise distinct genetic clusters with shared Middle Eastern ancestry. Am J Hum Genet. 2010;86:850-859.
+					</p>
+					<p>
+						[...]
+					</p>
+					<p>
+						Behar DM,
+						et al
+						. The genome-wide structure of the Jewish people. Nature 2010;466:238-242.
+					</p>
+					<p>
+						[...]
+					</p>
+					<p>
+						Tian C,
+						et al
+						. Analysis and application of European genetic substructure using 300 K SNP information. PLoS Genet. 2008;4:e4.
+					</p>
+				</blockquote>
+				<p class="quote-by">
+					-- <a rel="nofollow" href="http://eelhaik.aravindachakravartilab.org/">Eran Elhaik</a>
+				</p>
+				<p class="quote-from">
+					from "<a rel="nofollow" href="http://gbe.oxfordjournals.org/content/5/1/61.full">The Missing Link of Jewish European Ancestry: Contrasting the Rhineland and the Khazarian Hypotheses</a>"
+				</p>
+			</div> <!-- class="quote" -->
+		</div>
+	</content>
+</entry>

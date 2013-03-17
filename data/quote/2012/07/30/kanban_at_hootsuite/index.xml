@@ -1,0 +1,150 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2012-07-30T19:54:52-07:00</published>
+
+	<id>dd108f05-3c32-48b4-9492-44321f32bd87</id>
+
+	<title>Kanban at HootSuite</title>
+
+	<category term="Software Engineering" />
+	<category term="Software Management" />
+
+	<content type="xhtml">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<div class="quote">
+				<blockquote cite="http://www.ugrad.cs.ubc.ca/~cs310/slides/Kanban.pdf">
+					<h2>Kaban @HootSuite</h2>
+					<p>
+						<a
+							href="http://changelog.ca/quote/2012/07/30/kanban_at_hootsuite/board.png"
+						><img
+							src="http://changelog.ca/quote/2012/07/30/kanban_at_hootsuite/board.png"
+							style="width:85%;"
+						/></a>
+					</p>
+
+					<h2>Kaban @HootSuite</h2>
+					<p>
+						<a
+							href="http://changelog.ca/quote/2012/07/30/kanban_at_hootsuite/board-photo.png"
+						><img
+							src="http://changelog.ca/quote/2012/07/30/kanban_at_hootsuite/board-photo.png"
+							style="width:85%;"
+						/></a>
+					</p>
+
+					<h2>1. Define any process workflow</h2>
+					<p>
+						<a
+							href="http://changelog.ca/quote/2012/07/30/kanban_at_hootsuite/1.png"
+						><img
+							src="http://changelog.ca/quote/2012/07/30/kanban_at_hootsuite/1.png"
+							style="width:85%;"
+						/></a>
+					</p>
+
+					<h2>2. Visualize it on a Kanban board</h2>
+					<p>
+						<a
+							href="http://changelog.ca/quote/2012/07/30/kanban_at_hootsuite/2.png"
+						><img
+							src="http://changelog.ca/quote/2012/07/30/kanban_at_hootsuite/2.png"
+							style="width:85%;"
+						/></a>
+					</p>
+					<p>
+						["Queued" and "Ready for QA" colums are buffers.
+						"HOV" row is #tigerblood]
+					</p>
+
+					<h2>3. Set WIP Limits</h2>
+					<p>
+						<a
+							href="http://changelog.ca/quote/2012/07/30/kanban_at_hootsuite/3.png"
+						><img
+							src="http://changelog.ca/quote/2012/07/30/kanban_at_hootsuite/3.png"
+							style="width:85%;"
+						/></a>
+					</p>
+					<p>
+						[WIP limit exceeded in "Queued" column.]
+					</p>
+
+					<h2>4. Start items in the Queue</h2>
+					<p>
+						<a
+							href="http://changelog.ca/quote/2012/07/30/kanban_at_hootsuite/4.png"
+						><img
+							src="http://changelog.ca/quote/2012/07/30/kanban_at_hootsuite/4.png"
+							style="width:85%;"
+						/></a>
+					</p>
+
+					<h2>5. Move items through the process</h2>
+					<p>
+						<a
+							href="http://changelog.ca/quote/2012/07/30/kanban_at_hootsuite/5.png"
+						><img
+							src="http://changelog.ca/quote/2012/07/30/kanban_at_hootsuite/5.png"
+							style="width:85%;"
+						/></a>
+					</p>
+					<p>
+						[Process is to move cards from left to right one column at a time, excluding the "Impeded" column.
+						Usual flow is:
+						<em>Triage</em> &#8594; <em>Queued</em> &#8594; <em>In Development</em> &#8594; <em>In Review</em> &#8594; <em>Ready for QA</em> &#8594; <em>QA</em> &#8594; <em>Ready to Release</em>.]
+					</p>
+
+					<h2>6. Measure Time to Complete a Cycle</h2>
+					<p>
+						<a
+							href="http://changelog.ca/quote/2012/07/30/kanban_at_hootsuite/6.png"
+						><img
+							src="http://changelog.ca/quote/2012/07/30/kanban_at_hootsuite/6.png"
+							style="width:85%;"
+						/></a>
+					</p>
+					<p>
+						[Cycle time starts at <em>Queued</em> and ends at <em>Ready to Release</em>.]
+					</p>
+
+					<h2>7. Slacktime</h2>
+					<p>
+						<a
+							href="http://changelog.ca/quote/2012/07/30/kanban_at_hootsuite/7.png"
+						><img
+							src="http://changelog.ca/quote/2012/07/30/kanban_at_hootsuite/7.png"
+							style="width:85%;"
+						/></a>
+					</p>
+					<p>
+						[QA and In Review] WIP limit exceeded
+					</p>
+
+
+					<h2>8. Visualize Cycle Times</h2>
+					<p>
+						<a
+							href="http://changelog.ca/quote/2012/07/30/kanban_at_hootsuite/8.png"
+						><img
+							src="http://changelog.ca/quote/2012/07/30/kanban_at_hootsuite/8.png"
+							style="width:85%;"
+						/></a>
+					</p>
+					<p>
+						Trending up :-(
+					</p>
+
+
+				</blockquote>
+				<p class="quote-by">
+					-- <a rel="nofollow" href="http://twitter.com/noelpullen">Noel Pullen</a>
+				</p>
+				<p class="quote-from">
+					from "<a rel="nofollow" href="http://www.ugrad.cs.ubc.ca/~cs310/slides/Kanban.pdf">Kanban: July 17, 2012 @ UBC</a>"
+				</p>
+			</div> <!-- class="quote" -->
+		</div>
+	</content>
+</entry>

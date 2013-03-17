@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2011-12-23T11:07:40-08:00</published>
+
+	<id>46a99354-a070-44f5-89c5-3a7c0bc0fc78</id>
+
+	<title>Taking Things Apart And Examining The Pieces</title>
+
+	<category term="Neuroscience" />
+	<category term="Science" />
+
+	<content type="xhtml">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<div class="quote">
+				<blockquote>
+					<p>
+						Sometimes it is simply not possible to understand something by taking it apart and examining the pieces, and the human mind is perhaps the epitome of such an irreducible system.
+						If you take an animal apart to see how it works, the first thing you end up with is a heap of bloody entrails that don't work at all any more.
+						Sometimes the only way to understand something is to start with a blank sheet and attempt to build it from scratch, beginning with a pile of bits that "don't work" and trying to find out how to put them together so that they do.
+						Only then will you know what questions you should really be asking and what problems the system is actually solving.
+						At worst you will come away feeling suitably chastened, with a healthy and informed sense of awe at the beauty and elegance of nature.
+					</p>
+				</blockquote>
+				<p class="quote-by">
+					-- <a rel="nofollow" href="http://stevegrand.wordpress.com/">Steve Grand</a>
+				</p>
+				<p class="quote-from">
+					from "Growing up with Lucy: How to Build an Android in Twenty Easy Steps"
+				</p>
+			</div> <!-- class="quote" -->
+		</div>
+	</content>
+</entry>

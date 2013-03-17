@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2012-08-20T20:13:31-07:00</published>
+
+	<id>105e5ae5-eee7-4d6d-8891-a20358f3d409</id>
+
+	<title>K-Mediods: A Variation on K-Means</title>
+
+	<category term="Artificial Intelligence" />
+	<category term="Machine Learning" />
+	<category term="Software Engineering" />
+	<category term="Statistics" />
+
+	<content type="xhtml">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<div class="quote">
+				<blockquote>
+					<p>
+						So, one variation of k-means [...] is called k-mediods.
+						And the only difference here is that, instead of picking random points in space as the centers of clusters, it randomly picks points in your own data set, as the center of clusters.
+						And it tends to come out to about the same sorts of results, but is a nice variation that people sometimes like to use, particularly for very numerical data.
+					</p>
+					<p>
+						[...]
+					</p>
+					<p>
+						If your data is innately highly clustered, this tends to give you a somehwat better result faster.
+						[It's because of convergence.]
+					</p>
+				</blockquote>
+				<p class="quote-by">
+					-- <a rel="nofollow" href="http://www.hilarymason.com/">Hilary Mason</a>
+				</p>
+				<p class="quote-from">
+					from "Hilary Mason: An Introduction to Machine Learning with Web Data"
+				</p>
+			</div> <!-- class="quote" -->
+		</div>
+	</content>
+</entry>

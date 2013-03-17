@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2011-08-11T00:52:00-07:00</published>
+
+	<id>ee437f7d-f30e-4444-a992-5c45079bcdbd</id>
+
+	<title>Human Hearing, Music and Logarithmic Scales</title>
+
+	<category term="Hearing" />
+	<category term="Psychology" />
+	<category term="Neuroscience" />
+
+	<content type="xhtml">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<div class="quote">
+				<blockquote>
+					<p>
+						In acoustics some of the inborn categories of perception are well documented in their relation to physiological facts. To most of us a melody played in different keys remains practically identical to itself. This very astonishing fact is well explained by the finding that in the cortex of the brain, as on a piano keyboard, frequencies are represented on a logarithmic scale [...] (<a rel="nofollow" href="http://ajplegacy.physiology.org/content/203/1/185.short">55</a>). The resulting translational symmetry for tone patterns characterized by constant frequency ratios is one of the basic facts of music.
+					</p>
+				</blockquote>
+				<p class="quote-by">
+					-- <a rel="nofollow" href="http://www.kyb.mpg.de/~braitenb">Valentino Braitenberg</a>
+				</p>
+				<p class="quote-from">
+					from "Vehicles: Experiments In Synthetic Psychology"
+				</p>
+			</div> <!-- class="quote" -->
+		</div>
+	</content>
+</entry>

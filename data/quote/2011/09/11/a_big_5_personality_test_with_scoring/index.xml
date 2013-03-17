@@ -1,0 +1,244 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2011-09-11T18:54:11-07:00</published>
+
+	<id>6f2dcb35-393a-40a1-b645-316294f73d64</id>
+
+	<title>A Big 5 Personality Test, With Scoring</title>
+
+	<category term="Big Five Factors" />
+	<category term="Personality" />
+	<category term="Psychology" />
+	<category term="Psychometrics" />
+
+	<content type="xhtml">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<div class="quote">
+				<blockquote cite="http://pages.uoregon.edu/sanjay/pubs/bigfive.pdf">
+					<h2>The Big Five Inventory (BFI)</h2>
+					<p>
+						Here are a number of characteristics that may or may not apply to you. For example, do you agree that you are someone
+						who <u>likes to spend time with others</u>? Please write a number next to each statement to indicate the extent to which you agree
+						or disagree with that statement.
+					</p>
+					<table style="text-align:center; border-top:1px solid;border-bottom:1px solid;margin-left:1em;margin-top:1em;margin-bottom:1em;">
+						<tr>
+							<td>
+								Disagree
+								<br />
+								strongly
+								<br />
+								1
+							</td>
+
+							<td style="min-width:2em;"></td>
+
+							<td>
+								Disagree
+								<br />
+								a little
+								<br />
+								2
+							</td>
+
+							<td style="min-width:2em;"></td>
+
+							<td>
+								Neither agree nor
+								<br />
+								disagree
+								<br />
+								3
+							</td>
+
+							<td style="min-width:2em;"></td>
+
+							<td>
+								Agree
+								<br />
+								a little
+								<br />
+								4
+							</td>
+
+							<td style="min-width:2em;"></td>
+
+							<td>
+								Agree
+								<br />
+								strongly
+								<br />
+								5
+							</td>
+						</tr>
+					</table>
+					<p>
+						<u>I see Myself as Someone Who</u>...
+					</p>
+					<p>
+						___ 1. Is talkative 
+					</p>
+					<p>
+						___ 2. Tends to find fault with others 
+					</p>
+					<p>
+						___ 3. Does a thorough job 
+					</p>
+					<p>
+						___ 4. Is depressed, blue 
+					</p>
+					<p>
+						___ 5. Is original, comes up with new ideas 
+					</p>
+					<p>
+						___ 6. Is reserved 
+					</p>
+					<p>
+						___ 7. Is helpful and unselfish with others 
+					</p>
+					<p>
+						___ 8. Can be somewhat careless 
+					</p>
+					<p>
+						___ 9. Is relaxed, handles stress well 
+					</p>
+					<p>
+						___ 10. Is curious about many different things 
+					</p>
+					<p>
+						___ 11. Is full of energy 
+					</p>
+					<p>
+						___ 12. Starts quarrels with others 
+					</p>
+					<p>
+						___ 13. Is a reliable worker 
+					</p>
+					<p>
+						___ 14. Can be tense 
+					</p>
+					<p>
+						___ 15. Is ingenious, a deep thinker 
+					</p>
+					<p>
+						___ 16. Generates a lot of enthusiasm 
+					</p>
+					<p>
+						___ 17. Has a forgiving nature 
+					</p>
+					<p>
+						___ 18. Tends to be disorganized 
+					</p>
+					<p>
+						___ 19. Worries a lot 
+					</p>
+					<p>
+						___ 20. Has an active imagination 
+					</p>
+					<p>
+						___ 21. Tends to be quiet 
+					</p>
+					<p>
+						___ 22. Is generally trusting 
+					</p>
+					<p>
+						___ 23. Tends to be lazy
+					</p>
+					<p>
+						___ 24. Is emotionally stable, not easily upset
+					</p>
+					<p>
+						___ 25. Is inventive
+					</p>
+					<p>
+						___ 26. Has an assertive personality
+					</p>
+					<p>
+						___ 27. Can be cold and aloof
+					</p>
+					<p>
+						___ 28. Perseveres until the task is finished
+					</p>
+					<p>
+						___ 29. Can be moody
+					</p>
+					<p>
+						___ 30. Values artistic, aesthetic experiences
+					</p>
+					<p>
+						___ 31. Is sometimes shy, inhibited
+					</p>
+					<p>
+						___ 32. Is considerate and kind to almost everyone
+					</p>
+					<p>
+						___ 33. Does things efficiently
+					</p>
+					<p>
+						___ 34. Remains calm in tense situations
+					</p>
+					<p>
+						___ 35. Prefers work that is routine
+					</p>
+					<p>
+						___ 36. Is outgoing, sociable
+					</p>
+					<p>
+						___ 37. Is sometimes rude to others
+					</p>
+					<p>
+						___ 38. Makes plans and follows through with them
+					</p>
+					<p>
+						___ 39. Gets nervous easily
+					</p>
+					<p>
+						___ 40. Likes to reflect, play with ideas
+					</p>
+					<p>
+						___ 41. Has few artistic interests
+					</p>
+					<p>
+						___ 42. Likes to cooperate with others
+					</p>
+					<p>
+						___ 43. Is easily distracted
+					</p>
+					<p>
+						___ 44. Is sophisticated in art, music, or literature
+					</p>
+					<p>
+						<u>Please check: Did you write a number in front of each statement?</u>
+					</p>
+					<br /><br /><br /><br />
+					<p>
+						<u>BFI scale scoring (“R” denotes reverse-scored items):</u>
+					</p>
+					<p>
+						Extraversion: 1, 6R, 11, 16, 21R, 26, 31R, 36
+					</p>
+					<p>
+						Agreeableness: 2R, 7, 12R, 17, 22, 27R, 32, 37R, 42
+					</p>
+					<p>
+						Conscientiousness: 3, 8R, 13, 18R, 23R, 28, 33, 38, 43R
+					</p>
+					<p>
+						Neuroticism: 4, 9R, 14, 19, 24R, 29, 34R, 39
+					</p>
+					<p>
+						Openness: 5, 10, 15, 20, 25, 30, 35R, 40, 41R, 44
+					</p>
+				</blockquote>
+				<p class="quote-by">
+					-- <a rel="nofollow" href="http://www.ocf.berkeley.edu/~johnlab/oliver.htm">Oliver P. John</a>
+					 , <a rel="nofollow" href="http://pages.uoregon.edu/sanjay/">Sanjay Srivastava</a>
+				</p>
+				<p class="quote-from">
+					from "<a rel="nofollow" href="http://pages.uoregon.edu/sanjay/pubs/bigfive.pdf">The Big-Five Trait Taxonomy: History, Measurement, and Theoretical Perspectives</a>"
+				</p>
+			</div> <!-- class="quote" -->
+		</div>
+	</content>
+</entry>

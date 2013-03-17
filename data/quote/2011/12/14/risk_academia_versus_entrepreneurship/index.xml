@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2011-12-14T12:45:28-08:00</published>
+
+	<id>7d0afc51-ced5-4910-a3f0-0476deb550b6</id>
+
+	<title>Risk: Academia Versus Entrepreneurship</title>
+
+	<category term="Economics" />
+	<category term="Science" />
+
+	<content type="xhtml">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<div class="quote">
+				<blockquote>
+					<p>
+						[T]he world of science is less accepting of risk than the world of business.
+						In technology businesses, a person who pursues a new idea with a reasoned approach can enhance his or her career regardless of whether the particular idea turns out to be successful.
+						Many successful entrepreneurs achieved success only after earlier failures.
+						But in academia, a couple of years spent pursuing a new idea that does not work out can permanently ruin a young career.
+					</p>
+				</blockquote>
+				<p class="quote-by">
+					-- <a rel="nofollow" href="http://www.onintelligence.org/">Jeffrey Hawkins</a>
+				</p>
+				<p class="quote-from">
+					from "On Intelligence"
+				</p>
+			</div> <!-- class="quote" -->
+		</div>
+	</content>
+</entry>

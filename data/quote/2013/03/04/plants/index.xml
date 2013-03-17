@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2013-03-04T20:31:16-08:00</published>
+
+	<id>be9fc46d-1ee9-43ab-aba2-43d70901d0f5</id>
+
+	<title>Haploid and Diploid Plants</title>
+
+	<category term="Genetics" />
+	<category term="Plant" />
+
+	<content type="xhtml">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<div class="quote">
+				<blockquote cite="http://theconversation.edu.au/seeds-without-sex-some-racy-findings-on-the-cloning-of-plants-12358">
+					<p>
+						Our body is composed of cells that are diploid, containing two copies of each chromosome.
+						But we also have haploid cells, containing only one copy of each chromosome: the single-celled egg and sperm.
+					</p>
+					<p>
+						Those haploid cells are generated from special diploid cells via a process called meiosis; conversely, fertilisation – basically a union of two haploid cells – gives rise to the diploid us.
+					</p>
+					<p>
+						In contrast, plants alternate between haploid and diploid generations, both of which have complex multicellular bodies.
+					</p>
+					<p>
+						If this happened in us, it would be as if our sperm and eggs left our bodies, grew into multicellular organisms, went to the pub, met, and mated, eventually creating the next diploid generation.
+					</p>
+					<p>
+						So seemingly disconnected and dissimilar are the haploid and diploid bodies of many plants that for centuries they were sometimes mistaken for different species.
+					</p>
+				</blockquote>
+				<p class="quote-from">
+					from "<a rel="nofollow" href="http://theconversation.edu.au/seeds-without-sex-some-racy-findings-on-the-cloning-of-plants-12358">Seeds without sex – some racy findings on the cloning of plants</a>"
+				</p>
+			</div> <!-- class="quote" -->
+		</div>
+	</content>
+</entry>

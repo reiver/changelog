@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2012-03-30T12:18:44-07:00</published>
+
+	<id>5dd5aab1-3573-42a7-b250-18174e49e5e6</id>
+
+	<title>Hypnosis Can Have Measurable Effect On The Brain</title>
+
+	<category term="Neuroscience" />
+	<category term="Psychology" />
+
+	<content type="xhtml">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<div class="quote">
+				<blockquote>
+					<p>
+						There was a period in the 1980s when scientists thought that hypnosis was not a real phenomenon, it was just subjects adopting a role or playacting.
+						But a string of studies has demonstrated effects that cannot be faked;
+						for example, if you give people the posthypnotic suggestion that they can only see in black and white, and then you put them in an fMRI scanner, you find greatly reduced activity in color vision circuits of the brain when subjects are viewing images in color (<a href="http://ajp.psychiatryonline.org/article.aspx?volume=157&amp;page=1279"><abbr title="Hypnotic Visual Illusion Alters Color Processing in the Brain">[Stephen Michael] Kosslyn et al. 2000</abbr></a>).
+					</p>
+				</blockquote>
+				<p class="quote-by">
+					-- <a rel="nofollow" href="http://jonathanhaidt.com/">Jonathan Haidt</a>
+				</p>
+				<p class="quote-from">
+					from "The Righteous Mind: Why Good People Are Divided by Politics and Religion"
+				</p>
+			</div> <!-- class="quote" -->
+		</div>
+	</content>
+</entry>

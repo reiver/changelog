@@ -1,0 +1,68 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2012-11-02T11:15:10-08:00</published>
+
+	<id>72cb16a9-cd70-428e-bea8-3ddbbcd8b5d4</id>
+
+	<title>Intelligence Controversy: One Main Factor Or Many?</title>
+
+	<category term="IQ" />
+	<category term="Intelligence" />
+	<category term="Psychology" />
+	<category term="Psychometrics" />
+
+	<content type="xhtml">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<div class="quote">
+				<blockquote>
+					<p>
+						[W]idely cited contemporary psychometric models can best be understood to terms of a discrepancy between two earlier models, which began the controversy over whether intelligence comprises one main component or many.
+						More specifically, Charles Spearman (1927) found one general factor (g) prevaded performance on all mental ability tests and Louis Thurstone (1938) did not.
+						Spearman also found what he considered to be less important test-specific factors (e.g., arithmetic computations, vocabulary).
+						In contrast, THurstone's results revealed seven broad broad factors, or primary mental abilities, which could be psychologically interpreted as comprising intelligence.
+						Example primary abilities are Verbal Comprehension and Number Facility.
+						(However, it should be noted that Thurstone and Thurstone (1941) did find evidence for <i>g</i>, in addition to the primary mental abilities, when they later tested a more representative sample of children.)
+					</p>
+					<p>
+						[...]
+					</p>
+					<p>
+						Spearman, C.
+						(1927).
+						<i>The abilities of man.</i>
+						New York, NY: Macmillian.
+					</p>
+					<p>
+						[...]
+					</p>
+					<p>
+						Thurstone, L. L.
+						(1938).
+						<i>Primary mental abilities</i>.
+						Chicago, IL: University of Chicago Press.
+					</p>
+					<p>
+						[...]
+					</p>
+					<p>
+						Thurstone, L. L.,
+						&amp;
+						Thurstone, T. G.
+						(1941).
+						<i>Factorial studies of intelligence</i>.
+						Chricago, IL:
+						University of Chricago Press.
+					</p>
+				</blockquote>
+                                <p class="quote-by">
+                                        -- Janet E. Davidson
+                                         , Iris A. Kemp
+                                </p>
+                                <p class="quote-from">
+                                        from "The Cambridge Handbook of Intelligence"
+                                </p>
+			</div> <!-- class="quote" -->
+		</div>
+	</content>
+</entry>

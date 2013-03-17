@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2012-07-22T11:05:56-07:00</published>
+
+	<id>cefe7109-a2bd-4fad-b5ae-cdb599c31d87</id>
+
+	<title>IQ and Inbreeding</title>
+
+	<category term="Genetics" />
+	<category term="Intelligence" />
+	<category term="IQ" />
+	<category term="Psychology" />
+	<category term="Psychometrics" />
+
+	<content type="xhtml">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<div class="quote">
+				<blockquote cite="http://blogs.discovermagazine.com/gnxp/2012/07/cousin-marriage-can-reduce-i-q-a-lot/">
+					<p>
+						I was curious about the literature on inbreeding depression of IQ. A literature search led me to conclude two things:
+					</p>
+					<p>
+						- This is not a sexy field. A lot of the results are <i>old</i>.
+					</p>
+					<p>
+						- The range in depression for first cousin marriages seems to be on the order of 2.5 to 10 IQ points. In other words ~0.15 to ~0.65 standard deviation units of decline in intelligence.
+					</p>
+				</blockquote>
+				<p class="quote-by">
+					-- <a rel="nofollow" href="http://razib.com/">Razib Khan</a>
+				</p>
+				<p class="quote-from">
+					from "<a rel="nofollow" href="http://blogs.discovermagazine.com/gnxp/2012/07/cousin-marriage-can-reduce-i-q-a-lot/">Cousin marriage can reduce I.Q. a lot</a>"
+				</p>
+			</div> <!-- class="quote" -->
+		</div>
+	</content>
+</entry>

@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2011-06-21T21:57:00-07:00</published>
+
+	<id>5d1991be-1479-48b8-a71f-6a6b31c553bf</id>
+
+	<title>Genes for Morality?</title>
+
+	<category term="Morality" />
+	<category term="Psychology" />
+
+	<content type="xhtml">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<div class="quote">
+				<blockquote cite="http://www.nytimes.com/2008/01/13/magazine/13Psychology-t.html">
+					<p>
+						Though no one has identified genes for morality, there is circumstantial evidence they exist. The character traits called "conscientiousness"; and "agreeableness" are far more correlated in identical twins separated at birth (who share their genes but not their environment) than in adoptive siblings raised together (who share their environment but not their genes).
+					</p>
+				</blockquote>
+				<p class="quote-by">
+					-- <a rel="nofollow" href="http://www.stevenpinker.com/">Steven Arthur Pinker</a>
+				</p>
+				<p class="quote-from">
+					from "<a rel="nofollow" href="http://www.nytimes.com/2008/01/13/magazine/13Psychology-t.html">The Moral Instinct</a>"
+				</p>
+			</div> <!-- class="quote" -->
+		</div>
+	</content>
+</entry>

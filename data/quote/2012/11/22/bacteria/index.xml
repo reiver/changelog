@@ -1,0 +1,185 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2012-11-22T20:34:12-08:00</published>
+
+	<id>805de581-3b54-4159-95d6-6bde00bffe21</id>
+
+	<title>Bacterial Swarming</title>
+
+	<category term="Bacteria" />
+	<category term="Swarming" />
+
+	<content type="xhtml">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<div class="quote">
+				<blockquote cite="http://www.ploscompbiol.org/article/info%3Adoi%2F10.1371%2Fjournal.pcbi.1002177">
+					<p>
+						Even bacteria show remarkably sophisticated collective behaviors.
+						Some bacteria strains can form large colonies with intricate complex architectures, which allows them to expand efficiently by taking advantage of the available resources (26)–(29).
+						They construct intricate multicellular structures utilized for protection and cooperation of cells (30)–(33).
+						In addition, bacteria display complicated movement dynamics, in which cells organize into vortices, form traffic lanes, or move collectively in a common direction (34)–(36).
+						Bacteria swarming behavior in colonies was explained by considering attractive and repulsive forces between colony parts (10), (28), (37), (38), communication capabilites (39)–(43), physical interactions between cells, and forces from the environment (44).
+					</p>
+					<p>
+						Bacteria navigate using chemotaxis, i.e., moving according to gradients in the chemical concentration (45)–(49).
+						Bacteria are too small to detect the chemical gradients across their body receptors, and thus detect the concentration as they swim, and delay their tumble if the concentration increases.
+						As a result, they make longer excursions towards areas of higher concentration.
+						Each bacterium may only acquire local and partial cues from the environment, but as a group bacteria can navigate through challenging environments.
+						In such cases, the optimal local direction may be completely independent of the global environment.
+						In addition, microorganisms are especially sensitive to noise, due to stochastic variations in their internal mechanisms, sensory system, and the external environment.
+						Information pooling was shown to improve decision making in animal groups (1), (50)–(52), such as the accuracy of navigating birds.
+						In addition, it has been shown that schooling can improve the collective ability of groups of chemotactic organisms, such as bacteria, to climb gradients (53).
+					</p>
+					<p>
+						Interaction between individuals such as repulsion, alignment, and attraction, may exist in bacteria due to the associations between single cells by mechanical and chemical means.
+						Mechanical interactions can result in collision or adhesion of cells.
+						Chemical interactions, by secretion and detection of various diffusible chemicals, can result in repulsion or attraction.
+						In high densities, interactions between elongated cells cause alignment of cell bodies and velocities.
+					</p>
+					<p>
+						[...]
+					</p>
+					<p>
+						1.
+						Conradt L, Roper TJ (2005) Consensus decision making in animals. Trends Ecol Evol 20: 449–456. doi:<a rel="nofollow" href="http://dx.doi.org/10.1016/j.tree.2005.05.008">10.1016/j.tree.2005.05.008</a>. 
+					</p>
+					<p>
+						[...]
+					</p>
+					<p>
+						10.
+						Ben-Jacob E, Schochet O, Tenenbaum A, Cohen I, Czirók A, et al. (1994) Generic modelling of cooperative growth patterns in bacterial colonies. Nature 368: 46–49. doi:<a rel="nofollow" href="http://dx.doi.org/10.1038/368046a0">10.1038/368046a0</a>.
+					</p>
+					<p>
+						[...]
+					</p>
+					<p>
+						26.
+						Ben-Jacob E, Cohen I, Golding I, Gutnick DL, Tcherpakov M, et al. (2000) Bacterial cooperative organization under antibiotic stress. Phys A 282: 247–282. doi:<a rel="nofollow" href="http://dx.doi.org/10.1016/S0378-4371(00)00093-5">10.1016/S0378-4371(00)00093-5</a>.
+					</p>
+					<p>
+						27.
+						Shapiro JA (1995) The significances of bacterial colony patterns. BioEssays 17: 597–607. doi:<a rel="nofollow" href="http://dx.doi.org/10.1002/bies.950170706">10.1002/bies.950170706</a>. 
+					</p>
+					<p>
+						28.
+						Ben-Jacob E, Cohen I, Levine H (2000) Cooperative self-organization of microorganisms. Adv Phys 49: 395–554.					[...]
+					</p>
+					<p>
+						29.
+						Ben-Jacob E, Levine H (2006) Self-engineering capabilities of bacteria. J R Soc Interface 3: 197–214. doi:10.1098/rsif.2005.0089.
+						[...]
+					</p>
+					<p>
+						30.
+						Shapiro JA, Dworkin , M (1997) Bacteria as multicellular organisms. New York: Oxford University Press. 466 p. 
+					</p>
+					<p>
+						31.
+						Kaiser D (2003) Coupling cell movement to multicellular development in myxobacteria. Nat Rev Microbiol 1: 45–54. doi:<a rel="nofollow" href="http://dx.doi.org/10.1038/nrmicro733">10.1038/nrmicro733</a>. 
+					</p>
+					<p>
+						32.
+						Dunny GM, Brickman TJ, Dworkin M (2008) Multicellular behavior in bacteria: communication, cooperation, competition and cheating. BioEssays 30: 296–298. doi:<a rel="nofollow" href="http://dx.doi.org/10.1002/bies.20740">10.1002/bies.20740</a>. 
+					</p>
+					<p>
+						33.
+						Aguilar C, Vlamakis H, Losick R, Kolter R (2007) Thinking about Bacillus subtilis as a multicellular organism. Curr Opin Microbiol 10: 638–643. doi:<a rel="nofollow" href="http://dx.doi.org/10.1016/j.mib.2007.09.006">10.1016/j.mib.2007.09.006</a>. 
+					</p>
+					<p>
+						34.
+						Ben-Jacob E, Cohen I, Gutnick DL (1998) Cooperative organization of bacterial colonies: From Genotype to Morphotype. Annu Rev Microbiol 52: 779–806. doi:<a rel="nofollow" href="http://dx.doi.org/10.1146/annurev.micro.52.1.779">10.1146/annurev.micro.52.1.779</a>. 
+					</p>
+					<p>
+						35.
+						Ingham CJ, Ben-Jacob E (2008) Swarming and complex pattern formation in Paenibacillus vortex studied by imaging and tracking cells. BMC Microbiol. 8: 36–36. doi:<a rel="nofollow" href="http://dx.doi.org/10.1186/1471-2180-8-36">10.1186/1471-2180-8-36</a>. 
+					</p>
+					<p>
+						36.
+						Ben-Jacob E, Cohen I, Czirók A, Vicsek T, Gutnick DL (1997) Chemomodulation of cellular movement, collective formation of vortices by swarming bacteria, and colonial development. Phys A 238: 181–197. doi:<a rel="nofollow" href="http://dx.doi.org/10.1016/S0378-4371(96)00457-8">10.1016/S0378-4371(96)00457-8</a>. 
+					</p>
+					<p>
+						37.
+						Kozlovsky Y, Cohen I, Golding I, Ben-Jacob E (1999) Lubricating bacteria model for branching growth of bacterial colonies. Phys Rev E 59: 7025–7035. doi:<a rel="nofollow" href="http://dx.doi.org/10.1103/PhysRevE.59.7025">10.1103/PhysRevE.59.7025</a>. 
+					</p>
+					<p>
+						38.
+						Cohen I, Golding I, Kozlovsky Y, Ben-Jacob E (1998) Continuous and discrete models of cooperation in complex bacterial colonies. Fractals 7: 235–247.
+						[...]
+					</p>
+					<p>
+						39.
+						Ben-Jacob E, Becker I, Shapira Y, Levine H (2004) Bacterial linguistic communication and social intelligence. Trends Microbiol. 12: 366–372. doi:<a rel="nofollow" href="http://dx.doi.org/10.1016/j.tim.2004.06.006">10.1016/j.tim.2004.06.006</a>. 
+					</p>
+					<p>
+						40.
+						Bassler BL, Losick R (2006) Bacterially speaking. Cell 125: 237–246. doi:<a rel="nofollow" href="http://dx.doi.org/10.1016/j.cell.2006.04.001">10.1016/j.cell.2006.04.001</a>. 
+					</p>
+					<p>
+						41.
+						Bischofs IB, Hug JA, Liu AW, Wolf DM, Arkin AP (2009) Complexity in bacterial cell–cell communication: Quorum signal integration and subpopulation signaling in the Bacillus subtilis phosphorelay. Proc Natl Acad Sci U S A 106: 6459–6464. doi:<a rel="nofollow" href="http://dx.doi.org/10.1073/pnas.0810878106">10.1073/pnas.0810878106</a>. 
+					</p>
+					<p>
+						42.
+						Ben-Jacob E, Sochet O, Tenebaum A, Cohen I, Czirok A, et al. (1994) Communication regulation and control during growth of bacterial colonies. Fractals 21: 15–44.
+						[...]
+					</p>
+					<p>
+						43.
+						Miller MB, Bassler BL (2001) Quorum sensing in bacteria. Annu Rev Microbiol 55: 165–199. doi:<a rel="nofollow" href="http://dx.doi.org/11544353">11544353</a>. 
+					</p>
+					<p>
+						44.
+						Matsushita M, Fujikawa H (1990) Diffusion-limited growth in bacterial colony formation. Phys A 168: 498–506. doi:<a rel="nofollow" href="http://dx.doi.org/10.1016/0378-4371(90)90402-E">10.1016/0378-4371(90)90402-E</a>. 
+					</p>
+					<p>
+						45.
+						Berg HC (1993) Random walks in biology. New Jersey: Princeton University Press. 164 p. 
+					</p>
+					<p>
+						46.
+						Berg H (1990) Chemotaxis of bacteria in glass capillary arrays. Escherichia coli, motility, microchannel plate, and light scattering. Biophys J 58: 919–930. doi:<a rel="nofollow" href="http://dx.doi.org/10.1016/S0006-3495(90)82436-X">10.1016/S0006-3495(90)82436-X</a>. 
+					</p>
+					<p>
+						47.
+						Adler J (1966) Chemotaxis in bacteria. Science 153: 708–716. doi:<a rel="nofollow" href="http://dx.doi.org/10.1126/science.153.3737.708">10.1126/science.153.3737.708</a>. 
+					</p>
+					<p>
+						48.
+						Berg HC, Purcell EM (1977) Physics of chemoreception. Biophys J 20: 193–219. doi:<a rel="nofollow" href="http://dx.doi.org/10.1016/S0006-3495(77)85544-6">10.1016/S0006-3495(77)85544-6</a>.
+					</p>
+					<p>
+						49.
+						Keller EF, Segel LA (1971) Model for chemotaxis. J Theor Biol 30: 225–234. doi:<a rel="nofollow" href="http://dx.doi.org/10.1016/0022-5193(71)90050-6">10.1016/0022-5193(71)90050-6</a>. 
+					</p>
+					<p>
+						50.
+						Simons AM (2004) Many wrongs: the advantage of group navigation. Trends Ecol Evol 19: 453–455. doi:<a rel="nofollow" href="http://dx.doi.org/10.1016/j.tree.2004.07.001">10.1016/j.tree.2004.07.001</a>. 
+					</p>
+					<p>
+						51.
+						Conradt L, Roper TJ (2003) Group decision-making in animals. Nature 421: 155–158. doi:<a rel="nofollow" href="http://dx.doi.org/10.1038/nature01294">10.1038/nature01294</a>. 
+					</p>
+					<p>
+						52.
+						List C (2004) Democracy in animal groups: a political science perspective. Trends Ecol Evol 19: 168–169. doi:<a rel="nofollow" href="http://dx.doi.org/10.1016/j.tree.2004.02.004">10.1016/j.tree.2004.02.004</a>. 
+					</p>
+					<p>
+						53.
+						Grunbaum D (1998) Schooling as a strategy for taxis in a noisy environment. Evol Ecol. 12. : 503–522. doi:<a rel="nofollow" href="http://dx.doi.org/10.1023/A:1006574607845">10.1023/A:1006574607845</a>.
+					</p>
+				</blockquote>
+				<p class="quote-by">
+					-- <a rel="nofollow" href="https://sites.google.com/site/adishklarsh/">Adi Shklarsh</a>
+					 , <a rel="nofollow" href="http://u.math.biu.ac.il/~arielg/">Gil Ariel</a>
+					 , <a rel="nofollow" href="http://www.weizmann.ac.il/neurobiology/labs/schneidman/The_Schneidman_Lab/Home.html">Elad Schneidman</a>
+					 , <a rel="nofollow" href="http://star.tau.ac.il/~eshel/">Eshel Ben-Jacob</a>
+				</p>
+				<p class="quote-from">
+					from "<a rel="nofollow" href="http://www.ploscompbiol.org/article/info%3Adoi%2F10.1371%2Fjournal.pcbi.1002177">mart Swarms of Bacteria-Inspired Agents with Performance Adaptable Interactions</a>"
+				</p>
+			</div> <!-- class="quote" -->
+		</div>
+	</content>
+</entry>

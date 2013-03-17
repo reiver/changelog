@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2011-06-21T22:22:00-07:00</published>
+
+	<id>a5df54a8-9dde-4b96-939e-2dbd1b7dabaa</id>
+
+	<title>Steven Pinker on Will Smith and Hitler</title>
+
+	<category term="Morality" />
+	<category term="Psychology" />
+
+	<content type="xhtml">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<div class="quote">
+				<blockquote cite="http://www.nytimes.com/2008/01/13/magazine/13Psychology-t.html">
+					<p>
+						The actor Will Smith had many historians on his side when <a href="http://changelog.ca/quote/2009/08/20/will_smith_on_adolf_hitler">he recently speculated</a> to the press that Hitler thought he was acting morally.
+					</p>
+				</blockquote>
+				<p class="quote-by">
+					-- <a rel="nofollow" href="http://www.stevenpinker.com/">Steven Arthur Pinker</a>
+				</p>
+				<p class="quote-from">
+					from "<a rel="nofollow" href="http://www.nytimes.com/2008/01/13/magazine/13Psychology-t.html">The Moral Instinct</a>"
+				</p>
+			</div> <!-- class="quote" -->
+		</div>
+	</content>
+</entry>

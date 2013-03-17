@@ -1,0 +1,59 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2013-02-17T14:01:27-08:00</published>
+
+	<id>11c03c87-f0f0-4d3b-baf2-a2ec77967ce7</id>
+
+	<title>The Small-World Phenomenon</title>
+
+	<category term="Graph Theory" />
+	<category term="Mathematics" />
+
+	<content type="xhtml">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<div class="quote">
+				<blockquote cite="http://www.cs.cornell.edu/home/kleinber/networks-book/">
+					<p>
+						[T]here is something qualitative we can say, beyond the formal definitions, about [measures of] distances [in a graph] in typical large networks.
+						If we [...] [consider a] thought experiments on the global friendship network, we see that the argument explaining why you belong to a giant component in fact asserts something stronger: not only do you have paths of friends connecting you to a large fraction of the world’s population, but these paths are surprisingly <i>short</i>.
+						Take the example of a friend who grew up in another country: following a path through this friend, to his or her parents, to their friends, you’ve followed only three steps and ended up in a different part of the world, in a different generation, with people who have very little in common with you.
+					</p>
+					<p>
+						This idea has been termed the <i>small-world phenomenon</i> — the idea that the world looks “small” when you think of how short a path of friends it takes to get from you to almost anyone else.
+						It’s also known, perhaps more memorably, as the <i>six degrees of separation</i>; this phrase comes from the play of this title by John Guare [200], and in particular from the line uttered by one of the play’s characters: “I read somewhere that everybody on this planet is separated by only six other people.
+						Six degrees of separation between us and everyone else on this planet.”
+					</p>
+					<p>
+						The first experimental study of this notion — and the origin of the number “six” in the pop-cultural mantra — was performed by Stanley Milgram and his colleagues in the 1960s [297, 391].
+						Lacking any of the massive social-network datasets we have today, and with a budget of only $680, he set out to test the speculative idea that people are really connected in the global friendship network by short chains of friends.
+						To this end, he asked a collection of 296 randomly chosen “starters” to try forwarding a letter to a “target” person, a stockbroker who lived in a suburb of Boston.
+						The starters were each given some personal information about the target (including his address and occupation) and were asked to forward the letter to someone they knew on a first-name basis, with the same instructions, in order to eventually reach the target as quickly as possible.
+						Each letter thus passed through the hands of a sequence of friends in succession, and each thereby formed a chain of people that closed in on the stockbroker outside Boston.
+					</p>
+					<p>
+						[...]
+						[T]he median length [path among the 64 chains that succeeded in reaching the target] was six, the number that made its way two decades later into the title of Guare’s play.
+						That so many letters reached their destination, and by such short paths, was a striking fact when it was first discovered, and it remains so today.
+						Of course, it is worth noting a few caveats about the experiment.
+						First, it clearly doesn’t establish a statement quite as bold as “six degrees of separation between us and everyone else on this planet” — the paths were just to a single, fairly affluent target; many letters never got there; and attempts to recreate the experiment have been problematic due to lack of participation [255].
+						Second, one can ask how useful these short paths really are to people in society: even if you can reach someone through a short chain of friends, is this useful to you? Does it mean you’re truly socially “close” to them? Milgram himself mused about this in his original paper [297]; his observation, paraphrased slightly, was that if we think of each person as the center of their own social “world,” then “six short steps” becomes “six worlds apart” — a change in perspective that makes six sound like a much larger number.
+					</p>
+					<p>
+						Despite these caveats, the experiment and the phenomena that it hints at have formed a crucial aspect in our understanding of social networks.
+						In the years since the initial experiment, the overall conclusion has been accepted in a broad sense: social networks tend to have very short paths between essentially arbitrary pairs of people.
+						And even if your six-step connections to CEOs and political leaders don’t yield immediate payoffs on an everyday basis, the existence of all these short paths has substantial consequences for the potential speed with which information, diseases, and other kinds of contagion can spread through society, as well as for the potential access that the social network provides to opportunities and to people with very different characteristics from one’s own.
+					</p>
+				</blockquote>
+				<p class="quote-by">
+					-- <a rel="nofollow" href="http://www.arts.cornell.edu/econ/deasley/">David Easley</a>
+					 , <a rel="nofollow" href="http://www.cs.cornell.edu/home/kleinber/">Jon Kleinberg</a>
+
+				</p>
+				<p class="quote-from">
+					from "<a rel="nofollow" href="http://www.cs.cornell.edu/home/kleinber/networks-book/">Networks, Crowds, and Markets: Reasoning About a Highly Connected World</a>"
+				</p>
+			</div> <!-- class="quote" -->
+		</div>
+	</content>
+</entry>

@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2011-06-24T12:39:00-07:00</published>
+
+	<id>006ec08d-f632-4642-84e2-fcbbc12f5016</id>
+
+	<title>Modal Pleasure?</title>
+
+	<category term="Psychology" />
+
+	<content type="xhtml">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<div class="quote">
+				<blockquote>
+					<p>
+						Most pleasures have early development origins; they are not acquired through immersion into a society. And they are shared by all humans; the variety that one sees can be understood as variations on a universal theme. Painting is a cultural invention, but the love of art is not. Societies have different stories, but stories share certain plots. Taste in food and sex differ -- but not by all that much.
+					</p>
+				</blockquote>
+				<p class="quote-by">
+					-- <a rel="nofollow" href="http://pantheon.yale.edu/~pb85/Site/Paul_Bloom.html">Paul Bloom</a>
+				</p>
+				<p class="quote-from">
+					from "How Pleasure Works: The New Science of Why We Like What We Like"
+				</p>
+			</div> <!-- class="quote" -->
+		</div>
+	</content>
+</entry>

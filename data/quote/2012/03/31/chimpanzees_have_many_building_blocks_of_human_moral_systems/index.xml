@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2012-03-31T18:18:30-07:00</published>
+
+	<id>d2ea2ba5-f7cd-41e5-be31-686ebd2134e2</id>
+
+	<title>Chimpanzees Have Many Building Blocks Of Human Moral Systems</title>
+
+	<category term="Chimpanzee" />
+	<category term="Morality" />
+	<category term="Psychology" />
+
+	<content type="xhtml">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<div class="quote">
+				<blockquote>
+					<p>
+						T[almer ]S[ommers]:
+						Much of your work recently has been aimed at correcting another misconception -- that morality is exclusively a human invention, something that evolved long after we split from other apes.
+						Do you think apes and bonobos are moral species?
+						Do they exhibit moral behavior?
+					</p>
+					<p>
+						F[rans ]D[e ]W[aal]:
+						Well, I usually don't call it moral behavior.
+						I tend to call it building blocks or <i>prerequisites</i> for morality.
+						[...]
+						[T]hey do have empathy, sympathy, reciprocity.
+						They share food, resolve conflicts.
+						All the elements are present in human morality.
+						So what I argue is that the basic psychology of the great apes is an essential <i>element</i> of human morality.
+					</p>
+				</blockquote>
+				<p class="quote-by">
+					-- <a rel="nofollow" href="http://www.class.uh.edu/faculty/tsommers/">Tamler Sommers</a>
+					 , <a rel="nofollow" href="http://www.psychology.emory.edu/nab/dewaal/">Fransiscus Bernardus Maria de Waal</a>
+				</p>
+				<p class="quote-from">
+					from "A Very Bad Wizard: Morality Behind the Curtain"
+				</p>
+			</div> <!-- class="quote" -->
+		</div>
+	</content>
+</entry>

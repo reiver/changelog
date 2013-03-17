@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2011-07-05T20:22:00-07:00</published>
+
+	<id>d8d86492-dc70-4e2d-abec-91eaf735045a</id>
+
+	<title>Some Of What Some Noncoding DNA Might Do?</title>
+
+	<category term="Neuroscience" />
+	<category term="DNA" />
+
+	<content type="xhtml">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<div class="quote">
+				<blockquote cite="http://www.sciencedaily.com/releases/2011/06/110630122011.htm">
+					<p>
+						[R]esearchers discovered that levels of microRNAs -- short lengths of ribonucleic acid that appear to regulate protein production -- go up or down in the songbird brain after it hears a new song. These microRNAs likely represent a new class of regulatory agents that fine-tune the brain's response to social information, said University of Illinois cell and developmental biology professor David Clayton, who led the study. 
+					</p>
+					<p>
+						MicroRNAs are part of a new frontier in genomic biology: the 90 percent of human DNA that doesn't code for proteins. This "dark matter of the genome" includes genes that are transcribed into many different types of RNA molecules. Scientists are still working to decipher their various structures and functions.
+					</p>
+					<p>
+						Previous studies found that brain microRNAs "undergo dramatic changes in expression during development and aging and have been functionally implicated in neurological disease," the authors wrote in their paper in BMC Genomics. MicroRNAs appear to regulate the expression of protein-coding genes by binding to messenger RNA (mRNA) transcripts, the blueprints for proteins, before they can be translated into proteins.
+					</p>
+					<p>
+						[...]
+					</p>
+					<p>
+						Since microRNAs can interfere with the translation of mRNAs into protein, Clayton hypothesizes that mRNAs play a part in fine-tuning the brain's response to important signals.
+					</p>
+				</blockquote>
+				<p class="quote-from">
+					from "<a rel="nofollow" href="http://www.sciencedaily.com/releases/2011/06/110630122011.htm">MicroRNAs in the Songbird Brain Respond to New Songs</a>"
+				</p>
+			</div> <!-- class="quote" -->
+		</div>
+	</content>
+</entry>

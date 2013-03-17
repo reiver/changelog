@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2011-06-26T18:44:00-07:00</published>
+
+	<id>36fc212e-7050-427e-bb41-0b055ff0afb0</id>
+
+	<title>A Short Short History Of Our Understanding Of Taste</title>
+
+	<category term="Psychology" />
+
+	<content type="xhtml">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<div class="quote">
+				<blockquote cite="http://www.wired.com/wiredscience/2011/06/why-do-we-like-the-taste-of-protein/">
+					<p>
+						For a long time, the mechanisms of taste seemed relatively straightforward. For one thing, it's been all about the tongue, that exposed sensory muscle lying limp in our mouth. Ever since Democritus hypothesized in the fourth century B.C. that the sensation of taste was an effect of the shape of food particles, the tongue has been seen as a simple sensory organ.  Sweet things, according to Democritus, were "round and large in their atoms," while "the astringently sour is that which is large in its atoms but rough, angular and not spherical."  Saltiness was caused by isosceles atoms, while bitterness was "spherical, smooth, scalence and small." Plato believed Democritus, and wrote in Timaeus that differences in taste were caused by atoms on the tongue entering the small veins that traveled to the heart. Aristotle, in turn, believed Plato. In De Anima, the four primary tastes Aristotle described were the already classic sweet, sour, salty, and bitter. 
+					</p>
+					<p>
+						Over the ensuing millennium, this ancient theory remained largely unquestioned. The tongue was seen as a mechanical sensor, in which the qualities of foods were impressed upon its papillaed surface. The discovery of taste buds in the 19th century gave new credence to this theory. Under a microscope, these cells looked like little keyholes into which our chewed food might fit, thus triggering a taste sensation. By the start of the 20th century, scientists were beginning to map the tongue, consigning each of our four flavors to a specific area. The tip of our tongue loved sweet things, while the sides preferred sour. The back of our tongue was sensitive to bitter flavors, and saltiness was sensed everywhere. The sensation of taste was that simple.
+					</p>
+					<p>
+						If only. We now know that our taste receptors are exquisitely complicated little sensors, and that there are at least five different receptor types scattered all over the mouth, not four. (The fifth receptor is sensitive to the amino acid glutamate, aka umami.) Furthermore, the tongue is only a small part of flavor: As anyone with a stuffy nose knows, the pleasure of food largely depends on its aroma. In fact, neuroscientists estimate that up to 90 percent of what we perceive as taste is actually smell. The scent of something not only prepares us for eating it (our salivary glands become active), but gives the food a complexity that our five different taste sensations can only hint at. If our tongue is the frame for the food - providing us with crucial information about texture, mouthfeel and the rudiments of taste - the sensations of our nose are what make the food worth framing in the first place.
+					</p>
+				</blockquote>
+				<p class="quote-by">
+					-- <a rel="nofollow" href="http://www.wired.com/wiredscience/frontal-cortex">Jonah Lehrer</a>
+				</p>
+				<p class="quote-from">
+					from "<a rel="nofollow" href="http://www.wired.com/wiredscience/2011/06/why-do-we-like-the-taste-of-protein/">Why Do We Like the Taste Of Protein?</a>"
+				</p>
+			</div> <!-- class="quote" -->
+		</div>
+	</content>
+</entry>

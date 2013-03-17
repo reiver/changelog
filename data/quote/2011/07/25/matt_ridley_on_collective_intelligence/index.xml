@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2011-07-25T10:16:00-07:00</published>
+
+	<id>64b345be-68af-442b-bc26-00c24f8d7d86</id>
+
+	<title>Matt Ridley on Collective Intelligence</title>
+
+	<category term="Economics" />
+
+	<content type="xhtml">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<div class="quote">
+				<blockquote>
+					<p>
+					Look again at the hand axe and the [computer] mouse. They are both 'man-made', but one was made by a single person, the other by hundreds of people, maybe even millions. That is what I mean by collective intelligence. No single person knows how to make a computer mouse. The person who assembled it in the factory did not know how to drill the oil well from which the plastic came, or vice versa. At some point, human intelligence became collective and cumulative in a way that happened to no other animal.
+					</p>
+				</blockquote>
+				<p class="quote-by">
+					-- <a rel="nofollow" href="http://www.rationaloptimist.com/">Matthew White Ridley</a>
+				</p>
+				<p class="quote-from">
+					from "The Rational Optimist: How Prosperity Evolves"
+				</p>
+			</div> <!-- class="quote" -->
+		</div>
+	</content>
+</entry>

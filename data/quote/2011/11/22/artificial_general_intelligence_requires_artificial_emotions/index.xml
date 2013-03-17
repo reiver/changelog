@@ -1,0 +1,57 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2011-11-22T10:01:37-08:00</published>
+
+	<id>77c0c955-5e4f-4eb7-94be-bc3031eaeaee</id>
+
+	<title>Artificial General Intelligence Requires Artificial Emotions?</title>
+
+	<category term="Artificial General Intelligence" />
+	<category term="Artificial Intelligence" />
+
+	<content type="xhtml">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<div class="quote">
+				<blockquote>
+					<p>
+						Suppose we wanted to make an intelligent robot to clean sewers --
+						not a dumb robot that just blunders around but one that's capable of collecting useful items for recycling and knows how to manage the water flow just right.
+						To enable it to learn how to perform its task, and for it to know how successful it is being, we need to provide it with an emotional substrate.
+						Would we give it emotions like ours:
+						a love of fresh air and a fear of the dark?
+						Of course not.
+						In the same way that our emotions are fixed in us by evolution (no matter how unhappy that may makes us for much of the time) we would also have to fix emotions in the robot.
+						We would want these emotions to be appropriate to the task in hand.
+						We'd create joy whenever it did what we wanted it to do, and unpleasant sensations when it did something wrong or predicted that inaction would be undesirable (such as fear if the sewage backed up enough to threaten overflow).
+					</p>
+					<p>
+						[...]
+					</p>
+					<p>
+						Future intelligent robots <i>must</i> have emotions.
+						They must have the equivalent of chemical measures of emotional intensity, along with their concomitant bodily effects.
+						They must have some cognitive means of detecting when to have these emotions, and they must develop a repertoire of behavioural responses that make sense.
+						Perhaps they also need the facility to interpret these feelings and thus make offline judgements about their experiences, or have the ability to explain to us how they feel.
+						Without these four aspects of emotion, robots cannot learn or interact socially.
+						[...]
+						[S]imulating chemistry and implementing perception and action are perfectly achievable aims
+					</p>
+					<p>
+						[...]
+					</p>
+					<p>
+						What of the fifth element of emotion?
+						Robots could be given the ability to perceive the necessary environmental triggers, adjust their physiology in response to them, generate a suitable reaction and rationalise their interpretation [...]
+					</p>
+				</blockquote>
+				<p class="quote-by">
+					-- <a rel="nofollow" href="http://stevegrand.wordpress.com/">Steve Grand</a>
+				</p>
+				<p class="quote-from">
+					from "Growing up with Lucy: How to Build an Android in Twenty Easy Steps"
+				</p>
+			</div> <!-- class="quote" -->
+		</div>
+	</content>
+</entry>

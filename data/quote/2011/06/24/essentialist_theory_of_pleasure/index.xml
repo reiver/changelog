@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2011-06-24T12:32:00-07:00</published>
+
+	<id>207da251-c1b2-4eee-993f-322916c405cc</id>
+
+	<title>Essentialist Theory Of Pleasure</title>
+
+	<category term="Psychology" />
+
+	<content type="xhtml">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<div class="quote">
+				<blockquote>
+					<p>
+						This theory of pleasure is an extension of one of the most interesting ideas in the cognitive sciences, which is that people naturally assume that things in the world -- including other people -- have invisible essences that make them what they are.
+					</p>
+				</blockquote>
+				<p class="quote-by">
+					-- <a rel="nofollow" href="http://pantheon.yale.edu/~pb85/Site/Paul_Bloom.html">Paul Bloom</a>
+				</p>
+				<p class="quote-from">
+					from "How Pleasure Works: The New Science of Why We Like What We Like"
+				</p>
+			</div> <!-- class="quote" -->
+		</div>
+	</content>
+</entry>

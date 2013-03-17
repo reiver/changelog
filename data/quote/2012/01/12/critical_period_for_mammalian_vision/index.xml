@@ -1,0 +1,127 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2012-01-12T13:58:05-08:00</published>
+
+	<id>090bec52-d448-461c-b4db-b1467e4454d0</id>
+
+	<title>Critical Period For Mammalian Vision</title>
+
+	<category term="Neuroscience" />
+
+	<content type="xhtml">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<div class="quote">
+				<blockquote>
+					<p>
+						The structure of the mammalian early visual areas is now well understood.
+						Nerve fibers from the retina project to an intermediate region call the lateral geniculate nucleus (LGN), from which the fibers project to the primary visual cortex (V1).
+						The Nobel prize winning studies of Hubel and Wiesel (1959, 1965, 1974) showed that neurons in the primary visual cortex are responsive to particular features in the input, such as a line of a particular orientation at a particular location in the visual field.
+						Together, the locations on the retina to which a neuron responds are called the receptive field of the neuron.
+						Neurons in a vertical column in the cortex have similar receptive fields and feature preferences.
+						Vertical groups of neurons with the same orientation preference are called orientation columns, and vertical groups with the same eye preference are called ocular dominance columns; such groups may also be selective for direction of movement, spatial frequency, and color.
+						[...]
+						The feature preferences gradually vary across the surface of the cortex in characteristic spatial patterns called cortical feature maps.
+					</p>
+					<p>
+						[...]
+						A number of classic experiments by Hubel, Wiesel and other researchers showed that altering the visual environment can drastically change the organization of input connections, ocular dominance columns, and orientation columns (Hubel and Wiesel 1962, 1974; Hubel, Wiesel, and Le Vay 1977).
+						The animal is most susceptible during a critical period of early life, typically a few weeks.
+						For example, if a kitten is raised with both eyes sutured shut, its cortex will be abnormally organized, without ocular dominance and orientation columns.
+						If the eyes are opened only after a critical period of a few weeks, the animal will be blind for life, even though the eyes and the LGN [Lateral Geniculate Nucleus] are perfectly normal.
+						Similarly, if kittens are raised in environments containing only vertical or horizontal contours, their ability to see other orientations suffers significantly.
+						In the cortex, most cells develop preferences for these particular orientations, and do not respond well to the other orientations (Blackemore and Cooper 1970; Blackemore and van Sluyters 1975; Hirsch and Spinelli 1970; Sengpiel, Stawinski, and Bonhoeffer 1999).
+						Such experiments indicate that visual inputs are crucial for normal cortical organization, and suggest that the cortex tunes itself to the distribution of visual inputs.
+					</p>
+					<p>
+						[...]
+					</p>
+					<p>
+						Blackemore, C., and Cooper, G. F.
+						(1970).
+						Development of the brain depends on the visual environment.
+						<i>Nature</i>,
+						228:477-478.
+					</p>
+					<p>
+						Blackemore, C., and van Sluyters R. C.
+						(1975).
+						Innate and environmental factors in the development of the kitten's visual cortex.
+						<i>The Journal of Physiology</i>,
+						248:663-716.
+					</p>
+					<p>
+						[...]
+					</p>
+					<p>
+						Hirsch, H. V. B., and Spinelli, D.
+						(1970).
+						Visual experience modifies distribution of horizontally and vertically oriented receptive fields in cats.
+						<i>Science</i>,
+						168:869-871.
+					</p>
+					<p>
+						[...]
+					</p>
+					<p>
+						Hubel, D. H., and Wiesel, T. N.
+						(1959).
+						Receptive fields of single neurons in the cat's striate cortex.
+						<i>The Journal of Physiology</i>,
+						148:574-591.
+					</p>
+					<p>
+						Hubel, D. H., and Wiesel, T. N.
+						(1962).
+						Receptive fields, binocular interaction and functional architecture in the cat's visual cortex.
+						<i>The Journal of Physiology</i>,
+						160:106-154.
+					</p>
+					<p>
+						Hubel, D. H., and Wiesel, T. N.
+						(1965).
+						Receptive fields and functional architecture in two nonstriate visual areas (18 and 19) of the cat.
+						<i>Journal Neurophysiology</i>,
+						28:229-289.
+					</p>
+					<p>
+						[...]
+					</p>
+					<p>
+						Hubel, D. H., and Wiesel, T. N.
+						(1974).
+						Sequence regularity and geometry of orientation columns in the monkey striate cortex.
+						<i>The Journal of Comparative Neurology</i>,
+						158:267-294.
+					</p>
+					<p>
+						Hubel, D. H., and Wiesel, T. N., and LeVay, S.
+						(1977).
+						Plasticity of ocular dominance columns in monkey striate cortex.
+						<i>Philosophical Transactions of the Royal Society of London Series B, Biological Sciences</i>,
+						278:377-409.
+					</p>
+					<p>
+						[...]
+					</p>
+					<p>
+						Sengpiel, F., and Stawinski, P., and Bonhoeffer, T.
+						(1999).
+						Influence of experience on orientation maps in cat visual cortex.
+						<i>Nature Neuroscience</i>,
+						2:727-732.
+					</p>
+				</blockquote>
+				<p class="quote-by">
+					-- <a rel="nofollow" href="http://www.cs.utexas.edu/~risto/">Risto Miikkulainen</a>
+					 , <a rel="nofollow" href="http://homepages.inf.ed.ac.uk/jbednar/">James A. Bednar</a>
+					 , <a rel="nofollow" href="http://faculty.cs.tamu.edu/choe/">Yoonsuck Choe</a>
+					 , <a rel="nofollow" href="https://twitter.com/jsirosh">Joseph Sirosh</a>
+				</p>
+				<p class="quote-from">
+					from "Computational Maps in the Visual Cortex"
+				</p>
+			</div> <!-- class="quote" -->
+		</div>
+	</content>
+</entry>

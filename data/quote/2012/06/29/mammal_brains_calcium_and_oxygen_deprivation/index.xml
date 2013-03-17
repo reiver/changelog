@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2012-06-29T06:43:59-07:00</published>
+
+	<id>3183eccf-fd49-4325-b394-d0d1880575de</id>
+
+	<title>Mammal Brains, Calcium And Oxygen Deprivation</title>
+
+	<category term="Neuroscience" />
+
+	<content type="xhtml">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<div class="quote">
+				<blockquote cite="http://the-scientist.com/2012/06/01/underground-supermodels/">
+					<p>
+						Infant mammals, including humans, are known to be much more tolerant of oxygen deprivation than older juveniles or adults.
+						It turns out that calcium is a key factor in this tolerance.
+						Normally, calcium ions in our brain cells play vital roles, including helping memories form.
+						But it’s a delicate balance: small amounts of calcium are essential for brain function, but too much calcium makes things go haywire.
+						When nerve cells are starved of oxygen, they no longer have the energy to regulate calcium entry, resulting in an influx of too much calcium, which poisons the cells.
+						This is the primary cause of neuronal death during oxygen deprivation.
+					</p>
+					<p>
+						In the last decade or so, researchers discovered that adult and infant brains express different calcium channels in their cell membranes.
+						Calcium channels in infants actually close during oxygen deprivation, protecting the brain cells from calcium overdose in the womb, where the baby gets much less oxygen.
+						After the baby is born, however, oxygen is plentiful, and these channels are largely replaced by ones that open in response to oxygen deprivation, often leading to cell death.
+					</p>
+				</blockquote>
+				<p class="quote-by">
+					-- <a rel="nofollow" href="http://www.uic.edu/depts/bios/faculty/park/parkt.shtml">Thomas J. Park</a>
+					 , <a rel="nofollow" href="http://physiology.uthscsa.edu/new/research/faculty_view.asp?id=57">Rochelle Buffenstein</a>
+				</p>
+				<p class="quote-from">
+					from "<a rel="nofollow" href="http://the-scientist.com/2012/06/01/underground-supermodels/">Underground Supermodels: What can a twentysomething naked mole-rat tell us about fighting pain, cancer, and aging?</a>"
+				</p>
+			</div> <!-- class="quote" -->
+		</div>
+	</content>
+</entry>

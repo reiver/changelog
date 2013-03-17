@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2012-08-17T15:21:52-07:00</published>
+
+	<id>aadfa18f-f7d6-4b3b-b476-db8a88387d0d</id>
+
+	<title>While We Teach, We Learn</title>
+
+	<category term="Intelligence" />
+	<category term="Psychology" />
+	<category term="Psychometrics" />
+
+	<content type="xhtml">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<div class="quote">
+				<blockquote cite="http://www.psychologytoday.com/blog/how-be-brilliant/201206/the-prot-g-effect">
+					<p>
+						“While we teach, we learn,” said the Roman philosopher Seneca.
+						[...]
+						[S]cientists are bringing this ancient wisdom up to date, documenting exactly why teaching is such a fruitful way to learn — and designing innovative ways for young people to engage in instruction.
+					</p>
+					<p>
+						Students enlisted to tutor others, these researchers have found, work harder to understand the material, recall it more accurately and apply it more effectively.
+						In what scientists have dubbed “the protégé effect,” student teachers score higher on tests than pupils who are learning only for their own sake.
+						But how can children, still learning themselves, teach others? One answer: They can tutor younger kids.
+						The benefits of this practice were indicated by a pair of articles published in 2007 in the journals Science and Intelligence.
+						The studies concluded that first-born children are more intelligent than their later-born brothers and sisters and suggested that their higher IQs result from the time they spend showing their younger siblings the ropes.
+					</p>
+				</blockquote>
+				<p class="quote-by">
+					-- <a rel="nofollow" href="http://anniemurphypaul.com/">Annie Murphy Paul</a>
+				</p>
+				<p class="quote-from">
+					from "<a rel="nofollow" href="http://www.psychologytoday.com/blog/how-be-brilliant/201206/the-prot-g-effect">The Protégé Effect</a>"
+				</p>
+			</div> <!-- class="quote" -->
+		</div>
+	</content>
+</entry>

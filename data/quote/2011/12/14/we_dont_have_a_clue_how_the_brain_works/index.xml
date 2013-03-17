@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2011-12-14T12:55:11-08:00</published>
+
+	<id>d5a0808c-4f28-471f-9249-00761f071689</id>
+
+	<title>We Don't Have A Clue How The Brain Works</title>
+
+	<category term="Artificial General Intelligence" />
+	<category term="Brain" />
+	<category term="Neuroscience" />
+
+	<content type="xhtml">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<div class="quote">
+				<blockquote>
+					<p>
+						The final article, [in  the <i>Scientific America</i> issue from circa September 1979] "Thinking About the Brain," was written by Francis Crick, the codiscoverer of the structure of DNA who had by then turned his talents to studying the brain.
+						Crick argued that in spite of steady accumulation of detailed knowledge about the brain, how the brain worked was still a profound mystery.
+						Scientists usually don't write about what they don't know, but Crick didn't care.
+						He was like the boy pointing to the emperor with no clothes.
+						According to Crick, neuroscience was a lot of data without a theory.
+						His exact words were, "what is conspicuously lacking is a broad framework of ideas."
+						To me this was the British gentleman's way of saying, "We don't have a clue how this thing works."
+						It was true then, and it's still true today.
+					</p>
+				</blockquote>
+				<p class="quote-by">
+					-- <a rel="nofollow" href="http://www.onintelligence.org/">Jeffrey Hawkins</a>
+				</p>
+				<p class="quote-from">
+					from "On Intelligence"
+				</p>
+			</div> <!-- class="quote" -->
+		</div>
+	</content>
+</entry>

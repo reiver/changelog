@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2011-08-29T13:39:02-07:00</published>
+
+	<id>6c875adf-8660-46f0-ab41-bcf7c82fe2d3</id>
+
+	<title>A Conformity Effect: Agreeing With A Unanimous (But Wrong) Group Verdict</title>
+
+	<category term="Psychology" />
+
+	<content type="xhtml">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<div class="quote">
+				<blockquote>
+					<p>
+						A famous set of experiments by the psychologist Solomon Asch shows why the [...] doctrine of unanimous advice [...] [is] so dangerous.
+						The classic Asch experiment sat several young men around a table and showed them a pair of cards, one with a single line, and one with three lines of obviously different lengths, labelled A, B and C.
+						The experimenter asked subjects to say which of the three lines was the same length as the single line of the other card.
+						This was a trivially easy task, but there was a twist: all but one of the people sitting around the table were actors recruited by Asch.
+						As they went round the table, each one called out the same answer -- a wrong answer.
+						By the time Asch turned to the real experimental subject, the poor man would be baffled.
+						Frequently, he would fall in with the group, and later interviews revealed that this was often because he genuinely believed his eyes were deceiving him.
+						As few as three actors were enough to create this effect.
+					</p>
+					<p>
+						Less famous but just as important is Asch's follow-up experiment, in which one of the actors gave a different answer from the rest.
+						Immediately, the pressure to conform was released.
+						Experimental subjects who gave the wrong answer when outnumbered ten to one happily dissented and gave the right answer when outnumbered nine to two.
+						Remarkably, it didn't even matter if the fellow dissenter gave the right answer himself.
+						As long as the answer was different from the group, that was sufficient to free Asch's poor subjects from their socially-imposed cognitive straitjacket.
+					</p>
+					<p>
+						In a surreal variant, the psychologists Vernon Allen and John Levine ran a similar visual test with an elaborate pantomime in which one of the experimental participants had extravagantly thick glasses, specially manufactured by a local optometrist to look like bottle-bottoms.
+						This Mr Magoo character -- another actor -- then started raising concerns with the experimenter.
+						"Will the experiment require any distance vision? I have a lot of trouble seeing objects that are some distance away."
+						After a series of set-pieces designed to fool the real subject into believing that Mr Magoo could hardly see his hand in front of his face, the experiment began and of course Magoo kept getting things wrong.
+						Again, subjects found it very hard to disagree with a unanimous -- and wrong -- group verdict.
+						Again, a single dissenting voice was enough to liberate the subjects.
+						And, astonishingly, this liberation took place even if the fellow dissenter was just poor old Magoo yelling out completely the wrong answer.
+					</p>
+				</blockquote>
+				<p class="quote-by">
+					-- <a rel="nofollow" href="http://www.timharford.com/">Tim Harford</a>
+				</p>
+				<p class="quote-from">
+					from "Adapt: Why Success Always Starts with Failure"
+				</p>
+			</div> <!-- class="quote" -->
+		</div>
+	</content>
+</entry>

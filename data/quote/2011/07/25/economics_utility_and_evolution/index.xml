@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2011-07-25T22:11:00-07:00</published>
+
+	<id>28315dcd-8676-4300-872a-7bb86dd81374</id>
+
+	<title>Economics, Utility and Evolution</title>
+
+	<category term="Economics" />
+	<category term="Evolution" />
+
+	<content type="xhtml">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<div class="quote">
+				<blockquote>
+					<p>
+						The sciences of evolution and economics are the two great frameworks within which we understand the rewards and costs that drive human behaviour. Behavioural economists study how people respond to incentives by weighing them in terms of money or in other currencies like time, happiness, status, and that vague but all-important catch-all quantity called utility. This is where evolution comes in. Evolutionary biologists ask why people (and other organisms) respond to certain incentives rather than to others. Why do people like to have money? Why do we gamble and buy stuff that we will never need? Any why are happiness and status so important to most of us? 
+					</p>
+					<p>
+						Economics can give answers to these <em>why</em> questions. (We like money because we can buy stuff, we like stuff because buying it makes us happy.) But every question answered in this way opens up another [...] It is because utility, the economic concept that most closely translates to "the thing that an individual wants to maximize", is given real meaning by evolution. Deep down people want happiness, wealth, security, warmth, wellbeing, nutritious food, status and good sex because these are the rewards natural selection has shaped for us. These rewards remind and encourage us to do the things that maximise evolutionary fitness. Or that would have maximised fitness in the environment of our ancestors,
+					</p>
+				</blockquote>
+				<p class="quote-by">
+					-- <a rel="nofollow" href="http://robbrooks.net/">Rob Brooks</a>
+				</p>
+				<p class="quote-from">
+					from "Sex, Genes and Rock 'n' Roll: How Evolution Has Shaped the Modern World"
+				</p>
+			</div> <!-- class="quote" -->
+		</div>
+	</content>
+</entry>

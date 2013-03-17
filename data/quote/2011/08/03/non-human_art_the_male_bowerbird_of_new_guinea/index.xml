@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2011-08-03T14:27:00-07:00</published>
+
+	<id>9a213ece-0357-49bc-b7f7-d13dfd9b3c74</id>
+
+	<title>Non-Human Art: The Male Bowerbird of New Guinea</title>
+
+	<category term="Art" />
+	<category term="Birds" />
+
+	<content type="xhtml">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<div class="quote">
+				<blockquote>
+					<p>
+						[T]he single example of an animal adaptation that comes closest to human art-making occurs -- amazingly -- in a species so remote from <em>Homo sapiens</em> that it isn't even a mammal, let alone a primate. The male bower bird of New Guinea displays behavior that, in a human, would certainly be called artistry. His woven bower, which may be six feet or taller, es extravagantly ornamented, both inside and outside. On the floor and on interior walls, the bird arranges clumps of berries, red leaves, displays of flowers, acorns, bright feathers from other birds, iridescent beetle elytra, and, if available, brilliantly colored human detritus -- cigarette wrappers, bottle tops, tinfoil, or scraps of magazines.
+					</p>
+					<p>
+						He then opens his bower to that most demanding critic, the female bower bird. Only when the decorations meet her exacting criteria will she favor this creator with mating rights. What makes the bower bird case so extraordinary is that one sex creates an ornamented object open to imaginative invention that is then critically contemplated by the other sex. The only other animals species that does anything like this is the one that, interalia, constructs elaborate art galleries on the island of Manhattan and elsewhere.
+					</p>
+				</blockquote>
+				<p class="quote-by">
+					-- <a rel="nofollow" href="http://www.denisdutton.com/">Denis Dutton</a>
+				</p>
+				<p class="quote-from">
+					from "The Art Instinct: Beauty, Pleasure, and Human Evolution"
+				</p>
+			</div> <!-- class="quote" -->
+		</div>
+	</content>
+</entry>

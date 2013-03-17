@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2011-06-21T19:31:00-07:00</published>
+
+	<id>52703d0e-1231-48b1-924d-398515a84a4b</id>
+
+	<title>Steve Grand's Robot Orangutan Lucy [VIDEO]</title>
+
+	<category term="Artificial General Intellligence" />
+	<category term="Artificial Intellligence" />
+	<category term="Artificial Neural Networks" />
+	<category term="Robotics" />
+
+	<content type="xhtml">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<div class="quote">
+				<blockquote>
+					<p>
+						<video
+							controls="controls"
+							preload="auto"
+							width="320" height="240"
+							poster="/quote/2011/06/21/steve_grand_robot_orangutan_lucy/lucy_frame_0000.png"
+						>
+							<source src="/quote/2011/06/21/steve_grand_robot_orangutan_lucy/lucy.webm" type="video/webm"     />
+							<source src="/quote/2011/06/21/steve_grand_robot_orangutan_lucy/lucy.mp4"  type="video/mp4"      />
+							<source src="/quote/2011/06/21/steve_grand_robot_orangutan_lucy/lucy.wmv"  type="video/x-ms-wmv" />
+						</video>
+					</p>
+				</blockquote>
+				<p class="quote-by">
+					-- <a rel="nofollow" href="http://stevegrand.wordpress.com/">Steve Grand</a>
+				</p>
+			</div> <!-- class="quote" -->
+		</div>
+	</content>
+</entry>

@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2011-12-21T10:14:16-08:00</published>
+
+	<id>6947bf91-abb5-446c-a7ef-d9bbd1a13b98</id>
+
+	<title>Proximate Explanations Versus Ultimate Explanations</title>
+
+	<category term="Evolution" />
+
+	<content type="xhtml">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<div class="quote">
+				<blockquote cite="http://www.zoologi.su.se/research/lindenfors/publications/Lindenfors_&amp;_Tullberg_2011.pdf">
+					<p>
+						An important point about evolutionary explanations is the philosophical distinction between proximate and ultimate explanations.
+						Take sex, for example.
+						Do humans have sex because it feels good or in order to have children?
+						Most sexual intercourse in current society probably has very little to do with actual procreation; on the contrary, there are many birth control methods available to make it possible to have sex without this resulting in a pregnancy.
+						Despite the fact that protected sex happens “because” it feels good, the evolutionary explanation of sexual intercourse is “because” of procreation.
+						This is where the crucial distinction between proximate and ultimate explanations comes into play.
+						A proximate explanation is the explanation that is closest to the event that is to be explained.
+						The higher, ultimate explanation is instead the deeper reason for why something happened.
+					</p>
+				</blockquote>
+				<p class="quote-by">
+					-- <a rel="nofollow" href="http://www.zoologi.su.se/research/lindenfors/">Patrik Lindenfors</a>
+					 , <a rel="nofollow" href="http://www.zoologi.su.se/research/tullberg/">Birgitta S. Tullberg</a>
+				</p>
+				<p class="quote-from">
+					from "<a rel="nofollow" href="http://www.zoologi.su.se/research/lindenfors/publications/Lindenfors_&amp;_Tullberg_2011.pdf">Evolutionary Aspects of Aggression: The Importance of Sexual Selection</a>"
+				</p>
+			</div> <!-- class="quote" -->
+		</div>
+	</content>
+</entry>

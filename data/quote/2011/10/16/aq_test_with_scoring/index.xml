@@ -1,0 +1,519 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2011-10-16T18:39:03-07:00</published>
+
+	<id>9300cdc0-1e13-43c1-9682-6e767075a957</id>
+
+	<title>AQ Test, With Scoring</title>
+
+	<category term="Asperger" />
+	<category term="Autism" />
+	<category term="Psychology" />
+	<category term="Psychometrics" />
+
+	<content type="xhtml">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<div class="quote">
+				<blockquote cite="http://eppl604-autism-and-creativity.wmwikis.net/file/view/BaronCohenWheelwrightEtAl2001.pdf">
+					<p>
+						The AQ was designed to be short, easy to use, and easy to score.
+						[...]
+						It comprises 50 questions, made up of 10 questions assessing 5 different areas: 
+						social skill (items 1,11,13,15,22,36,44,45,47,48); 
+						attention switching (items 2,4,10,16,25,32,34,37,43,46); 
+						attention to detail (items 5,6,9,12,19,23,28,29,30,49); 
+						communication (items 7,17,18,26,27,31,33,35,38,39); 
+						imagination (items 3,8,14,20,21,24,40,41,42,50).
+						[...]
+						Approximately half the items were worded to produce a “disagree” response, and half an “agree” response, in a high scoring person with AS/HFA.
+						This was to avoid a response bias either way. Following this, items were randomized with respect to both the expected response from a high-scorer, and with respect to their domain.
+					</p>
+					<p>
+						[...]
+					</p>
+
+					<h2>Scoring the AQ</h2>
+					<p>
+						“Definitely agree” or “slightly agree” responses scored 1 point, on the following items:
+						1, 2, 4, 5, 6, 7, 9, 12, 13, 16, 18, 19, 20, 21, 22, 23, 26, 33, 35, 39, 41, 42, 43, 45, 46.
+						“Definitely disagree” or “slightly disagree” responses scored 1 point, on the following items:
+						3, 8, 10, 11, 14, 15, 17, 24, 25, 27, 28, 29, 30, 31, 32,34, 36, 37, 38, 40, 44, 47, 48, 49, 50.
+					</p>
+					<p>
+						[...]
+					</p>
+
+					<h2>The Autistic-Spectrum Quotient</h2>
+					<figure>
+						<table style="border-top:4px solid;border-bottom:4px solid;">
+							<tbody>
+								<tr>
+									<td style="padding-top:1em;">
+										1. I prefer to do things with others rather than on my own.
+									</td>
+									<td style="white-space:pre;padding-left:3em;">definitely agree</td>
+									<td style="white-space:pre;padding-left:3em;">slightly agree</td>
+									<td style="white-space:pre;padding-left:3em;">slightly disagree</td>
+									<td style="white-space:pre;padding-left:3em;">definitely disagree</td>
+								</tr>
+								<tr>
+									<td style="padding-top:1em;">
+										2. I prefer to do things the same way over and over again.
+									</td>
+									<td style="white-space:pre;padding-left:3em;">definitely agree</td>
+									<td style="white-space:pre;padding-left:3em;">slightly agree</td>
+									<td style="white-space:pre;padding-left:3em;">slightly disagree</td>
+									<td style="white-space:pre;padding-left:3em;">definitely disagree</td>
+								</tr>
+								<tr>
+									<td style="padding-top:1em;">
+										3. If I try to imagine something, I find it very easy to create a picture in my mind.
+									</td>
+									<td style="white-space:pre;padding-left:3em;">definitely agree</td>
+									<td style="white-space:pre;padding-left:3em;">slightly agree</td>
+									<td style="white-space:pre;padding-left:3em;">slightly disagree</td>
+									<td style="white-space:pre;padding-left:3em;">definitely disagree</td>
+								</tr>
+								<tr>
+									<td style="padding-top:1em;">
+										4. I frequently get so strongly absorbed in one thing that I lose sight of other things.
+									</td>
+									<td style="white-space:pre;padding-left:3em;">definitely agree</td>
+									<td style="white-space:pre;padding-left:3em;">slightly agree</td>
+									<td style="white-space:pre;padding-left:3em;">slightly disagree</td>
+									<td style="white-space:pre;padding-left:3em;">definitely disagree</td>
+								</tr>
+								<tr>
+									<td style="padding-top:1em;">
+										5. I often notice small sounds when others do not.
+									</td>
+									<td style="white-space:pre;padding-left:3em;">definitely agree</td>
+									<td style="white-space:pre;padding-left:3em;">slightly agree</td>
+									<td style="white-space:pre;padding-left:3em;">slightly disagree</td>
+									<td style="white-space:pre;padding-left:3em;">definitely disagree</td>
+								</tr>
+								<tr>
+									<td style="padding-top:1em;">
+										6. I usually notice car number plates or similar strings of information.
+									</td>
+									<td style="white-space:pre;padding-left:3em;">definitely agree</td>
+									<td style="white-space:pre;padding-left:3em;">slightly agree</td>
+									<td style="white-space:pre;padding-left:3em;">slightly disagree</td>
+									<td style="white-space:pre;padding-left:3em;">definitely disagree</td>
+								</tr>
+								<tr>
+									<td style="padding-top:1em;">
+										7. Other people frequently tell me that what I’ve said is impolite, even though I think it is polite.
+									</td>
+									<td style="white-space:pre;padding-left:3em;">definitely agree</td>
+									<td style="white-space:pre;padding-left:3em;">slightly agree</td>
+									<td style="white-space:pre;padding-left:3em;">slightly disagree</td>
+									<td style="white-space:pre;padding-left:3em;">definitely disagree</td>
+								</tr>
+								<tr>
+									<td style="padding-top:1em;">
+										8. When I’m reading a story, I can easily imagine what the characters might look like.
+									</td>
+									<td style="white-space:pre;padding-left:3em;">definitely agree</td>
+									<td style="white-space:pre;padding-left:3em;">slightly agree</td>
+									<td style="white-space:pre;padding-left:3em;">slightly disagree</td>
+									<td style="white-space:pre;padding-left:3em;">definitely disagree</td>
+								</tr>
+								<tr>
+									<td style="padding-top:1em;">
+										9. I am fascinated by dates.
+									</td>
+									<td style="white-space:pre;padding-left:3em;">definitely agree</td>
+									<td style="white-space:pre;padding-left:3em;">slightly agree</td>
+									<td style="white-space:pre;padding-left:3em;">slightly disagree</td>
+									<td style="white-space:pre;padding-left:3em;">definitely disagree</td>
+								</tr>
+								<tr>
+									<td style="padding-top:1em;">
+										10. In a social group, I can easily keep track of several different people’s conversations.
+									</td>
+									<td style="white-space:pre;padding-left:3em;">definitely agree</td>
+									<td style="white-space:pre;padding-left:3em;">slightly agree</td>
+									<td style="white-space:pre;padding-left:3em;">slightly disagree</td>
+									<td style="white-space:pre;padding-left:3em;">definitely disagree</td>
+								</tr>
+								<tr>
+									<td style="padding-top:1em;">
+										11. I find social situations easy.
+									</td>
+									<td style="white-space:pre;padding-left:3em;">definitely agree</td>
+									<td style="white-space:pre;padding-left:3em;">slightly agree</td>
+									<td style="white-space:pre;padding-left:3em;">slightly disagree</td>
+									<td style="white-space:pre;padding-left:3em;">definitely disagree</td>
+								</tr>
+								<tr>
+									<td style="padding-top:1em;">
+										12. I tend to notice details that others do not.
+									</td>
+									<td style="white-space:pre;padding-left:3em;">definitely agree</td>
+									<td style="white-space:pre;padding-left:3em;">slightly agree</td>
+									<td style="white-space:pre;padding-left:3em;">slightly disagree</td>
+									<td style="white-space:pre;padding-left:3em;">definitely disagree</td>
+								</tr>
+								<tr>
+									<td style="padding-top:1em;">
+										13. I would rather go to a library than a party.
+									</td>
+									<td style="white-space:pre;padding-left:3em;">definitely agree</td>
+									<td style="white-space:pre;padding-left:3em;">slightly agree</td>
+									<td style="white-space:pre;padding-left:3em;">slightly disagree</td>
+									<td style="white-space:pre;padding-left:3em;">definitely disagree</td>
+								</tr>
+								<tr>
+									<td style="padding-top:1em;">
+										14. I find making up stories easy.
+									</td>
+									<td style="white-space:pre;padding-left:3em;">definitely agree</td>
+									<td style="white-space:pre;padding-left:3em;">slightly agree</td>
+									<td style="white-space:pre;padding-left:3em;">slightly disagree</td>
+									<td style="white-space:pre;padding-left:3em;">definitely disagree</td>
+								</tr>
+								<tr>
+									<td style="padding-top:1em;">
+										15. I find myself drawn more strongly to people than to things.
+									</td>
+									<td style="white-space:pre;padding-left:3em;">definitely agree</td>
+									<td style="white-space:pre;padding-left:3em;">slightly agree</td>
+									<td style="white-space:pre;padding-left:3em;">slightly disagree</td>
+									<td style="white-space:pre;padding-left:3em;">definitely disagree</td>
+								</tr>
+								<tr>
+									<td style="padding-top:1em;">
+										16. I tend to have very strong interests, which I get upset about if I can’t pursue.
+									</td>
+									<td style="white-space:pre;padding-left:3em;">definitely agree</td>
+									<td style="white-space:pre;padding-left:3em;">slightly agree</td>
+									<td style="white-space:pre;padding-left:3em;">slightly disagree</td>
+									<td style="white-space:pre;padding-left:3em;">definitely disagree</td>
+								</tr>
+								<tr>
+									<td style="padding-top:1em;">
+										17. I enjoy social chit-chat.
+									</td>
+									<td style="white-space:pre;padding-left:3em;">definitely agree</td>
+									<td style="white-space:pre;padding-left:3em;">slightly agree</td>
+									<td style="white-space:pre;padding-left:3em;">slightly disagree</td>
+									<td style="white-space:pre;padding-left:3em;">definitely disagree</td>
+								</tr>
+								<tr>
+									<td style="padding-top:1em;">
+										18. When I talk, it isn’t always easy for others to get a word in edgeways.
+									</td>
+									<td style="white-space:pre;padding-left:3em;">definitely agree</td>
+									<td style="white-space:pre;padding-left:3em;">slightly agree</td>
+									<td style="white-space:pre;padding-left:3em;">slightly disagree</td>
+									<td style="white-space:pre;padding-left:3em;">definitely disagree</td>
+								</tr>
+								<tr>
+									<td style="padding-top:1em;">
+										19. I am fascinated by numbers.
+									</td>
+									<td style="white-space:pre;padding-left:3em;">definitely agree</td>
+									<td style="white-space:pre;padding-left:3em;">slightly agree</td>
+									<td style="white-space:pre;padding-left:3em;">slightly disagree</td>
+									<td style="white-space:pre;padding-left:3em;">definitely disagree</td>
+								</tr>
+								<tr>
+									<td style="padding-top:1em;">
+										20. When I’m reading a story, I find it difficult to work out the characters’ intentions.
+									</td>
+									<td style="white-space:pre;padding-left:3em;">definitely agree</td>
+									<td style="white-space:pre;padding-left:3em;">slightly agree</td>
+									<td style="white-space:pre;padding-left:3em;">slightly disagree</td>
+									<td style="white-space:pre;padding-left:3em;">definitely disagree</td>
+								</tr>
+								<tr>
+									<td style="padding-top:1em;">
+										21. I don’t particularly enjoy reading fiction.
+									</td>
+									<td style="white-space:pre;padding-left:3em;">definitely agree</td>
+									<td style="white-space:pre;padding-left:3em;">slightly agree</td>
+									<td style="white-space:pre;padding-left:3em;">slightly disagree</td>
+									<td style="white-space:pre;padding-left:3em;">definitely disagree</td>
+								</tr>
+								<tr>
+									<td style="padding-top:1em;">
+										22. I find it hard to make new friends.
+									</td>
+									<td style="white-space:pre;padding-left:3em;">definitely agree</td>
+									<td style="white-space:pre;padding-left:3em;">slightly agree</td>
+									<td style="white-space:pre;padding-left:3em;">slightly disagree</td>
+									<td style="white-space:pre;padding-left:3em;">definitely disagree</td>
+								</tr>
+								<tr>
+									<td style="padding-top:1em;">
+										23. I notice patterns in things all the time.
+									</td>
+									<td style="white-space:pre;padding-left:3em;">definitely agree</td>
+									<td style="white-space:pre;padding-left:3em;">slightly agree</td>
+									<td style="white-space:pre;padding-left:3em;">slightly disagree</td>
+									<td style="white-space:pre;padding-left:3em;">definitely disagree</td>
+								</tr>
+								<tr>
+									<td style="padding-top:1em;">
+										24. I would rather go to the theatre than a museum.
+									</td>
+									<td style="white-space:pre;padding-left:3em;">definitely agree</td>
+									<td style="white-space:pre;padding-left:3em;">slightly agree</td>
+									<td style="white-space:pre;padding-left:3em;">slightly disagree</td>
+									<td style="white-space:pre;padding-left:3em;">definitely disagree</td>
+								</tr>
+								<tr>
+									<td style="padding-top:1em;">
+										25. It does not upset me if my daily routine is distubed.
+									</td>
+									<td style="white-space:pre;padding-left:3em;">definitely agree</td>
+									<td style="white-space:pre;padding-left:3em;">slightly agree</td>
+									<td style="white-space:pre;padding-left:3em;">slightly disagree</td>
+									<td style="white-space:pre;padding-left:3em;">definitely disagree</td>
+								</tr>
+								<tr>
+									<td style="padding-top:1em;">
+										26. I frequently find that I don’t know how to keep a conversation going.
+									</td>
+									<td style="white-space:pre;padding-left:3em;">definitely agree</td>
+									<td style="white-space:pre;padding-left:3em;">slightly agree</td>
+									<td style="white-space:pre;padding-left:3em;">slightly disagree</td>
+									<td style="white-space:pre;padding-left:3em;">definitely disagree</td>
+								</tr>
+								<tr>
+									<td style="padding-top:1em;">
+										27. I find it easy to “read between the lines” when someone is talking to me.
+									</td>
+									<td style="white-space:pre;padding-left:3em;">definitely agree</td>
+									<td style="white-space:pre;padding-left:3em;">slightly agree</td>
+									<td style="white-space:pre;padding-left:3em;">slightly disagree</td>
+									<td style="white-space:pre;padding-left:3em;">definitely disagree</td>
+								</tr>
+								<tr>
+									<td style="padding-top:1em;">
+										28. I usually concentrate more on the whole picture, rather than the small details.
+									</td>
+									<td style="white-space:pre;padding-left:3em;">definitely agree</td>
+									<td style="white-space:pre;padding-left:3em;">slightly agree</td>
+									<td style="white-space:pre;padding-left:3em;">slightly disagree</td>
+									<td style="white-space:pre;padding-left:3em;">definitely disagree</td>
+								</tr>
+								<tr>
+									<td style="padding-top:1em;">
+										29. I am not very good at remembering phone numbers.
+									</td>
+									<td style="white-space:pre;padding-left:3em;">definitely agree</td>
+									<td style="white-space:pre;padding-left:3em;">slightly agree</td>
+									<td style="white-space:pre;padding-left:3em;">slightly disagree</td>
+									<td style="white-space:pre;padding-left:3em;">definitely disagree</td>
+								</tr>
+								<tr>
+									<td style="padding-top:1em;">
+										30. I don’t usually notice small changes in a situation, or a person’s appearance.
+									</td>
+									<td style="white-space:pre;padding-left:3em;">definitely agree</td>
+									<td style="white-space:pre;padding-left:3em;">slightly agree</td>
+									<td style="white-space:pre;padding-left:3em;">slightly disagree</td>
+									<td style="white-space:pre;padding-left:3em;">definitely disagree</td>
+								</tr>
+								<tr>
+									<td style="padding-top:1em;">
+										31. I know how to tell if someone listening to me is getting bored.
+									</td>
+									<td style="white-space:pre;padding-left:3em;">definitely agree</td>
+									<td style="white-space:pre;padding-left:3em;">slightly agree</td>
+									<td style="white-space:pre;padding-left:3em;">slightly disagree</td>
+									<td style="white-space:pre;padding-left:3em;">definitely disagree</td>
+								</tr>
+								<tr>
+									<td style="padding-top:1em;">
+										32. I find it easy to do more than one thing at once.
+									</td>
+									<td style="white-space:pre;padding-left:3em;">definitely agree</td>
+									<td style="white-space:pre;padding-left:3em;">slightly agree</td>
+									<td style="white-space:pre;padding-left:3em;">slightly disagree</td>
+									<td style="white-space:pre;padding-left:3em;">definitely disagree</td>
+								</tr>
+								<tr>
+									<td style="padding-top:1em;">
+										33. When I talk on the phone, I’m not sure when it’s my turn to speak.
+									</td>
+									<td style="white-space:pre;padding-left:3em;">definitely agree</td>
+									<td style="white-space:pre;padding-left:3em;">slightly agree</td>
+									<td style="white-space:pre;padding-left:3em;">slightly disagree</td>
+									<td style="white-space:pre;padding-left:3em;">definitely disagree</td>
+								</tr>
+								<tr>
+									<td style="padding-top:1em;">
+										34. I enjoy doing things spontaneously.
+									</td>
+									<td style="white-space:pre;padding-left:3em;">definitely agree</td>
+									<td style="white-space:pre;padding-left:3em;">slightly agree</td>
+									<td style="white-space:pre;padding-left:3em;">slightly disagree</td>
+									<td style="white-space:pre;padding-left:3em;">definitely disagree</td>
+								</tr>
+								<tr>
+									<td style="padding-top:1em;">
+										35. I am often the last to understand the point of a joke.
+									</td>
+									<td style="white-space:pre;padding-left:3em;">definitely agree</td>
+									<td style="white-space:pre;padding-left:3em;">slightly agree</td>
+									<td style="white-space:pre;padding-left:3em;">slightly disagree</td>
+									<td style="white-space:pre;padding-left:3em;">definitely disagree</td>
+								</tr>
+								<tr>
+									<td style="padding-top:1em;">
+										36. I find it easy to work out what someone is thinking or feeling just by looking at their face.
+									</td>
+									<td style="white-space:pre;padding-left:3em;">definitely agree</td>
+									<td style="white-space:pre;padding-left:3em;">slightly agree</td>
+									<td style="white-space:pre;padding-left:3em;">slightly disagree</td>
+									<td style="white-space:pre;padding-left:3em;">definitely disagree</td>
+								</tr>
+								<tr>
+									<td style="padding-top:1em;">
+										37. If there is an interruption, I can switch back to what I was doing very quickly.
+									</td>
+									<td style="white-space:pre;padding-left:3em;">definitely agree</td>
+									<td style="white-space:pre;padding-left:3em;">slightly agree</td>
+									<td style="white-space:pre;padding-left:3em;">slightly disagree</td>
+									<td style="white-space:pre;padding-left:3em;">definitely disagree</td>
+								</tr>
+								<tr>
+									<td style="padding-top:1em;">
+										38. I am good at social chit-chat.
+									</td>
+									<td style="white-space:pre;padding-left:3em;">definitely agree</td>
+									<td style="white-space:pre;padding-left:3em;">slightly agree</td>
+									<td style="white-space:pre;padding-left:3em;">slightly disagree</td>
+									<td style="white-space:pre;padding-left:3em;">definitely disagree</td>
+								</tr>
+								<tr>
+									<td style="padding-top:1em;">
+										39. People often tell me that I keep going on and on about the same thing.
+									</td>
+									<td style="white-space:pre;padding-left:3em;">definitely agree</td>
+									<td style="white-space:pre;padding-left:3em;">slightly agree</td>
+									<td style="white-space:pre;padding-left:3em;">slightly disagree</td>
+									<td style="white-space:pre;padding-left:3em;">definitely disagree</td>
+								</tr>
+								<tr>
+									<td style="padding-top:1em;">
+										40. When I was young, I used to enjoy playing games involving pretending with other children.
+									</td>
+									<td style="white-space:pre;padding-left:3em;">definitely agree</td>
+									<td style="white-space:pre;padding-left:3em;">slightly agree</td>
+									<td style="white-space:pre;padding-left:3em;">slightly disagree</td>
+									<td style="white-space:pre;padding-left:3em;">definitely disagree</td>
+								</tr>
+								<tr>
+									<td style="padding-top:1em;">
+										41. I like to collect information about categories of things (e.g. types of car, types of bird, types of train, types of plant, etc.).
+									</td>
+									<td style="white-space:pre;padding-left:3em;">definitely agree</td>
+									<td style="white-space:pre;padding-left:3em;">slightly agree</td>
+									<td style="white-space:pre;padding-left:3em;">slightly disagree</td>
+									<td style="white-space:pre;padding-left:3em;">definitely disagree</td>
+								</tr>
+								<tr>
+									<td style="padding-top:1em;">
+										42. I find it difficult to imagine what it would be like to be someone else.
+									</td>
+									<td style="white-space:pre;padding-left:3em;">definitely agree</td>
+									<td style="white-space:pre;padding-left:3em;">slightly agree</td>
+									<td style="white-space:pre;padding-left:3em;">slightly disagree</td>
+									<td style="white-space:pre;padding-left:3em;">definitely disagree</td>
+								</tr>
+								<tr>
+									<td style="padding-top:1em;">
+										43. I like to plan any activities I participate in carefully.
+									</td>
+									<td style="white-space:pre;padding-left:3em;">definitely agree</td>
+									<td style="white-space:pre;padding-left:3em;">slightly agree</td>
+									<td style="white-space:pre;padding-left:3em;">slightly disagree</td>
+									<td style="white-space:pre;padding-left:3em;">definitely disagree</td>
+								</tr>
+								<tr>
+									<td style="padding-top:1em;">
+										44. I enjoy social occasions.
+									</td>
+									<td style="white-space:pre;padding-left:3em;">definitely agree</td>
+									<td style="white-space:pre;padding-left:3em;">slightly agree</td>
+									<td style="white-space:pre;padding-left:3em;">slightly disagree</td>
+									<td style="white-space:pre;padding-left:3em;">definitely disagree</td>
+								</tr>
+								<tr>
+									<td style="padding-top:1em;">
+										45. I find it difficult to work out people’s intentions.
+									</td>
+									<td style="white-space:pre;padding-left:3em;">definitely agree</td>
+									<td style="white-space:pre;padding-left:3em;">slightly agree</td>
+									<td style="white-space:pre;padding-left:3em;">slightly disagree</td>
+									<td style="white-space:pre;padding-left:3em;">definitely disagree</td>
+								</tr>
+								<tr>
+									<td style="padding-top:1em;">
+										46. New situations make me anxious.
+									</td>
+									<td style="white-space:pre;padding-left:3em;">definitely agree</td>
+									<td style="white-space:pre;padding-left:3em;">slightly agree</td>
+									<td style="white-space:pre;padding-left:3em;">slightly disagree</td>
+									<td style="white-space:pre;padding-left:3em;">definitely disagree</td>
+								</tr>
+								<tr>
+									<td style="padding-top:1em;">
+										47. I enjoy meeting new people.
+									</td>
+									<td style="white-space:pre;padding-left:3em;">definitely agree</td>
+									<td style="white-space:pre;padding-left:3em;">slightly agree</td>
+									<td style="white-space:pre;padding-left:3em;">slightly disagree</td>
+									<td style="white-space:pre;padding-left:3em;">definitely disagree</td>
+								</tr>
+								<tr>
+									<td style="padding-top:1em;">
+										48. I am a good diplomat.
+									</td>
+									<td style="white-space:pre;padding-left:3em;">definitely agree</td>
+									<td style="white-space:pre;padding-left:3em;">slightly agree</td>
+									<td style="white-space:pre;padding-left:3em;">slightly disagree</td>
+									<td style="white-space:pre;padding-left:3em;">definitely disagree</td>
+								</tr>
+								<tr>
+									<td style="padding-top:1em;">
+										49. I am not very good at remembering people’s date of birth.
+									</td>
+									<td style="white-space:pre;padding-left:3em;">definitely agree</td>
+									<td style="white-space:pre;padding-left:3em;">slightly agree</td>
+									<td style="white-space:pre;padding-left:3em;">slightly disagree</td>
+									<td style="white-space:pre;padding-left:3em;">definitely disagree</td>
+								</tr>
+								<tr>
+									<td style="padding-top:1em;padding-bottom:1em;">
+										50. I find it very easy to play games with children that involve pretending.
+									</td>
+									<td style="white-space:pre;padding-left:3em;">definitely agree</td>
+									<td style="white-space:pre;padding-left:3em;">slightly agree</td>
+									<td style="white-space:pre;padding-left:3em;">slightly disagree</td>
+									<td style="white-space:pre;padding-left:3em;">definitely disagree</td>
+								</tr>
+							</tbody>
+						</table>
+					</figure>
+				</blockquote>
+				<p class="quote-by">
+					-- <a rel="nofollow" href="http://twitter.com/sbaroncohen">Simon Baron-Cohen</a>
+					 , <a rel="nofollow" href="http://www.autismresearchcentre.com/people_Wheelwright">Sally Wheelwright</a>
+					 , Richard Skinner
+					 , Joanne Martin
+					 , Emma Clubley
+
+				</p>
+				<p class="quote-from">
+					from "<a rel="nofollow" href="http://eppl604-autism-and-creativity.wmwikis.net/file/view/BaronCohenWheelwrightEtAl2001.pdf">The Autism-Spectrum Quotient (AQ): Evidence from Asperger Syndrome/High-Functioning Autism, Males and Females, Scientists and Mathematicians</a>"
+				</p>
+			</div> <!-- class="quote" -->
+		</div>
+	</content>
+</entry>

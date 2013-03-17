@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2012-05-06T19:42:21-07:00</published>
+
+	<id>aed45904-d616-4d33-8322-e3bfb73c165b</id>
+
+	<title>Allergies Versus Cancer</title>
+
+	<category term="Allergy" />
+	<category term="Biology" />
+	<category term="Cancer" />
+
+	<content type="xhtml">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<div class="quote">
+				<blockquote cite="http://www.psychologytoday.com/articles/201204/the-mysterious-case-the-vanishing-genius">
+					<p>
+						Scientists have generally confirmed an inverse relationship between allergies and many types of cancer, but struggle to explain the observation.
+					</p>
+					<p>
+						[...]
+					</p>
+					<p>
+						“We examined inverse relationships between allergies and cancers of tissues and organs directly exposed to the environment versus those not directly exposed,”
+					</p>
+					<p>
+						[...]
+					</p>
+					<p>
+						Inverse associations with allergies are more than twice as common among cancers of the nine tissues and organ systems that interface with the external environment—mouth, throat, colon, rectum, gray matter, pancreas, skin, cervix, and lung—versus the nine that do not, including the breast andprostate gland.
+					</p>
+					<p>
+						[...]
+					</p>
+					<p>
+						Dozens of research teams worldwide have shown allergies significantly reduce the risk of gray matter, or glial cell, cancers such as glioma, but have no measurable impact on cancers of the sheath that surrounds gray matter, the meninges.
+						Eight studies since 2002 have shown that when ultrafine airborne particles are deposited on nasal membranes, they cross the blood–brain barrier via routes that come into contact with gray matter, but not with the meninges.
+					</p>
+					<p>
+						Other studies have shown allergies slash ovarian cancer risk up to 30 percent and leukemia by 40 percent. Cancers of the lung, pancreas, colon, and more than a dozen other areas of the body reflect the same “inverse allergy” effect.
+					</p>
+				</blockquote>
+				<p class="quote-by">
+					-- Mike Martin
+				</p>
+				<p class="quote-from">
+					from "<a rel="nofollow" href="http://www.psychologytoday.com/articles/201204/the-mysterious-case-the-vanishing-genius">The Mysterious Case of the Vanishing Genius</a>"
+				</p>
+			</div> <!-- class="quote" -->
+		</div>
+	</content>
+</entry>

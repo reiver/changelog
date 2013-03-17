@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2012-01-25T22:44:16-08:00</published>
+
+	<id>aef68670-83b5-483f-9754-ef578db60449</id>
+
+	<title>On The Increasing Diagnoses Of Autism</title>
+
+	<category term="Asperger" />
+	<category term="Autism" />
+	<category term="Psychology" />
+
+	<content type="xhtml">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<div class="quote">
+				<blockquote cite="http://www.huffingtonpost.com/allen-frances/the-autism-controversy-re_b_1222597.html">
+					<p>
+						Rates of autism have multiplied remarkably in the past fifteen years -- going from the very rare (less than one in two thousand) to the pretty common (more than one in a hundred).
+						The term used to be reserved only for children with really incapacitating difficulties in language, social relationships, behaviors, and usually low IQ.
+						The autism spectrum has recently broadened to capture a heterogeneous group of kids who have much milder social and behavioral problems, normal speech, and normal (or even high) IQ.
+						So, the explosion of autism doesn't mean that kids have suddenly gotten more autistic -- rather the diagnostic label is being applied more loosely and inclusively.
+					</p>
+				</blockquote>
+				<p class="quote-by">
+					-- Allen J. Frances
+				</p>
+				<p class="quote-from">
+					from "<a rel="nofollow" href="http://www.huffingtonpost.com/allen-frances/the-autism-controversy-re_b_1222597.html">The Autism Controversy Revisited</a>"
+				</p>
+			</div> <!-- class="quote" -->
+		</div>
+	</content>
+</entry>

@@ -1,0 +1,204 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2012-10-11T13:56:32-07:00</published>
+
+	<id>783887b2-376d-410d-9ff9-ee61847fb95f</id>
+
+	<title>Primate (and Human) Motor Sequencing: Supplementary Motor Area, Pre-Supplementary Motor Area, Supplementary Eye Field and Rank-Order-Selective Neurons</title>
+
+	<category term="Neuroscience" />
+
+	<content type="xhtml">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<div class="quote">
+				<blockquote cite="http://www.jneurosci.org/content/29/14/4369.full">
+					<p>
+						Many sophisticated behaviors, from playing a Bach prelude on the piano to tying a knot, are organized as strings of motor actions that must be performed in the proper order and at precisely the right times.
+						Many simpler behaviors, however, such as eating a banana or climbing a tree, also involve the sequencing of multiple, separate movements.
+						Thus, motor sequencing is a fundamental function of the brain.
+						Not surprisingly, a variety of cortical and subcortical structures are involved in the learning, storage, and execution of movement sequences (Tanji, 2001; Ashe et al., 2006).
+						In general, however, evidence from lesion, imaging, and neurophysiological studies indicates that, in primates, there are three cortical structures that are critical specifically for planning and executing sequences of discrete movements over time: the supplementary motor area (SMA), the pre-SMA, and the supplementary eye field (SEF) (Tanji, 2001; Nachev et al., 2008).
+						A key observation is that, when the SMA is pharmacologically inactivated, monkeys become incapable of making sequential movements from memory, although they can still perform the individual movement components (Gerloff et al., 1997; Shima and Tanji, 1998).
+					</p>
+					<p>
+						Single-neuron recordings in behaving monkeys trained to perform instructed motor sequences have 
+provided a wealth of information about the neural basis of this capacity.
+						In particular, studies by Tanji and collaborators have documented the 
+activity of so-called rank-order-selective (ROS) neurons, which are abundant precisely in the pre-SMA, SMA, and SEFs and are also found in the 
+basal ganglia, in which they are known as phase-selective neurons (Kermadi and Joseph, 1995; Mushiake and Strick, 1995).
+					</p>
+					<p>
+						ROS cells fire during sequences of arm movements (Mushiake et al., 1991; 
+Clower and Alexander, 1998; Shima and Tanji, 1998, 2000) or saccades (Isoda and Tanji, 2003, 2004; Averbeck et al., 2006; 
+Berdyyeva and Olson, 2009). Their defining characteristic is that they are active during specific parts of a motor sequence. 
+For instance, suppose sequence 1 is pull–push–turn, meaning that the monkey has to pull a key, then push it, and then turn it, 
+sequence 2 is pull–turn–pull, and so on for other combinations. An ROS neuron could be active, say, during the transition 
+between the second and third movements in all sequences, regardless of the actual movements performed at those points. That 
+is, ROS cells are active at fixed time intervals during a multipart motor action, and this activity is most consistent with a 
+preference for a particular serial position in a sequence (Berdyyeva and Olson, 2009).
+					</p>
+					<p>
+						In addition, there is another feature of these cells that is suggested by the 
+experimental reports and that, according to the model presented here, is also crucial for their function: their overall 
+response amplitude depends on sequence identity. Thus, over a variety of sequences, an ROS unit is always activated during the 
+same time period but with varying intensities. 
+					</p>
+					<p>
+						This study shows that ROS neurons that are modulated by sequence identity in 
+essence solve the problem of assembling arbitrary sequences of motor actions. The results are based on theoretical 
+calculations and computer simulations of a model network in which such cells serve to construct many motor sequences composed 
+of a set of discrete movements arranged in different orders. Interestingly, the underlying mechanism is similar to the 
+nonlinear mechanism thought to be the basis for the computation of coordinate transformations in the visual system, except 
+that here it is applied to the time domain. 
+					</p>
+					<p>
+						[...]
+					</p>
+					<p>
+						Ashe J,
+						Lungu OV,
+						Basford AT,
+						Lu X
+						(2006)
+						Cortical control of motor sequences.
+						<i>Curr Opin Neurobiol</i> <b>16</b>:213–221.
+						[...]
+					</p>
+					<p>
+						[...]
+					</p>
+					<p>
+						Averbeck BB,
+						Sohn JW,
+						Lee D
+						(2006)
+						Activity in prefrontal cortex during dynamic selection of action sequences.
+						<i>Nat Neurosci</i> <b>9</b>:276–282.
+					</p>
+					<p>
+						[...]
+					</p>
+					<p>
+						Berdyyeva TK,
+						Olson CR
+						(2009)
+						Monkey supplementary eye field neurons signal the ordinal position of both actions and objects.
+						<i>J Neurosci</i> <b>29</b>:591–599.
+					</p>
+					<p>
+						[...]
+					</p>
+					<p>
+						Clower WT,
+						Alexander GE
+						(1998)
+						Movement sequence-related activity reflecting numerical order of components in supplementary and presupplementary motor areas.
+						<i>J Neurophysiol</i> <b>80</b>:1562–1566
+						[...]
+					</p>
+					<p>
+						[...]
+					</p>
+					<p>
+						Gerloff C,
+						Corwell B,
+						Chen R,
+						Hallett M,
+						Cohen LG
+						(1997)
+						Stimulation over the human supplementary motor area interferes with the organization of future elements in complex motor sequences.
+						<i>Brain</i> <b>120</b>:1587–1602.
+						[...]
+					</p>
+					<p>
+						[...]
+					</p>
+					<p>
+						Isoda M,
+						Tanji J
+						(2003)
+						Contrasting neuronal activity in the supplementary and frontal eye fields during temporal organization of multiple saccades.
+						<i>J Neurophysiol</i> <b>90</b>:3054–3065.
+					</p>
+					<p>
+						Isoda M,
+						Tanji J
+						(2004)
+						Participation of the primate presupplementary motor area in sequencing multiple saccades.
+						<i>J Neurophysiol</i> <b>92</b>:653–659.
+					</p>
+					<p>
+						[...]
+					</p>
+					<p>
+						Kermadi I,
+						Joseph JP
+						(1995)
+						Activity in the caudate nucleus of monkey during spatial sequencing.
+						<i>J Neurophysiol</i> <b>74</b>:911–933.
+						[...]
+					</p>
+					<p>
+						[...]
+					</p>
+					<p>
+						Mushiake H,
+						Strick PL
+						(1995)
+						Pallidal neuron activity during sequential arm movements.
+						<i>J Neurophysiol</i> <b>74</b>:2754–2758. 
+					</p>
+					<p>
+						[...]
+					</p>
+					<p>
+						Nachev P,
+						Kennard C,
+						Husain M
+						(2008)
+						Functional role of the supplementary and presupplementary motor areas.
+						<i>Nat Rev Neurosci</i> <b>9</b>:856–869.
+						[...]
+					</p>
+					<p>
+						[...]
+					</p>
+					<p>
+						Shima K,
+						Tanji J
+						(1998)
+						Both supplementary and presupplementary motor areas are crucial for the temporal organization of multiple movements.
+						<i>J Neurophysiol</i> <b>80</b>:3247–3260.
+						[...]
+					</p>
+					<p>
+						Shima K,
+						Tanji J
+						(2000)
+						Neuronal activity in the supplementary and presupplementary motor areas for temporal organization of multiple movements.
+						<i>J Neurophysiol</i> <b>84</b>:2148–2160.
+
+						[...]
+					</p>
+					<p>
+						[...]
+					</p>
+					<p>
+						 Tanji J
+						(2001)
+						Sequential organization of multiple movements: involvement of cortical motor areas.
+						<i>Annu Rev Neurosci</i> <b>24</b>:631–651.
+						[...]
+					</p>
+				</blockquote>
+				<p class="quote-by">
+					-- <a rel="nofollow" href="http://www.wakehealth.edu/Faculty/Salinas-Emilio.htm?LangType=1033">Emilio Salinas</a>
+				</p>
+				<p class="quote-from">
+					from "<a rel="nofollow" href="http://www.jneurosci.org/content/29/14/4369.full">Rank-Order-Selective Neurons Form a Temporal Basis Set for the Generation of Motor Sequences </a>"
+				</p>
+			</div> <!-- class="quote" -->
+		</div>
+	</content>
+</entry>

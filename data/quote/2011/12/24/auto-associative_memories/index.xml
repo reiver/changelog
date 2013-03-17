@@ -1,0 +1,60 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2011-12-24T12:47:30-08:00</published>
+
+	<id>7c9439f8-bf11-4bfa-8647-5d12c709b150</id>
+
+	<title>Auto-Associative Memories</title>
+
+	<category term="Artificial General Intelligence" />
+	<category term="Artificial Intelligence" />
+	<category term="Artificial Neural Network" />
+
+	<content type="xhtml">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<div class="quote">
+				<blockquote>
+					<p>
+						While neural nets grabbed the limelight, a small splinter group of neural network theorists built networks that didn't focus on behavior.
+						Called auto-associative memories, they were also built out of simple "neurons" that connected to each other and fired when they reached a certain threshold.
+						But they were interconnected differently, using lots of feedback.
+						Instead of only passing information forward, as in a back propagation network, auto-associative memories fed the output of each neuron back into the input -- sort of like calling yourself on the phone.
+						This feedback loop led to some interesting features.
+						When a pattern of activity was imposed on the artificial neurons, they formed a memory of this pattern.
+						The auto-associative network associated patterns with themselves, hence the term <i>auto-associative memory</i>.
+					</p>
+					<p>
+						The result of this wiring may at first seem ridiculous.
+						To retrieve a pattern stored in such a memory, you must provide the pattern you want to retrieve.
+						It would be like going to the grocer and asking to buy a bunch of bananas.
+						When the grocer asks you how you will pay, you offer to pay with bananas.
+						What good is that? you might ask.
+						But an auto-associative memory has a few important properties that are found in real brains.
+					</p>
+					<p>
+						The most important property is that you don't have to have the entire pattern you want to retrieve in order to retrieve it.
+						You might have only part of the pattern, or you might have a somewhat messed-up pattern.
+						The auto-associative memory can retrieve the correct pattern, as it was originally stored, even though you start with a messy version of it.
+						It would be like going to the grocer with half eaten brown bananas and getting whole green bananas in return.
+						Or going to the bank with a ripped and unreadable bill and the banker says,
+						"I think this is a messed-up $100 bill. Give me that one, and I will give you this new, crisp $100 bill."
+					</p>
+					<p>
+						Second, unlike most other neural networks, an autoassociative memory can be designed to store sequences of patterns, or temporal patterns.
+						This feature is accomplished by adding a time delay to the feedback.
+						With this delay, you can present an auto-associative memory with a sequence of patterns, similar to a melody, and it can remember the sequence.
+						I might feed in the first new notes of "Twinkle Twinkle Little Star" and the memory returns the whole song.
+						When presented with part of the sequence, the memory can recall the rest.
+					</p>
+				</blockquote>
+				<p class="quote-by">
+					-- <a rel="nofollow" href="http://www.onintelligence.org/">Jeffrey Hawkins</a>
+				</p>
+				<p class="quote-from">
+					from "On Intelligence"
+				</p>
+			</div> <!-- class="quote" -->
+		</div>
+	</content>
+</entry>

@@ -1,0 +1,108 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2012-10-29T00:23:22-07:00</published>
+
+	<id>1a533520-0773-4abd-9c1c-d65f09ccd0af</id>
+
+	<title>Sphingolipids and Axonal Growth</title>
+
+	<category term="Neuroscience" />
+
+	<content type="xhtml">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<div class="quote">
+				<blockquote cite="https://www.weizmann.ac.il/Biological_Chemistry/scientist/Futerman/Buccoliero02.pdf">
+					<figure style="text-align:center;padding-top:2em;">
+						<a
+							href="http://changelog.ca/quote/2012/10/29/sphingolipids_and_axonal_growth/sphingolipids_and_axonal_growth.png"
+						><img
+							src="http://changelog.ca/quote/2012/10/29/sphingolipids_and_axonal_growth/sphingolipids_and_axonal_growth.png"
+							style="width:80%;"
+						/></a>
+
+						<figcaption>
+							<p>
+							[...]
+							Inhibition of sphingolipid synthesis and degradation have opposite effects on neuronal development.
+							Inhibition of sphingolipid synthesis by fumonisin B1 or D-PDMP results in a decrease in the rate of axonal growth and a reduction in the number of axonal branch points.
+							In contrast, accumulation of GlcCer by incubation with conduritol-B-epoxide stimulates axonal growth.
+							The figure show camera lucid drawings of representative neurons on day 3 in culture, after addition of the inhibitors on day 0.
+							See text and references (17–19,38,39) for more details.
+							The bar in the box of the control neuron corresponds to 100 ␮m, and examples are given for the control neuron showing the various morphological features of hippocampal neurons.
+							3-ketoSa, 3-ketosphinganine; Sa, sphinganine; Dihydro-Cer, dihydroceramide; Cer, ceramide; GlcCer, glucosylceramide; GSLs, glycosphingolipids.
+							</p>
+						</figcaption>
+					</figure>
+					<p>
+						[...]
+					</p>
+					<p>
+						17.
+						Futerman, A. H.,
+						Boldin, S.,
+						Brann, A. B.,
+						Schwarz, A.,
+						and
+						Zisling, R.
+						1998.
+						Regulatory roles for sphingolipids in the growth of polarized neurons.
+						Ann. N. Y. Acad. Sci. 845:176–187.
+					</p>
+					<p>
+						18.
+						Futerman, A. H.
+						1998.
+						Distinct roles for sphingolipids and glycosphingolipids at different stages of neuronal development.
+						Acta Biochim. Pol. 45:469–478.
+					</p>
+					<p>
+						19.
+						Futerman, A. H.,
+						Boldin, S. A.,
+						Brann, A. B.,
+						Pelled, D.,
+						Meivar-Levy, I.,
+						and
+						Zisling, R.
+						1999.
+						Regulation of sphingolipid and glycosphingolipid metabolism during neuronal growth and development.
+					Biochem. Soc. Trans. 27:432–437.
+					</p>
+					<p>
+						[...]
+					</p>
+					<p>
+						38.
+						Schwarz, A.,
+						Rapaport, E.,
+						Hirschberg, K.,
+						and
+						Futerman, A. H.
+						1995.
+						A regulatory role for sphingolipids in neuronal growth.
+						Inhibition of sphingolipid synthesis and degradation have opposite effects on axonal branching.
+						J. Biol. Chem. 270:10990–10998.
+					</p>
+					<p>
+						39.
+						Schwarz, A.
+						and
+						Futerman, A. H.
+						1997.
+						Distinct roles for ceramide and glucosylceramide at different stages of neuronal growth.
+						J. Neurosci. 17:2929–2938.
+					</p>
+				</blockquote>
+				<p class="quote-by">
+					-- Rosaria Buccoliero
+					 , Jacques Bodennec
+					 , <a rel="nofollow" href="http://www.weizmann.ac.il/Biological_Chemistry/scientist/futerman/">Anthony H. Futerman</a>
+				</p>
+				<p class="quote-from">
+					from "<a rel="nofollow" href="https://www.weizmann.ac.il/Biological_Chemistry/scientist/Futerman/Buccoliero02.pdf">The Role of Sphingolipids in Neuronal Development: Lessons from Models of Sphingolipid Storage Diseases</a>"
+				</p>
+			</div> <!-- class="quote" -->
+		</div>
+	</content>
+</entry>

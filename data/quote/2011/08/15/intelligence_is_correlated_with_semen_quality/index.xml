@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2011-08-15T03:08:41-07:00</published>
+
+	<id>60070924-6ce6-45de-88ea-376737f7222b</id>
+
+	<title>Intelligence is correlated with semen quality; but why?</title>
+
+	<category term="Genetics" />
+	<category term="Intelligence" />
+	<category term="Neuroscience" />
+	<category term="Psychology" />
+	<category term="Psychometrics" />
+
+	<content type="xhtml">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<div class="quote">
+				<blockquote cite="http://www.unm.edu/~psych/faculty/articles/pierce%202009%20semen%20intelligence.pdf">
+					<p>
+						From an adaptationist viewpoint, there is little reason to expect a correlation in functional efficiency between two such disparate traits: intelligence depends mainly on brain function and neural development, whereas semen quality depends mainly on testicular function and spermatogenesis. Nonetheless, we hypothesized that there may be pervasive positive correlations among the functional efficiencies of many organ systems because different organs are influenced by overlapping sets of genes. Since most genes are pleiotropic (affecting several traits in parallel), most mutations are likely to have pleiotropic effects in disrupting several traits in parallel. Potentially, such pleiotropic mutations could produce positive genetic correlations in the functional efficiencies of different organ systems, yielding positive phenotypic correlations in different components of fitness, such as intelligence and fertility.
+					</p>
+				</blockquote>
+				<p class="quote-by">
+					-- <a rel="nofollow" href="http://www.unm.edu/~psych/faculty/lg_gmiller.html">Geoffrey F. Miller</a>
+				</p>
+				<p class="quote-from">
+					from "<a rel="nofollow" href="http://www.unm.edu/~psych/faculty/articles/pierce%202009%20semen%20intelligence.pdf">Why is intelligence correlated with semen quality?</a>"
+				</p>
+			</div> <!-- class="quote" -->
+		</div>
+	</content>
+</entry>

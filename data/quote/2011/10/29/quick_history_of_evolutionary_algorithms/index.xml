@@ -1,0 +1,134 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2011-10-29T09:19:22-07:00</published>
+
+	<id>c4476000-dea3-4e66-bced-3e9c5b6f7d87</id>
+
+	<title>Quick History Of Evolutionary Algorithms</title>
+
+	<category term="Artificial Intelligence" />
+	<category term="Computer Science" />
+	<category term="Evolution" />
+
+	<content type="xhtml">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<div class="quote">
+				<blockquote>
+					<p>
+						Evolutionary algorithms (EAs) are a broad class of stochastic optimization algorithms, inspired by biology and in particular by those biological processes that allow populations of organisms to adapt to their surrounding environment:
+						genetic inheritance and survival of the fittest.
+						These concepts were introduced in the 19th century by Charles Darwin (50) and are still today widely acknowledged as valid, even though complemented with further details (52).
+					</p>
+					<p>
+						The first proposals in that direction date back to the mid-1960s, when John Holland, of the University of Michigan, introduced genetic algorithms (GAs) (97), Lawrence Fogel and his colleagues, of the University of California in San Diego, started their experiments on evolutionary programming, (71) and Ingo Rechenberg, of the Technical University of Berlin, independently began to work on evolution strategies (185).
+						Their pioneering work eventually gave rise to a broad class of optimization methods particularly well suited for hard problems where little is known about the underlying search space.
+						The last development of this research thread is so-called genetic programming, introduced by John Koza, of Stanford University (117) at the beginning of the 1990s.
+					</p>
+					<p>
+						Recent texts of reference and synthesis in the field of evolutionary algorithms are (143. 12).
+					</p>
+					<p>
+						[...]
+					</p>
+					<p>
+						(12)
+						T. B&#228;ck.
+						<i>Evolutionary algorithms in theory and practice.</i>
+						Oxford University Press,
+						Oxford,
+						1996.
+					</p>
+					<p>
+						[...]
+					</p>
+					<p>
+						(50)
+						C. Darwin.
+						<i>The Origin of Species.</i>
+						John Murray,
+						London,
+						1859.
+					</p>
+					<p>
+						[...]
+					</p>
+					<p>
+						(52)
+						R. Dawkins.
+						<i>The Blind Watchmaker.</i>
+						W.W. Norton and Company,
+						New York,
+						1986.
+					</p>
+					<p>
+						[...]
+					</p>
+					<p>
+						(71)
+						L. J. Fogel,
+						A. J. Ownes,
+						and M. J. Walsh.
+						<i>Artificial Intelligence through Simulated Evolution.</i>
+						John Wiley &amp; Sons,
+						New York,
+						1966.
+					</p>
+					<p>
+						[...]
+					</p>
+					<p>
+						(97)
+						J. H. Holland.
+						<i>Adaptation in Natural and Artificial Systems.</i>
+						The University of Michigan Press,
+						Ann Arbor,
+						Michigan,
+						1975.
+					</p>
+					<p>
+						[...]
+					</p>
+					<p>
+						(117)
+						J. R. Koza.
+						<i>Genetic Programming.</i>
+						The MIT Press,
+						Cambridge,
+						Massachusetts,
+						1992.
+					</p>
+					<p>
+						[...]
+					</p>
+					<p>
+						(143)
+						Z. Michalewicz.
+						<i>Genetic Algorithms + Data Structures = Evolution Programs, 3rd Edition.</i>
+						Springer-Verlag,
+						Berlin,
+						1996.
+					</p>
+					<p>
+						[...]
+					</p>
+					<p>
+						(185)
+						I. Rechenberg.
+						<i>Evolutionsstrategie: Optimierung technischer Systeme nach Prinzipien der biologischen Evolution.</i>
+						Fromman-Holzboog Verlag,
+						Stuttgart,
+						1973.
+					</p>
+				</blockquote>
+				<p class="quote-by">
+					-- <a rel="nofollow" href="http://mago.crema.unimi.it/">Andrea G. B. Tettamanzi</a>
+					 , <a rel="nofollow" href="http://www.hec.unil.ch/people/mtomassini">Marco Tomassini</a>
+				</p>
+				<p class="quote-from">
+					from "Soft Computing: Integrating Evolutionary, Neural, and Fuzzy"
+				</p>
+			</div> <!-- class="quote" -->
+		</div>
+	</content>
+</entry>

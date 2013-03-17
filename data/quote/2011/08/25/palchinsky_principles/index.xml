@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2011-08-25T15:10:47-07:00</published>
+
+	<id>20ffebd1-78f9-4b2d-bcf0-57066598d5ce</id>
+
+	<title>Palchinsky Principles</title>
+
+	<category term="Economics" />
+	<category term="Evolution" />
+	<category term="Politics" />
+
+	<content type="xhtml">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<div class="quote">
+				<blockquote>
+					<p>
+						[Peter] Palchinsky realised [...] most real-world problems are more complex than we think. They have a human dimension, a local dimension and are likely to change as circumstances change. His method for dealing with this could be summarized as three 'Palchinsky principles': first seek out new ideas and try new things: second, when trying something new, do it on a scale where failure is survivable; third, seek out feedback and learn from your mistakes as you go along.
+						The first principle could simply be expressed as [the evolutionary concept of] 'variation'; the third as [the evolutionary concept of] 'selection'.
+					</p>
+				</blockquote>
+				<p class="quote-by">
+					-- <a rel="nofollow" href="http://www.timharford.com/">Tim Harford</a>
+				</p>
+				<p class="quote-from">
+					from "Adapt: Why Success Always Starts with Failure"
+				</p>
+			</div> <!-- class="quote" -->
+		</div>
+	</content>
+</entry>

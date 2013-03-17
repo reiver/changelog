@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2009-08-20T02:31:57-07:00</published>
+
+	<id>8e0a6792-59b8-4682-bb79-c4cbf9d0a00c</id>
+
+	<title>Will Smith on Adolf Hitler</title>
+
+	<category term="Eugenics" />
+	<category term="History" />
+	<category term="Politics" />
+
+	<content type="xhtml">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<div class="quote">
+				<blockquote cite="http://www.people.com/people/article/0,,20168278,00.html">
+					<p>
+						Adolf Hitler was a vile, heinous, vicious killer responsible for one of the greatest acts of evil committed on this planet. [&#8230; but &#8230;] Even Hitler didn&#8217;t wake up going, &#8220;Let me do the most evil thing I can do today.&#8221; I think he woke up in the morning and using a twisted, backwards logic, he set out to do what he thought was &#8220;good&#8221;.
+					</p>
+				</blockquote>
+				<p class="quote-by">
+					-- Willard Christopher Smith, Jr.
+				</p>
+				<p class="quote-from">
+					from "<a rel="nofollow" href="http://www.people.com/people/article/0,,20168278,00.html">Will Smith Explains Hitler Quote</a>"
+				</p>
+			</div> <!-- class="quote" -->
+		</div>
+	</content>
+</entry>

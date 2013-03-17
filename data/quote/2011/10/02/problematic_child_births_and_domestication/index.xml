@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2011-10-02T15:29:23-07:00</published>
+
+	<id>e7066928-e463-4286-ab61-fc553055211d</id>
+
+	<title>Problematic Child Births And Domestication</title>
+
+	<category term="Domestication" />
+	<category term="Genetics" />
+
+	<content type="xhtml">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<div class="quote">
+				<blockquote cite="http://journals.lww.com/greenjournal/Abstract/2003/02000/A_Darwinian_View_of_Obstructed_Labor.29.aspx">
+					<p>
+						The tendency for a mother or infant to occasionally die in the process of childbirth appears to be, almost without exception, a uniquely human characteristic.
+						The only readily apparent exceptions occur in certain domestic animals.
+					</p>
+				</blockquote>
+				<p class="quote-by">
+					-- Roy, Robert P. MD, FRCSC
+				</p>
+				<p class="quote-from">
+					from "<a rel="nofollow" href="http://journals.lww.com/greenjournal/Abstract/2003/02000/A_Darwinian_View_of_Obstructed_Labor.29.aspx">A Darwinian View of Obstructed Labor</a>"
+				</p>
+			</div> <!-- class="quote" -->
+		</div>
+	</content>
+</entry>

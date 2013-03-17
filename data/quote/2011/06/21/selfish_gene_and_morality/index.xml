@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2011-06-21T22:02:00-07:00</published>
+
+	<id>909f102d-82ea-4f21-b1f7-0ec9606bce11</id>
+
+	<title>Selfish Gene and Morality</title>
+
+	<category term="Morality" />
+	<category term="Psychology" />
+
+	<content type="xhtml">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<div class="quote">
+				<blockquote cite="http://www.nytimes.com/2008/01/13/magazine/13Psychology-t.html">
+					<p>
+						[T]he meme of the selfish gene escaped from popular biology books and mutated into the idea that organisms (including people) are ruthlessly self-serving. And this doesn't follow. Genes are not a reservoir of our dark unconscious wishes. "Selfish" genes are perfectly compatible with selfless organisms, because a gene's metaphorical goal of selfishly replicating itself can be implemented by wiring up the brain of the organism to do unselfish things, like being nice to relatives or doing good deeds for needy strangers. When a mother stays up all night comforting a sick child, the genes that endowed her with that tenderness were "selfish" in a metaphorical sense, but by no stretch of the imagination is she being selfish.
+					</p>
+				</blockquote>
+				<p class="quote-by">
+					-- <a rel="nofollow" href="http://www.stevenpinker.com/">Steven Arthur Pinker</a>
+				</p>
+				<p class="quote-from">
+					from "<a rel="nofollow" href="http://www.nytimes.com/2008/01/13/magazine/13Psychology-t.html">The Moral Instinct</a>"
+				</p>
+			</div> <!-- class="quote" -->
+		</div>
+	</content>
+</entry>

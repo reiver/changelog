@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2011-12-21T10:30:07-08:00</published>
+
+	<id>e310b9a1-ede0-4cdf-9fa3-fb1aab048dfd</id>
+
+	<title>Tinbergen’s Four Questions</title>
+
+	<category term="Biology" />
+	<category term="Evolution" />
+
+	<content type="xhtml">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<div class="quote">
+				<blockquote cite="http://www.zoologi.su.se/research/lindenfors/publications/Lindenfors_&amp;_Tullberg_2011.pdf">
+					<p>
+						In biology, the division in ultimate and proximate explanations has been extended to what is usually termed “Tinbergen’s four questions” 
+						(Tinbergen, 1963); the four potential explanations of any behavior:
+						(1) survival value or adaptive function,
+						(2) phylogenetic history,
+						(3) individual development, and
+						(4) causal mechanisms such as hormonal mediation of behavior.
+						The first two of Tinbergen’s questions are ultimate whereas the latter two are proximate.
+						To fully shed light on a biological phenomenon all four types of questions are needed and the answers complement each other.
+					</p>
+					<p>
+						[...]
+					</p>
+					<p>
+						Tinbergen, N. (1963). On aims and methods in ethology. Z. Tierpsychol. 20, 410–433.
+					</p>
+				</blockquote>
+				<p class="quote-by">
+					-- <a rel="nofollow" href="http://www.zoologi.su.se/research/lindenfors/">Patrik Lindenfors</a>
+					 , <a rel="nofollow" href="http://www.zoologi.su.se/research/tullberg/">Birgitta S. Tullberg</a>
+				</p>
+				<p class="quote-from">
+					from "<a rel="nofollow" href="http://www.zoologi.su.se/research/lindenfors/publications/Lindenfors_&amp;_Tullberg_2011.pdf">Evolutionary Aspects of Aggression: The Importance of Sexual Selection</a>"
+				</p>
+			</div> <!-- class="quote" -->
+		</div>
+	</content>
+</entry>

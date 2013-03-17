@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2012-07-08T22:06:14-07:00</published>
+
+	<id>f616bb9a-7b77-45f9-9cbd-f3d836c6567f</id>
+
+	<title>Origin of the Term "Autism"</title>
+
+	<category term="Autism" />
+	<category term="Psychology" />
+	<category term="Neuroscience" />
+
+	<content type="xhtml">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<div class="quote">
+				<blockquote cite="http://personal.lse.ac.uk/KANAZAWA/pdfs/BBS2008.pdf">
+					<p>
+						The term <i>autism</i> was originally coined by [Eugen] Bleuler [in 1910] in the context of negative symptoms of schizophrenia, and Kanner (1965) struggled to establish autism as a disorder separate from childhood-onset schizophrenia until Kolvin’s (1971) classic study showing bimodality in timing of onset for “childhood psychosis.”
+					</p>
+					<p>
+						[...]
+					</p>
+					<p>
+						Kanner, L.
+						[...]
+						(1965)
+						Infantile autism and the schizophrenias.
+						<i>Behavioral Science</i>
+						10:412 – 20. [aBC]
+					</p>
+					<p>
+						[...]
+					</p>
+					<p>
+						Kolvin, I.
+						(1971)
+						Studies in the childhood psychoses. I. Diagnostic criteria and classification.
+						<i>British Journal of Psychiatry</i>
+						118:381– 84. [aBC]
+					</p>
+				</blockquote>
+				<p class="quote-by">
+					-- <a rel="nofollow" href="http://www.sfu.ca/biology/faculty/crespi/">Bernard Crespi</a>
+					 , <a rel="nofollow" href="http://www.psychologytoday.com/experts/christopher-badcock-phd">Christopher Badcock</a>
+				</p>
+				<p class="quote-from">
+					from "<a rel="nofollow" href="http://personal.lse.ac.uk/KANAZAWA/pdfs/BBS2008.pdf">Psychosis and autism as diametrical disorders of the social brain</a>"
+				</p>
+			</div> <!-- class="quote" -->
+		</div>
+	</content>
+</entry>

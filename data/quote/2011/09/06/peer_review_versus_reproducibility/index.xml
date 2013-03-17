@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2011-09-06T21:08:23-07:00</published>
+
+	<id>5d1780f5-f4f3-46be-a835-94befd1b4ae1</id>
+
+	<title>Peer Review Versus Reproducibility</title>
+
+	<category term="Politics" />
+	<category term="Science" />
+
+	<content type="xhtml">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<div class="quote">
+				<blockquote cite="http://blog.dshr.org/2011/09/whats-wrong-with-research-communication.html">
+					<p>
+						Peer review is often said to be the gold standard of science, but this is not the case. The gold standard in experimental science is reproducibility, ensuring that anyone repeating the experiment gets the same result.
+					</p>
+				</blockquote>
+				<p class="quote-by">
+					-- <a rel="nofollow" href="http://blog.dshr.org/">David Rosenthal</a>
+				</p>
+				<p class="quote-from">
+					from "<a rel="nofollow" href="http://blog.dshr.org/2011/09/whats-wrong-with-research-communication.html">What's Wrong With Research Communication</a>"
+				</p>
+			</div> <!-- class="quote" -->
+		</div>
+	</content>
+</entry>

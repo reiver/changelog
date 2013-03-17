@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2012-07-07T20:32:17-07:00</published>
+
+	<id>b1519215-8d6f-4322-90ad-66fd172dc9f6</id>
+
+	<title>On The Origins Of The Royal Society</title>
+
+	<category term="History" />
+	<category term="Mathematics" />
+	<category term="Science" />
+
+	<content type="xhtml">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<div class="quote">
+				<blockquote>
+					<p>
+						The Royal Society was not the professional organization it is today;
+						[in Thomas Bayes' time] it was a private organization of dues-paying amateurs from the landed gentry.
+						But it played a vital role because amateurs would produce some of the era's breakthroughs.
+					</p>
+					<p>
+						[...]
+					</p>
+					<p>
+						The earl and the Royal's Society's energetic secretary, John Canton, operated an informal network of peer reviewers who critiqued one another's work.
+					</p>
+				</blockquote>
+				<p class="quote-by">
+					-- <a rel="nofollow" href="http://www.mcgrayne.com/">Sharon Bertsch McGrayne</a>
+				</p>
+				<p class="quote-from">
+					from "The Theory That Would Not Die: How Bayes' Rule Cracked the Enigma Code, Hunted Down Russian Submarines, and Emerged Triumphant from Two Centuries of Controversy"
+				</p>
+			</div> <!-- class="quote" -->
+		</div>
+	</content>
+</entry>

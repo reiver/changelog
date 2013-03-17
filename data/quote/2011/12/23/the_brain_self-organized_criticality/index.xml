@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2011-12-23T15:16:03-08:00</published>
+
+	<id>ced30a5c-94dc-4a99-8503-586d6af91e1c</id>
+
+	<title>The Brain: Self-Organized Criticality: Neuronal Avalanches</title>
+
+	<category term="Intelligence" />
+	<category term="Neuroscience" />
+
+	<content type="xhtml">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<div class="quote">
+				<blockquote cite="http://www.newscientist.com/article/mg20227141.200-disorderly-genius-how-chaos-drives-the-brain.html">
+					<p>
+						Neuroscientists have long suspected as much [that our brain operates on the edge of chaos].
+						Only recently, however, have they come up with proof that brains work this way.
+						Now they are trying to work out why.
+						Some believe that near-chaotic states may be crucial to memory, and could explain why some people are smarter than others.
+					</p>
+					<p>
+						In technical terms, systems on the edge of chaos are said to be in a state of "self-organised criticality". 
+						These systems are right on the boundary between stable, orderly behaviour - such as a swinging pendulum - and the unpredictable world of chaos, as exemplified by turbulence.
+					</p>
+					<p>
+						The quintessential example of self-organised criticality is a growing sand pile.
+						As grains build up, the pile grows in a predictable way until, suddenly and without warning, it hits a critical point and collapses.
+						These "sand avalanches" occur spontaneously and are almost impossible to predict, so the system is said to be both critical and self-organising.
+						Earthquakes, avalanches and wildfires are also thought to behave like this, with periods of stability followed by catastrophic periods of instability that rearrange the system into a new, temporarily stable state.
+					</p>
+					<p>
+						Self-organised criticality has another defining feature: even though individual sand avalanches are impossible to predict, their overall distribution is regular.
+						The avalanches are "scale invariant", which means that avalanches of all possible sizes occur.
+						They also follow a "power law" distribution, which means bigger avalanches happen less often than smaller avalanches, according to a strict mathematical ratio.
+						Earthquakes offer the best real-world example.
+						Quakes of magnitude 5.0 on the Richter scale happen 10 times as often as quakes of magnitude 6.0, and 100 times as often as quakes of magnitude 7.0.
+					</p>
+					<p>
+						These are purely physical systems, but the brain has much in common with them. Networks of brain cells alternate between periods of calm and periods of instability - "avalanches" of electrical activity that cascade through the neurons. Like real avalanches, exactly how these cascades occur and the resulting state of the brain are unpredictable.
+					</p>
+				</blockquote>
+				<p class="quote-by">
+					-- David Robson
+				</p>
+				<p class="quote-from">
+					from "<a rel="nofollow" href="http://www.newscientist.com/article/mg20227141.200-disorderly-genius-how-chaos-drives-the-brain.html">Disorderly Genius: How Chaos Drives The Brain</a>"
+				</p>
+			</div> <!-- class="quote" -->
+		</div>
+	</content>
+</entry>

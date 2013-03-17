@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2009-09-02T14:59:00-07:00</published>
+
+	<id>18a93d47-3157-4ffc-9328-5d3dec9ba19b</id>
+
+	<title>Unselfish Altruism in Nature</title>
+
+	<category term="Altruism" />
+	<category term="Genetics" />
+	<category term="Morality" />
+	<category term="Politics" />
+	<category term="Psychology" />
+
+	<content type="xhtml">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<div class="quote">
+				<blockquote cite="http://scienceblogs.com/gregladen/2009/09/acting_for_the_survival_of_the.php">
+					<p>
+						The bottom line is this: A variant of a gene (an &#8220;allele&#8221;) that confers a trait that results in group-level or species-level survival or reproduction at the expense of the individual will have lower fitness than an allele that instead confers a trait that results in individual survival or reproduction.
+					</p>
+				</blockquote>
+				<p class="quote-by">
+					-- <a rel="nofollow" href="http://scienceblogs.com/gregladen/">Greg Laden</a>
+				</p>
+				<p class="quote-from">
+					from "<a rel="nofollow" href="http://scienceblogs.com/gregladen/2009/09/acting_for_the_survival_of_the.php">Acting for the survival of the species (a falsehood)</a>"
+				</p>
+			</div> <!-- class="quote" -->
+		</div>
+	</content>
+</entry>

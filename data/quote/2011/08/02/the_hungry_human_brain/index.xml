@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2011-08-02T07:48:00-07:00</published>
+
+	<id>f54ddec1-e8b1-4e13-9d74-006fbb4a9241</id>
+
+	<title>The Hungry Human Brain</title>
+
+	<category term="Neuroscience" />
+
+	<content type="xhtml">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<div class="quote">
+				<blockquote cite="http://discovermagazine.com/2011/jul-aug/06-body-fit-for-freaky-big-brain">
+					<p>
+						in 1995 <a href="http://www.wennergren.org/about/leslie-c-aiello">Leslie Aiello</a>, then of  University College London, and <a href="http://www.ljmu.ac.uk/RCEAP/85796.htm">Peter Wheeler</a> of Liverpool John Moores University offered the first possible reason for the rarity of big brains. Neurons, they pointed out, have a voracious appetite. They require lots of energy to produce their voltage spikes and to release neurotransmitters. They get that energy from oxygen and food, mostly glucose. A three-pound human brain burns up to 20 times as many calories as three pounds of muscle.
+					</p>
+					<p>
+						[...] The brain also requires a constant supply of food. Twenty-five percent of all the calories you eat each day end up fueling the brain. For a newborn infant, with its little body and relatively large and fast-growing brain, that figure leaps to 87 percent.
+					</p>
+				</blockquote>
+				<p class="quote-by">
+					-- <a rel="nofollow" href="http://www.carlzimmer.com/">Carl Zimmer</a>
+				</p>
+				<p class="quote-from">
+					from "<a rel="nofollow" href="http://discovermagazine.com/2011/jul-aug/06-body-fit-for-freaky-big-brain">A Body Fit for a Freaky-Big Brain</a>"
+				</p>
+			</div> <!-- class="quote" -->
+		</div>
+	</content>
+</entry>

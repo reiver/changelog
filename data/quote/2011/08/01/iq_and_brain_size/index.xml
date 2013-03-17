@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2011-08-01T21:56:00-07:00</published>
+
+	<id>ca8ea377-8521-4aa3-89ed-e6c0b3fe6efb</id>
+
+	<title>IQ and Brain Size</title>
+
+	<category term="Psychology" />
+	<category term="Psychometrics" />
+	<category term="Neuroscience" />
+
+	<content type="xhtml">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<div class="quote">
+				<blockquote cite="http://www.adb.org/Documents/Periodicals/ADR/ADR-Vol28-1-jones.pdf">
+					<p>
+						[O]n the matter of brain size, it is now unquestioned that people who do best on formal intelligence tests also tend to have larger heavier brains, a once-mocked claim is now confirmed with <em>in vivo</em> MRI tests, with IQ and brain size correlations of between 0.3 to 0.4 (Deary 2001, Hunt 2011).
+					</p>
+				</blockquote>
+				<p class="quote-by">
+					-- <a rel="nofollow" href="http://mason.gmu.edu/~gjonesb/">Garett Jones</a>
+				</p>
+				<p class="quote-from">
+					from "<a rel="nofollow" href="http://www.adb.org/Documents/Periodicals/ADR/ADR-Vol28-1-jones.pdf">National IQ and National Productivity: The Hive Mind Across Asia</a>"
+				</p>
+			</div> <!-- class="quote" -->
+		</div>
+	</content>
+</entry>

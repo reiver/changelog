@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2009-09-02T14:57:26-07:00</published>
+
+	<id>ee97904d-9587-437c-a5fd-527a2d4176e9</id>
+
+	<title>Altruism in Nature</title>
+
+	<category term="Altruism" />
+	<category term="Genetics" />
+	<category term="Morality" />
+	<category term="Politics" />
+	<category term="Psychology" />
+
+	<content type="xhtml">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<div class="quote">
+				<blockquote cite="http://scienceblogs.com/gregladen/2009/09/acting_for_the_survival_of_the.php">
+					<p>
+						The appearance of altruism [in nature] is usually underlain by selfish motives.
+					</p>
+				</blockquote>
+				<p class="quote-by">
+					-- <a rel="nofollow" href="http://scienceblogs.com/gregladen/">Greg Laden</a>
+				</p>
+				<p class="quote-from">
+					from "<a rel="nofollow" href="http://scienceblogs.com/gregladen/2009/09/acting_for_the_survival_of_the.php">Acting for the survival of the species (a falsehood)</a>"
+				</p>
+			</div> <!-- class="quote" -->
+		</div>
+	</content>
+</entry>

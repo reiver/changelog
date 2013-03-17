@@ -1,0 +1,103 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2011-11-01T10:47:09-07:00</published>
+
+	<id>e21642fe-a07b-4535-9e49-b17b40eaa462</id>
+
+	<title>Interests Of The Four Temperaments</title>
+
+	<category term="Psychology" />
+	<category term="Psychometrics" />
+
+	<content type="xhtml">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<div class="quote">
+				<blockquote>
+					<figure>
+						<table>
+							<thead>
+								<tr>
+									<th style="padding:0.5em;font-weight:bold;">
+										Interests
+									</th>
+									<th style="padding:0.5em;">
+										Artisans
+									</th>
+									<th style="padding:0.5em;">
+										Guardians
+									</th>
+									<th style="padding:0.5em;">
+										Idealists
+									</th>
+									<th style="padding:0.5em;">
+										Rationals
+									</th>
+								</tr>
+							</thead>
+							<tbody>
+								<tr>
+									<th scope="row" style="padding:0.5em;">
+										Education
+									</th>
+									<td style="border:1px solid;padding:0.5em;">
+										Artcrafts
+									</td>
+									<td style="border:1px solid;padding:0.5em;">
+										Commerce
+									</td>
+									<td style="border:1px solid;padding:0.5em;">
+										Humanities
+									</td>
+									<td style="border:1px solid;padding:0.5em;">
+										Sciences
+									</td>
+								</tr>
+								<tr>
+									<th scope="row" style="padding:0.5em;">
+										Preoccupation
+									</th>
+									<td style="border:1px solid;padding:0.5em;">
+										Techniques
+									</td>
+									<td style="border:1px solid;padding:0.5em;">
+										Morality
+									</td>
+									<td style="border:1px solid;padding:0.5em;">
+										Morale
+									</td>
+									<td style="border:1px solid;padding:0.5em;">
+										Technology
+									</td>
+								</tr>
+								<tr>
+									<th scope="row" style="padding:0.5em;">
+										Vocation
+									</th>
+									<td style="border:1px solid;padding:0.5em;">
+										Equipment
+									</td>
+									<td style="border:1px solid;padding:0.5em;">
+										Materiel
+									</td>
+									<td style="border:1px solid;padding:0.5em;">
+										Personnel
+									</td>
+									<td style="border:1px solid;padding:0.5em;">
+										Systems
+									</td>
+								</tr>
+							</tbody>
+						</table>
+					</figure>
+				</blockquote>
+				<p class="quote-by">
+					-- <a rel="nofollow" href="http://keirsey.com/">David West Keirsey</a>
+				</p>
+				<p class="quote-from">
+					from "Please Understand Me II: Temperament, Character, Intelligence"
+				</p>
+			</div> <!-- class="quote" -->
+		</div>
+	</content>
+</entry>

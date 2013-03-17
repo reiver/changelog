@@ -1,0 +1,57 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2011-10-30T15:49:03-07:00</published>
+
+	<id>654a2fe0-efbd-494f-906b-ba1d2c9f6ecd</id>
+
+	<title>Eyes Evolved Multiple Times But Have Common Origin</title>
+
+	<category term="Genetics" />
+	<category term="Evolution" />
+	<category term="Eye" />
+
+	<content type="xhtml">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<div class="quote">
+				<blockquote cite="http://freethoughtblogs.com/pharyngula/2011/10/26/how-many-genes-does-it-take-to-make-a-squid-eye/">
+					<p>
+						I’m often asked to resolve some confusion: the scientific literature claims that eyes evolved multiple times, but I keep saying that eyes show evidence of common origin.
+						Who is right? [...]
+						And the answer is that we’re both right.
+					</p>
+					<p>
+						<b>Eyes</b> evolved independently multiple times: the cephalopod eye evolved about 480 million years ago, and the vertebrate eye is even older (490 to 600 million years), but both evolved long after the last common ancestor of molluscs and chordates, which lived about 750 million years ago.
+						The LCA probably did not have an image-forming eye at all.
+					</p>
+					<p>
+						And that’s the key point: a true eye is a structure that has an image forming element, a retina, and some kind of morphological organization that allows a distant object to form a pattern of light on that retina.
+						That organization can be something as simple as a cup-shaped depression or pinhole lens, or as elaborate as our camera eye, or an insect’s compound eye, or the mirror eyes of a scallop.
+						An eye is photoreceptors + structure. Eyes have evolved multiple times; they’ve even evolved multiple times within the phylum Mollusca, and different lineages have adopted different strategies for forming images.
+					</p>
+					<figure style="border:1px solid;padding:1em;">
+						<img src="http://changelog.ca/quote/2011/10/30/eyes_evolved_multiple_times_but_have_common_origin/eye_phylo.jpeg" />
+						<figcaption>
+							Phylogenetic view of molluscan eye diversification. Camera eyes were independently acquired in the coleoid cephalopod (squids and octopuses) and vertebrate lineages.
+						</figcaption>
+					</figure>
+					<p>
+						The LCA probably didn’t have an eye, but it did have photoreceptors, and the light sensitive cells were localized to patches on the side of the head.
+						It even had two different classes of photoreceptors, <a rel="nofollow" href="http://scienceblogs.com/pharyngula/2006/09/rhabdomeric_and_ciliary_eyes.php">ciliary and rhabdomeric</a>. 
+						That’s how I can say that eyes demonstrate a pattern of common descent: animals share the same building block for an eye, these photoreceptor cells, but different lineages have assembled those building blocks into different kinds of eyes.
+					</p>
+					<p>
+						Photoreceptors are fundamental and relatively easy to understand; we’ve worked out the full pathways in photoreceptors that take an incoming photon of light and convert it into a change in the cell’s membrane properties, producing an electrical signal.
+						Making an eye, though, is a whole different matter, involving many kinds of cells organized in very specific ways.
+					</p>
+				</blockquote>
+				<p class="quote-by">
+					-- <a rel="nofollow" href="http://freethoughtblogs.com/pharyngula/">Paul Zachary Myers</a>
+				</p>
+				<p class="quote-from">
+					from "<a rel="nofollow" href="http://freethoughtblogs.com/pharyngula/2011/10/26/how-many-genes-does-it-take-to-make-a-squid-eye/">How many genes does it take to make a squid eye?</a>"
+				</p>
+			</div> <!-- class="quote" -->
+		</div>
+	</content>
+</entry>

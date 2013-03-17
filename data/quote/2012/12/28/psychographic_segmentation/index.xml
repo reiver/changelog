@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2012-12-28T12:26:13-08:00</published>
+
+	<id>20e9b915-bbdc-4696-a736-530fc99f5a4c</id>
+
+	<title>Psychographic Segmentation</title>
+
+	<category term="Advertising" />
+	<category term="Marketing" />
+	<category term="Psychology" />
+
+	<content type="xhtml">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<div class="quote">
+				<blockquote cite="http://journals.lib.washington.edu/index.php/FPR/article/download/13914/11979">
+					<p>
+						Psychographic segmentation is a statistical modeling procedure that identifies groups of users who have similar needs with respect to a technology or commercial offering.
+						Whereas demographic segments tell you who your customers are (males, females, geographic regions, education level, income), and consumer/behavioral segments tell you what they are doing (paying, using free features, returning, recommending), psychographic segments tell you why they behave as they do, and what persuasive messaging would best speak to them.
+						This method differs from personae creation in that it is bottom-up and quantitative, rather than top-down and qualitative, but the results are similar: different user segments are identified who may be targeted with distinct messages and offerings that best speak to their motivations.
+					</p>
+				</blockquote>
+				<p class="quote-by">
+					-- <a rel="nofollow" href="http://twitter.com/Psychster">David Evans</a>
+					 , Nora Robertson
+					 , Tenille Lively
+					 , Linda Jacobson
+					 , Mariana Llamas-Cendon
+					 , Heidi Isaza
+					 , Sam Rosenbalm
+					 , John Voigt
+					 , Kevin Michael Martin
+				</p>
+				<p class="quote-from">
+					from "<a rel="nofollow" href="http://journals.lib.washington.edu/index.php/FPR/article/download/13914/11979">Facebook’s 8 Fundamental Hooks and 6 Basic User Types: A Psychographic Segmentation.</a>"
+				</p>
+			</div> <!-- class="quote" -->
+		</div>
+	</content>
+</entry>

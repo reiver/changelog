@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2011-08-01T22:06:00-07:00</published>
+
+	<id>62bb6ce8-ea61-4a80-a89c-9551eabb781e</id>
+
+	<title>High IQ Brains and Reaction to Stimuli</title>
+
+	<category term="Psychology" />
+	<category term="Psychometics" />
+	<category term="Neuroscience" />
+
+	<content type="xhtml">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<div class="quote">
+				<blockquote cite="http://www.adb.org/Documents/Periodicals/ADR/ADR-Vol28-1-jones.pdf">
+					<p>
+						High-IQ brains also react more quickly to stimuli. Multiple studies have shown that IQ is positively correlated with multiple measures of nerve conduction velocity. The simplest example: A light flashes in front of your eyes, and a machine measures how long it takes for the message to reach the vision centers in the back of your brain. This speed is correlated (0.4) with a person's IQ.
+					</p>
+					<p>
+						These kind of results should eliminate claims that IQ is merely a measure of acculturation. Instead, IQ measure something much more like processing speed. It is not a 100 percent accurate measure of processing speed. It is an indirect measure rather than a direct measure. Using an IQ test to measure processing speed is akin to measuring processing speed by using a computer to an hour or two rather than precisely counting millions of instructions per second.
+					</p>
+					<p>
+						Further, it is entirely unclear whether the cognitive correlates of IQ are mere outgrowths of the underlying processing speed (as faster computers routinely run a variety of software more efficiently) or instead reflect separate mental skills that are routinely bundled together with high processing speed (as faster computers are often bundled with better graphics cards).
+					</p>
+				</blockquote>
+				<p class="quote-by">
+					-- <a rel="nofollow" href="http://mason.gmu.edu/~gjonesb/">Garett Jones</a>
+				</p>
+				<p class="quote-from">
+					from "<a rel="nofollow" href="http://www.adb.org/Documents/Periodicals/ADR/ADR-Vol28-1-jones.pdf">National IQ and National Productivity: The Hive Mind Across Asia</a>"
+				</p>
+			</div> <!-- class="quote" -->
+		</div>
+	</content>
+</entry>

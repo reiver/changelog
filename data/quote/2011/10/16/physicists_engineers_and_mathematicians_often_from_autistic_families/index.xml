@@ -1,0 +1,188 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2011-10-16T18:59:08-07:00</published>
+
+	<id>59fa2d0b-4ded-4840-bbc2-eece76742593</id>
+
+	<title>Physicists, Engineers And Mathematicians Often From Autistic Families</title>
+
+	<category term="Asperger" />
+	<category term="Autism" />
+	<category term="Psychology" />
+	<category term="Psychometrics" />
+
+	<content type="xhtml">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<div class="quote">
+				<blockquote cite="http://www.autismresearchcentre.com/docs/papers/1998_bcetal_maths.pdf">
+					<p>
+						This study builds on the notion that cognition has a domain-specific structure (Barkow, Cosmides &amp; Tooby, 1992; Gelman &amp; Hirschfield, 1994), i.e., that cognitive domains exist in the human brain, as a result of natural selection.
+						Two such basic cognitive domains are folk psychology (Baron-Cohen, 1995; Gergely, Nadasdy, Gergely &amp; Biro, 1995) and folk physics (Baillargeon, Kotovsky &amp; Needham, 1995; Leslie &amp; Keeble, 1987).
+						These domains are thought to reflect inborn attentional biases in the infant brain to particular classes of information (social vs inanimate events, respectively).
+						Such attentional biases facilitate the infant brain learning about these specific aspects of the environment.
+					</p>
+					<p>
+						[...]
+					</p>
+					<p>
+						Evidence that the broader phenotype of autism may be characterised in terms of folk physics being more advanced than folk psychology comes from a recent study of the occupations of the first and second degree relatives of children with autism.
+						Both fathers and grandfathers of such children were disproportionately represented in occupations linked to <i>engineering</i>.
+						In a sample of 919 families with a child with autism, 28.4% had either a father or grandfather who was an engineer, vs only 15% of control group families (Baron-Cohen, Wheelwright, Stott, Bolton &amp; Goodyer, 1997).
+						In the present study, we investigated if autism was more common in the families of those people who work in fields which demand good folk physics but which do not necessarily demand good folk psychology.
+						Specifically, we tested the prediction that autism would be more common in the families of those working in the object-centred fields of engineering, physics, and mathematics, relative to those working in the humanities.
+					</p>
+					<p>
+						[...]
+					</p>
+					<p>
+						To minimize the risk of statistically significant results occuring due to multiple testing, two tests were carried out of first: autism (predicted to be more common in the engineers/maths/physics families); and manic depression (predicted to be more common in the English/French families, based on earlier findings (Andreasen, 1987; Claridge, Pryor &amp; Watkins, 1990).
+						Both predictions were confirmed.
+					</p>
+					<p>
+						[...]
+					</p>
+					<figure>
+						<table>
+							<thead>
+								<tr>
+									<th style="border:1px solid;">
+										Subject studied
+									</th>
+									<th style="border:1px solid;">
+										Autism
+									</th>
+									<th style="border:1px solid;">
+										Lang Delay
+									</th>
+									<th style="border:1px solid;">
+										Schizophrenia
+									</th>
+									<th style="border:1px solid;">
+										Manic Depress
+									</th>
+									<th style="border:1px solid;">
+										Anorex 
+									</th>
+									<th style="border:1px solid;">
+										Down’s
+									</th>
+									<th style="border:1px solid;">
+										No. of 1st deg relatives
+									</th>
+									<th style="border:1px solid;">
+										No of 2nd deg relatives
+									</th>
+									<th style="border:1px solid;">
+										No of 3rd deg relatives
+									</th>
+									<th style="border:1px solid;">
+										Total No of relatives
+									</th>
+								</tr>
+							</thead>
+							<tbody>
+								<tr>
+									<th scope="row" style="border:1px solid;">
+										Maths, Engineer or Physics (n=641)
+									</th>
+									<td style="border:1px solid;">
+										6*
+									</td>
+									<td style="border:1px solid;">
+										32
+									</td>
+									<td style="border:1px solid;">
+										17
+									</td>
+									<td style="border:1px solid;">
+										50
+									</td>
+									<td style="border:1px solid;">
+										24
+									</td>
+									<td style="border:1px solid;">
+										6
+									</td>
+									<td style="border:1px solid;">
+										2238
+									</td>
+									<td style="border:1px solid;">
+										2880
+									</td>
+									<td style="border:1px solid;">
+										4310
+									</td>
+									<td style="border:1px solid;">
+										9428
+									</td>
+								</tr>
+								<tr>
+									<th scope="row" style="border:1px solid;">
+										English or French Literature (n=652)
+									</th>
+									<td style="border:1px solid;">
+										1
+									</td>
+									<td style="border:1px solid;">
+										43
+									</td>
+									<td style="border:1px solid;">
+										20
+									</td>
+									<td style="border:1px solid;">
+										100*
+									</td>
+									<td style="border:1px solid;">
+										21
+									</td>
+									<td style="border:1px solid;">
+										4
+									</td>
+									<td style="border:1px solid;">
+										2401 
+									</td>
+									<td style="border:1px solid;">
+										3007 
+									</td>
+									<td style="border:1px solid;">
+										4421
+									</td>
+									<td style="border:1px solid;">
+										9829
+									</td>
+								</tr>
+							</tbody>
+						</table>
+						<figcaption>
+							* Maths/Engineering/Physics significantly higher than English/French
+							<br />
+							** Maths/Engineering/Physics significantly lower than English/French
+						</figcaption>
+					</figure>
+					<p>
+						[...]
+					</p>
+					<p>
+						This shows that, as predicted, there is a significant association between individuals whose cognitive strengths lie in the domain of folk physics (indexed by working in the fields of mathematics, engineering, and physics) and having a biological relative with autism.
+						This result could reflect reporting biases between the two groups, but this is far-fetched.
+						Rather, the association fits the prediction derived from a theory of the broader cognitive phenotype of autism.
+					</p>
+				</blockquote>
+				<p class="quote-by">
+					-- <a rel="nofollow" href="http://twitter.com/sbaroncohen">Simon Baron-Cohen</a>
+					 , <a rel="nofollow" href="http://www.iop.kcl.ac.uk/staff/profile/default.aspx?go=10618">Patrick F. Bolton</a>
+					 , <a rel="nofollow" href="http://www.autismresearchcentre.com/people_Wheelwright">Sally Wheelwright</a>
+					 , Victoria Scahill
+					 , Liz Short
+					 , Genevieve Mead
+					 , Alex Smith
+
+				</p>
+				<p class="quote-from">
+					from "<a rel="nofollow" href="http://www.autismresearchcentre.com/docs/papers/1998_bcetal_maths.pdf">Autism occurs more often in families of physicists, engineers, and mathematicians.</a>"
+				</p>
+			</div> <!-- class="quote" -->
+		</div>
+	</content>
+</entry>

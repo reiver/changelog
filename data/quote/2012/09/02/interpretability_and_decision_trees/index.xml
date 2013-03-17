@@ -1,0 +1,197 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2012-09-02T09:26:12-07:00</published>
+
+	<id>f1e95858-006c-4d16-b0dc-91065a7aae32</id>
+
+	<title>Interpretability and Decision Trees</title>
+
+	<category term="Artificial Intelligence" />
+	<category term="Machine Learning" />
+	<category term="Software Engineering" />
+	<category term="Statistics" />
+
+	<content type="xhtml">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<div class="quote">
+				<blockquote>
+					<p>
+						Let's say you have a behavior in your application that you want to maximize.
+						And that a really cold and heartless way of saying, that: there's something you want people to do.
+					</p>
+					<p>
+						And if you are a newspaper site that might be: buy a subscription to your site.
+						[...]
+						If you're a site with ads, it's: click on those ads.
+						And if you're a dating site, it's: subscribe to the dating site; or [...] go on a date with someone.
+						Or it could be signing up for a newsletter.
+						It could be [...] commenting or contributing content.
+						Or it just could be something really amorphous, like play a video game five (5) seconds longer than you otherwise would.
+					</p>
+					<p>
+						But let's say you have this behavior that you are trying to maximize and you can measure it.
+						And you have a metric for measuring it.
+					</p>
+					<p>
+						So [what you want is to] figure out, from the data, which attributes contribute to maximizing that behavior.
+					</p>
+					<p>
+						[...]
+					</p>
+					<p>
+						We do know that certain types of algorithms work better with certain types of data, with certain amounts of data.
+					</p>
+					<p>
+						[...]
+					</p>
+					<p>
+						When you have data you already understand, that means mathematically you have a mapping from a data to a label.
+					</p>
+					<p>
+						[...]
+					</p>
+					<p>
+						Classification is the process of taking the data you have that's labelled, and building a model that let's you guess at what's the label might be for data that you have that isn't labelled.
+					</p>
+					<p>
+						There's also another side to it though.
+						Which is taking this kind of business problem, that is <em>I have something I want to maximize</em> or <em>there's a behavior I'm measuring but I don't understand the metrics that are leading into it, and understanding that</em>.
+						So taking labelled data, that is, the behavior you are measuring, and saying, <em>what attributes lead to one label versus another</em>.
+						
+					</p>
+					<p>
+						So, this broadly falls under the category of <em>regression analysis</em>.
+					</p>
+					<p>
+						[...]
+					</p>
+					<p>
+						There are lots of technique [for regression analysis].
+					</p>
+					<p>
+						[...]
+					</p>
+					<p>
+						[One technique for doing regression analysis] is a decision tree approach.
+					</p>
+					<p>
+						So we could use a <em>k-nearest neighbour</em> approach.
+						We could say, here are the featured items and here are the items near them.
+					</p>
+					<p>
+						We could use a <em>naive bayes</em> approach.
+						Where we train on the featured set, and then apply it to the unlabelled set.
+					</p>
+					<p>
+						But decision trees work particularly well for this kind application for a few reasons.
+					</p>
+					<p>
+						[...] decision trees are what we call a non-parametric supervised learning method.
+					</p>
+					<p>
+						And they are useful for <em>both</em> regression and classification.
+						And that means it will tell you what the classification metrics are.
+						Which means you can use them to take a lot of data and understand what's happening.
+					</p>
+					<p>
+						And that's what we call interpretability.
+						Which is really important for a couple of reasons.
+					</p>
+					<p>
+						The first being that, if you are trying to understand a business problem, and you get back that the answer is five (5) but with no units and no context, that's not very useful to you.
+						Or even worse if you get back that your answer is an n by m dimensional vector or something.
+					</p>
+					<p>
+						It means that your model can be understood by humans!
+					</p>
+					<p>
+						It's also really important for debugging.
+						And I know it's very cool to pretend that we never go through a debugging process with building models on data, but of course we all do.
+					</p>
+					<p>
+						And it can help you as a human being understand what is happening with your data as you work with it.
+					</p>
+					<p>
+						Even if you go to a non-interpretable model later.
+						Like maybe you'll test with a decision tree until you understand the features, and then build a <em>support vector machine</em>.
+						That's a perfectly valid way to build a project.
+					</p>
+					<p>
+						Interpretability is really important.
+					</p>
+					<p>
+						It's also important on the product side.
+						People get upset when they get recommendations that they don't see why they are getting it.
+						[...]
+					</p>
+					<p>
+						So <em>decision trees</em> also have the added benefit of being able to handle multiple types of data.
+						Generally with these kinds of classification problems our attributes might be scalar data.
+						That is numbers, in a range of numbers.
+						Where it makes sense that zero (0) is less than one (1), is less that two (2).
+						Or they might be labels.
+						Like tags on an object.
+						[...]
+						And it's good for both of those types of data.
+					</p>
+					<p>
+						Once you have your decision tree, it's really easy and fast to make a new prediction.
+						Because the cost of using a trained decision tree is logarithmic to the number of points used to train a tree.
+						Because the number of points is the maximum number of leaves you can possibly have; and you are going down the tree.
+						So, it's much faster than it otherwise might be.
+					</p>
+					<p>
+						[...]
+						Before we get too excited about decision trees there are a few things you always have to keep in mind.
+					</p>
+					<p>
+						The first is <em>overfitting</em>.
+					</p>
+					<p>
+						Overfitting is always something to keep in mind when you are working on a classification problem.
+						Overfitting means that your classifier is learning things that are too specific to the training set.
+						As much as we try, the training data is never truly representative of the data that exists in the world.
+						And it's likely to have some known flaws.
+						And you may in fact have sampled you data, because it is too big.
+						[...]
+						It could learn rules that are too specific.
+					</p>
+					<p>
+						An example of this is that, you might feed in the purchase data for one day.
+						But it turns out that everybody buys beer on Thursday.
+						But not on any other day.
+						And if you happen to feed in a Thursday, you are going to have this problem in your model where it is over fed for <em>Thursday beer</em>.
+					</p>
+					<p>
+						Another problem is that it is NP-complete.
+					</p>
+					<p>
+						[...]
+						So nothing is actually perfect.
+						[...]
+						There are wonderful heuristics for calculating decision trees [...].
+						But you may not get the optimal result.
+						[...]
+					</p>
+					<p>
+						Another thing to keep in mind, is that some things don't really lend themselves to tree style if-then rules.
+						Some relationships between pieces of data are really complex.
+						And there are even things like XOR style relationships which are hard to represent in an if-then rule.
+						So while you might be able to train a decision tree to represent them, you'll end up with something really complicated [that doesn't lend itself to interpretability].
+						When another technique might have been really simple.
+					</p>
+					<p>
+						So you should keep in mind the nature of the data also.
+					</p>
+				</blockquote>
+				<p class="quote-by">
+					-- <a rel="nofollow" href="http://www.hilarymason.com/">Hilary Mason</a>
+				</p>
+				<p class="quote-from">
+					from "Hilary Mason: Advanced Machine Learning"
+				</p>
+			</div> <!-- class="quote" -->
+		</div>
+	</content>
+</entry>
