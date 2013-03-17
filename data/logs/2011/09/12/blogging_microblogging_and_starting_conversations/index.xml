@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2011-09-12T19:23:56+0000</published>
+
+	<id>e30a8187-e707-43ed-aeee-bac1907a79a9</id>
+
+	<category term="Blogging" />
+
+	<title>Blogging, Microblogging And Starting Conversations</title>
+
+	<content type="xhtml">
+	<div xmlns="http://www.w3.org/1999/xhtml">
+		<p>
+			One of the shortcomings of blogs as a technology is that (at least from a <em>netiquette</em> point-of-view) you can't just start a conversation with someone about any topic where there isn't a blog post for that topic already.
+		</p>
+		<p>
+			(Sure you could post <em>off-topic</em> in the comments of some post.
+			Or you could address a blog post, on your own blog, to a person and hope they notice it and reply.
+			Neither seems to "work" very well though, if at all.)
+		</p>
+		<p>
+			<a rel="nofollow" href="http://twitter.com/">Twitter</a> (a popular microblogging service, which made microblogging mainstream) is somewhat an improvement with that respect, where you can easily start a (public) conversation.	
+		</p>
+		<p>
+			To do so on Twitter, you simply address the message to them by putting their username with a "<code>@</code>" symbol in front of it 
+first, and then write your message.
+			Messages in this style will show up in their "replies" feed.
+			For example:
+		</p>
+<pre><code>
+@reiver Do you know how the neocortex works?
+
+</code></pre>
+		<p>
+			(This will message will show up in the "replies" feed of the Twitter user with the username "reiver".)
+		</p>
+		<p>
+			You can talk to more than one person at the same time.
+			For example:			
+		</p>
+<pre><code>
+@reiver @cosmicblend I agree.
+
+</code></pre>
+
+		<address class="vcard">
+			-- <a rel="author" class="fn n url" href="http://changelog.ca/"><span class="given-name">Charles</span> <span class="additional-name">Iliya</span> <span class="family-name">Krempeaux</span></a>
+		</address>
+	</div>
+	</content>
+</entry>

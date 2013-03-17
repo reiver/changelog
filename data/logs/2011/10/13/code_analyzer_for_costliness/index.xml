@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2011-10-13T18:01:52+0000</published>
+
+	<id>c02c798e-d54a-40c6-aa59-9bfdafdb7d90</id>
+
+	<category term="Software Engineering" />
+
+	<title>Code Analyzer For Costliness?</title>
+
+	<content type="xhtml">
+	<div xmlns="http://www.w3.org/1999/xhtml">
+		<p>
+			I need a tool that can mark procedures in code as '<em>costly</em>' (such as when it includes an API calls over Internet),
+			analyze the code into a graph, and propagate the "mark of <em>costliness</em>" up the graph.
+		</p>
+		<p>
+			For example, if all of a sudden a usage of a '<em>costly</em>' procedure goes from O(1) to O(n) (or worse) you <strong>REALLY</strong> need to know that.
+			(One way that could happen is if a '<em>costly</em>' procedure is called from within a loop.)
+		</p>
+		<p>
+			This isn't something a QA process <em>usually</em> can detect.
+			Stress testing can help find this, but does not tell you WHY it happens.
+			A tool like the one I want can be one thing that can help you figure out the '<em>why</em>'.
+		</p>
+		<p>
+			Obviously there could be other '<em>whys</em>' for why stress tests fail though.
+			And if you don't do stress tests, then discovering these things in production will negatively effect your subjective well-being.
+		</p>
+		<p>
+			Wonder if anyone else already created a tool like that.
+			(Or will I have to create the tool myself.)
+		</p>
+		<p>
+			This tool is useful in team environments, when a lot of people are working on code, and mistakes in <em>Computational Complexity</em> can creep in.
+			It would sort of be a sibling of unit tests.
+		</p>
+
+		<address class="vcard">
+			-- <a rel="author" class="fn n url" href="http://changelog.ca/"><span class="given-name">Charles</span> <span class="additional-name">Iliya</span> <span class="family-name">Krempeaux</span></a>
+		</address>
+	</div>
+	</content>
+</entry>

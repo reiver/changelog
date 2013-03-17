@@ -1,0 +1,164 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2012-09-01T09:23:24-0700</published>
+
+	<id>dca636d4-913a-43a4-8476-2f8073fad139</id>
+
+	<category term="Software Engineering" />
+
+	<title>Doing QA With Gregslist</title>
+
+	<content type="xhtml">
+	<div xmlns="http://www.w3.org/1999/xhtml">
+		<p>
+			If you do software engineering or some other kind of development, then working with <abbr title="quality assurance">QA</abbr> is likely a normal for you.
+			<abbr title="quality assurance">QA</abbr> sits between you and your users, guarding them against defects and other software problems.
+		</p>
+		<p>
+			There are tools such as
+			<a rel="nofollow" href="http://www.atlassian.com/software/jira/">JIRA</a>,
+			<a rel="nofollow" href="http://trac.edgewall.org/">Trac</a>,
+			<a rel="nofollow" href="http://www.bugzilla.org/">Bugzilla</a>,
+			as well as others, that help <em>quality analyists</em> interact with <em>software engineers</em> and other developers, when QA finds bugs.
+		</p>
+		<p>
+			But, in certain situations, <em>issue tracking</em> tools like those can be too "heavy weight".
+		</p>
+		<p>
+			For example, a new product is about to be released.
+			(This product may be part of a larger software system.)
+			All or some of development team, who are all in the same room, thinks it is done, and QA is in the last stretch.
+		</p>
+		<p>
+			In this type of situation there's probably going to be a lot of small bugs.
+			Creating tickets in the <em>issue tracking</em> system for each and every bug is too time consuming and too slow.
+		</p>
+		<p>
+			What developed from one <em>quality analyst</em>, that solved the "heavy weight" problem, is called: <strong>gregslist</strong>
+			Named after the <em>quality analysist</em> --
+			Greg Williams
+			<sup>[<a href="http://twitter.com/robotanist">tw</a>,
+			<a href="http://linkedin.com/in/gwilli">ln</a>,
+			<a href="http://flickr.com/gwilli">fkr</a>
+			<a href="http://lunchatthevillage.blogspot.com/">blog</a>]</sup>
+			-- from whom it came.
+			("gregslist" = "Greg's List" = "Greg's List of bugs".)
+		</p>
+		<p>
+			<em>Gregslist</em> is a simple "light weight" technique for rapid listing of, assignment of, and correction of bugs.
+		</p>
+		<p style="text-align:center;">
+			<a href="http://changelog.ca/log/2012/09/01/qa_gregslist/gregslist.png"><img
+				src="http://changelog.ca/log/2012/09/01/qa_gregslist/gregslist.png"
+				style="width:80%;"
+			/></a>
+		</p>
+		<p>
+			Here's how it works....
+		</p>
+
+		<h2>Gregslist: Step #1</h2>
+		<p>
+			Create a shared document that everyone involved can access.
+			(i.e., That <em>quality analysts</em>, <em>software engineers</em>, other developers, etc can access.)
+		</p>
+		<p>
+			(Perhaps using something such as
+			<a rel="nofollow" href="https://docs.google.com/">Google Docs</a>,
+			the <a rel="nofollow" href="http://office.microsoft.com/en-us/web-apps/">Microsoft Office Web Apps</a> version of Word,
+			<a rel="nofollow" href="https://www.zoho.com/docs/">ZoHo Docs</a>,
+			or
+			the premium version of <a rel="nofollow" href="http://evernote.com/">Evernote</a>.
+			Preferably something that allows you to copy-and-paste images into.)
+		</p>
+
+		<h2>Gregslist: Step #2</h2>
+		<p>
+			Create the following template in the shared document:
+			<a href="http://changelog.ca/log/2012/09/01/qa_gregslist/gregslist-template.html">gregslist template</a>.
+		</p>
+		<p>
+			(You can see a
+			<a href="http://changelog.ca/log/2012/09/01/qa_gregslist/gregslist-example.html">gregslist example</a>
+			<a href="http://changelog.ca/log/2012/09/01/qa_gregslist/gregslist-example.html" title="gregslist example">here</a>
+			if the template wasn't enough.)
+		</p>
+
+		<h2>Gregslist: Step #3a</h2>
+		<p>
+			When anyone finds a bug, add it to <em>gregslist</em>.
+		</p>
+		<p>
+			Note, although often bugs are found by someone in <abbr title="quality assurance">QA</abbr>, they can also be found by <em>software engineers</em> and other developers too.
+			Regardless of who finds them, add them to <em>gregslist</em>.
+		</p>
+		<p>
+			Also, if it makes sense for a specific person to deal with the bug, assign it to them.
+			Else, leave it unassigned, and let software engineers and other developers grab bugs themselves.
+		</p>
+
+		<h2>Gregslist: Step #3b</h2>
+		<p>
+			If you are a software engineer or other kind of developer and are not currently working on a bug, then
+			scan the shared document (i.e., <em>gregslist</em>) for non-assigned bugs that make sense for you to deal with and fix them.
+		</p>
+		<p>
+			Remember to add your name to the "assigned to" column, for any bug you are going to work on.
+		</p>
+		<p>
+			Also remember that if you have fixed a bug, then add a checkmark to the "dev'd" column.
+		</p>
+		<p>
+			(The probably doesn't need to be said, but if you can't reproduce the bug, go talk to the person who reported it.)
+		</p>
+
+		<h2>Gregslist: Step #3c</h2>
+		<p>
+			If you are in QA, scan the shared document (i.e., <em>gregslist</em>) for bugs with a checkmark in the "Dev'd" column that have not been QA'd and QA them.
+		</p>
+		<p>
+			Also, keep on testing and hunting for other bugs.
+		</p>
+
+		<h2>Iterate, Iterate, Iterate</h2>
+		<p>
+			Note that <em>step #3a</em>, <em>step #3b</em> and <em>step #3c</em> are happening in parallel and happening over and over again.
+		</p>
+		<p>
+			As anyone finds new bugs, they are added to <em>gregslist</em>.
+			As anyone starts working on a bug, they assign it to themselves (if someone didn't assign it to them already, that is).
+			As anyone fixes a bug, they mark it as being Dev'd (in the proper column).
+			As anyone verifies a bug has been fixed, they mark if as being QA'd (in the proper column).
+		</p>
+		<p>
+			This happens until either
+			<em>all the bugs on the list pass QA and no new bugs are found</em>
+			<u><strong>or</strong></u>
+			<em>the remaining bugs are not "show stoppers" and it has been decided that it is acceptable to deal with those bugs later</em>.
+		</p>
+
+		<h2>Communicate</h2>
+		<p>
+			Also note that when <em>gregslist</em> is being used, everyone is in the same room working together.
+			<em>Gregslist</em>  helps organize things, but people are talking to each other face-to-face, over <abbr title="instance messaging">IM</abbr>, etc to allow for rapid communication.
+		</p>
+
+		<h2>Credit</h2>
+		<p>
+			Just to say it again, credit for this -- for <a href="http://changelog.ca/log/2012/09/01/qa_gregslist"><em>gregslist</em></a> -- goes to the <em>quality analyst</em> from whom this method came:
+			Greg Williams
+			<sup>[<a href="http://twitter.com/robotanist">tw</a>,
+			<a href="http://linkedin.com/in/gwilli">ln</a>,
+			<a href="http://flickr.com/gwilli">fkr</a>
+			<a href="http://lunchatthevillage.blogspot.com/">blog</a>]</sup>
+			.
+		</p>
+
+
+		<address class="vcard">
+			-- <a rel="author" class="fn n url" href="http://changelog.ca/"><span class="given-name">Charles</span> <span class="additional-name">Iliya</span> <span class="family-name">Krempeaux</span></a>
+		</address>
+	</div>
+	</content>
+</entry>

@@ -1,0 +1,405 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2012-09-04T15:35:50-0700</published>
+
+	<id>e081d745-7abf-45fd-bfc7-20e4a36934e0</id>
+
+	<category term="Genealogy" />
+	<category term="Genetics" />
+
+	<title>My Genetic Genealogy: Ashkenazi Ancestry</title>
+
+	<content type="xhtml">
+	<div xmlns="http://www.w3.org/1999/xhtml">
+		<p>
+			This is how I figured out that I'm part Ashkenazi.
+		</p>
+
+		<h2>Genetics</h2>
+		<p>
+			I've had an active amateur interest in human genetics for a while.
+			(Probably since about 2006.)
+			This interest in human genetics, of mine, eventually lead to an interest in <em>genetic genealogy</em> and <em>DIY Genomics</em>.
+		</p>
+
+		<h2>DIY Genomics</h2>
+		<p>
+			In early 2011, my interest in human genetics somewhat culminated in me ordering a "DNA kit" from <a rel="nofollow" href="http://23andme.com">23andMe</a> (a popular personal genomics company) and got my DNA scanned.
+		</p>
+		<p>
+			I think a lot of this had to do with certain DIY Genomics projects out there, such as
+			the <a rel="nofollow" href="http://dodecad.blogspot.com/">Dodecad Ancestry Project</a>,
+			the <a rel="nofollow" href="http://www.harappadna.org/">Harappa Ancestry Project</a>,
+			and 
+			the <a rel="nofollow" href="http://bga101.blogspot.com/">Eurogenes Genetic Ancestry Project</a>.
+			By participating in these projects or using the tools they created, you could explore broader questions about your ancestry.
+			And I wanted to <em>explore</em> :-)
+		</p>
+		<p>
+			Parts of my father's mother's side of the family has been in North America for something in the order of 300 to 350 years.
+			Was there any Amerindian in there?
+			My father didn't think there was, but that ancestry goes so far back in North America, it made me wonder.
+			(Family history so far back could be easily forgotten.)
+			Could exploring my DNA answer this question?
+		</p>
+		<p>
+			Very old records of some of my mother's family tree suggested there was some Pontic Greek in there.
+			Could that be found in the DNA?
+		</p>
+		<p>
+			I also got interested in starting a DIY Genomics project myself.
+		</p>
+
+		<h2>Genetic Genealogy</h2>
+		<p>
+			There were already people talking about using their DNA to explore their ancestry online, on forums and on blogs.
+			Perhaps one of the better known of them is <a rel="nofollow" href="http://www.thegeneticgenealogist.com/">Blaine T. Bettinger</a> (a.k.a. <a rel="nofollow" href="http://www.thegeneticgenealogist.com/">The Genetic Genealogist</a>).
+			He had been documenting his adventures in using his DNA as a means of exploring his genealogy.
+		</p>
+		<p>
+			Also, others such as <a rel="nofollow" href="http://www.yourgeneticgenealogist.com/">CeCe Moore</a> had also been championing <em>genetic genealogy</em> for quite a while.
+		</p>
+		<p>
+			DIY Genomics tools popped up, that let people further analyze their DNA.
+		</p>
+		<p>
+			In addition to the previously mentioned
+			<a rel="nofollow" href="http://bga101.blogspot.com/">Eurogenes Genetic Ancestry Project</a> by <a rel="nofollow" href="http://eurogenes.blogspot.com/">David Wesolowski</a>,
+			<a rel="nofollow" href="http://dodecad.blogspot.com/">Dodecad Ancestry Project</a> by <a rel="nofollow" href="http://dienekes.blogspot.com/">Dienekes Pontikos</a>,
+			and  <a rel="nofollow" href="http://www.harappadna.org/">Harappa Ancestry Project</a> by <a rel="nofollow" href="http://www.zackvision.com/weblog/">Zack Ajmal</a>
+			there is now also
+			the <a rel="nofollow" href="http://africanancestryproject.org/">African Ancestry Project</a> by <a rel="nofollow" href="http://razib.com/">Razib Khan</a>,
+			the <a rel="nofollow" href="http://magnusducatus.blogspot.com/">Magnus Ducatus Lituaniae Project</a> by Vadim Verenich,
+			the <a rel="nofollow" href="http://fennoscandia.blogspot.com/">Fennoscandia Biographic Project</a>,
+			and
+			the <a rel="nofollow" href="http://www.malagasyancestry.com/">Malagasy Ancestry Project</a> by <a rel="nofollow" href="https://sites.google.com/site/josephpickrell/">Joseph K. Pickrell</a>.
+		</p>
+		<p>
+			Online tools have also become available.
+			Tools such as <a rel="nofollow" href="http://esquilax.stanford.edu/">Interpretome</a> and <a rel="nofollow" href="http://gedmatch.com/">GEDmatch</a>.
+		</p>
+
+		<h2>23andMe</h2>
+		<p>
+			When I got my DNA scanned back in early 2011, it partially was due to one 23andMe's sales.
+			Although, I had been waiting for the sale to come; so the decision was already made before hand.
+		</p>
+		<p>
+			When the sale came, I bought 2 "DNA kits"; one for myself and one for my mother.
+			(My father had past away already, so I couldn't get his DNA scanned.)
+		</p>
+		<p>
+			A friend of mine (who I suspect my interest in genetics and genetics genealogy rubbed off on) also bought 2 "DNA kits"; one for himself, and one for his wife.
+		</p>
+		<p>
+			Later on, I bought a "DNA kit" for my brother and one of my 1st cousins (on my father's side), and had their DNA scanned too.
+		</p>
+
+
+		<h2>EURO-DNA-CALC</h2>
+		<p>
+			The first genetic genealogy tool I ran on my DNA was Dienekes Pontikos's <a rel="nofollow" href="http://dienekes.blogspot.com/2008/06/euro-dna-calc-11-released.html">EURO-DNA-CALC</a>.
+			My results from that run back in early 2011 was:
+		</p>
+<pre>
+
+&gt; EuroDNACalc("23andme")
+[1] "NORTHWEST EURO: Maximum Likelihood Estimate=22% Interval=[0, 44]"
+[1] "SOUTHEAST EURO: Maximum Likelihood Estimate=56% Interval=[26, 86]"
+[1] "ASHKENAZI JEWISH: Maximum Likelihood Estimate=22% Interval=[3, 42]"
+
+</pre>
+		<p style="text-align:center;">
+			<a
+				href="http://changelog.ca/log/2012/09/28/ashkenazi/charles-EURO-DNA-CALC.png"
+			><img
+				src="http://changelog.ca/log/2012/09/28/ashkenazi/charles-EURO-DNA-CALC.png"
+				style="width:70%;"
+			/></a>
+		</p>
+		<p>
+			It should be said that EURO-DNA-CALC has been superseded by <a rel="nofollow" href="http://dodecad.blogspot.com/">Dodecad</a>, and thus you should use Dodecad instead of EURO-DNA-CALC to explore your genetic genealogy.
+			My displaying this graph is to tell this <em>genetic genealogy</em> story of mine.
+		</p>
+		<p>
+			With this genomics calculator, there are only 3 signals: "SE Euro", "NW Euro" and "Ashkenazi".
+			(Everyone who runs the EURO-DNA-CALC tool on their DNA will get a graph made up of those 3 things, but with potentially different percentages of each.)
+			Different populations (potentially) get a different "signature" -- different ratio between the 3 signals.
+		</p>
+		<p>
+			And in some cases, these "signals" might not represent real ancestry from these regions or ethnic group.
+		</p>
+		<p>
+			When I saw these results, (at this point) I suspected the "Askhenazi" was probably a false positive, caused by my mother's ancestry.
+			Although <a href="http://changelog.ca/log/2012/06/17/on_23andme_iranians_are_southern_european">23andMe marks her as a "Southern European"</a>, her ancestry is from the Iran.
+			My suspicion (at the time) was that this calculator was falsely identifying Iranain ancestry as "Ashkenazi" (and "SE Euro").
+			So, I dismissed it until early 2012 (when I actively started investigating my Ashkenazi ancestry).
+		</p>
+		<p>
+			Meanwhile, that friend (who I mentioned before, who bought a couple "DNA kits" when I did) had also run his DNA through EURO-DNA-CALC and found that he had a strong Ashkenazi signal.
+			I helped him investigate it.
+		</p>
+		<p>
+			(Me helping that friend investigate this Ashkenazi genetic signal is what eventually lead me to apply the same analysis to my own genome.)
+		</p>
+
+
+		<h2>Dodecad Oracle</h2>
+		<p>
+			Dienekes' Dodecad project is selective about who can join (for various reasons).
+			Yet people (such as me) who despite not being eligible for the project) wanted to see their <em>dodecad results</em>.
+		</p>
+		<p>
+			Dienekes created tools people could download and use on their raw genomic data, that would let them get their <em>dodecad results</em> with having to be accepted as a member of the project.
+		</p>
+		<p>
+			(To use <em>Dodecad Oracle</em> you download your raw genomic data <a rel="nofollow" href="https://www.23andme.com/you/download/revisions/">from 23andMe</a>, FamilyTreeDNA, or where ever, run it through <a href="http://dodecad.blogspot.ca/2011/09/do-it-yourself-dodecad-v-21.html">DIY Dodecad</a> and then run those results through <a href="http://dodecad.blogspot.ca/2011/07/dodecad-oracle-v1.html">Dodecad Oracle</a>.)
+		</p>
+		<p>
+			My results from this suggested possible Ashkenazi descent.
+			<strong>But I knew enough about how this type of tool works to know it can given <em>false positives</em>.</strong>
+		</p>
+		<p>
+			For example, here are my results running Dodecad Oracle with a single population fit:
+		</p>
+<pre>
+
+      [,1]                   [,2]
+ [1,] "Tuscan_X"             "15.2172"
+ [2,] "TSI"                  "15.9464"
+ [3,] "Tuscan_H"             "16.0968"
+ [4,] "Ashkenazy_Jews"       "17.2978"
+ [5,] "Ashkenazi_D"          "18.9108"
+ [6,] "O_Italian_D"          "21.1932"
+ [7,] "Stalskoe"             "22.1072"
+ [8,] "Slovenian"            "23.8939"
+ [9,] "Romanians_14"         "24.2392"
+[10,] "N_Italian_D"          "24.5379"
+[11,] "C_Italian_D"          "24.9151"
+[12,] "Morocco_Jews"         "25.0202"
+[13,] "Tuscan"               "26.4197"
+[14,] "Hungarians"           "27.043"
+[15,] "Balkans_D"            "27.4659"
+[16,] "S_Italian_Sicilian_D" "27.8704"
+[17,] "N._European"          "28.5042"
+[18,] "French"               "28.7944"
+[19,] "CEU"                  "29.0101"
+[20,] "Greek_D"              "29.0307"
+[21,] "North_Italian"        "29.5459"
+[22,] "French_D"             "29.5605"
+[23,] "German_D"             "29.9933"
+[24,] "Urkarah"              "30.0763"
+[25,] "Argyll_1KG"           "30.151"
+[26,] "Sicilian_D"           "30.4056"
+[27,] "Orcadian"             "30.9685"
+[28,] "Uzbekistan_Jews"      "30.9797"
+[29,] "Portuguese_D"         "31.0809"
+[30,] "Orkney_1KG"           "31.2099"
+
+</pre>
+		<p>
+			You can see Ashkenazi in there.
+			But it could have been a <em>false positive</em>.
+		</p>
+		<p>
+			The problem with running Dodecad Oracle in the mode where it is trying to find a single population fit for my DNA is that <strong>my ancestry does NOT all come from a single geographic region</strong>.
+		</p>
+		<p>
+			So I expected that results wouldn't be that meaningful for me.
+		</p>
+		<p>
+			The fact that the distance is so high (the lowest being 15.2172) suggests that the results aren't very meaningful for me.
+			(Really, you want to see something around 1 there.)
+		</p>
+		<p>
+			At this point, I still thought the Ashkenazi result was a false positive.
+		</p>
+		<p>
+			(In reality, this may still be a false positive, even though I do have Ashenazi descent.)
+		</p>
+
+
+		<h2>23andMe's Ancestry Finder Tool</h2>
+		<p>
+			23andMe has an <a rel="nofollow" href="https://www.23andme.com/you/labs/ancestry_finder/">Ancestry Finder</a> tool.
+			One of the features of this is that you can see how many people with <em>declared</em> Ashkenazi ancestry (in the 23andMe system) you have DNA matches with.
+		</p>
+		<p>
+			Here is what I see when I look at my DNA in the <em>ancestry finder</em> tool, when I configure it as an "Ashkenazi finder":
+		</p>
+		<p style="text-align:center;">
+			<a href="http://changelog.ca/log/2012/09/28/ashkenazi/23andme-ancestry_finder-aj-charles.png"><img
+				src="http://changelog.ca/log/2012/09/28/ashkenazi/23andme-ancestry_finder-aj-charles.png"
+				style="width:80%;"
+			/></a>
+		</p>
+		<p>
+			Here is what I see when I look at my brother's DNA in the <em>ancestry finder</em> tool, with the same configuration:
+		</p>
+		<p style="text-align:center;">
+			<a href="http://changelog.ca/log/2012/09/28/ashkenazi/23andme-ancestry_finder-aj-robert.png"><img
+				src="http://changelog.ca/log/2012/09/28/ashkenazi/23andme-ancestry_finder-aj-robert.png"
+				style="width:80%;"
+			/></a>
+		</p>
+		<p>
+			And here is what I see when I look at my mother's DNA in the <em>ancestry finder</em> tool, with the same configuration:
+		</p>
+		<p style="text-align:center;">
+			<a href="http://changelog.ca/log/2012/09/28/ashkenazi/23andme-ancestry_finder-aj-malekeh.png"><img
+				src="http://changelog.ca/log/2012/09/28/ashkenazi/23andme-ancestry_finder-aj-malekeh.png"
+				style="width:80%;"
+			/></a>
+		</p>
+		<p>
+			What does this tell me?
+			Given my mother's results, my Ashkenazi ancestry is coming from my father's side.
+		</p>
+		<p>
+			Looking at my father's side....
+			My father's mother's side is, as far as I know, Scottish (with perhaps some English).
+			Although some of that side of the family has been in North America for a very long time.
+		</p>
+		<p>
+			My father's father was born in France, but my father's sister discovered that that part of the family was orignally from Poland.
+			Given no other information, that seems like the most probable source of my Ashkenazi ancestry.
+			(Many Ashkenazi lived in Poland.)
+		</p>
+		<p>
+			Also, to get more data, I got my father's sister's eldest son's DNA scanned too.
+			(I.e., I got the DNA scanned of one of my 1st cousins on my father's side.)
+		</p>
+		<p>
+			Here is what I see when I look at my parernal 1st cousin's DNA in the <em>ancestry finder</em> tool, with the same configurations:
+		</p>
+		<p style="text-align:center;">
+			<a href="http://changelog.ca/log/2012/09/28/ashkenazi/23andme-ancestry_finder-aj-mark.png"><img
+				src="http://changelog.ca/log/2012/09/28/ashkenazi/23andme-ancestry_finder-aj-mark.png"
+				style="width:80%;"
+			/></a>
+		</p>
+		<p>
+			His Ashkenazi results are similar, in percentage, to myself and my brother
+			His results are thus further confirmation that that descent comes from somewhere on my father's side of the family.
+		</p>
+		<p>
+			(Just a note on these 23andMe <em>ancestry finder</em> results.
+			These percentages should NOT be taken literally.
+			None of us has all of our genomes covered.
+			And not everyone declares their ancestry.)
+		</p>
+
+
+		<h2>Polish?</h2>
+		<p>
+			The way the "Ashkenazi finder" for the 23andMe Ancestry Finder tool works is that all the blue on there are "long" DNA matches with people who have explicitly told 23andMe they have Ashkenazi descent.
+		</p>
+		<p>
+			One thought that occured to me is that, perhaps this is just Polish DNA that I am seeing.
+			Perhaps these Ashkenazi I am matching with simply have some Polish descent.
+			Perhaps "pure" Polish are unrepresented on 23andMe, and these Ashkenazi matches are serving as a proxy for Polish.
+		</p>
+		<p>
+			So, I tried exploring that, and found that (and least on the graph) almost all the Polish segments on my DNA, my brother's DNA and my paternal 1st cousin's DNA are also come up as Ashkenazi segments.
+		</p>
+
+		<h2>GEDmatch</h2>
+		<p>
+			<a rel="nofollow" href="http://gedmatch.com/">GEDmatch</a> is free online tool for those interested in genetic genealogy.
+		</p>
+		<p>
+			Uploading my 23andMe data to GEDmatch and looking at their <a rel="nofollow" href="http://ww2.gedmatch.com:8006/autosomal/r-list1.php">one-to-many DNA comparison</a> tool, I get a lot of matches with people who have family names that suggests they are of Ashkenazi ancestry.
+		</p>
+		<p>
+			Again, like with some of the other analysis, this analysis is susceptible to overrepresentativeness of a population.
+			(I.e., perhaps there are just a lot of people of Ashkenazi descent in GEDmatch, so they overwhelm the results.
+			Perhaps they are acting as proxies for other underrepreseted popuations.)
+		</p>
+		<p>
+			But the GEDmatch results is more evidence towards actual Ashkenazi descent.
+		</p>
+
+
+		<h2>FamilyTreeDNA's Y-DNA Test</h2>
+		<p>
+			<a href="http://changelog.ca/offhand/2011/04/28/23andme">23andMe tells me</a> my Y-DNA is R1b1b2a1a1d1*.
+			On the Internet, I read about claims that this Y-DNA haplogroup is associated with Ashkenazi ancestry.
+		</p>
+		<p>
+			I eventually took a <a rel="nofollow" href="http://www.familytreedna.com/">FamilyTreeDNA</a> Y-DNA 67 Marker test to investigate things further.
+		</p>
+		<p>
+			(Incidentally, FamilyTrreDNA uses a newer version of the Y-DNA tree.
+			And gave my Y-DNA a different name.
+			FamilyTreeDNA puts my Y-DNA under R1b1a2*.)
+		</p>
+
+		<h2>FamilyTreeDNA's Y-DNA Haplogroup Origins Matches</h2>
+		<p>
+			Starting with my most indepth FamilyTreeDNA results, here are my <em>67 marker</em> results on FamilyTreeDNA's <a rel="nofollow" href="https://my.familytreedna.com/y-dna-haplo-matches.aspx">DNA Haplogroup Origins Matches</a>:
+		</p>
+		<p style="text-align:center;">
+			<a href="http://changelog.ca/log/2012/09/28/ashkenazi/ftdna_y-dna-haplo-matches_67-markers.png"><img
+				src="http://changelog.ca/log/2012/09/28/ashkenazi/ftdna_y-dna-haplo-matches_67-markers.png"
+				style="width:90%;"
+			/></a>
+		</p>
+		<p>
+			Here are my <em>37 marker</em> results:
+		</p>
+		<p style="text-align:center;">
+			<a href="http://changelog.ca/log/2012/09/28/ashkenazi/ftdna_y-dna-haplo-matches_37-markers.png"><img
+				src="http://changelog.ca/log/2012/09/28/ashkenazi/ftdna_y-dna-haplo-matches_37-markers.png"
+				style="width:90%;"
+			/></a>
+		</p>
+		<p>
+			Here are my <em>25 marker</em> results:
+		</p>
+		<p style="text-align:center;">
+			<a href="http://changelog.ca/log/2012/09/28/ashkenazi/ftdna_y-dna-haplo-matches_25-markers.png"><img
+				src="http://changelog.ca/log/2012/09/28/ashkenazi/ftdna_y-dna-haplo-matches_25-markers.png"
+				style="width:90%;"
+			/></a>
+		</p>
+		<p>
+			All my FamilyTreeDNA <em>67 marker</em>, <em>37 marker</em> and <em>25 marker</em> results point to Ashkenazi descent with my Y-DNA.
+		</p>
+		<p>
+			My <em>12 marker</em> results are very numerous, but also the least indepth:
+		</p>
+		<p style="text-align:center;">
+			<a href="http://changelog.ca/log/2012/09/28/ashkenazi/ftdna_y-dna-haplo-matches_12-markers.png"><img
+				src="http://changelog.ca/log/2012/09/28/ashkenazi/ftdna_y-dna-haplo-matches_12-markers.png"
+				style="width:90%;"
+			/></a>
+		</p>
+		<p>
+			These FamilyTreeDNA results point to my Y-DNA being associated with Ashkenazi descent.
+		</p>
+
+
+		<h2>Conclusion?</h2>
+		<p>
+			Having a well documenteed family history would give more confidence in any conclusion.
+			But without that, I can come up with a conclusion of the most probable source of my Ashkenazi descent.
+		</p>
+		<p>
+			Given the current information at hand, the most likely explanation is that my direct male line is Ashkenazi; and more specifically, Ashkenazi from Poland.
+		</p>
+		<p>
+			Of course, if new information presents itself in the future, I'll modifiy this conclusion to account for it.
+		</p>
+		<p>
+			(In a later post I will get into what logical percentage Ashkenazi I suspect I am, and more specifically <em>how</em> I came to that conclusion.
+			As a spoiler, I suspect it is likely <sup>1</sup>&#8260;<sub>8</sub> = 12.5%, although previously I did think I was <sup>1</sup>&#8260;<sub>4</sub> = 25%.
+			But I have updated my estimation based on new information.)
+		</p>
+
+		<address class="vcard">
+			-- <a rel="author" class="fn n url" href="http://changelog.ca/"><span class="given-name">Charles</span> <span class="additional-name">Iliya</span> <span class="family-name">Krempeaux</span></a>
+		</address>
+	</div>
+	</content>
+</entry>

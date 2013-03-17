@@ -1,0 +1,723 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2012-06-17T19:58:51+0000</published>
+
+	<id>7f2c0fa4-8ff8-4b78-8e64-867f03229971</id>
+
+	<category term="Genetics" />
+
+	<title>On 23andMe, Iranians Are "Southern Europeans"</title>
+
+	<content type="xhtml">
+	<div xmlns="http://www.w3.org/1999/xhtml">
+
+		<p>
+			I  have a handful of "pure" Iranians I share genomes with on 23andMe.
+			When you look at 23andMe's '<em>Global Similarity</em>' tool for them, their closest matches are (in order of closet first):
+			#1 Southern European, #2 Northern European, #3 Near Easterner, #4 Central Asian, etc. 
+		</p>
+		<p>
+			Socially some might expect them to be have their closest match to the "Near Easterner" population.
+			But they're not.
+			This simply seems to be the genetic reality.
+			But does "Southern European" capture the genetics in and around Iran?
+		</p>
+
+
+		<h2>23andMe's 'Global Similarity' Tool</h2>
+		<p>
+			<a rel="nofollow" href="http://23andme.com/">23andMe</a>, a <em>personal genomics</em> company, is used by many to do (among other things) genealogy.
+			The service has a number of tools to facilitate this. One of them being <a rel="nofollow" href="https://www.23andme.com/you/globalsim/"><abbr title="23andMe's">their</abbr> '<em>Global Similarity</em>' tool</a>.
+		</p>
+		<p>
+			So that I can show you what it looks like, my (current) results (as of writing this blog post) are:
+		</p>
+
+		<p style="text-align:center;">
+			<a href="http://changelog.ca/log/2012/06/17/on_23andme_iranians_are_southern_european/charles-23andme-global-similarity.png"><img 
+			   src="http://changelog.ca/log/2012/06/17/on_23andme_iranians_are_southern_european/SMALL_charles-23andme-global-similarity.png" 
+			/></a>
+		</p>
+
+		<p>
+			(I say "current" because my numbers have slightly changed since I first got my DNA scanned by 23andMe.
+			Where before I had the same numbers for "Southern European" and "Northern European", now "Southern European" is slightly higher than "Northern European".
+			And it's possible that these numbers could change in the future.)
+		</p>
+		<p>
+			In case you're curious, my current numbers (which appear in popups on the 23andMe 'Global Similarity' tool but aren't shown in the screenshot) are:
+		</p>
+
+		<br />
+		<figure>
+		<table style="text-align:center;">
+			<tbody>
+				<tr>
+					<th scope="row" style="border:1px solid black;padding:7pt;">
+						Southern European:
+					</th>
+					<td style="border:1px solid black;padding:7pt;font-family:monospace;">
+						67.47
+					</td>
+				</tr>
+				<tr>
+					<th scope="row" style="border:1px solid black;padding:7pt;">
+						Northern European:
+					</th>
+					<td style="border:1px solid black;padding:7pt;font-family:monospace;">
+						67.46
+					</td>
+				</tr>
+				<tr>
+					<th scope="row" style="border:1px solid black;padding:7pt;">
+						Near Easterner:
+					</th>
+					<td style="border:1px solid black;padding:7pt;font-family:monospace;">
+						67.11
+					</td>
+				</tr>
+				<tr>
+					<th scope="row" style="border:1px solid black;padding:7pt;">
+						Central Asian:
+					</th>
+					<td style="border:1px solid black;padding:7pt;font-family:monospace;">
+						66.90
+					</td>
+				</tr>
+				<tr>
+					<th scope="row" style="border:1px solid black;padding:7pt;">
+						North African:
+					</th>
+					<td style="border:1px solid black;padding:7pt;font-family:monospace;">
+						66.36
+					</td>
+				</tr>
+				<tr>
+					<th scope="row" style="border:1px solid black;padding:7pt;">
+						North American:
+					</th>
+					<td style="border:1px solid black;padding:7pt;font-family:monospace;">
+						66.07
+					</td>
+				</tr>
+				<tr>
+					<th scope="row" style="border:1px solid black;padding:7pt;">
+						Siberian:
+					</th>
+					<td style="border:1px solid black;padding:7pt;font-family:monospace;">
+						66.03
+					</td>
+				</tr>
+				<tr>
+					<th scope="row" style="border:1px solid black;padding:7pt;">
+						South American:
+					</th>
+					<td style="border:1px solid black;padding:7pt;font-family:monospace;">
+						65.98
+					</td>
+				</tr>
+				<tr>
+					<th scope="row" style="border:1px solid black;padding:7pt;">
+						East Asian:
+					</th>
+					<td style="border:1px solid black;padding:7pt;font-family:monospace;">
+						65.82
+					</td>
+				</tr>
+				<tr>
+					<th scope="row" style="border:1px solid black;padding:7pt;">
+						Oceanian:
+					</th>
+					<td style="border:1px solid black;padding:7pt;font-family:monospace;">
+						65.78
+					</td>
+				</tr>
+				<tr>
+					<th scope="row" style="border:1px solid black;padding:7pt;">
+						East African:
+					</th>
+					<td style="border:1px solid black;padding:7pt;font-family:monospace;">
+						63.78
+					</td>
+				</tr>
+				<tr>
+					<th scope="row" style="border:1px solid black;padding:7pt;">
+						South African:
+					</th>
+					<td style="border:1px solid black;padding:7pt;font-family:monospace;">
+						63.67
+					</td>
+				</tr>
+				<tr>
+					<th scope="row" style="border:1px solid black;padding:7pt;">
+						Central African:
+					</th>
+					<td style="border:1px solid black;padding:7pt;font-family:monospace;">
+						63.64
+					</td>
+				</tr>
+				<tr>
+					<th scope="row" style="border:1px solid black;padding:7pt;">
+						Western African:
+					</th>
+					<td style="border:1px solid black;padding:7pt;font-family:monospace;">
+						63.58
+					</td>
+				</tr>
+			</tbody>
+		</table>
+		</figure>
+
+
+		<h2>Iranians on 23andMe's 'Global Similarity' Tool</h2>
+		<p>
+			Now that you've seen what 23andMe's 'Global Similarity' tool is, let's look at some "pure" Iranians (who are all, I'd assume, ethnic Persians).
+		</p>
+		<p>
+			I've included the results of 3 Iranians below.
+			(For privacy reasons, I've blocked out their names.)
+		</p>
+
+
+		<h3>Iranian #1</h3>
+		<p>
+			Here's Iranian #1:
+		</p>
+		<p style="text-align:center;">
+			<a href="http://changelog.ca/log/2012/06/17/on_23andme_iranians_are_southern_european/global_similarity_iranian_1.png"><img 
+			   src="http://changelog.ca/log/2012/06/17/on_23andme_iranians_are_southern_european/global_similarity_iranian_1.png" 
+			/></a>
+		</p>
+		<figure>
+		<table style="text-align:center;">
+			<tbody>
+				<tr>
+					<th scope="row" style="border:1px solid black;padding:7pt;">
+						Southern European:
+					</th>
+					<td style="border:1px solid black;padding:7pt;font-family:monospace;">
+						67.29
+					</td>
+				</tr>
+				<tr>
+					<th scope="row" style="border:1px solid black;padding:7pt;">
+						Northern European:
+					</th>
+					<td style="border:1px solid black;padding:7pt;font-family:monospace;">
+						67.21
+					</td>
+				</tr>
+				<tr>
+					<th scope="row" style="border:1px solid black;padding:7pt;">
+						Near Easterner:
+					</th>
+					<td style="border:1px solid black;padding:7pt;font-family:monospace;">
+						67.13
+					</td>
+				</tr>
+				<tr>
+					<th scope="row" style="border:1px solid black;padding:7pt;">
+						Central Asian:
+					</th>
+					<td style="border:1px solid black;padding:7pt;font-family:monospace;">
+						66.98
+					</td>
+				</tr>
+				<tr>
+					<th scope="row" style="border:1px solid black;padding:7pt;">
+						North African:
+					</th>
+					<td style="border:1px solid black;padding:7pt;font-family:monospace;">
+						66.33
+					</td>
+				</tr>
+				<tr>
+					<th scope="row" style="border:1px solid black;padding:7pt;">
+						Siberian:
+					</th>
+					<td style="border:1px solid black;padding:7pt;font-family:monospace;">
+						66.05
+					</td>
+				</tr>
+				<tr>
+					<th scope="row" style="border:1px solid black;padding:7pt;">
+						North American:
+					</th>
+					<td style="border:1px solid black;padding:7pt;font-family:monospace;">
+						66.00
+					</td>
+				</tr>
+				<tr>
+					<th scope="row" style="border:1px solid black;padding:7pt;">
+						South American:
+					</th>
+					<td style="border:1px solid black;padding:7pt;font-family:monospace;">
+						65.92
+					</td>
+				</tr>
+				<tr>
+					<th scope="row" style="border:1px solid black;padding:7pt;">
+						East Asian:
+					</th>
+					<td style="border:1px solid black;padding:7pt;font-family:monospace;">
+						65.87
+					</td>
+				</tr>
+				<tr>
+					<th scope="row" style="border:1px solid black;padding:7pt;">
+						Oceanian:
+					</th>
+					<td style="border:1px solid black;padding:7pt;font-family:monospace;">
+						65.85
+					</td>
+				</tr>
+				<tr>
+					<th scope="row" style="border:1px solid black;padding:7pt;">
+						East African:
+					</th>
+					<td style="border:1px solid black;padding:7pt;font-family:monospace;">
+						63.97
+					</td>
+				</tr>
+				<tr>
+					<th scope="row" style="border:1px solid black;padding:7pt;">
+						South African:
+					</th>
+					<td style="border:1px solid black;padding:7pt;font-family:monospace;">
+						63.87
+					</td>
+				</tr>
+				<tr>
+					<th scope="row" style="border:1px solid black;padding:7pt;">
+						Central African:
+					</th>
+					<td style="border:1px solid black;padding:7pt;font-family:monospace;">
+						63.82
+					</td>
+				</tr>
+				<tr>
+					<th scope="row" style="border:1px solid black;padding:7pt;">
+						Western African:
+					</th>
+					<td style="border:1px solid black;padding:7pt;font-family:monospace;">
+						63.77
+					</td>
+				</tr>
+			</tbody>
+		</table>
+		</figure>
+
+
+
+		<h3>Iranian #2</h3>
+		<p>
+			Here's Iranian #2:
+		</p>
+		<p style="text-align:center;">
+			<a href="http://changelog.ca/log/2012/06/17/on_23andme_iranians_are_southern_european/global_similarity_iranian_2.png"><img 
+			   src="http://changelog.ca/log/2012/06/17/on_23andme_iranians_are_southern_european/global_similarity_iranian_2.png" 
+			/></a>
+		</p>
+		<figure>
+		<table style="text-align:center;">
+			<tbody>
+				<tr>
+					<th scope="row" style="border:1px solid black;padding:7pt;">
+						Southern European:
+					</th>
+					<td style="border:1px solid black;padding:7pt;font-family:monospace;">
+						67.44
+					</td>
+				</tr>
+				<tr>
+					<th scope="row" style="border:1px solid black;padding:7pt;">
+						Northern European:
+					</th>
+					<td style="border:1px solid black;padding:7pt;font-family:monospace;">
+						67.35
+					</td>
+				</tr>
+				<tr>
+					<th scope="row" style="border:1px solid black;padding:7pt;">
+						Near Easterner:
+					</th>
+					<td style="border:1px solid black;padding:7pt;font-family:monospace;">
+						67.30
+					</td>
+				</tr>
+				<tr>
+					<th scope="row" style="border:1px solid black;padding:7pt;">
+						Central Asian:
+					</th>
+					<td style="border:1px solid black;padding:7pt;font-family:monospace;">
+						67.08
+					</td>
+				</tr>
+				<tr>
+					<th scope="row" style="border:1px solid black;padding:7pt;">
+						North African:
+					</th>
+					<td style="border:1px solid black;padding:7pt;font-family:monospace;">
+						66.41
+					</td>
+				</tr>
+				<tr>
+					<th scope="row" style="border:1px solid black;padding:7pt;">
+						Siberian:
+					</th>
+					<td style="border:1px solid black;padding:7pt;font-family:monospace;">
+						66.09
+					</td>
+				</tr>
+				<tr>
+					<th scope="row" style="border:1px solid black;padding:7pt;">
+						North American:
+					</th>
+					<td style="border:1px solid black;padding:7pt;font-family:monospace;">
+						66.03
+					</td>
+				</tr>
+				<tr>
+					<th scope="row" style="border:1px solid black;padding:7pt;">
+						South American:
+					</th>
+					<td style="border:1px solid black;padding:7pt;font-family:monospace;">
+						65.97
+					</td>
+				</tr>
+				<tr>
+					<th scope="row" style="border:1px solid black;padding:7pt;">
+						East Asian:
+					</th>
+					<td style="border:1px solid black;padding:7pt;font-family:monospace;">
+						65.90
+					</td>
+				</tr>
+				<tr>
+					<th scope="row" style="border:1px solid black;padding:7pt;">
+						Oceanian:
+					</th>
+					<td style="border:1px solid black;padding:7pt;font-family:monospace;">
+						65.81
+					</td>
+				</tr>
+				<tr>
+					<th scope="row" style="border:1px solid black;padding:7pt;">
+						East African:
+					</th>
+					<td style="border:1px solid black;padding:7pt;font-family:monospace;">
+						63.83
+					</td>
+				</tr>
+				<tr>
+					<th scope="row" style="border:1px solid black;padding:7pt;">
+						South African:
+					</th>
+					<td style="border:1px solid black;padding:7pt;font-family:monospace;">
+						63.70
+					</td>
+				</tr>
+				<tr>
+					<th scope="row" style="border:1px solid black;padding:7pt;">
+						Central African:
+					</th>
+					<td style="border:1px solid black;padding:7pt;font-family:monospace;">
+						63.68
+					</td>
+				</tr>
+				<tr>
+					<th scope="row" style="border:1px solid black;padding:7pt;">
+						Western African:
+					</th>
+					<td style="border:1px solid black;padding:7pt;font-family:monospace;">
+						63.62
+					</td>
+				</tr>
+			</tbody>
+		</table>
+		</figure>
+
+
+
+		<h3>Iranian #3</h3>
+		<p>
+			Here's Iranian #3:
+		</p>
+		<p style="text-align:center;">
+			<a href="http://changelog.ca/log/2012/06/17/on_23andme_iranians_are_southern_european/global_similarity_iranian_3.png"><img 
+			   src="http://changelog.ca/log/2012/06/17/on_23andme_iranians_are_southern_european/global_similarity_iranian_3.png" 
+			/></a>
+		</p>
+		<figure>
+		<table style="text-align:center;">
+			<tbody>
+				<tr>
+					<th scope="row" style="border:1px solid black;padding:7pt;">
+						Southern European:
+					</th>
+					<td style="border:1px solid black;padding:7pt;font-family:monospace;">
+						67.42
+					</td>
+				</tr>
+				<tr>
+					<th scope="row" style="border:1px solid black;padding:7pt;">
+						Northern European:
+					</th>
+					<td style="border:1px solid black;padding:7pt;font-family:monospace;">
+						67.32
+					</td>
+				</tr>
+				<tr>
+					<th scope="row" style="border:1px solid black;padding:7pt;">
+						Near Easterner:
+					</th>
+					<td style="border:1px solid black;padding:7pt;font-family:monospace;">
+						67.26
+					</td>
+				</tr>
+				<tr>
+					<th scope="row" style="border:1px solid black;padding:7pt;">
+						Central Asian:
+					</th>
+					<td style="border:1px solid black;padding:7pt;font-family:monospace;">
+						67.12
+					</td>
+				</tr>
+				<tr>
+					<th scope="row" style="border:1px solid black;padding:7pt;">
+						North African:
+					</th>
+					<td style="border:1px solid black;padding:7pt;font-family:monospace;">
+						66.45
+					</td>
+				</tr>
+				<tr>
+					<th scope="row" style="border:1px solid black;padding:7pt;">
+						Siberian:
+					</th>
+					<td style="border:1px solid black;padding:7pt;font-family:monospace;">
+						66.31
+					</td>
+				</tr>
+				<tr>
+					<th scope="row" style="border:1px solid black;padding:7pt;">
+						North American:
+					</th>
+					<td style="border:1px solid black;padding:7pt;font-family:monospace;">
+						66.28
+					</td>
+				</tr>
+				<tr>
+					<th scope="row" style="border:1px solid black;padding:7pt;">
+						South American:
+					</th>
+					<td style="border:1px solid black;padding:7pt;font-family:monospace;">
+						66.20
+					</td>
+				</tr>
+				<tr>
+					<th scope="row" style="border:1px solid black;padding:7pt;">
+						East Asian:
+					</th>
+					<td style="border:1px solid black;padding:7pt;font-family:monospace;">
+						66.12
+					</td>
+				</tr>
+				<tr>
+					<th scope="row" style="border:1px solid black;padding:7pt;">
+						Oceanian:
+					</th>
+					<td style="border:1px solid black;padding:7pt;font-family:monospace;">
+						66.03
+					</td>
+				</tr>
+				<tr>
+					<th scope="row" style="border:1px solid black;padding:7pt;">
+						East African:
+					</th>
+					<td style="border:1px solid black;padding:7pt;font-family:monospace;">
+						63.90
+					</td>
+				</tr>
+				<tr>
+					<th scope="row" style="border:1px solid black;padding:7pt;">
+						South African:
+					</th>
+					<td style="border:1px solid black;padding:7pt;font-family:monospace;">
+						63.76
+					</td>
+				</tr>
+				<tr>
+					<th scope="row" style="border:1px solid black;padding:7pt;">
+						Central African:
+					</th>
+					<td style="border:1px solid black;padding:7pt;font-family:monospace;">
+						63.71
+					</td>
+				</tr>
+				<tr>
+					<th scope="row" style="border:1px solid black;padding:7pt;">
+						Western African:
+					</th>
+					<td style="border:1px solid black;padding:7pt;font-family:monospace;">
+						63.70
+					</td>
+				</tr>
+			</tbody>
+		</table>
+		</figure>
+
+
+		<p>
+			(I make no claim that these 3 Iranians are representative of Iranians as a whole.
+			Although I suspect the Iranian closest matches [of #1 Southern European, #2 Northern European, #3 Near Easterner, #4 Central Asian, etc] are likely representative.)
+		</p>
+
+		<h2>"Southern European"</h2>
+		<p>
+			What does it mean to say that Iranians are "Southern European"?...
+			Well, it should not be taken literally. They're obviously not from Southern Europe.
+			What 23andMe's 'Global Similarity' tool is saying is that, of their <em>reference populations</em>, from a genetic point-of-view Iranians are closest to their "Southern European" reference population.
+		</p>
+		<p>
+			(Also, of their reference populations, from a genetic point-of-view Iranians 2nd closest to their "Northern European" reference population.
+			And, of their reference populations, from a genetic point-of-view Iranians 3nd closest to their "Near Easterner" reference population.
+			And, of their reference populations, from a genetic point-of-view Iranians 4th closest to their "Central Asian" reference population.
+			Etc.)
+		</p>
+
+		<h2>23andMe Reference Populations</h2>
+		<p>
+			23andMe gives information about how they created these reference populations....
+		</p>
+
+		<h3>"Southern European" Reference Population</h3>
+		<blockquote cite="https://www.23andme.com/you/globalsim/">
+			<p>
+				The 23andMe database currently includes southern Europeans from the town of Bergamo in northern Italy, the Tuscany region of Italy, Sardinia, and the Basque region of the Pyrenees in southwestern France. 
+			</p>
+		</blockquote>
+
+		<h3>"Northern European" Reference Population</h3>
+		<blockquote cite="https://www.23andme.com/you/globalsim/">
+			<p>
+				The 23andMe database currently includes northern Europeans representing residents of western Russia, France and the Orkney Islands north of mainland Scotland. 
+			</p>
+		</blockquote>
+
+		<h3>"Near Easterner" Reference Population</h3>
+		<blockquote cite="https://www.23andme.com/you/globalsim/">
+			<p>
+				 The 23andMe database includes Near Easterners from the Palestinian, Druze and Bedouin populations living in Israel.
+			</p>
+		</blockquote>
+
+		<h3>"Central Asian" Reference Population</h3>
+		<blockquote cite="https://www.23andme.com/you/globalsim/">
+			<p>
+				The 23andMe database currently includes a linguistically and culturally diverse set of Central Asians representing the Pathan, Makrani, Kalash, Hazara, Balochi, Sindhi, Brahui and Burusho populations living in Pakistan.
+			</p>
+		</blockquote>
+
+		<h3>"Northern African" Reference Population</h3>
+		<blockquote cite="https://www.23andme.com/you/globalsim/">
+			<p>
+				The 23andMe database currently includes representatives of the Mozabite population of Algeria.
+			</p>
+		</blockquote>
+
+		<h3>"North American" Reference Population</h3>
+		<blockquote cite="https://www.23andme.com/you/globalsim/">
+			<p>
+				The 23andMe database currently includes representatives from the Pima of northern Mexico and the Maya of the Yucatan Peninsula.
+			</p>
+		</blockquote>
+
+		<h3>"South American" Reference Population</h3>
+		<blockquote cite="https://www.23andme.com/you/globalsim/">
+			<p>
+				The 23andMe database currently includes South Americans from the Surui and Karitiana in the forested region of northwestern Brazil, as well as the Piapoco and Curripaco populations of eastern Colombia.
+			</p>
+		</blockquote>
+
+		<h3>"Siberian" Reference Population</h3>
+		<blockquote cite="https://www.23andme.com/you/globalsim/">
+			<p>
+				The 23andMe database currently includes members of the Yakut of northeastern Russia.
+			</p>
+		</blockquote>
+
+		<h3>"East Asian" Reference Population</h3>
+		<blockquote cite="https://www.23andme.com/you/globalsim/">
+			<p>
+				The 23andMe database currently includes residents of Japan and Cambodia as well as members of the Dai, Daur, Han, Hezhen, Lahu, Miaozu, Mongola, Naxi, Oroqen, She, Tu, Tujia, Uygu, Xibo, and Yizu populations of China.
+			</p>
+		</blockquote>
+
+		<h3>"Oceanian" Reference Population</h3>
+		<blockquote cite="https://www.23andme.com/you/globalsim/">
+			<p>
+				The 23andMe database currently includes Oceanians representing Papuans and Melanesians of New Guinea.
+			</p>
+		</blockquote>
+
+		<h3>"Eastern African" Reference Population</h3>
+		<blockquote cite="https://www.23andme.com/you/globalsim/">
+			<p>
+				The 23andMe database currently includes eastern Africans from Bantu-speaking populations of south-central Kenya.
+			</p>
+		</blockquote>
+
+		<h3>"Southern African" Reference Population</h3>
+		<blockquote cite="https://www.23andme.com/you/globalsim/">
+			<p>
+				The 23andMe database currently includes San peoples who traditionally subsisted as hunter-gatherers in southern Africa and Bantu-speakers who traditionally subsisted by growing crops and by herding goats and cattle.
+			</p>
+		</blockquote>
+
+		<h3>"Central African" Reference Population</h3>
+		<blockquote cite="https://www.23andme.com/you/globalsim/">
+			<p>
+				The 23andMe database currently includes central Africans from the Biaka and Mbuti populations, whose ancestors have hunted and foraged within the central African rain forests for thousands of years.
+			</p>
+		</blockquote>
+
+		<h3>"Western African" Reference Population</h3>
+		<blockquote cite="https://www.23andme.com/you/globalsim/">
+			<p>
+				The 23andMe database currently includes western Africans representing the Mandenka of Senegal and the Yoruba of Nigeria.
+			</p>
+		</blockquote>
+
+
+		<h2>Need For a "Caucasian" Reference Population?</h2>
+		<p>
+			The Caucasus, also known as <em>Caucasia</em>, is a region that borders Europe &amp; Asia.
+		</p>
+		<p>
+			From what I've gathered from <a rel="nofollow" href="http://www.zackvision.com/">Zack Ajmal</a>'s <a rel="nofollow" href="http://www.harappadna.org/">Harappa Ancestry Project</a> Iranians seem to (in part) be an extension of the genetics of the Caucasus.
+		</p>
+		<p>
+			<a rel="nofollow" href="http://razib.com/">Razib Khan</a> (of the <a rel="nofollow" href="http://blogs.discovermagazine.com/gnxp/">Gene Expression blog</a> fame) also wrote about <a rel="nofollow" href="http://blogs.discovermagazine.com/gnxp/2010/12/are-turks-acculturated-armenians/">the genetic connection between Turks from Turkey and Armenians</a> (a population from the Caucasus).
+		</p>
+		<p>
+			In addition to this, on many of the ADMIXTURE analysis some of DIY Genomics bloggers have done, a "West Asian" cluster emerges that tends to be modal in the Caucasus. (For reasons that would make post too long if written here, this cluster seems to be important in understanding past human migration and the peopling of some parts of the world.) 
+		</p>
+		<p>
+			I think 23andMe needs a <em>reference population</em> that captures the genetics of the Caucasus, Turkey and Iran.
+			Perhaps, for simplicity, call it the "<em>Caucasian</em>" reference population.
+		</p>
+		<p>
+			(Yes, I know that the label "Caucasian" might confuse some people in some parts of the world that don't know that Caucasia is actually a real place,
+			(<em>Caucasia</em> is the latinized name for the <em>Caucasus</em>.)
+			But a "Caucasian" label is probably as "good" if not a "better" label than using "European" as a label for Caucasoids in and outside of Europe.)
+		</p>
+
+
+		<address class="vcard">
+			-- <a rel="author" class="fn n url" href="http://changelog.ca/"><span class="given-name">Charles</span> <span class="additional-name">Iliya</span> <span class="family-name">Krempeaux</span></a>
+		</address>
+	</div>
+	</content>
+</entry>

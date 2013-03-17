@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2013-01-24T08:39:01-0800</published>
+
+	<id>3b3486d6-d15d-445b-bac8-a3a83426dc80</id>
+
+	<category term="Artificial Intelligence" />
+	<category term="Computer Science" />
+	<category term="Machine Learning" />
+	<category term="Morality" />
+	<category term="Politics" />
+	<category term="Psychology" />
+
+	<title>Moral-Laden Algorithmic Writing</title>
+
+	<content type="xhtml">
+	<div xmlns="http://www.w3.org/1999/xhtml">
+		<p>
+			For the last while I have seen a hand full of stories talking about <em>algorithmic writing</em>, for journalism, for books, etc.
+			Basically software that'll create a magazine article or a book all by itself without a human's help.
+			And the quality seems pretty good.
+		</p>
+		<p>
+			Reading some of the press surrounding this <em>algorithmic writing</em>, it makes it sound like it is something new,
+			<strong>but</strong> it really isn't.
+			<em>Algorithmic writing</em> has been used for quite a while in "gaming" search engines.
+		</p>
+
+		<h2>Algorithmic Writing and Morality</h2>
+		<p>
+			But on the topic of <em>algorithmic writing</em>, I think it would be interesting and even useful to create an <em>algorithmic writing</em> system that can create <em>moral-laden</em> writing for different moral frameworks.
+		</p>
+		<p>
+			It would be even more useful if combined with technology that can detect a person's moral framework.
+		</p>
+
+		<h2>Online Social Networks</h2>
+		<p>
+			With respect to creating such a system, if people have a presence on (online) social networks, there's a lot of analysis you could do.
+		</p>
+		<p>
+			For a simple example, look for communities (in the graph theory sense of the word).
+			Although most community detection algorithms are non-convergent, so look for 'community cores' instead.
+		</p>
+		<p>
+			One could even use the text (or video or audio, etc) associated with the 'community core' to feed into the <em>algorithmic writing</em> system.
+		</p>
+
+		<h2>Other Strategies</h2>
+		<p>
+			Although that is something I consider "low hanging fruit" from an algorithmic point of view.
+		</p>
+		<p>
+			There's other "low hanging fruit", from an algorithmic point of view, too.
+			And with some offline and online analysis work, via a machine learning system and help of humans, one could improve said algorithmic writing system <em>a lot</em>.
+			(At least in part, taking an interative, trial-and-error approach to developing the system could be useful.)
+		</p>
+		<p>
+			And just to say it explicitly, there's different sources of data that could be used.
+			(Online) social networks is just one example.
+			I'm not trying to be exhaustive.
+		</p>
+
+
+		<address class="vcard">
+			-- <a rel="author" class="fn n url" href="http://changelog.ca/"><span class="given-name">Charles</span> <span class="additional-name">Iliya</span> <span class="family-name">Krempeaux</span></a>
+		</address>
+	</div>
+	</content>
+</entry>

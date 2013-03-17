@@ -1,0 +1,599 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2006-07-05T22:32:35-07:00</published>
+
+	<id>4543c7ce-7eb9-4a40-bf70-300aa3c4c551</id>
+
+	<title>Writing Math In HTML</title>
+
+	<category term="Mathematics" />
+	<category term="Web Development" />
+	<category term="HTML" />
+	<category term="Semantic HTML" />
+	<category term="JavaScript" />
+	<category term="MathML" />
+
+	<content type="xhtml">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<p class="summary">
+				Believe it or not, there was a time before the Internet existed.  There was a time when there was no Web.  Today it's probably hard for many younger people to remember those days.
+			</p>
+			<p class="summary">
+				In the beginning, the Web initially got much of its popularity at Universities among professors and students.
+			</p>
+			<p class="summary">
+				And since that beginning many many people have longed to be able to write mathematical equations on the Web.
+			</p>
+            <p class="summary">
+                Sure people can write simple things.  Like <code class="math">f(x) = x + 2</code>.  But what about more complex things.  Like fractions, logarithms, and integrals&#8253;  The nature of the web technologies, like HTML, does not make writing such things <em>easy</em>.
+            </p>
+            <p class="summary">
+                MathML has been touted as the as the answer to this need.  And browsers based on Mozilla technology (like <a href="http://getfirefox.com/">Firefox</a>) can now handle MathML.
+            </p>
+            <p class="summary">
+                But after trying MathML for myself, I find that I'm somewhat disappointed.  I don't think MathML is suited to be written by hand (by normal people or even developers).
+            </p>
+            <p class="summary">
+                However, I think there might be hope.  I think there might be a way of adding Math to HTML in a semantic rich way without MathML.  I think there might be a way of adding Math to HTML using things that HTML already has.
+            </p>
+
+            <h5>Plain Text</h5>
+            <p>
+                With <em>plain text</em>, there always been a way to write simple math equations, expressions, and statements.  Like <code class="math">y = x + 2</code>.
+            </p>
+            <p>
+                However, <em>plain text</em> presents us with some limitations that make writing math <em>problematic</em>.
+            </p>
+            <p>
+                For instance, how do you write an exponent, an integral, or a matrix.
+            </p>
+            <p>
+                Sure you could use ASCI art.
+            </p>
+            <pre><code class="math">
+  +-     -+  +- -+       +- -+       +- -+
+  | 2 0 0 |  | x |       | 1 |       | a |
+  | 0 2 0 |  | y |   +   | 3 |   =   | b |
+  | 0 0 2 |  | z |       | 5 |       | c |
+  +-     -+  +- -+       +- -+       +- -+
+            </code></pre>
+            <pre><code class="math">
+    /\
+    |   x
+    |  e  dx
+    |
+   \/
+            </code></pre>
+            <p>
+                But ASCII art is difficult to maintain and edit.  And does NOT translate well into HTML.
+            </p>
+
+            <h5>HTML?</h5>
+            <p>
+                At first look, HTML does NOT seem any better than <em>plain text</em> at supporting mathematical writing.  (Although as you'll see later in this article, this isn't quite correct.)
+            </p>
+            <p>
+                The closest thing to native HTML support for mathematical writing seems to be <code>&lt;code&gt;</code> element with class-math.  For example....
+            </p>
+            <pre><code>
+  <em>&lt;code <strong>class="math"</strong>&gt;</em>dy = f(x) dx<em>&lt;/code&gt;</em>
+            </code></pre>
+            <p>
+                But if we essentially only allow <em>plain text</em> within the math <code>&lt;code&gt;</code> element, then we're sill barely better off than <em>plain text</em>.
+            </p>
+
+            <h5>MathML</h5>
+            <p>
+                Since I first learned HTML (back in cira 1995) by doing <em>view source</em> after <em>view source</em>, I've wanted to be able to write Math in web pages.
+            </p>
+            <p>
+                MathML has been touted as the answer to this want.  It has been touted as a way to write in Math in HTML.
+            </p>
+            <p>
+                Hearing about MathML support in Mozilla Firefox got me excited.  I though, finally, I can blog and write about Math.
+            </p>
+            <p>
+                So I went about learning some MathML.
+            </p>
+            <p>
+                And after learning it a bit and trying it out I can say, I'm a bit disappointed.
+            </p>
+            <p>
+                I (and others) believe that <em>normal people</em> should be able to create web pages by hand (if they want to).  And as such, <em>normal people</em> should be able to write Math by hand within web pages.
+            </p>
+            <p>
+                But MathML won't help with this.  MathML doesn't seem like it is meant to be written by hand (by <em>normal people</em> or even developers).
+            </p>
+            <p>
+                Not to mention that I couldn't get MathML working on my blog, despite changing the DOCTYPE, the content type, and playing around with XML namespaces.  Nothing seemed to work, even though it rendered MathML fine from other web pages.  But oh well....
+            </p>
+            <p>
+                Here's what the <em>quadratic equation</em> looks like in MathML....
+            </p>
+            <pre><code>
+  &lt;math xmlns="http://www.w3.org/1998/Math/MathML"&gt;
+      &lt;mrow&gt;
+          &lt;mi&gt;x&lt;/mi&gt;
+          &lt;mo&gt;=&lt;/mo&gt;
+          &lt;mfrac&gt;
+              &lt;mrow&gt;
+                  &lt;mrow&gt;
+                      &lt;mo&gt;-&lt;/mo&gt;
+                      &lt;mi&gt;b&lt;/mi&gt;
+                  &lt;/mrow&gt;
+                  &lt;mo&gt;&amp;PlusMinus;&lt;/mo&gt;
+                  &lt;msqrt&gt;
+                      &lt;mrow&gt;
+                          &lt;msup&gt;
+                              &lt;mi&gt;b&lt;/mi&gt;
+                              &lt;mn&gt;2&lt;/mn&gt;
+                          &lt;/msup&gt;
+                          &lt;mo&gt;-&lt;/mo&gt;
+                          &lt;mrow&gt;
+                              &lt;mn&gt;4&lt;/mn&gt;
+                              &lt;mo&gt;&amp;InvisibleTimes;&lt;/mo&gt;
+                              &lt;mi&gt;a&lt;/mi&gt;
+                              &lt;mo&gt;&amp;InvisibleTimes;&lt;/mo&gt;
+                              &lt;mi&gt;c&lt;/mi&gt;
+                          &lt;/mrow&gt;
+                      &lt;/mrow&gt;
+                  &lt;/msqrt&gt;
+              &lt;/mrow&gt;
+              &lt;mrow&gt;
+                  &lt;mn&gt;2&lt;/mn&gt;
+                  &lt;mo&gt;&amp;InvisibleTimes;&lt;/mo&gt;
+                  &lt;mi&gt;a&lt;/mi&gt;
+              &lt;/mrow&gt;
+          &lt;/mfrac&gt;
+      &lt;/mrow&gt;
+  &lt;/math&gt;
+            </code></pre>
+            <p>
+                Do you think that this is something you'd like to write, edit, and maintain by hand?
+            </p>
+
+            <h5>LaTeX</h5>
+            <p>
+                When it comes to writing Math on computers, mathematicians are used to technologies like Maple, Mathematica, and LaTeX.
+            </p>
+            <p>
+                In fact, LaTeX is probably the closest thing to a standard among mathematicians.  (Note, despite my background in Mathematics, I don't know LaTeX.  Like alot of Canadian mathematicians I'm actually familiar with Maple.  But anyways....)
+            </p>
+            <p>
+                LaTex looks like
+            </p>
+            <pre><code>
+  The function $f$ is given by
+  \[ f(x) = 2x + \frac{x - 7}{x^2 + 4}\] 
+  for all real numbers $x$.
+            </code></pre>
+            <p>
+                This would get rendered to something like the following....
+            </p>
+            <blockquote>
+                <p>
+                    The function <code class="math">f</code> is given by
+                </p>
+                <code class="math"><table>
+                    <tr>
+                        <td style="text-align:center;">f(x)</td>
+                        <td style="text-align:center;">=</td>
+                        <td style="text-align:center;">
+                            <table>
+                                <tr>
+                                    <td style="text-align:center;">2x</td>
+                                    <td style="text-align:center;">+</td>
+                                    <td style="text-align:center;">
+                                        <table>
+                                            <tr>
+                                                <td style="text-align:center;border-bottom:1px solid;">x - 7</td>
+                                            </tr>
+                                            <tr>
+                                                <td style="text-align:center;">x<sup>2</sup> + 4</td>
+                                            </tr>
+                                        </table>
+                                    </td>
+                                </tr>
+                            </table>
+                        </td>
+                    </tr>
+                </table></code>
+                <p>
+                    for all real numbers <code class="math">x</code>.
+                </p>
+            </blockquote>
+            <p>
+                (Right now, you might be wondering how I got that math equation to render so nicely without MathML.  You can do a <em>view source</em> if you want, but I do talk about that later in this article.)
+            </p>
+
+            <h5>LaTeX on the Web</h5>
+            <p>
+                One could conceive that people could just write LaTeX-based math right into web pages.  For example....
+            </p>
+            <pre><code>
+  &lt;code class="latex"&gt;$E = mc^2$&lt;/code&gt;
+            </code></pre>
+            <p>
+                And....
+            </p>
+            <pre><code>
+  &lt;code class="latex"&gt;$f(x) = 3x + 7$&lt;/code&gt;
+            </code></pre>
+            <p>
+                And....
+            </p>
+            <pre><code>
+  &lt;code class="latex"&gt;\[ \frac{-b \pm \sqrt{b^2 - 4ac}}{2a} \]&lt;/code&gt;
+            </code></pre>
+            <p>
+                (Note the class-latex on the <code>&lt;code&gt;</code> element is being used to add some semantics.)
+            </p>
+            <p>
+                Most people could probably read the first 2 examples.
+            </p>
+            <p>
+                But, for complex equations, like the last example, it would be nice if  it was <em>rendered</em> in the way we are used to seeing it.  In other words, as....
+            </p>
+            <code class="math"><table>
+                <tr>
+                    <td>
+                        x
+                    </td>
+                    <td>
+                        =
+                    </td>
+                    <td>
+                        <table>
+                            <tr>
+                                <td style="text-align:center;border-bottom:1px solid;">-b &#177; &#8730;<span style="border-top:1px solid">b<sup>2</sup> - 4ac</span></td>
+                            </tr>
+                            <tr>
+                                <td style="text-align:center;">2a</td>
+                            </tr>
+                        </table>
+                    </td>
+                </tr>
+            </table></code>
+
+            <h5>Rendering Math in HTML</h5>
+            <p>
+                Except for simple math equation and formulas, like <code class="math">f(x) = 3x + 7</code>, there are many things in Math which are NOT easily written in HTML.
+            </p>
+            <p>
+                Things like: <em>division</em>, <em>exponents</em>, <em>integrals</em>, <em>limits</em>, <em>logarithms</em>, <em>matrics</em>, <em>square roots</em>, and <em>vectors</em>.  These are all problematic to write and get a nice rendering.
+            </p>
+            <p>
+                But if we just concentrate on the rendering part of it, we can see that we can <em>write</em> these using things already built into HTML.
+            </p>
+            <p>
+                Here is how....
+            </p>
+
+            <h6>Division</h6>
+            <p>
+                Division is sometimes represented with the division operator symbol.  For example: <code class="math">10 &#247; 2</code>
+            </p>
+            <p>
+                But often we use a much different notation.  For example....
+            </p>
+            <code class="math"><table>
+                <tr>
+                    <td style="border-bottom:1px solid;text-align:center;">10</td>
+                </tr>
+                <tr>
+                    <td style="text-align:center;">2</td>
+                </tr>
+            </table></code>
+            <p>
+                This was created with the following HTML code....
+            </p>
+            <pre><code>
+  &lt;table&gt;
+      &lt;tr&gt;
+          &lt;td style="border-bottom:1px solid;text-align:center;"&gt;10&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style="text-align:center;"&gt;2&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/table&gt;
+            </code></pre>
+            <p>
+                (Note the use of CSS to draw the horizontal line used to represent division.)
+            </p>
+
+            <h6>Exponents</h6>
+            <p>
+                Although in many computer languages, exponents are represented using the carrot operator (^), as in <code class="math">2^5</code>, when it is written by hand (on paper or the chalkboard) people write an exponent as a <em>superscript</em>.  For example....
+            </p>
+            <blockquote>
+                <code class="math">2<sup>5</sup></code>
+            </blockquote>
+            <p>
+                This was created with the following HTML code....
+            </p>
+            <pre><code>
+  2&lt;sup&gt;5&lt;/sup&gt;
+            </code></pre>
+
+            <h6>Integrals</h6>
+            <p>
+                One of the important parts of Calculus is the <em>integral</em>.  For example....
+            </p>
+            <blockquote>
+                <code class="math"><span style="font-size:200%;"><sub style="font-size:40%;">0</sub>&#8747;<sup style="font-size:40%;">1</sup></span>x dx</code>
+            </blockquote>
+            <p>
+                This was created with the following HTML code....
+            </p>
+            <pre><code>
+  &lt;span style="font-size:200%;"&gt;&lt;sub style="font-size:40%;"&gt;0&lt;/sub&gt;&amp;#8747;&lt;sup style="font-size:40%;"&gt;1&lt;/sup&gt;&lt;/span&gt;x dx
+            </code></pre>
+
+            <h6>Limits</h6>
+            <p>
+                If you know Calculus, then you probably know limits too.  For example....
+            </p>
+            <table>
+                <tr>
+                    <td>
+                        <table>
+                            <tr>
+                                <td style="text-align:center;">lim</td>
+                            </tr>
+                            <tr>
+                                <td style="text-align:center;font-size:90%;">h &#8594; 0</td>
+                            </tr>
+                        </table>
+                    </td>
+                    <td style="text-align:center;">
+                        h
+                    </td>
+                </tr>
+            </table>
+            <p>
+                This was created with the following HTML code....
+            </p>
+            <pre><code>
+&lt;table&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            &lt;table&gt;
+                &lt;tr&gt;
+                    &lt;td style="text-align:center;"&gt;lim&lt;/td&gt;
+                &lt;/tr&gt;
+                &lt;tr&gt;
+                    &lt;td style="text-align:center;font-size:90%;"&gt;h &amp;#8594; 0&lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/table&gt;
+        &lt;/td&gt;
+        &lt;td style="text-align:center;"&gt;
+            h
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+            </code></pre>
+
+            <h6>Logarithms</h6>
+            <p>
+                The only person I've ever known to be able to calculate logarithms in their head was my father -- <span class="vcard"><span class="given-name">Charles</span> <span class="additional-name">Robert</span> <span class="family-name">Krempeaux</span></span>.  (Although he taught me how to do it too.)
+            </p>
+            <p>
+                From what I heard, in telecommunication engineering circles he got some fame from calculating complex physics equations (involving lots of logarithms) completely in his head during the drive to the site.
+            </p>
+            <p>
+                But anyways....  Logarithms look something like this....
+            </p>
+            <blockquote>
+                <code class="math">log<sub>10</sub>1924</code>
+            </blockquote>
+            <p>
+                This was created with the following HTML code....
+            </p>
+            <pre><code>
+  log&lt;sub&gt;10&lt;/sub&gt;1924
+            </code></pre>
+
+            <h6>Matrices</h6>
+            <p>
+                If you have been exposed to linear algebra or go far enough into Calculus, then you have probably seen matrices.  For example....
+            </p>
+            <table style="border:1px solid;">
+                <tr>
+                    <td style="text-align:center;padding:3px;">1</td>
+                    <td style="text-align:center;padding:3px;">1</td>
+                    <td style="text-align:center;padding:3px;">2</td>
+                    <td style="text-align:center;padding:3px;">3</td>
+                </tr>
+                <tr>
+                    <td style="text-align:center;padding:3px;">1</td>
+                    <td style="text-align:center;padding:3px;">2</td>
+                    <td style="text-align:center;padding:3px;">3</td>
+                    <td style="text-align:center;padding:3px;">5</td>
+                </tr>
+                <tr>
+                    <td style="text-align:center;padding:3px;">2</td>
+                    <td style="text-align:center;padding:3px;">3</td>
+                    <td style="text-align:center;padding:3px;">5</td>
+                    <td style="text-align:center;padding:3px;">8</td>
+                </tr>
+                <tr>
+                    <td style="text-align:center;padding:3px;">3</td>
+                    <td style="text-align:center;padding:3px;">5</td>
+                    <td style="text-align:center;padding:3px;">8</td>
+                    <td style="text-align:center;padding:3px;">13</td>
+                </tr>
+            </table>
+            <p>
+                (Yeah, I know, those <em>lines</em> should be curved a bit so it doesn't look like we're taking a determinant.  But I'm not sure how to accomplish that using HTML.  Although I suppose the CSS 3 <code>border-radius</code> could be used.  Or maybe a matrix should have a CSS border going all the way around.)
+            </p>
+            <p>
+                This was created with the following HTML code....
+            </p>
+            <pre><code>
+  &lt;table style="border:1px solid;"&gt;
+      &lt;tr&gt;
+          &lt;td style="text-align:center;padding:3px;"&gt;1&lt;/td&gt;
+          &lt;td style="text-align:center;padding:3px;"&gt;1&lt;/td&gt;
+          &lt;td style="text-align:center;padding:3px;"&gt;2&lt;/td&gt;
+          &lt;td style="text-align:center;padding:3px;"&gt;3&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style="text-align:center;padding:3px;"&gt;1&lt;/td&gt;
+          &lt;td style="text-align:center;padding:3px;"&gt;2&lt;/td&gt;
+          &lt;td style="text-align:center;padding:3px;"&gt;3&lt;/td&gt;
+          &lt;td style="text-align:center;padding:3px;"&gt;5&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style="text-align:center;padding:3px;"&gt;2&lt;/td&gt;
+          &lt;td style="text-align:center;padding:3px;"&gt;3&lt;/td&gt;
+          &lt;td style="text-align:center;padding:3px;"&gt;5&lt;/td&gt;
+          &lt;td style="text-align:center;padding:3px;"&gt;8&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style="text-align:center;padding:3px;"&gt;3&lt;/td&gt;
+          &lt;td style="text-align:center;padding:3px;"&gt;5&lt;/td&gt;
+          &lt;td style="text-align:center;padding:3px;"&gt;8&lt;/td&gt;
+          &lt;td style="text-align:center;padding:3px;"&gt;13&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/table&gt;
+            </code></pre>
+
+            <h6>Sqaure Root</h6>
+            <p>
+                Square roots (and other roots) are 
+            </p>
+            <p>
+                <sup>2</sup>&#8730;<span style="border-top:1px solid;">-1</span>
+            </p>
+            <p>
+                This was created with the following code....
+            </p>
+            <pre><code>
+  &lt;sup&gt;2&lt;/sup&gt;&amp;#8730;&lt;span style="border-top:1px solid;"&gt;-1&lt;/span&gt;
+            </code></pre>
+
+            <h6>Vectors</h6>
+            <p>
+                People tend to write vectors in 2 different ways.  As a row of things or as a column of things.
+            </p>
+            <p>
+                For example, one might write a row vector as <code class="math">(1, 2, 3)</code>
+            </p>
+            <p>
+                Alternatively, one might want to column vector as....
+            </p>
+            <code class="math"><table style="border:1px solid;">
+                <tr>
+                    <td style="text-align:center;padding:3px;">1</td>
+                </tr>
+                <tr>
+                    <td style="text-align:center;padding:3px;">2</td>
+                </tr>
+                <tr>
+                    <td style="text-align:center;padding:3px;">3</td>
+                </tr>
+            </table></code>
+            <p>
+                This was created with the following HTML code....
+            </p>
+            <pre><code>
+####
+            </code></pre>
+
+            <h5>Rendering LaTex in HTML</h5>
+            <p>
+                Well, seeing all those HTML markup techniques for rendering various Mathematical constructs, the first thing you are probably thinking is that stuff is probably no better than MathML.  That you wouldn't want to write that stuff by hand either.  (And I don't blame you.  I'm not sure if I'd want to maintain code like that either.)
+            </p>
+            <p>
+                The only good thing about those rendering techniques is that they work even in browsers that don't support MathML.
+            </p>
+            <p>
+                But it would probably be better to write math in a more people-oriented (as opposed to machine-oriented) language.
+            </p>
+            <p>
+                It is conceivable that we could <em>transform</em> inline LaTeX written in an HTML web page using JavaScript.  Especially if we mark every instance of inline LaTeX with <code>&lt;code class="latex"&gt;</code>.
+            </p>
+            <p>
+                I'm not going to include any JavaScript code to do that in this article.  But it is certainly doable.
+            </p>
+            <p>
+                The real question is, would this be useful.  (Certainly it would be usedful for people who know LaTex.  But what about the mathematicians who don't know LaTeX&#8253;)
+            </p>
+
+            <h5>Other Math Languages</h5>
+            <p>
+                Systems like Maple and Mathematica and even programming languages (like C, C++, Java, JavaScript, PHP, etc) have ways of writing mathematical equations.  These systems are different than LaTex.
+            </p>
+            <p>
+                So that begs the question, what about these other systems of writing math&#8253;
+            </p>
+            <p>
+                Well, those code be supported.  Just wrap that math writing in a <code>&lt;code&gt;</code> element and give it an appropriate class name.  For example....
+            </p>
+            <pre><code>
+  &lt;code class="kbdmath"&gt;x = (-b +- sqrt(b^2 - 4ac)) / 2a&lt;/code&gt;
+            </code></pre>
+            <p>
+                (Note, that <q>kdbmath</q> type math writing is just something I made up.)
+            </p>
+
+
+            <h5>Semantic HTML</h5>
+            <p>
+                What if certain Mathematicians didn't know or like writing in LaTeX&#8253;  What if they felt that this <em>rendered HTML</em> that we showed before was OK and they didn't mind writing in it&#8253;
+            </p>
+            <p>
+                Then perhaps it would be a good idea to add a bit more to it (in the way of semantics) to help bring out the meaning (to machines).
+            </p>
+            <p>
+                So ####.
+            </p>
+
+            <h5>No Math Microformats Yet</h5>
+            <p>
+                If one would want to consider creating a Math Microformat, then you'd need to consider how people are writing Math on the web now.  While trying to make use of the tools HTML gives us.
+            </p>
+            <p>
+                Mathematical writing could (or maybe should) be considered a type of <em>code</em>.  And as such, maybe the HTML <code>&lt;code&gt;</code> element should be used.  Perhaps with an appropriate class attribute to signify that it contains Math.  For example....
+            </p>
+            <pre><code>
+  What does <em>&lt;code class="math"&gt;</em><strong>y = x + 2</strong><em>&lt;/code&gt;</em> represent?
+            </code></pre>
+            <p>
+                 This might be what inline Math code looks like.  For block Math code you could (or maybe should) use code like the following....
+            </p>
+            <pre><code>
+  &lt;p&gt;
+      Please solve the following equation:
+  &lt;/p&gt;
+  <em>&lt;blockquote&gt;&lt;code class="math"&gt;</em>
+      <strong>16 = x + 3</strong>
+  <em>&lt;/code&gt;&lt;/blockquote&gt;</em>
+            </code></pre>
+            <p>
+                (This article actually uses the this semantic HTML -- the HTML <code>&lt;code&gt;</code> with class-math on it -- for all the rendered math equations in it.)
+            </p>
+
+
+            <h5>Conclusion</h5>
+            <p>
+                Because of the nature of our keyboards, at some level, most formats are just a series of characters.  Because of this, writing Math (like drawing) is a bit hard to do by hand (with the keyboard).
+            </p>
+            <p>
+                For those who don't want to write Math by hand (and are satisfied with creating it in some other tool) MathML and the "<em>rendered math in HTML</em>" (that I talked about in this article) are ways to go.
+            </p>
+            <p>
+                For those who prefer to write Math by hand, right into the HTML web page, some form of mathematical language (like LaTex, etc) are likely the way to go.
+            </p>
+            <p>
+                But #####
+            </p>
+
+
+			<address class="vcard">
+				-- <a rel="author" class="fn n url" href="http://changelog.ca/"><span class="given-name">Charles</span> <span class="additional-name">Iliya</span> <span class="family-name">Krempeaux</span></a>
+			</address>
+		</div>
+	</content>
+</entry>

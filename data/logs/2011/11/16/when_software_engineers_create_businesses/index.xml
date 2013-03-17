@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2011-11-16T19:14:11+0000</published>
+
+	<id>7fe66123-2e60-453d-8e1e-6c0700fb74de</id>
+
+	<category term="Business" />
+	<category term="Software Engineering" />
+
+	<title>When Software Engineers Create Businesses: E-mailing versus Phone Calls</title>
+
+	<content type="xhtml">
+	<div xmlns="http://www.w3.org/1999/xhtml">
+		<p>
+			I think one problem software engineers can have when they either own a company or are self-employed is that they'd rather communicate to a potential new customer via e-mail rather than talk to them on the phone.
+		</p>
+		<p>
+			Problem is, (I think) many many customers prefer the phone call and won't respond to an e-mail
+			And this is even the case when the customer initiated the conversation!
+		</p>
+
+		<address class="vcard">
+			-- <a rel="author" class="fn n url" href="http://changelog.ca/"><span class="given-name">Charles</span> <span class="additional-name">Iliya</span> <span class="family-name">Krempeaux</span></a>
+		</address>
+	</div>
+	</content>
+</entry>

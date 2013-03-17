@@ -1,0 +1,96 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2012-10-09T21:00:34-0700</published>
+
+	<id>996b4b64-3e13-4f29-8b68-ac5334ed00bd</id>
+
+	<category term="Vala" />
+
+	<title>Vala GLib.ThreadPool (GThreadPool) "Hello World" Example</title>
+
+	<content type="xhtml">
+	<div xmlns="http://www.w3.org/1999/xhtml">
+		<p>
+			<a rel="nofollow" href="https://live.gnome.org/Vala/Tutorial">Vala</a> is a programming language similar to Java and C#.
+			But where Java and C# compile to a opcodes for a virtual machine, Vala compiles to native binary code.
+		</p>
+		<p>
+			Vala also natively and tightly integrates with <a rel="nofollow" href="http://developer.gnome.org/glib/stable/">GLib</a> -- a library used to present programmers with a cross-platform interface to things such as
+			basic scalar types, memory management, threads, string manipulation, process spawning, object-orient programming, and many many other things.
+		</p>
+		<p>
+			I like GLib, and I'm a fan of Vala because it adds <em>syntactic sugar</em> to GLib, while not adding the overhead of a virtual machine.
+		</p>
+
+		<h2>GLib.ThreadPool</h2>
+		<p>
+			<em>GLib.ThreadPool</em>, also known as <em>GThreadPool</em> (when writing code that uses GLib in C), is a part of GLib that is used in situations where you <strong>often</strong> want to <q>asynchronously fork out the execution of work and continue working in your own thread</q>.
+			Using <em>GLib.ThreadPool</em> (as opposed to just <em>GLib.Thread</em>) allows you to avoid <q>the overhead of starting and destroying a thread each time</q> (as you would if you were using <em>GLib.Thread</em>).
+		</p>
+		<p>
+			When I was trying to find some sample code that made use of GLib.ThreadPool (since the documentation was somewhat lacking), I noticed that there really wasn't any.
+			(At least nothing came up when I searched for it.)
+			So, now that I've figured out the basics of using GLib.ThreadPool in Vala, here's a "hello world" program to share.
+		</p>
+<pre><code>
+// Instances of this class are used as the message passed to the
+// worker threads in the thread pool.
+class <em>REPLACE_ME_CLASS</em>
+{
+    public uint x;
+
+    public <em>REPLACE_ME_CLASS</em>(uint y)
+    {
+        this.x = y;
+    }
+}
+
+
+// Each thread in the thread pool is running this function (because
+//  this function is passed to the constructor of ThreadPool).
+void <strong>REPLACE_ME_FUNCTION</strong>(<em>REPLACE_ME_CLASS</em> msg)
+{
+    stdout.printf("Thread Hello world! #%u\n", msg.x);
+}
+
+
+int main(string[] args)
+{
+    try {
+        ThreadPool&lt;<em>REPLACE_ME_CLASS</em>&gt; threads;
+        threads = new ThreadPool&lt;<em>REPLACE_ME_CLASS</em>&gt;((Func&lt;<em>REPLACE_ME_CLASS</em>&gt;)<strong>REPLACE_ME_FUNCTION</strong>, 4, true);
+
+        // Create 5 jobs, which will be processed by threads in the thread pool.
+        for (int i=0; i&lt;5; i++) {
+            threads.push(  new <em>REPLACE_ME_CLASS</em>(i+1)  );
+        } // for
+    }
+    catch (ThreadError e) {
+        //Error handling
+        stdout.printf("%s", e.message);
+    }
+
+    // Return.
+        return 0;
+}
+
+</code></pre>
+		<p>
+			In your code you would rename the class "<code>REPLACE_ME_CLASS</code>" to something else and change its definition.
+		</p>
+		<p>
+			Also, in your code you would rename the function "<code>REPLACE_ME_FUNCTION</code>" to something else also, and change its definition.
+		</p>
+		<p>
+			Also, in this example code, I am spawing threads from a for-loop.
+			Although this is nice for illustration purposes, a real program probably wouldn't spawn 5 threads for no reason, like this.
+		</p>
+
+
+		<address class="vcard">
+			-- <a rel="author" class="fn n url" href="http://changelog.ca/"><span class="given-name">Charles</span> <span class="additional-name">Iliya</span> <span class="family-name">Krempeaux</span></a>
+		</address>
+	</div>
+	</content>
+</entry>

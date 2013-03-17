@@ -1,0 +1,160 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+
+	<published>2006-06-12T01:28:14-07:00</published>
+
+	<id>b24d5257-e1ba-4b95-87c4-d0d39f01d3fd</id>
+
+	<category term="Atom" />
+	<category term="HTML" />
+	<category term="RSS" />
+	<category term="XHTML" />
+	<category term="XML" />
+    
+	<title>Making &amp;nbsp; work in XML, RSS, and Atom</title>
+    
+	<content type="xhtml">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<p class="summary">
+				If you came to XML, RSS, or Atom from an HTML background then you have probably already found that many of the entities you used in HTML don't work.
+			</p>
+			<p class="summary">
+				Although XML, by default, defines the following 5 entities:
+			</p>
+<figure class="summary">
+			<table>
+				<thead>
+					<tr>
+						<th style="border:1px solid;padding:0.5em;font-weight:bold;">XML Entity</th>
+						<th style="border:1px solid;padding:0.5em;font-weight:bold;">Description</th>
+						<th style="border:1px solid;padding:0.5em;font-weight:bold;">Symbol</th>
+					</tr>
+				</thead>
+				<tbody>
+					<tr>
+						<td style="border:1px solid;padding:0.5em;"><code class="xml">&amp;amp;</code></td>
+						<td style="border:1px solid;padding:0.5em;">Ampersand</td>
+						<td style="border:1px solid;padding:0.5em;text-align:center;">&amp;</td>
+					</tr>
+					<tr>
+						<td style="border:1px solid;padding:0.5em;"><code class="xml">&amp;lt;</code></td>
+						<td style="border:1px solid;padding:0.5em;">Less Than Sign</td>
+						<td style="border:1px solid;padding:0.5em;text-align:center;">&lt;</td>
+					</tr>
+					<tr>
+						<td style="border:1px solid;padding:0.5em;"><code class="xml">&amp;gt;</code></td>
+						<td style="border:1px solid;padding:0.5em;">Greater Than Sign</td>
+						<td style="border:1px solid;padding:0.5em;text-align:center;">&gt;</td>
+					</tr>
+					<tr>
+						<td style="border:1px solid;padding:0.5em;"><code class="xml">&amp;quot;</code></td>
+						<td style="border:1px solid;padding:0.5em;">Double Quote</td>
+						<td style="border:1px solid;padding:0.5em;text-align:center;">&quot;</td>
+					</tr>
+					<tr>
+						<td style="border:1px solid;padding:0.5em;"><code class="xml">&amp;apos;</code></td>
+						<td style="border:1px solid;padding:0.5em;">Apostrophe</td>
+						<td style="border:1px solid;padding:0.5em;text-align:center;">&apos;</td>
+					</tr>
+				</tbody>
+			</table>
+</figure>
+			<p class="summary">
+				Many of the entities you are probably familiar with do not by default exist in XML.  Entities like <code class="html">&amp;copy;</code>, <code class="html">&amp;middot;</code>, and many others; including <code class="html">&amp;nbsp;</code>.
+			</p>
+			<p class="summary">
+				Probably the most frustrating to me at times is the lack of support for <code class="html">&amp;nbsp;</code>.  Especially when embedding XHTML into an Atom <code>&lt;atom:content type="xhtml"&gt;</code> element.
+			</p>
+			<p class="summary">
+				Here's how to make <code class="html">&amp;nbsp;</code> work in XML, RSS, and Atom.
+			</p>
+
+			<h2>What is a &amp;nbsp;</h2>
+			<p>
+				The <code class="html">&amp;nbsp;</code> entity is the HTML entity for a non-breaking space.  A non-breaking space is a special <em>space character</em> that prevents a line break when a line wrapping algorithm is applied to render the text.
+			</p>
+			<p>
+				In HTML one of the common uses for the <code class="html">&amp;nbsp;</code> is to get multiple consecutive spaces in a row.
+			</p>
+
+			<h2>XML Entities and Unicode Code Points</h2>
+			<p>
+				In Unicode, each and every character has a numerical value.  Here's some examples:
+			</p>
+<figure>
+			<table border="1">
+				<thead>
+					<tr>
+						<th style="border:1px solid;padding:0.5em;font-weight:bold;">Character</th>
+						<th style="border:1px solid;padding:0.5em;font-weight:bold;">Description</th>
+						<th style="border:1px solid;padding:0.5em;font-weight:bold;">Decimal Value</th>
+						<th style="border:1px solid;padding:0.5em;font-weight:bold;">Hexadecimal Value</th>
+					</tr>
+				</thead>
+				<tbody>
+					<tr>
+						<td style="border:1px solid;padding:0.5em;">&#69;</td>
+						<td style="border:1px solid;padding:0.5em;">Capital "E"</td>
+						<td style="border:1px solid;padding:0.5em;">69</td>
+						<td style="border:1px solid;padding:0.5em;">45</td>
+					</tr>
+					<tr>
+						<td style="border:1px solid;padding:0.5em;">&#120;</td>
+						<td style="border:1px solid;padding:0.5em;">Lowercase "x"</td>
+						<td style="border:1px solid;padding:0.5em;">120</td>
+						<td style="border:1px solid;padding:0.5em;">78</td>
+					</tr>
+					<tr>
+						<td style="border:1px solid;padding:0.5em;">&#160;</td>
+						<td style="border:1px solid;padding:0.5em;">Non-Breaking Space</td>
+						<td style="border:1px solid;padding:0.5em;">160</td>
+						<td style="border:1px solid;padding:0.5em;">A0</td>
+					</tr>
+					<tr>
+						<td style="border:1px solid;padding:0.5em;">&#8253;</td>
+						<td style="border:1px solid;padding:0.5em;">Interrobang</td>
+						<td style="border:1px solid;padding:0.5em;">8253</td>
+						<td style="border:1px solid;padding:0.5em;">203D</td>
+					</tr>
+					<tr>
+						<td style="border:1px solid;padding:0.5em;">&#9829;</td>
+						<td style="border:1px solid;padding:0.5em;">Heart</td>
+						<td style="border:1px solid;padding:0.5em;">9829</td>
+						<td style="border:1px solid;padding:0.5em;">2665</td>
+					</tr>
+				</tbody>
+			</table>
+</figure>
+			<p>
+				In XML, you can use any Unicode characters with a special type of entity.  (Although your browser may or may not have a font glyph to render the character on screen.)
+			</p>
+			<p>
+				You can either use the Unicode numerical decimal value of a character.  As in <code>&amp;#8253;</code> for Interrobang.
+			</p>
+			<p>
+				Or you can use the Unicode numerical hexadecimal value of a character.  As in <code>&amp;#x203D;</code> for Interrobang.
+			</p>
+			<p>
+				Although the decimal form of these types of entities is better supported in the common web browsers.  (So, for the Interrobang, it would be better to use <code>&amp;#8253;</code> rather than <code>&amp;#x203D;</code>.)
+			</p>
+
+			<h2>The Other Non-Breaking Space Entity</h2>
+			<p>
+				So to use <code>&amp;nbsp;</code> in XML, RSS, and Atom, it's simple.  Use the following entity:
+			</p>
+<pre><code class="html">
+&amp;#160;
+
+</code></pre>
+			<p>
+				It's that simple.
+			</p>
+
+
+			<address class="vcard">
+				-- <a rel="author" class="fn n url" href="http://changelog.ca/"><span class="given-name">Charles</span> <span class="additional-name">Iliya</span> <span class="family-name">Krempeaux</span>, <span class="honorific-suffix">B.Sc.</span></a>
+			</address>
+		</div>
+	</content>
+</entry>

@@ -1,0 +1,196 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2012-10-20T20:12:13-0700</published>
+
+	<id>5ebb68e1-7af5-4294-8a84-b52e2a6857ea</id>
+
+	<category term="AI" />
+	<category term="Artificial General Intelligence" />
+	<category term="Artificial Intelligence" />
+	<category term="Artificial Neural Network" />
+	<category term="Artificial Neuron" />
+	<category term="Cognitive AI" />
+	<category term="Machine Learning" />
+	<category term="Neuroscience" />
+	<category term="Strong AI" />
+
+	<title>Artificial Neuron Models for Strong AI?</title>
+
+	<content type="xhtml">
+	<div xmlns="http://www.w3.org/1999/xhtml">
+		<p>
+			The original goal of <strong>artificial intelligence</strong> (<strong><abbr title="artificial intelligence">AI</abbr></strong>) was to create <strong>human-like intelligence</strong> <em><abbr title="performed on computer or via computer simulation">in silico</abbr></em>.
+			Modern <em><abbr title="artificial intelligence">AI</abbr></em>, while useful and instances of (real) intelligence, are (for the most part) nothing like human intelligence.
+		</p>
+		<p>
+			Given that the <em>AI</em> label has come to cover much more than just human-like intelligence,
+			this goal, of creating <em>human-like intelligence in silico</em>, has been given a new label and is now called <strong>strong AI</strong>,
+			but also goes by the names <strong>artificial general intelligence</strong> (<strong>AGI</strong>) and <strong>cognitive AI</strong>.
+		</p>
+		<p>
+			At the time of writing, there is really no how-to guide for <em>strong AI</em>.
+			I'd be (happily) surprised to see one any time soon.
+		</p>
+		<p>
+			<em>Strong AI</em> is very much a frontier of AI and machine learning research.
+			And no one knows how to create a <em>strong AI</em> yet.
+		</p>
+		<p>
+			Sure people have different opinions and ideas.
+			(I even have some.)
+			But (unless someone figured it out and is keeping it a secret) it is still an open question.
+		</p>
+		<p>
+			My (perhaps mistaken) impression of the mainstream approach to <em>strong AI</em> research is to
+			create a vision system, 
+			create a language system,
+			create a balance system,
+			etc,
+			and then some how connect these all together and (<em>voilà</em>) expect it will give you human-like intelligence.
+		</p>
+		<p>
+			(This mainstream approach is to try to create an <em>artificial mind</em>.)
+		</p>
+		<p>
+			While this approach may give you some kind of (artificial) intelligence, (for reasons I won't go into at the moment) I doubt it will give you human-like intelligence.
+		</p>
+		<p>
+			<strong>So how does one go about trying to create <em>strong AI</em>?</strong>
+		</p>
+
+		<h2>Artificial Mind versus Artificial Brain</h2>
+		<p>
+			This is not my original <a href="http://changelog.ca/quote/2011/06/27/an_emergent_approach_to_artificial_general_intelligence">idea</a>, but it is one I agree with....
+		</p>
+		<p>
+			We have no idea how the mind works.
+			So let's not try to create an artificial mind.
+			Instead let's try to create an artificial brain and let the mind emerge.
+		</p>
+		<p>
+			(For reasons I won't get into here, there are reasons to suspect that much of how the brain organizes itself is emergent through exposure to the environment.)
+		</p>
+		<p>
+			So then, how does one go about creating an artificial brain&#8253;
+		</p>
+
+		<h2>Learn Neuroscience</h2>
+		<p>
+			This is what motivated me to start learning neuroscience.
+			And what I found is that, even though modern neuroscience has learned a lot about the brain, there is <strong>a lot</strong> that is not known!
+			In some ways, modern neuroscience is very primitive.
+		</p>
+		<p>
+			So there is no straightforward way to create an artificial brain.
+		</p>
+		<p>
+			And thus pursuing strong AI research is no simple undertaking!
+		</p>
+		<p>
+			Neuroscience is a big field though, so <strong>I've tried to focus on things that would help me model the brain</strong>.
+		</p>
+		<p>
+			However, insight can come from unexpected places, so I haven't been too strict about this, and have broadened my neuroscience coverage beyond this.
+			It's difficult to know what you need to know.
+		</p>
+
+		<h2>Models</h2>
+		<p>
+			When you model something, you are leaving out details.
+			You make a perhaps implicit decision that some parts of the real system aren't important and some are.
+			(The important parts being what you model; and the unimportant parts being left out of your model.)
+		</p>
+		<p>
+			Brains are made of atoms; atoms are made of protons, electrons, and neutrons; protons and neutrons are made of quarks.
+		</p>
+		<p>
+			Do we model all this?
+			(Should our model of the brain be at the quark level, taking into account things such as quantum mechanics?)
+			Or is the essence of our system more easily and more usefully represented with higher level constructs?
+		</p>
+
+		<h2>Neural Networks</h2>
+		<p>
+			When most people think of <em>AI</em> and the brain, they often think of <strong>artificial neural networks</strong> (<strong><abbr title="artificial neural networks">ANN</abbr></strong>s).
+			But the brain is <strong>NOT</strong> an <em>neural network</em>;
+			it has them, but the brain is much more than an <em>neural network</em>, and have a lot of structure to them beyond this.
+			(<em><abbr title="artificial neural networks">ANN</abbr></em>s are not enough.)
+		</p>
+		<p>
+			The type of <em><abbr title="artificial neural networks">ANN</abbr></em> most people get introduced to is the <em>feedforward neural network</em>.
+			The brain definitely does not work that way.
+			The brain has a lot of feedback and (directed) cycles in it.
+			Something that <em>feedforward neural networks</em> lack.
+		</p>
+		<p>
+			Some people use <em>spiking neural networks</em> (<em><abbr title="spiking neural networks">SNN</abbr></em>s) to try to get closer to what's happening in the brain.
+			But I'm not sure that's enough.
+		</p>
+		<p>
+			For one, <a href="http://changelog.ca/quote/2011/08/12/it_is_not_just_about_the_connections_between_neurons_but_their_locations_too">there seems to be micro-brainwaves going on that is affecting the spiking</a>.
+			So <strong>where</strong> a neuron is seems to matter (and not just how they are connected).
+			(This isn't accounted for in any artificial neural network model I've seen, outside of stuff I have experimented with.)
+		</p>
+		<p>
+			Also, there's some evidence that <a href="http://changelog.ca/quote/2011/08/15/glia_brain_cells_broadcast_messages">(some of) the glia cells may be doing computation too</a>.
+			(I have never seen that taken into account in any artificial model, outside of stuff I have experimented with.)
+		</p>
+		<p>
+			From what I've gathered, in the <em>computational neuroscience</em> circles, the <em>leaky integrate-and-fire model</em> of the neuron is popular.
+			But I'm not sure that's enough.
+		</p>
+		<p>
+			So what type of <em><abbr title="artificial neural networks">ANN</abbr></em> and <em>artificial neuron</em> model is correct (for our strong AI purposes)?
+		</p>
+		<p>
+			The truth is, I don't know (yet).
+			But it is one of the things that I am trying to figure out in my spare time.
+			Although, the older I get, the less and less free time I seem to get :-( 
+		</p>
+		<p>
+			With modelling, there's always the difficultly of figuring out, what are the important details and what aren't.
+			(So are the details I mentioned important or not? I don't know yet.)
+		</p>
+		<p>
+			At the moment I have more questions than answers.
+			Most of those questions aren't even mentioned here.
+			(There is <strong>so much more</strong> to strong AI than the choice of <em>artificial neuron</em> model and <em>artificial neural network</em> type.)
+		</p>
+
+		<h2>Et Cetera</h2>
+		<p>
+			It is also possible that, at least with some parts of the brain, that modelling neurons might be at a lower level than we need to be.
+			Perhaps, at least with some parts of the brain, their essence is more easily and more usefully represented with higher level constructs.
+		</p>
+		<p>
+			There's also reason (which I don't mention here) to suspect that in addition to an artificial brain, an artificial body might be important too, to get human-like intelligence.
+		</p>
+		<p>
+			And what about the role of <a href="http://changelog.ca/quote/2011/07/05/some_of_what_some_noncoding_dna_might_do">microRNA in the brain</a>?
+		</p>
+		<p>
+			What about the role the human brain plays in homeostasis?
+		</p>
+		<p>
+			Etc?
+			(And this is a <strong>big</strong> "etc".
+			At the moment, I don't feel like writing any more than what I have.
+			But there is a lot more to say!
+			Even on modelling artificial neurons.)
+		</p>
+		<p>
+			Like I said, I have more questions than answers :-)
+			But if <em>strong AI</em> is something that interests you, then trying to figure out the answers to these questions (and figure out new questions) is part of the fun :-)
+		</p>
+		<p>
+			(Also, in case it needs to be said explicitly: not all neurons in an artificial brain will necessarily be modelled the same way; since not all neurons is the real brain are the same.)
+		</p>
+
+
+		<address class="vcard">
+			-- <a rel="author" class="fn n url" href="http://changelog.ca/"><span class="given-name">Charles</span> <span class="additional-name">Iliya</span> <span class="family-name">Krempeaux</span></a>
+		</address>
+	</div>
+	</content>
+</entry>

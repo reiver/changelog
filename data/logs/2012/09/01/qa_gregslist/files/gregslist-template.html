@@ -1,0 +1,636 @@
+<html>
+	<head>
+		<title>gregslist</title>
+
+		<style type="text/css">
+		<!--
+
+			html, body {
+				font-family: sans-serif;
+				font-size: 12pt;
+			}
+
+
+
+			.checkmark, .xmark {
+				font-size: 12pt;
+				font-weight: bold;
+			}
+			.checkmark {
+				color: green;
+			}
+			.xmark {
+				color: red;
+			}
+
+
+
+				.gregslist h1, h1.gregslist {
+					background-color:#eeeeee;
+					color:blue;
+
+					font-size: 14pt;
+					font-family: serif;
+					font-weight: normal;
+
+					padding: 0.2em 0.5em;
+					border: 1px solid #d0d0d0;
+				}
+
+				.gregslist h2, h2.gregslist {
+
+
+					font-size: 11pt;
+					font-weight: bold;
+
+					text-decoration: underline;
+					text-transform: uppercase;
+
+					margin-top: 2em;
+				}
+
+
+
+				.gregslist table, table.gregslist {
+					margin:0;
+					padding:0;
+
+					font-size: 8pt;
+				}
+
+					.gregslist thead th, thead.gregslist th, thead th.gregslist {
+						background-color:#eeeeee;
+
+						text-align: center;
+
+						min-width:4.2em;
+						padding: 0.5em 0.8em;
+						border: 1px solid #d0d0d0;
+					}
+
+					.gregslist tbody td, tbody.gregslist td, tbody td.gregslist {
+						width: 4.2em;
+
+						padding: 0.5em 0.8em;
+						border: 1px solid #d0d0d0;
+					}
+
+					.gregslist tbody td.deved, tbody.gregslist td.deved, tbody td.gregslist.deved,
+					.gregslist tbody td.qaed,  tbody.gregslist td.qaed,  tbody td.gregslist.qaed {
+						text-align: center;
+					}
+
+					.gregslist tbody td.problem,  tbody.gregslist td.problem,  tbody td.gregslist.problem {
+						width: auto;
+					}
+
+
+
+				.gregslist table.legend, table.gregslist.legend {
+					margin:0;
+					padding:0;
+
+					font-size: 8pt;
+				}
+
+					.gregslist table.legend th, table.gregslist.legend th {
+						background-color: LightBlue;
+					}
+
+					.gregslist table.legend td.display, table.gregslist.legend td.display {
+						width: auto;
+					}
+
+		-->
+		</style>
+	</head>
+
+	<body>
+
+		<h1 class="gregslist">gregslist</h1>
+
+
+		<h2 class="gregslist">Functional Problems</h2>
+
+		<table cellspacing="0" class="gregslist">
+			<thead>
+				<tr>
+					<th>
+						Assigned to
+					</th>
+					<th>
+						Reported by
+					</th>
+					<th>
+						Problem
+					</th>
+					<th>
+						Dev'd
+					</th>
+					<th>
+						QA'd
+					</th>
+				</tr>
+			</thead>
+
+			<tbody>
+				<tr>
+					<td>
+						<span style="font-weight:bold;color:red;">PersonA</span>
+					</td>
+					<td>
+						<span style="font-weight:bold;color:green;">PersonB</span>
+					</td>
+					<td class="problem">
+						This is a sample.
+						Dev thinks it is fixed; QA hasn't checked it yet.
+					</td>
+					<td class="deved">
+						<span class="checkmark">✔</span>
+					</td>
+					<td class="qaed">
+						
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<span style="font-weight:bold;color:cadetblue;">PersonC</span>
+					</td>
+					<td>
+						<span style="font-weight:bold;color:purple;">PersonD</span>
+					</td>
+					<td class="problem">
+						This is a sample.
+						Dev either is still working on it, or hasn't started working on it yet.
+					</td>
+					<td class="deved">
+						
+					</td>
+					<td class="qaed">
+						
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<span style="font-weight:bold;color:fuchsia;">PersonE</span>
+					</td>
+					<td>
+						<span style="font-weight:bold;color:coral;">PersonF</span>
+					</td>
+					<td class="problem">
+						This is a sample.
+						Dev thinks it is fixed; QA checked it and verified it is fixed.
+					</td>
+					<td class="deved">
+						<span class="checkmark">✔</span>
+					</td>
+					<td class="qaed">
+						<span class="checkmark">✔</span>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<span style="font-weight:bold;color:teal;">PersonG</span>
+					</td>
+					<td>
+						<span style="font-weight:bold;color:sienna;">PersonH</span>
+					</td>
+					<td class="problem">
+						This is a sample.
+						Dev thought it was fixed; QA checked it and found it was NOT fixed.
+						(Dev still has work to do.)
+					</td>
+					<td class="deved">
+						<span class="checkmark">✔</span>
+					</td>
+					<td class="qaed">
+						<span class="xmark">✗</span>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						
+					</td>
+					<td>
+						
+					</td>
+					<td class="problem">
+						&nbsp;
+					</td>
+					<td class="deved">
+						
+					</td>
+					<td class="qaed">
+						
+					</td>
+				</tr>
+				<tr>
+					<td>
+						
+					</td>
+					<td>
+						
+					</td>
+					<td class="problem">
+						&nbsp;
+					</td>
+					<td class="deved">
+						
+					</td>
+					<td class="qaed">
+						
+					</td>
+				</tr>
+				<tr>
+					<td>
+						
+					</td>
+					<td>
+						
+					</td>
+					<td class="problem">
+						&nbsp;
+					</td>
+					<td class="deved">
+						
+					</td>
+					<td class="qaed">
+						
+					</td>
+				</tr>
+				<tr>
+					<td>
+						
+					</td>
+					<td>
+						
+					</td>
+					<td class="problem">
+						&nbsp;
+					</td>
+					<td class="deved">
+						
+					</td>
+					<td class="qaed">
+						
+					</td>
+				</tr>
+				<tr>
+					<td>
+						
+					</td>
+					<td>
+						
+					</td>
+					<td class="problem">
+						&nbsp;
+					</td>
+					<td class="deved">
+						
+					</td>
+					<td class="qaed">
+						
+					</td>
+				</tr>
+				<tr>
+					<td>
+						
+					</td>
+					<td>
+						
+					</td>
+					<td class="problem">
+						&nbsp;
+					</td>
+					<td class="deved">
+						
+					</td>
+					<td class="qaed">
+						
+					</td>
+				</tr>
+				<tr>
+					<td>
+						
+					</td>
+					<td>
+						
+					</td>
+					<td class="problem">
+						&nbsp;
+					</td>
+					<td class="deved">
+						
+					</td>
+					<td class="qaed">
+						
+					</td>
+				</tr>
+			</tbody>
+		</table>
+
+
+		<h2 class="gregslist">Style / Visual Problems</h2>
+
+		<table cellspacing="0" class="gregslist">
+			<thead>
+				<tr>
+					<th>
+						Assigned to
+					</th>
+					<th>
+						Reported by
+					</th>
+					<th>
+						Problem
+					</th>
+					<th>
+						Dev'd
+					</th>
+					<th>
+						QA'd
+					</th>
+				</tr>
+			</thead>
+
+			<tbody>
+				<tr>
+					<td>
+						<span style="font-weight:bold;color:red;">PersonA</span>
+					</td>
+					<td>
+						<span style="font-weight:bold;color:green;">PersonB</span>
+					</td>
+					<td class="problem">
+						This is a sample.
+						Dev thinks it is fixed; QA hasn't checked it yet.
+					</td>
+					<td class="deved">
+						<span class="checkmark">✔</span>
+					</td>
+					<td class="qaed">
+						
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<span style="font-weight:bold;color:cadetblue;">PersonC</span>
+					</td>
+					<td>
+						<span style="font-weight:bold;color:purple;">PersonD</span>
+					</td>
+					<td class="problem">
+						This is a sample.
+						Dev either is still working on it, or hasn't started working on it yet.
+					</td>
+					<td class="deved">
+						
+					</td>
+					<td class="qaed">
+						
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<span style="font-weight:bold;color:fuchsia;">PersonE</span>
+					</td>
+					<td>
+						<span style="font-weight:bold;color:coral;">PersonF</span>
+					</td>
+					<td class="problem">
+						This is a sample.
+						Dev thinks it is fixed; QA checked it and verified it is fixed.
+					</td>
+					<td class="deved">
+						<span class="checkmark">✔</span>
+					</td>
+					<td class="qaed">
+						<span class="checkmark">✔</span>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<span style="font-weight:bold;color:teal;">PersonG</span>
+					</td>
+					<td>
+						<span style="font-weight:bold;color:sienna;">PersonH</span>
+					</td>
+					<td class="problem">
+						This is a sample.
+						Dev thought it was fixed; QA checked it and found it was NOT fixed.
+						(Dev still has work to do.)
+					</td>
+					<td class="deved">
+						<span class="checkmark">✔</span>
+					</td>
+					<td class="qaed">
+						<span class="xmark">✗</span>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						
+					</td>
+					<td>
+						
+					</td>
+					<td class="problem">
+						&nbsp;
+					</td>
+					<td class="deved">
+						
+					</td>
+					<td class="qaed">
+						
+					</td>
+				</tr>
+				<tr>
+					<td>
+						
+					</td>
+					<td>
+						
+					</td>
+					<td class="problem">
+						&nbsp;
+					</td>
+					<td class="deved">
+						
+					</td>
+					<td class="qaed">
+						
+					</td>
+				</tr>
+				<tr>
+					<td>
+						
+					</td>
+					<td>
+						
+					</td>
+					<td class="problem">
+						&nbsp;
+					</td>
+					<td class="deved">
+						
+					</td>
+					<td class="qaed">
+						
+					</td>
+				</tr>
+				<tr>
+					<td>
+						
+					</td>
+					<td>
+						
+					</td>
+					<td class="problem">
+						&nbsp;
+					</td>
+					<td class="deved">
+						
+					</td>
+					<td class="qaed">
+						
+					</td>
+				</tr>
+				<tr>
+					<td>
+						
+					</td>
+					<td>
+						
+					</td>
+					<td class="problem">
+						&nbsp;
+					</td>
+					<td class="deved">
+						
+					</td>
+					<td class="qaed">
+						
+					</td>
+				</tr>
+				<tr>
+					<td>
+						
+					</td>
+					<td>
+						
+					</td>
+					<td class="problem">
+						&nbsp;
+					</td>
+					<td class="deved">
+						
+					</td>
+					<td class="qaed">
+						
+					</td>
+				</tr>
+				<tr>
+					<td>
+						
+					</td>
+					<td>
+						
+					</td>
+					<td class="problem">
+						&nbsp;
+					</td>
+					<td class="deved">
+						
+					</td>
+					<td class="qaed">
+						
+					</td>
+				</tr>
+			</tbody>
+		</table>
+
+
+		<h2 class="gregslist">Legend</h2>
+
+		<table cellspacing="0" class="gregslist legend">
+			<thead>
+				<tr>
+					<th>
+						Person
+					</th>
+					<th>
+						Display
+					</th>
+				</tr>
+			</thead>
+
+			<tbody>
+				<tr>
+					<td class="person">
+						<span style="font-weight:bold;color:red;">PersonA</span>
+					</td>
+					<td class="display">
+						<span style="font-weight:bold;color:red;">Red</span>
+					</td>
+				</tr>
+				<tr>
+					<td class="person">
+						<span style="font-weight:bold;color:green;">PersonB</span>
+					</td>
+					<td class="display">
+						<span style="font-weight:bold;color:green;">Green</span>
+					</td>
+				</tr>
+				<tr>
+					<td class="person">
+						<span style="font-weight:bold;color:cadetblue;">PersonC</span>
+					</td>
+					<td class="display">
+						<span style="font-weight:bold;color:cadetblue;">Light Blue</span>
+					</td>
+				</tr>
+				<tr>
+					<td class="person">
+						<span style="font-weight:bold;color:purple;">PersonD</span>
+					</td>
+					<td class="display">
+						<span style="font-weight:bold;color:purple;">Purple</span>
+					</td>
+				</tr>
+				<tr>
+					<td class="person">
+						<span style="font-weight:bold;color:fuchsia;">PersonE</span>
+					</td>
+					<td class="display">
+						<span style="font-weight:bold;color:fuchsia;">Fuchsia</span>
+					</td>
+				</tr>
+				<tr>
+					<td class="person">
+						<span style="font-weight:bold;color:coral;">PersonF</span>
+					</td>
+					<td class="display">
+						<span style="font-weight:bold;color:coral;">Coral</span>
+					</td>
+				</tr>
+				<tr>
+					<td class="person">
+						<span style="font-weight:bold;color:teal;">PersonG</span>
+					</td>
+					<td class="display">
+						<span style="font-weight:bold;color:teal;">Teal</span>
+					</td>
+				</tr>
+				<tr>
+					<td class="person">
+						<span style="font-weight:bold;color:sienna;">PersonH</span>
+					</td>
+					<td class="display">
+						<span style="font-weight:bold;color:sienna;">Brown</span>
+					</td>
+				</tr>
+			</tbody>
+		</table>
+
+	</body>
+</html>

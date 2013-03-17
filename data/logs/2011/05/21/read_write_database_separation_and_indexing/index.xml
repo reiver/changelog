@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2011-05-21T15:46:01+0000</published>
+
+	<id>4e5bca27-d8ee-4512-8182-308e73a5f4ca</id>
+
+	<category term="Databases" />
+	<category term="Indexing" />
+	<category term="Software Engineering" />
+
+	<title>Read/Write Database Separation And Indexing</title>
+
+	<content type="xhtml">
+	<div xmlns="http://www.w3.org/1999/xhtml">
+		<p>
+			I think for a databsase system (whether relational or NoSQL) it could be useful to, by default, have a separation of "read" and "write" servers
+			(regardless of whether that separation be actually on the same computer or not)
+			and have indexing <em>ONLY</em> happen on the "read" servers, but not on the "write" servers.
+		</p>
+		<p>
+			This could reduce the latency of blocking <code>INSERT</code>s / <code>UPDATE</code>s while still reducing latencies for <code>SELECT</code>s.
+		</p>
+		<p>
+			Of course, this would only work for systems where reads do not occur "quickly" after a write (for the exact same data).
+			(And, of course, "<em>do[es] not occur quickly</em>" means, there needs to be time for replication from the "write" server to the "read" server, plus indexing on the "read" server to complete.)
+		</p>
+		<p>
+			I think many many systems exhibit this '<em>write and then read much later</em>' behavior.
+		</p>
+
+		<address class="vcard">
+			-- <a rel="author" class="fn n url" href="http://changelog.ca/"><span class="given-name">Charles</span> <span class="additional-name">Iliya</span> <span class="family-name">Krempeaux</span></a>
+		</address>
+	</div>
+	</content>
+</entry>

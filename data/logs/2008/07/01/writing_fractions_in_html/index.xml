@@ -1,0 +1,188 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2008-07-01T22:00:00-07:00</published>
+
+	<id>urn:uuid:8979277d-841a-4125-8187-91c58e81bcdb</id>
+
+	<title>Writing Fractions in HTML</title>
+
+	<category term="Fractions" />
+	<category term="HTML" />
+	<category term="HTML sub Element" />
+	<category term="HTML sup Element" />
+	<category term="Mathematics" />
+	<category term="Web Development" />
+
+	<content type="xhtml">
+	<div xmlns="http://www.w3.org/1999/xhtml">
+		<p class="summary">
+			<strong>Fractions</strong> are so much a part of our life.  We see them everywhere.  And with pen and paper we write them frequently.
+		</p>
+		<p class="summary">
+			But how do you write them on the computer&#8253;  How do you write them in <em>HTML</em>&#8253;
+		</p>
+		<p class="summary">
+			How do you write fractions like: 
+			<span class="fraction"><sup>1</sup>&#8260;<sub>10</sub></span>,
+			<span class="fraction"><sup>3</sup>&#8260;<sub>7</sub></span>, and
+			<span class="fraction"><sup>999</sup>&#8260;<sub>1000</sub></span>&#8253;
+		</p>
+
+            <h2>Using a Slash</h2>
+            <p>
+                Most people who want to write a fraction on a computer use the <em>slash</em> character.  It's a character on most keywords, and look like this....
+            </p>
+		<blockquote>
+			<p>
+				<strong>/</strong>
+			</p>
+		</blockquote>
+            <p>
+                So, for example, a fraction written using a <em>slash</em> might look like....
+            </p>
+		<blockquote>
+			<p>
+				3 / 7
+			</p>
+		</blockquote>
+            <p>
+                While this might get you by, it's hardly what you'd write with pen and paper.
+            </p>
+            <p>
+                (The "line" should be more horizontal.  And the numerator should be up top.  And the denominator should be down under.)
+            </p>
+
+            <h2>HTML Fraction Entities</h2>
+            <p>
+                <em>HTML</em> does have a small limited amout of special <em>HTML entities</em> for certain fractions.  Namely....
+            </p>
+		<blockquote>
+			<p>
+				&#188; <!-- &frac14; -->  (one quarter)
+				<br /><br />
+				&#189; <!-- &frac12; -->  (one half)
+				<br /><br />
+				&#190; <!-- &frac34; -->  (three fourths)            
+			</p>
+		</blockquote>
+            <p>
+                You can write these fractions with the follow HTML entities....
+            </p>
+<figure>
+            <table>
+                <thead>
+                    <tr>
+                        <th style="border:1px solid;padding:0.5em;font-weight:bold;">Fraction</th>
+                        <th style="border:1px solid;padding:0.5em;font-weight:bold;">HTML&#160;Entity</th>
+                        <th style="border:1px solid;padding:0.5em;font-weight:bold;">Decimal&#160;Entity</th>
+                        <th style="border:1px solid;padding:0.5em;font-weight:bold;">Hexadecimal&#160;Entity</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td style="border:1px solid;padding:0.5em;">&#188;</td>
+                        <td style="border:1px solid;padding:0.5em;"><code class="html">&amp;frac14;</code></td>
+                        <td style="border:1px solid;padding:0.5em;"><code class="html">&amp;#188;</code></td>
+                        <td style="border:1px solid;padding:0.5em;"><code class="html">&amp;#xBC;</code></td>
+                    </tr>
+                    <tr>
+                        <td style="border:1px solid;padding:0.5em;">&#189;</td>
+                        <td style="border:1px solid;padding:0.5em;"><code class="html">&amp;frac12;</code></td>
+                        <td style="border:1px solid;padding:0.5em;"><code class="html">&amp;#189;</code></td>
+                        <td style="border:1px solid;padding:0.5em;"><code class="html">&amp;#xBD;</code></td>
+                    </tr>
+                    <tr>
+                        <td style="border:1px solid;padding:0.5em;">&#190;</td>
+                        <td style="border:1px solid;padding:0.5em;"><code class="html">&amp;frac34;</code></td>
+                        <td style="border:1px solid;padding:0.5em;"><code class="html">&amp;#190;</code></td>
+                        <td style="border:1px solid;padding:0.5em;"><code class="html">&amp;#xBE;</code></td>
+                    </tr>
+                </tbody>
+            </table>
+</figure>
+            <p>
+                However, what happens if you want to write a fraction besides these 3 fractions&#8253;
+            </p>
+            <p>
+                That's where the HTML <em>fraction slash</em> comes into play.
+            </p>
+
+            <h2>HTML Fraction Slash</h2>
+            <p>
+                With the HTML <em>fraction slash</em> you can write any fraction you want.  For example, here's one....
+            </p>
+		<blockquote>
+			<p>
+				<span class="fraction"><sup>5</sup>&#8260;<sub>9</sub></span>
+			</p>
+		</blockquote>
+            <p>
+                The key to writing fractions, in HTML, this way is the HTML <em>fraction slash</em> entity.  This is created with the following HTML entity....
+            </p>
+		<blockquote>
+			<p>
+				<strong>&amp;frasl;</strong>
+			</p>
+		</blockquote>
+            <p>
+                Just a note, you can write this same HTML entity using its <em>decimal entity</em> and <em>hexadecimal entity</em> variations, as....
+            </p>
+		<blockquote>
+			<p>
+				<strong>&amp;#8260;</strong>
+				<br /><br />
+				<strong>&amp;#x2044;</strong>
+			</p>
+		</blockquote>
+            <p>
+                These two variations -- the <em>decimal entity</em> and the <em>hexadecimal entity</em> -- would be useful in cases where you cannot use the HTML <code class="html"><strong>&amp;frasl;</strong></code> entity.  Like in <em>XML</em>, <em>RSS</em>, or <em>Atom</em>.
+            </p>
+            <p>
+                Now, just using the HTML <em>fraction slash</em> entity, by itself, is really not enough.  Consider if you wrote something like the following....
+            </p>
+		<pre><code class="html">
+1<em>&amp;frasl;</em>10
+		</code></pre>
+            <p>
+                ... it will look like....
+            </p>
+		<blockquote>
+			<p>
+				1&#8260;10
+			</p>
+		</blockquote>
+            <p>
+                ... which, as you can see, doesn't look right.
+            </p>
+            <p>
+                What we want is the <em>numerator</em> to be up top, and the <em>denominator</em> to be down bottom.  To do this we use the <strong>HTML sup Element</strong> and the <strong>HTML sub Element</strong>, respectively.
+            </p>
+            <p>
+                So, the code ends up being....
+            </p>
+		<pre><code class="html">
+<em>&lt;sup&gt;</em>1<em>&lt;/sup&gt;</em>&amp;frasl;<em>&lt;sub&gt;</em>10<em>&lt;/sub&gt;</em>
+		</code></pre>
+            <p>
+                Which gives you....
+            </p>
+		<blockquote>
+			<p>
+				<span class="fraction"><sup>1</sup>&#8260;<sub>10</sub></span>
+			</p>
+		</blockquote>
+            <p>
+                Which looks closer to how a fraction should look like.
+            </p>
+            <p>
+                And that's how you write a fraction in HTML.
+            </p>
+
+
+            <address class="vcard">
+                -- <a rel="author" class="fn n url" href="http://changelog.ca/"><span class="given-name">Charles</span> <span class="additional-name">Iliya</span> <span class="family-name">Krempeaux</span>, <span class="honorific-suffix">B.Sc.</span></a>
+            </address>
+        </div>
+    </content>
+</entry>

@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2013-01-20T07:55:00-0800</published>
+
+	<id>1860a2e9-5e72-43de-9c5d-0fe091241034</id>
+
+	<category term="Gamification" />
+
+	<title>Gamification of Education, Some Suggestions</title>
+
+	<content type="xhtml">
+	<div xmlns="http://www.w3.org/1999/xhtml">
+		<p>
+			<a rel="nofollow" href="johnhawks.net/">John Hawks</a> was looking for ways to <em>gamify education</em>.
+			<sup>[<a rel="nofollow" href="https://twitter.com/johnhawks/status/292697759264419840">tweet</a>]</sup>
+		</p>
+		<p>
+			<img style="width:55%;" src="http://changelog.ca/log/2013/01/20/gamification_of_education/tweet_john_hawks.png" />
+		</p>
+		<p>
+			Here are my suggestions. Perhaps....
+		</p>
+		
+		<ul>
+			<li>
+				Offer 'virtual currency' for doing things that don't (directly) earn students a better grade.
+				For example, such as reading certain extra books or extra academic papers you provide a list for. 
+			</li>
+			<li>
+				Allow virtual currency to be used to increase a student's score on assignments and (possibly also) exams.
+				(Of course, you'd need a way to verify those extra activities were completed.) 
+			</li>
+			<li>
+				Also could post list of the "top 5" people for each test and assignment, online somewhere (that would be permanent).
+				Students may see it as a "soft" recommendation from you.
+			</li>
+			<li>
+				Also, giving users (virtual) badges for completing tasks (or whatever), <b>and</b> if the student opts-in, then make those (virtual) badges publicly and permanently viewable online, so that a student can have it be used as another proxy for quality (in addition to their degree).
+				(Something that can be helpful for a student's career.)
+			</li>
+		</ul>
+		
+
+
+		<address class="vcard">
+			-- <a rel="author" class="fn n url" href="http://changelog.ca/"><span class="given-name">Charles</span> <span class="additional-name">Iliya</span> <span class="family-name">Krempeaux</span></a>
+		</address>
+	</div>
+	</content>
+</entry>

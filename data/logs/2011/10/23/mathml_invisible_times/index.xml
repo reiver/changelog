@@ -1,0 +1,166 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2011-10-23T19:15:55-0700</published>
+
+	<id>22ba5ca8-0b71-418a-8ea6-39ced6b61583</id>
+
+	<category term="Mathematics" />
+	<category term="MathML" />
+	<category term="Web Development" />
+
+	<title>MathML Invisible Times</title>
+
+	<content type="xhtml">
+	<div xmlns="http://www.w3.org/1999/xhtml">
+		<p>
+			In mathematics we often don't bother writing the multiplication operator. For example, we tend not to write:
+		</p>
+		<figure>
+			<math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
+				<mrow>
+					<mn>
+						2
+					</mn>
+					<mo>
+						&#215;
+					</mo>
+					<mi>
+						n
+					</mi>
+				</mrow>
+			</math>
+		</figure>
+		<p>
+			But instead often simply write:
+		</p>
+		<figure>
+			<math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
+				<mrow>
+					<mn>
+						2
+					</mn>
+					<mo>
+						&#8290;
+					</mo>
+					<mi>
+						n
+					</mi>
+				</mrow>
+			</math>
+		</figure>
+		<p>
+			When writing MathML markup, you could put the "2" and the "n" next to each other, and make it look the way you want, <strong>but that would not be semantically correct</strong>.
+			And if you are bothering with MathML then you probably want some level of semantic correctness.
+		</p>
+
+		<p>
+			(Note, at the time of writing, not all web browsers support MathML. If you create MathML you are probably aware of this. However, I am noting this because there is MathML code in this article that will only look "good" if your browser supports MathML.)
+		</p>
+
+		<h2>Invisible Times</h2>
+		<p>
+			In MathML we can use the <em>invisible times</em> character to get the look we want, while being semantically correct.
+		</p>
+		<p>
+			The <em>MathML invisible times</em> can be created with the following XML entity:
+		</p>
+		<figure>
+			<table>
+				<thead>
+					<tr>
+						<th style="border:1px solid;padding:0.5em;font-weight:bold;">
+							Name
+						</th>
+						<th style="border:1px solid;padding:0.5em;font-weight:bold;">
+							Decimal Entity
+						</th>
+						<th style="border:1px solid;padding:0.5em;font-weight:bold;">
+							Hexidecimal Entity
+						</th>
+					</tr>
+				</thead>
+				<tbody>
+					<tr>
+						<td style="border:1px solid;padding:0.5em;">
+							Invisible Times
+						</td>
+						<td style="border:1px solid;padding:0.5em;">
+							&amp;#8290;
+						</td>
+						<td style="border:1px solid;padding:0.5em;">
+							&amp;#x2062;
+						</td>
+					</tr>
+				</tbody>
+			</table>
+		</figure>
+		<p>
+			The <em>MathML invisible times</em> character (theoretically) actually works in all XML languages (such as RSS, Atom, OPML, etc), since it comes from UNICODE.
+			(I.e., the <em>invisible times</em> character is actually the UNICODE <em>invisible times</em> character that, like all XML-based languages, MathML supports.)
+		</p>
+		<p>
+			(In addition to working in MathML and other XML-based markups, this entity will also work in HTML.)
+		</p>
+
+		<h2>Warning</h2>
+		<p>
+			There is also a MathML entity name for the <em>invisible times</em> character: <code class="mathml">&amp;InvisibleTimes;</code>.
+			<strong>I recommend AGAINST using this named version of the entity.</strong>
+			The reason is that if your MathML code gets embedded into other kinds of markup (like HTML, Atom, RSS, other XML, etc)
+			using the <code class="mathml">&amp;InvisibleTimes;</code> version of the entity may actually break things (due to invalid XML).
+			(I'll skip the technical details, but if you're interested it relates to <abbr title="Document Type Definition">DTD</abbr>s.)
+			For this reason <strong>I strongly recommend FOR using the <code class="mathml">&amp;#8290;</code></strong> entity whenver you want to create an <em>invisible times</em>.
+		</p>
+		<p>
+			If that last paragraph didn't make sense, just ignore it.
+			The take-away-message is simply to use the <code class="mathml">&amp;#8290;</code> entity to create an <em>invisible times</em>.
+		</p>
+
+		<h2>Example</h2>
+		<p>
+			Here's sample MathML markup using the <em>invisible times</em> character:
+		</p>
+		<pre><code>
+&lt;mrow&gt;
+    &lt;mn&gt;
+        5
+    &lt;/mn&gt;
+    &lt;mo&gt;
+        <em>&amp;#8290;</em>
+    &lt;/mo&gt;
+    &lt;mi&gt;
+        n
+    &lt;/mi&gt;
+&lt;/mrow&gt;
+		</code></pre>
+		<p>
+			Which gives you:
+		</p>
+		<figure>
+			<math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
+				<mrow>
+					<mn>
+						5
+					</mn>
+					<mo>
+						&#8290;
+					</mo>
+					<mi>
+						n
+					</mi>
+				</mrow>
+			</math>
+		</figure>
+
+		<h2>The Pith</h2>
+		<p>
+			So, the <em>MathML invisible times</em> is created by using the <code>&amp;#8290;</code> entity.
+		</p>
+
+		<address class="vcard">
+			-- <a rel="author" class="fn n url" href="http://changelog.ca/"><span class="given-name">Charles</span> <span class="additional-name">Iliya</span> <span class="family-name">Krempeaux</span></a>
+		</address>
+	</div>
+	</content>
+</entry>

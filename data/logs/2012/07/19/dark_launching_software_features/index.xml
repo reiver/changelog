@@ -1,0 +1,603 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2012-07-19T17:34:05-0700</published>
+
+	<id>39c36581-2648-471d-b4a7-75a123772761</id>
+
+	<category term="Software Engineering" />
+	<category term="Software Management" />
+
+	<title>Dark Launching Software Features</title>
+
+	<content type="xhtml">
+	<div xmlns="http://www.w3.org/1999/xhtml">
+		<p>
+			Having used <em>dark launching</em> for a little while now, I've found that it helps improve, not only the efficiency of a software development team, but also helps increases the rate of flow which new features are "put in hands" of users.
+		</p>
+		<p>
+			(This post serves to document my current impression &amp; experience with it.)
+		</p>
+		<p>
+			This technique that I'm calling "<em>dark launching</em>" is also known as
+			"<em>branching in code</em>",
+			"<em>feature flags</em>",
+			"<em>feature bits</em>",
+			"<em>feature toggles</em>",
+			"<em>flag flippers</em>",
+			and "<em>latent code</em>".
+			I like "<em>dark launching</em>", so I'll mostly use that in this post :-)
+		</p>
+		<p>
+			<em>Dark launching</em> help make it so there is no need to let releases of completed features be held up until one or more incomplete features are done.
+			<em>Dark launch</em> each incomplete feature (so that it is <em>inert</em> and <em>disabled</em> on production), and launch whenever you want so that complete features "get into the hands" of your users ASAP.
+			(Note, typically software engineers and other developers will add special code to enable <em>dark launching</em> as part of their engineering or development process.)
+		</p>
+		<p>
+			(There are more use cases for <em>dark launching</em> later in this post.)
+		</p>
+		<p>
+			Also, this means that there's no need to resort to the pain of branching strategies (in code revision systems);
+			or at least, you won't have to resort to it as often.
+			You can (tend to) avoid the problems with merging.
+			Avoid the problems with critical fixes on release branches, and merging those back to the main development branch.
+			And avoid the difficulties with maintaining multiple divergent versions of your code (in the various branches).
+		</p>
+		<p>
+			And it can put you on the path towards and help enable you in doing releases multiple times per day.
+			It can also put you on the path towards and help enable you to <em>always ship from trunk</em> (in the code revision system).
+			(Yes, there's reasons you would want to release from trunk, but the reasons are beyond the scope of this post.)
+		</p>
+		<p>
+			(Note that to make this work well, things such as unit tests, software testing frameworks (such as <a rel="nofollow" href="http://seleniumhq.org/">selenium</a>), smoke tests, and continuous integration should be in place first.)
+		</p>
+
+		<section>
+			<h2>What is Dark Launching</h2>
+			<p>
+				<em>Dark launching</em> is a technique of "wrapping" the code of new software features in a way that let you turn them <em>on</em> or <em>off</em>.
+				Perhaps turning them <em>on</em> and <em>off</em> for all your users, or perhaps turning them <em>on</em> and <em>off</em> for only a subset of your users (that meet some criteria).
+			</p>
+			<p>
+				(There are explicit examples of this in PHP, JavaScript, CSS, etc code later in this post.)
+			</p>
+			<p>
+				The <em>dark launching</em> subsystem also tends to expose some kind of administrative interface so that <em>features</em> can be managed.
+			</p>
+			<p>
+				For example, so that someone on the marketing team can turn on a feature just before they send out a press release.
+				Or, for example, so that <em>ops</em> can turn on a feature for 10% of the users, and monitor the servers to make sure no problems arise, before ramping it up to 20%, 40%,... and finally 100%.
+				Or even, for example, so that QA can turn on a feature whose code is already in production but hadn't a chance to test yet.
+			</p>
+			<p>
+				It's also a good idea for this <em>dark launching</em> subsystem to log when by whom the status of a feature is changed, such as turning them <em>on</em> or <em>off</em>, changing percentages, etc.
+			</p>
+		</section>
+
+		<section>
+			<h2>Why is Dark Launching Useful</h2>
+			<p>
+				Obviously, <em>dark launching</em> is useful in cases where you want to turn a software <em>feature</em> <em>on</em> or <em>off</em>.
+				But what are the details of this want?
+			</p>
+			<p>
+				One example would be if you may want to do a <em>private beta</em> release, where only a select few users or (users in) a select few organizations can see, try out, and (hopefully) report problems with a new feature.
+				(A good way of doing testing on production.)
+			</p>
+			<p>
+				Another example is if you are developing a new feature, and want to commit your code in logical chunks, but the feature as a whole is not ready and should not show up on production yet.
+				(This is a very important use case for feature dark launching.)
+			</p>
+			<p>
+				Yet another example would be if you want to release a new feature to all your users at a specific date;
+				perhaps to time it with a press release from the marketing department.
+			</p>
+			<p>
+				Another example would be if you are not yet confident in how stable or how scalable a new feature is, and you want to test it on only a small percentage of your user base (perhaps 5% or whatever you want to set it to) and not all of them.
+				That way if there are problems with it, you don't piss off your entire user base, and problems can be worked out before the feature is released to all your users.
+			</p>
+		</section>
+
+
+		<section>
+			<h2>Feature Dark Launching Types</h2>
+			<p>
+				As you can probably infer from my examples, there's a number of <em>ways</em> you may want to dark launch a feature -- a number of dark launching <em>types</em>.
+			</p>
+			<p>
+				The types I am familiar with are:
+				<em>boolean</em>,
+				<em>percentage</em>,
+				<em>list</em>,
+				<em>identity</em>,
+				and <em>nil</em>.
+			</p>
+			<p>
+				(There may be other dark launching types you come up with.
+				But these are the types I find useful.)
+			</p>
+			<p>
+				(Note that <em>percentage</em> and <em>list</em> are each not really a single <em>type</em>, but a <em>type</em> of <em>types</em>.
+				It will make more sense later on in this post.)
+			</p>
+
+			<section>
+				<h3>Boolean</h3>
+				<p>
+					Sometimes you just want a <em>feature</em> to be <em>on</em> or <em>off</em>.
+				</p>
+				<p>
+					For example, this is useful if you want to release the code to all your users at a specific date; perhaps to time it with a press release from the marketing department.
+				</p>
+				<p>
+					As another example, this is also useful for being able to commit code to the <em>production</em> (i.e., <em>live</em>!) code base of the software system while the feature is incomplete and still in development.
+					(There's reasons why you may want to be doing this, but they won't be discussed here.)
+				</p>
+				<p>
+					Or, for another example, the code for the feature is already on production but made inert because it is wrapped in dark launching flags.
+					QA finally has time to test the feature, gives the "thumbs up".
+					And then turns on the feature <em>on</em> in production.
+				</p>
+				<p>
+					The <strong>boolean</strong> type will let you do these things.
+				</p>
+			</section>
+
+			<section>
+				<h3>Percentage</h3>
+				<p>
+					Sometimes you may want to release a new <em>feature</em> to just a certain percentage of your users, and not all of them.
+					Thus, for some <em>percentage</em> of your user base, the feature will be <em>on</em> and for the rest of your user base, the feature will be <em>off</em>.
+				</p>
+				<p>
+					For example, perhaps you are not yet confident in how stable or how able to scale a new feature is, and you want to test it on only a small percentage of your user base (perhaps 11%) and not all of them, so that you don't piss off your entire user base if there is a problem.
+					(In this example, the users in the <em>percentage of your user base</em>, should stay the same.
+					Meaning, if Tom, Dick and Harry are in that 11%, then they should stay in that 11%, and not be switched out with other people.
+					You'd probably implement this based on <em>user ID</em> or a <em>tracking code</em> or something like that.)
+				</p>
+				<p>
+					Or, for example, perhaps the ops team wants to stress test a new service, under production load patterns.
+					So, they decide they'll start off such that 12% of the users will, from the users point-of-view, secretly make a API call to the service, when users visit a certain page.
+					So, this will happen every time a user, who is randomly chosen in the 12%, loads a certain page.
+					If the first stress test passes, the ops team can increase that load test to 25%.
+					Then 50%.
+					Etc.
+					(For this kind of <em>percentage</em> type, choosing users with a random number generator makes the most sense.)
+				</p>
+				<p>
+					The <strong>percentage</strong> type will let you do these things.
+				</p>
+				<p>
+					As you can probably infer from the examples, the <em>percentage</em> type can come in different "flavors".
+					And really, there's more than one percentage type.
+					(Ex: the "<em>percentage user</em>", "<em>percentage cookie</em>", "<em>percentage random</em>", "<em>percentage group</em>", etc.)
+				</p>
+				<p>
+					(Note, although you could use a percentage <em>dark launching</em> feature flag for things such as <em>a/b testing</em>, it's better not to.
+					If you are using <em>dark launching</em> properly, you'll be removing feature flags within a couple weeks to a month of creating them (if not sooner).
+					For <em>a/b testing</em>, you should create/use something specially created for that purpose, and not overload your <em>dark launching</em> subsystem.)
+				</p>
+			</section>
+
+			<section>
+				<h3>List</h3>
+				<p>
+					Sometimes you have a list of <em>something</em> that tells you who may have access to the feature.
+				</p>
+				<p>
+					For example, perhaps you want to list <em>user IDs</em> of users who may access the feature.
+					This list could be your private beta testers.
+				</p>
+				<p>
+					Or for example, perhaps you want to list some kind of <em>group ID</em>, and all the users in those groups may access the feature.
+					Perhaps the <em>group ID</em> is an <em>organization ID</em>, and you are only letting users in a handful of organizations see the feature.
+				</p>
+				<p>
+					The <strong>list</strong> type will let you do this.
+				</p>
+				<p>
+					As you can probably infer from the examples, the <em>list</em> type can come in different "flavors".
+					(The type of <em>group IDs</em> that you have will depend on what type of groups are modelled in your software system.
+					For example, organization, sports teams, families, or whatever <em>groups</em> you system has modelled.)
+				</p>
+				<p>
+					(Note, although you could use a list <em>dark launching</em> feature flag for things such as <em>entitlements</em>, it's better not to.
+					If you are using <em>dark launching</em> properly, you'll be removing feature flags within a couple weeks to a month of creating them.
+					For <em>entitlements</em>, you should create/use something specially created for that purpose, and not overload your <em>dark launching</em> subsystem.)
+				</p>
+			</section>
+
+			<section>
+				<h3>Identity</h3>
+				<p>
+					The <em>identity</em> type is very simple.
+					It is always <em>on</em>! and cannot be turned <em>off</em>.
+				</p>
+				<p>
+					(For the math-inclined, think of it like multiplying the number 1 to anything.
+					It doesn't change anything.)
+				</p>
+				<p>
+					Note that once a <em>dark launching</em> feature flag has gotten to the point where you set the type to <em>identity</em>, you should remove the feature flag from the code and the database soon.
+				</p>
+			</section>
+
+			<section>
+				<h3>Nil</h3>
+				<p>
+					The <em>nil</em> type is also very simple.
+					It is always <em>off</em>! and cannot be turned <em>on</em>.
+				</p>
+				<p>
+					(For the math-inclined, think of it like multiplying the number 0 to anything.
+					It turns it to "nothing".)
+				</p>
+				<p>
+					Note that once a feature flag has gotten to the point where you set the type to <em>nil</em>, you should remove flag from the code and database <strong>AND</strong> <u>remove the code it wraps</u> soon.
+				</p>
+			</section>
+		</section>
+
+		<section>
+			<h2>In The Code</h2>
+			<p>
+				It may be best to see what this looks like when used in the code.
+			</p>
+			<p>
+				I've kept these examples very very simple.
+				(Although often your usage may be this simple.
+				Which can be a good thing.)
+			</p>
+			<p>
+				Let's take a look....
+			</p>
+
+			<section>
+				<h3>PHP</h3>
+				<p>
+					Here's how usage in <a rel="nofollow" href="http://php.net/">PHP</a> might look like:
+				</p>
+<pre><code class="php">
+// Some code
+
+if (  <em>Feature::isEnabled('MY_NEW_FEATURE')</em>  ) {
+
+    // Feature specific code here.
+
+}
+
+// More code
+
+</code></pre>
+			</section>
+
+			<section>
+				<h3>JavaScript</h3>
+				<p>
+					In JavaScript there would be something similar:
+				</p>
+<pre><code class="javascript">
+// Some code
+
+if (  <em>Feature.isEnabled("MY_NEW_FEATURE")</em>  ) {
+
+    // Feature specific code here.
+
+}
+
+// More code
+
+</code></pre>
+			</section>
+
+			<section>
+				<h3>Smarty</h3>
+				<p>
+					In <a rel="nofollow" href="http://www.smarty.net/">Smarty</a>, you could have a custom Smarty filter help you with this, as in:
+				</p>
+<pre><code class="smarty">
+&lt;!-- Some code --&gt;
+
+{% if <em>'MY_NEW_FEATURE'|feature_is_enabled</em> %}
+
+    &lt;!-- Feature specific code here. --&gt;
+
+{% if %}
+
+&lt;!-- More code --&gt;
+
+</code></pre>
+				<p>
+					Or, you could even create your own custom Smarty <em>tag block</em> to handle this:
+				</p>
+<pre><code class="smarty">
+&lt;!-- Some code --&gt;
+
+<em>{% feature code='MY_NEW_FEATURE' %}</em>
+
+    &lt;!-- Feature specific code here. --&gt;
+
+<em>{% /feature %}</em>
+
+&lt;!-- More code --&gt;
+
+</code></pre>
+			</section>
+
+			<section>
+				<h3>CSS</h3>
+				<p>
+					In CSS you could do something such as:
+				</p>
+<pre><code class="html">
+&lt;!-- Some code --&gt;
+
+&lt;div class="<em>feature</em> <em>feature-MY_NEW_FEATURE</em>"&gt;
+
+    &lt;!-- Feature specific code here. --&gt;
+
+&lt;/div&gt;
+
+&lt;!-- More code --&gt;
+
+</code></pre>
+				<p>
+					Where the "<code class="css">feature</code>" CSS class would have the definition:
+				</p>
+<pre><code class="css">
+div.<em>feature</em> {
+    <strong>display:none;</strong>
+}
+
+</code></pre>
+				<p>
+					And you could have a (perhaps PHP based) dynamically generated CSS file that defines the "<code class="css">feature-MY_NEW_FEATURE</code>" CSS class and other <em>feature flag</em> CSS classes.
+					For example:
+				</p>
+<pre><code class="php">
+&lt;?php
+
+header('Content-type:text/css');
+
+?&gt;
+
+/* other feature flag codes */
+
+&lt;?php if(  Feature::isEnabled('MY_NEW_FEATURE')  ): ?&gt;
+    div.<em>feature-MY_NEW_FEATURE</em> {
+        <strong>display:block;</strong>
+    }
+&lt;?php endif; ?&gt;
+
+/* more feature flag codes */
+
+</code></pre>
+				<p>
+					You'd want these CSS definitions to appear or be included (with the HTML <code class="html">&lt;link&gt;</code> element) in this order, to get the cascading to work properly!
+				</p>
+			</section>
+		</section>
+
+
+		<section>
+			<h2>More In The Code</h2>
+			<p>
+				Other patterns you'll see in the code will use (various styles of) else-clauses.
+				For a PHP example:
+			</p>
+<pre><code class="php">
+// Some code
+
+if (  <em>Feature::isEnabled('MY_NEW_FEATURE')</em>  ) {
+
+    // Dark Launched Feature specific code here.
+
+} else {
+
+    // Non-Dark Launched version.
+
+}
+
+// More code
+
+</code></pre>
+			<p>
+				And also for a Smarty example:
+			</p>
+<pre><code class="smarty">
+&lt;!-- Some code --&gt;
+
+<em>{% feature code='MY_NEW_FEATURE' %}</em>
+
+    &lt;!-- Dark Launched Feature specific code here. --&gt;
+
+<em>{% feature_else %}</em>
+
+    &lt;!-- Non-Dark Launched version. --&gt;
+
+<em>{% /feature %}</em>
+
+&lt;!-- More code --&gt;
+
+</code></pre>
+			<p>
+				You may also need to explicitly look up if a specific ID in a <strong>list</strong> type has access to the dark launched feature or not.
+				(Perhaps because there is no implicit context due to a logged in user, because you are running from a <em>cron job</em> or <em>daemon job</em>.)
+				For example:
+			</p>
+<pre><code class="php">
+// Some code
+
+if (  <em>Feature::isEnabledInList('MY_NEW_FEATURE', $id)</em>  ) {
+
+    // Dark Launched Feature specific code here.
+
+} else {
+
+    // Non-Dark Launched version.
+
+}
+
+// More code
+
+</code></pre>
+		</section>
+
+
+		<section>
+			<h2>Database Design</h2>
+			<p>
+				There's of course, various ways you can design the database for dark launching features.
+				And various places you can store said database.
+			</p>
+			<p>
+				You could put it right in the code as an <em>associative array</em> or a set of constants.
+				You could use a relational database, such as <a rel="nofollow" href="http://www.mysql.com/">MySQL</a>.
+				You could use a non-relation database, such as <a rel="nofollow" href="http://www.mongodb.org/">MongoDB</a>, <a rel="nofollow" href="https://github.com/basho/riak/">Riak</a> or <a rel="nofollow" href="http://redis.io/">Redis</a>.
+				Etc.
+			</p>
+			<p>
+				Either way, conceptually one way you could design your feature database, which can be used for dark launching is like the following.
+				(Note, I've tried to keep this very simple.
+				You could modify this design to include <em>foreign keys</em> and <em>referential integrity</em>.)
+			</p>
+
+			<br />
+			<figure>
+				<table>
+					<thead>
+						<tr>
+							<th style="border:1px solid black;padding:7pt;font-weight:bold;text-align:center;">
+								Field Name
+							</th>
+							<th style="border:1px solid black;padding:7pt;font-weight:bold;text-align:center;">
+								Type
+							</th>
+							<th style="border:1px solid black;padding:7pt;font-weight:bold;text-align:center;">
+								Notes
+							</th>
+						</tr>
+					</thead>
+
+					<tbody>
+						<tr>
+							<td style="border:1px solid black;padding:7pt;font-family:monospace;">
+								id
+							</td>
+							<td style="border:1px solid black;padding:7pt;">
+								<em>ID</em> type.
+								<br /><br />
+								In MySQL this would probably be an <code class="mysq;">INT</code>, such as <code class="mysql">5812</code>.
+								<br /><br />
+								In MongoDB this would probably be an <code class="mongodb">ObjectId</code>, such as <code class="mongodb">ObjectId( "47cc67093475061e3d95369d" )</code>.
+							</td>
+							<td style="border:1px solid black;padding:7pt;">
+								The primary key of the database.
+							</td>
+						</tr>
+						<tr>
+							<td style="border:1px solid black;padding:7pt;font-family:monospace;">
+								code
+							</td>
+							<td style="border:1px solid black;padding:7pt;">
+								<em>string</em> or <em>enumeration</em> type.
+							</td>
+							<td style="border:1px solid black;padding:7pt;">
+								A unique key on the database.
+								<br /><br />
+								This is used in the (PHP, JavaScript, CSS, etc) code, rather than the primary key, to put code into a feature for dark launching.
+								<br /><br />
+								For example: "<code>MY_NEW_FEATURE</code>", "<code>DEMOGRAPHIC_REPORT</code>" or "<code>TAG_CLOUD</code>".
+								<br /><br />
+								You may want to employ some kind of name spacing mechanism, for your dark launching feature flag codes, especially if you have multiple teams creating these and coordination becomes a bit challenging.
+								<br /><br />
+								You should ensure that this field is indexed.
+							</td>
+						</tr>
+						<tr>
+							<td style="border:1px solid black;padding:7pt;font-family:monospace;">
+								type
+							</td>
+							<td style="border:1px solid black;padding:7pt;">
+								<em>string</em> or <em>enumeration</em> type.
+							</td>
+							<td style="border:1px solid black;padding:7pt;">
+								The type determines the restrictions and permissions for who does and doesn't have access to the feature being dark launched.
+								<br /><br />
+								Ex:
+								<em>boolean</em>,
+								(the various "flavors" of) <em>percentage</em>,
+								(the various types of) <em>list</em>,
+								<em>identify</em>,
+								<em>nil</em>,
+								etc.
+							</td>
+						</tr>
+						<tr>
+							<td style="border:1px solid black;padding:7pt;font-family:monospace;">
+								value
+							</td>
+							<td style="border:1px solid black;padding:7pt;">
+								<em>string</em> or <em>multi</em> type.
+							</td>
+							<td style="border:1px solid black;padding:7pt;">
+								What is used to determine if/when the feature is <em>on</em> or <em>off</em>.
+								<br /><br />
+								The meaning of this field is dependent of what the <code>type</code> field is!
+								<br /><br />
+								If this is a <em>boolean</em> type, then it might have a value of "<em>1</em>" or "<em>0</em>".
+								<br /><br />
+								If this is one of the "flavors" of the <em>percentage</em> type, the value would be any number from "<em>0</em>" to "<em>100</em>", which represents a percent.
+								So, for example, a value of "<em>14</em>", then that means 14%.
+								<br /><br />
+								If this is one of the "flavors" of the <em>list</em> type, the value would be a list of some sort of IDs.
+								So, for example, a value of "<em>10,581,589,1442,10018</em>", then that means we have a list of 5 IDs: 10, 581, 589, 1442, 10018; and (if this isn't a list of users already then) somehow we use this to come up with a list of users.
+								(Note, with this simple design you don't have <em>foreign keys</em> or <em>referential integrity</em>, for these IDs.
+								You could alter the database design to include that if you wanted.)
+								<br /><br />
+								For the <em>identity</em> and <em>nil</em> types the value doesn't matter!
+							</td>
+						</tr>
+					</tbody>
+				</table>
+			</figure>
+
+			<p>
+				You could also add fields that let QA specify that the feature has been QA.
+				(And if it hasn't been, then no matter what the "<code>value</code>" is, it won't be turned <em>on</em>.)
+			</p>
+			<p>
+				A "<em>description</em>" field could also make the dark launch feature flags easier to manage.
+			</p>
+			<p>
+				If you wanted, you could also probably just use the "<code>code</code>" as the primary key of your database, and get rid of the "<code>id</code>" field altogether.
+			</p>
+			<p>
+				(Also, in case it needs to be said, you will probably want to engage in some kind of caching scheme.
+				Perhaps using <a rel="nofollow" href="http://memcached.org/">memcache</a> and other methods.
+				But that's really a larger <em>system architecture</em> question to address.)
+			</p>
+		</section>
+
+		<section>
+			<h2>Clean Up</h2>
+			<p>
+				It's a good idea to clean up your <em>dark launching</em> feature flag code once there's no longer a need for it.
+				Remove it's usage in the code.
+				Remove it's entry from the feature database.
+			</p>
+			<p>
+				Really, this is a very important part of their usage.
+				And you should probably schedule this to be done.
+				Perhaps put something in your calendar to remind you in 2 weeks or a month.
+				Or, if your issue tracking system supports it, create a ticket to do this to be worked on in the near future.
+			</p>
+		</section>
+
+
+		<address class="vcard">
+			-- <a rel="author" class="fn n url" href="http://changelog.ca/"><span class="given-name">Charles</span> <span class="additional-name">Iliya</span> <span class="family-name">Krempeaux</span></a>
+		</address>
+	</div>
+	</content>
+</entry>

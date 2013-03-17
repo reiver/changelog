@@ -1,0 +1,87 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2012-07-18T22:01:18-0700</published>
+
+	<id>27c61d335-fdc1-4e01-bbe2-234dd0d9e53e</id>
+
+	<category term="Software Engineering" />
+	<category term="Software Management" />
+
+	<title>Kanban versus Systemizing?</title>
+
+	<content type="xhtml">
+	<div xmlns="http://www.w3.org/1999/xhtml">
+		<p>
+			<em>Kanban</em> is a process used for organizing software development teams.
+			It has pros and cons.
+			And one software development team's implementation of <em>Kanban</em> can be different from another software development team's implementation.
+			(<em>Kanban</em> is even used in non-software development environments too, such as <a href="http://changelog.ca/quote/2012/07/22/coffee_cup_kanban">coffee shops</a>, <a href="http://changelog.ca/quote/2012/07/23/park_kanban">parks</a>, etc.)
+		</p>
+		<p>
+			Each team or company that uses the <em>Kanban</em> process will likely end up with a different implementations (even if they will share some similarities).
+		</p>
+		<p>
+			With one <em>Kanban</em> implementation I've seen (in a software development environment) it had a problem in that it didn't <em>naturally</em> allow for <em>refactoring</em> and other <em>systemizing</em> activities which software engineers naturally do (and often enjoy doing), which reduce "technical debt" and code "brittleness".
+			This kind of activity (when not prevented from happening) also has the nice side effect of tending to increase code quality.
+		</p>
+		<p>
+			(Not allowing engineers to do these systemizing activities also negatively affects their <em>eudaimonia</em>, which can have other negative consequences.)
+		</p>
+		<p>
+			I think part of the problem is that the people creating tasks to be "pulled" (who in this instance tended to be non-software engineers) lack the <strong>local knowledge</strong><sup>*</sup> (and often also lack the technical skill and natural ability) of the engineers necessary to create systemizing-tasks.
+			And there's either no natural "path" for systemizing-tasks to be created, or there isn't a culture (in the team or company) where it is acceptable for software engineers to create systemizing-tasks and be worked on.
+		</p>
+		<p>
+			When practised this way, <em>Kanban</em> retards,if not prevents this type of self-organization.
+		</p>
+		<p>
+			Now, I see no reason why <em>Kanban</em> has to be practised this way.
+			#1 there should be a "path" for software engineers to create these systemizing-tasks.
+			#2 these types of systemizing-tasks should be taken seriously and a some time given priority.
+			#3 there should be a culture around where such software engineer created systemizing-tasks are not only acceptable but encouraged.
+		</p>
+		<p>
+			(As an extra boon, such a systemizing-friendly system can also be part of what goes towards implementing the <a href="http://changelog.ca/quote/2011/08/25/palchinsky_principles">Palchinsky Principles</a> within an organization.)
+		</p>
+
+		<br />
+		<p>
+			<strong>*</strong> Here, I mean <em>local knowledge</em> in the sense that <em>Friedrich von Hayek</em> used the phrase.
+		</p>
+		<br />
+
+		<p>
+			####
+		</p>
+
+		<p>
+			Here's an example.
+			A software engineer and an ops person were sitting down together working on solving a problem with a release.
+			After a couple hours, they realize that the problem is that #1 their new server cannot access another server (due to network wide security configurations)
+			and #2 the <a rel="nofollow" href="http://curl.haxx.se/">cURL</a>-based code (in <a rel="nofollow" href="http://php.net/">PHP</a>) does not "bubble up" these kinds of errors in a meaningful way that ops will see!			and #3 there are a lot of places in the code like this!
+		</p>
+		<p>
+			Because there are other higher priority tasks at the moment (and it is late in the day and both of them are a bit tired) they create a <em>systemizing task</em> to have all these PHP-based cURL code like this refactored (perhaps unifying them in one spot, via OOP inheritance) and have proper handling of this error added, so that they aren't "burned" by the problem in the future.
+		</p>
+		<p>
+			This example is actually real.
+			And this was closed by one of the manager a few days later (as "won't fix").
+		</p>
+		<p>
+			This manager actually happened to be technically inclined, but lacked <strong>local knowledge</strong> of the situation.
+			I think if the manager had the <strong>local knowledge</strong> of the engineer and the ops person involved they wouldn't have closed it so readily.
+		</p>
+		<p>
+			A week later, (it was eventually figured out that) this same problem stopped an analytics subsystem from working, for over a week.
+			(Obviously not something the manager could have known or even intended.
+			But the <strong>local knowledge</strong> of the situation suggested this type of thing was, and still is, a problem with the system.)
+		</p>
+
+
+		<address class="vcard">
+			-- <a rel="author" class="fn n url" href="http://changelog.ca/"><span class="given-name">Charles</span> <span class="additional-name">Iliya</span> <span class="family-name">Krempeaux</span></a>
+		</address>
+	</div>
+	</content>
+</entry>

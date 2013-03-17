@@ -1,0 +1,72 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2013-01-13T10:07:51-0800</published>
+
+	<id>18311753-0a74-497b-8568-3591a3a9a7aa</id>
+
+	<category term="Artificial Intelligence" />
+	<category term="Computer Science" />
+	<category term="Machine Learning" />
+
+	<title>Ignorant Thoughts on Sequence Memory</title>
+
+	<content type="xhtml">
+	<div xmlns="http://www.w3.org/1999/xhtml">
+		<p>
+			These thoughts are probably said in ignorance, from a light reading of Jeff Hawkins' paper on <em>sequence memory</em> ("<a rel="nofollow" href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2666719/">Sequence memory for prediction, inference and behaviour</a>"), from the point of view of implementing it.
+		</p>
+		<p>
+			My initial guess at implementing and applying a Hawkins' Sparse Distributed Memory is that you would bucketize any (input) signal and each bucket will be seen as an "input pattern" which a column of cells will become receptive to.
+		</p>
+		<p>
+			So for example, if you (conceptually) have a signal of real values that ranges from 1 to 10 (ex: 3.772, 4, 9.88834, etc) then you would divide this <em>total order</em> of (bounded but) infinite values into buckets, such that a bucket is defined by <code>a &#8804; x &lt; b</code> (or <code>a &lt; x &#8804; b</code>).
+		</p>
+		<p>
+			You could make it easy on yourself and make all the buckets the same length.
+			Or may not.
+		</p>
+		<p>
+			You could make it so none of the buckets overlap, while still covering the manifold.
+			Or perhaps overlap is useful.
+		</p>
+		<p>
+			Perhaps buckets that don't use the total ordering of the manifold may be useful too. 
+			(For a simple example, whether the floor of the signal is odd or even.) 
+		</p>
+		<p>
+			Not depending on a total ordering also makes sense when you input signal doesn't have a natural total ordering. 
+			(For example, if you are dealing with a text tags.) 
+		</p>
+		<p>
+			Potentially, a signal could map into multiple buckets and there could be multiple columns which are receptive to it. 
+		</p>
+
+		<h2>Bucket Splitting</h2>
+		<p>
+			Another thought on the buckets....
+			If a bucket is "hit" a lot it could be an indication that that subset of the raw input signal does not have enough fine grained coverage.
+		</p>
+		<p>
+			One <em>could</em> then create additional buckets that cover subsets, but the original high hit bucket would continue to get "hit" a lot. 
+			Thus causing you to keep on creating more and more sub-buckets.
+		</p>
+		<p>
+			That could be problematic.
+		</p>
+		<p>
+			However, getting rid of the original high "hit" bucket to be replaced by the sub-buckets could be problematic too.
+			Although if one would maintain the lateral connections into the new sub-buckets &amp; completely cover the manifold, it might be less bad.
+		</p>
+		<p>
+			But would you loose the ability to notice high order patterns if you do this? 
+			Perhaps that's why a hierarchy is important. So that higher order patterns are still recognized. 
+		</p>
+
+
+		<address class="vcard">
+			-- <a rel="author" class="fn n url" href="http://changelog.ca/"><span class="given-name">Charles</span> <span class="additional-name">Iliya</span> <span class="family-name">Krempeaux</span></a>
+		</address>
+	</div>
+	</content>
+</entry>

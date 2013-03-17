@@ -1,0 +1,141 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2012-10-25T12:21:10-0700</published>
+
+	<id>cd08c035-b14a-4386-9e2c-1bd58a39b448</id>
+
+	<category term="Identify" />
+	<category term="Privacy" />
+	<category term="Security" />
+
+	<title>IIW 15: User Experience &amp; Single Sign-On</title>
+
+	<content type="xhtml">
+	<div xmlns="http://www.w3.org/1999/xhtml">
+		<p>
+			I was at the <a rel="nofollow" href="http://www.internetidentityworkshop.com/">Internet Identity Workshop</a> (<abbr title="Internet Identity Workshop">IIW</abbr>) 15, in Mountain View near San Francisco.
+			I attended a number of the sessions, during this unconference.
+			One of the sessions I attended was a <em>user experience</em> session hosted by (I think) <a rel="nofollow" href="http://skypejournal.com/">Phil Wolff</a>.
+		</p>
+		<p>
+			During the session, it was noted that in a household environment, there is also a household (group) identity and not just individual identity.
+			I have had this complaint for a long time!
+		</p>
+		<p>
+			A question that was raise was: should devices store your preference settings, when dealing with (single sign-on and identity)?
+		</p>
+		<p>
+			It was noted that, a motivation for consistent User Experience with Single Sign-on with devices is (partially) less cognitive burden.
+		</p>
+		<p>
+			What follows are my notes from that session.
+			Basically a copy of what was on the whiteboard.
+		</p>
+
+
+		<h2>Why?</h2>
+		<p>
+			&#183; Usability
+		</p>
+		<p>
+			&#183; Less Cognitive Burden
+		</p>
+		<p>
+			&#183; Fewer Errors
+		</p>
+		<p>
+			&#183; Lower Fraud
+		</p>
+
+
+		<h2>What?</h2>
+		<p>
+			&#183; Support for many ID / namespace models
+		</p>
+		<p>
+			&#183; Degrees of Security / Scope
+		</p>
+		<p>
+			&#183; Pseudonymous, Anonymous, "Real"
+		</p>
+		<p>
+			&#183; Fewer Errors
+		</p>
+		<p>
+			&#183; Single, Collection, Roles
+		</p>
+		<p>
+			&#183; Hello? Hello!
+		</p>
+		<p>
+			&#183; Culture, Generation, Language
+		</p>
+		<p>
+			&#183; Delegation
+		</p>
+
+
+		<h2>How?</h2>
+		<p>
+			&#183; OAuth dance
+		</p>
+		<p>
+			&#183; Account Chooser
+		</p>
+		<p>
+			&#183; Password Challenge
+		</p>
+		<p>
+			&#183; Out of Band Challenge
+		</p>
+		<p>
+			&#183; OpenID
+		</p>
+		<p>
+			&#183; Gesture patterns
+		</p>
+		<p>
+			&#183; Biometric Passive (Observed)
+		</p>
+		<p>
+			&#183; Modality Touch / Speech / etc
+		</p>
+
+
+		<h2>Common Flows</h2>
+<pre>
+
+Before          During                                      After
+&#8594; &#8594; &#8594; &#8594; &#8594; &#8594; &#8594; &#8594; &#8594; &#8594; &#8594; &#8594; &#8594; &#8594; &#8594; &#8594; &#8594; &#8594; &#8594; &#8594; &#8594; &#8594; &#8594; &#8594; &#8594; &#8594; &#8594; &#8594; &#8594; &#8594; &#8594; &#8594; &#8594;
+Recognition So Far                                           Pass!
+
+Announcement                                            Fail Easy
+   &#8595;
+   &#8595; Directions                                         Fail Hard
+   &#8595;      Assist
+   &#8595;
+   &#8595;
+Disclosures
+
+</pre>
+
+
+
+		<h2>To Do</h2>
+		<p>
+			&#183; Patterns for "During"
+		</p>
+		<p>
+			&#183; Inventory of Problems &amp; Use Cases
+		</p>
+		<p>
+			&#183; List &amp; Cluster ID <abbr title="User Experience">UX</abbr>s
+		</p>
+
+		<address class="vcard">
+			-- <a rel="author" class="fn n url" href="http://changelog.ca/"><span class="given-name">Charles</span> <span class="additional-name">Iliya</span> <span class="family-name">Krempeaux</span></a>
+		</address>
+	</div>
+	</content>
+</entry>

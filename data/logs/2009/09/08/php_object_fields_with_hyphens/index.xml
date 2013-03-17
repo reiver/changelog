@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2009-09-03T21:37:59-0700</published>
+
+	<id>66ded621-c18a-45ce-99ee-efc26e0f00d2</id>
+
+	<category term="PHP" />
+	<category term="Web Development" />
+
+	<title>PHP Object Fields with Hyphens</title>
+
+	<content type="xhtml">
+	<div xmlns="http://www.w3.org/1999/xhtml">
+		<p>
+			Did you know that PHP object fields can have hyphens in them?  Well (if you said "no"), they can.  People sometimes come across these when using <a href="http://php.net/simplexml">SimpleXML</a> to parse an XML language with tags with hyphens in the name.
+		</p>
+		<p>
+			Well, to access the fields with hyphens, you do something like...
+		</p>
+		<pre><code class="php">
+$obj-&gt;{'field-with-a-hyphen'}
+		</code></pre>
+		<p>
+			... and...
+		</p>
+		<pre><code class="php">
+$obj-&gt;{'quote-source'}
+		</code></pre>
+		<p>
+			... and...
+		</p>
+		<pre><code class="php">
+$apple-&gt;{'yellow-banana'}-&gt;{'red-cherry'}
+		</code></pre>
+
+		<address class="vcard">
+			-- <a rel="author" class="fn n url" href="http://changelog.ca/"><span class="given-name">Charles</span> <span class="additional-name">Iliya</span> <span class="family-name">Krempeaux</span></a>
+		</address>
+	</div>
+	</content>
+</entry>

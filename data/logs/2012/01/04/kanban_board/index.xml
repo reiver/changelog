@@ -1,0 +1,66 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2012-01-24T11:03:28-0700</published>
+
+	<id>f3bdb855-8b66-411b-b0e3-e8d6fb7f6c73</id>
+
+	<category term="Software Engineering" />
+	<category term="Software Management" />
+
+	<title>Example Kanban Board</title>
+
+	<content type="xhtml">
+	<div xmlns="http://www.w3.org/1999/xhtml">
+		<p>
+			One thing often in usage with software development teams which employ <em>Kanban</em> is the <strong>Kanban board</strong>.
+			Among other things, it helps visualize workflow.
+		</p>
+		<p>
+			These can be physical or virtual.
+			And each team may have a different board.
+			Here I just document one board that worked for one team:
+		</p>
+		<br />
+		<figure>
+			<table>
+				<tbody>
+					<tr>
+						<td style="border:1px solid black;padding:7pt;">
+							Triage
+						</td>
+						<td style="border:1px solid black;padding:7pt;">
+							Queued
+						</td>
+						<td style="border:1px solid black;padding:7pt;">
+							Impeded While In Development
+						</td>
+						<td style="border:1px solid black;padding:7pt;">
+							In Development
+						</td>
+						<td style="border:1px solid black;padding:7pt;">
+							Ready For QA
+						</td>
+						<td style="border:1px solid black;padding:7pt;">
+							Being QA'ed
+						</td>
+						<td style="border:1px solid black;padding:7pt;">
+							Ready To Release
+						</td>
+					</tr>
+				</tbody>
+			</table>
+		</figure>
+		<br />
+		<p>
+			Just a note that things typically jump from "<em>queued</em>" to "<em>in development</em>".
+			But with the other states (excluding the "<em>impeded while in development</em>" state), it typically went from left-to-right, going from one column to the next.
+		</p>
+
+
+		<address class="vcard">
+			-- <a rel="author" class="fn n url" href="http://changelog.ca/"><span class="given-name">Charles</span> <span class="additional-name">Iliya</span> <span class="family-name">Krempeaux</span></a>
+		</address>
+	</div>
+	</content>
+</entry>

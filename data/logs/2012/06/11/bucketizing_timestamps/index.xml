@@ -1,0 +1,91 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2012-06-11T06:33:51+0000</published>
+
+	<id>d8ee5f59-9988-4a61-b2ab-4c78e6b7bda2</id>
+
+	<category term="PHP" />
+	<category term="Software Engineering" />
+
+	<title>Bucketizing Timestamps Into Fixed Length Time Buckets</title>
+
+	<content type="xhtml">
+	<div xmlns="http://www.w3.org/1999/xhtml">
+		<p>
+			Sometimes when you create a report you want to display an aggregate or summary of you data.
+			For example, perhaps a report that shows the number of e-mails you received per day.
+			Or a report that shows how much revenue a company got per week.
+			Or even a report that shows you (instead of a count) the maximum weight of packages a post office received per year.
+		</p>
+		<p>
+			In general the pattern is,
+			<em>a report that shows you some aggrgate of "X" you have per time period "Y"</em>.
+		</p>
+		<p>
+			When transforming your raw data into data suitable for your report or graph, one of the thing you will (likely) need to do is to figure out which time period -- which fixed length time "bucket" -- your data event should be put into.
+		</p>
+		<p>
+			This isn't difficult to do; and the calculation is straightforward (and can be done in O(1) time -- in <em>constant time</em>).
+			The PHP function below gives you an easy way of taking a timestamp and telling you what "bucket" the timestamp belongs to.
+		</p>
+<pre><code class="php">
+function timestamp_bucketize($t, $edge, $length)
+{
+    $shift = $edge % $length;
+
+    $shift_t = $t - $shift;
+
+    $bucket_begin_timestamp = (floor($shift_t / $length) * $length) + $shift;
+
+    return $bucket_begin_timestamp;
+}
+
+</code></pre>
+		<p>
+			The variable <code class="php">$t</code> is the timestamp.
+		</p>
+		<p>
+			The variable <code class="php">$edge</code> is any valid "bucket" value. (It doesn't matter which one.)
+		</p>
+		<p>
+			The variable <code class="php">$length</code> is the length of time for the "buckets".
+		</p>
+
+		<h2>Example Usage</h2>
+		<p>
+			Here's an example usage....
+		</p>
+		<p>
+			Let's say that you are creating a report, that shows results per day.
+			(Thus for you <code>$length</code> is 86400.
+			86400 is the number of seconds in a day.)
+		</p>
+		<p>
+			Now let's say that you are in Vancouver.
+			(I'm pointing that out because the timezone that Vancouver is in is important.)
+			Since we can pick any "bucket"'s beginning timestamp, we'll convert
+			<em>June 17, 2012 at 12:00AM <abbr title="Pacific Standard Time">PST</abbr></em>
+			(i.e., <em>2012-06-17T00:00:00-08:00</em>)
+			into timestamp (in Unix time / POSIX time).
+			which gives us 1339920000.
+			Thus <code>$edge</code> is 1339920000.
+			(Note, we could have used any valid "bucket" beginning timestamp.
+			For example, we could have used the timestamp for
+			<em>June 16, 2012 at 12:00AM <abbr title="Pacific Standard Time">PST</abbr></em>,
+			<em>June 15, 2012 at 12:00AM <abbr title="Pacific Standard Time">PST</abbr></em>,
+			<em>February 2, 2012 at 12:00AM <abbr title="Pacific Standard Time">PST</abbr></em>,
+			<em>August 3, 1918 at 12:00AM <abbr title="Pacific Standard Time">PST</abbr></em>,
+			etc.)
+		</p>
+		<p>
+			And then, of course, <code>$t</code> is just whatever comes from your data.
+		</p>
+
+
+		<address class="vcard">
+			-- <a rel="author" class="fn n url" href="http://changelog.ca/"><span class="given-name">Charles</span> <span class="additional-name">Iliya</span> <span class="family-name">Krempeaux</span></a>
+		</address>
+	</div>
+	</content>
+</entry>

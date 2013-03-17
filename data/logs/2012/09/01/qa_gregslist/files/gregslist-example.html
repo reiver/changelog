@@ -1,0 +1,613 @@
+<html>
+	<head>
+		<title>gregslist</title>
+
+		<style type="text/css">
+		<!--
+
+			html, body {
+				font-family: sans-serif;
+				font-size: 12pt;
+			}
+
+
+
+			.checkmark, .xmark {
+				font-size: 12pt;
+				font-weight: bold;
+			}
+			.checkmark {
+				color: green;
+			}
+			.xmark {
+				color: red;
+			}
+
+
+
+				.gregslist h1, h1.gregslist {
+					background-color:#eeeeee;
+					color:blue;
+
+					font-size: 14pt;
+					font-family: serif;
+					font-weight: normal;
+
+					padding: 0.2em 0.5em;
+					border: 1px solid #d0d0d0;
+				}
+
+				.gregslist h2, h2.gregslist {
+
+
+					font-size: 11pt;
+					font-weight: bold;
+
+					text-decoration: underline;
+					text-transform: uppercase;
+
+					margin-top: 2em;
+				}
+
+
+
+				.gregslist table, table.gregslist {
+					margin:0;
+					padding:0;
+
+					font-size: 8pt;
+				}
+
+					.gregslist thead th, thead.gregslist th, thead th.gregslist {
+						background-color:#eeeeee;
+
+						text-align: center;
+
+						min-width:4.2em;
+						padding: 0.5em 0.8em;
+						border: 1px solid #d0d0d0;
+					}
+
+					.gregslist tbody td, tbody.gregslist td, tbody td.gregslist {
+						width: 4.2em;
+
+						padding: 0.5em 0.8em;
+						border: 1px solid #d0d0d0;
+					}
+
+					.gregslist tbody td.deved, tbody.gregslist td.deved, tbody td.gregslist.deved,
+					.gregslist tbody td.qaed,  tbody.gregslist td.qaed,  tbody td.gregslist.qaed {
+						text-align: center;
+					}
+
+					.gregslist tbody td.problem,  tbody.gregslist td.problem,  tbody td.gregslist.problem {
+						width: auto;
+					}
+
+
+
+				.gregslist table.legend, table.gregslist.legend {
+					margin:0;
+					padding:0;
+
+					font-size: 8pt;
+				}
+
+					.gregslist table.legend th, table.gregslist.legend th {
+						background-color: LightBlue;
+					}
+
+					.gregslist table.legend td.display, table.gregslist.legend td.display {
+						width: auto;
+					}
+
+		-->
+		</style>
+	</head>
+
+	<body>
+
+		<h1 class="gregslist">gregslist</h1>
+
+
+		<h2 class="gregslist">Functional Problems</h2>
+
+		<table cellspacing="0" class="gregslist">
+			<thead>
+				<tr>
+					<th>
+						Assigned to
+					</th>
+					<th>
+						Reported by
+					</th>
+					<th>
+						Problem
+					</th>
+					<th>
+						Dev'd
+					</th>
+					<th>
+						QA'd
+					</th>
+				</tr>
+			</thead>
+
+			<tbody>
+				<tr>
+					<td>
+						<span style="font-weight:bold;color:darkgreen;">David</span>
+					</td>
+					<td>
+						Greg
+					</td>
+					<td class="problem">
+						Using Back button on profile DHTML popup leaves the greyed-out section on the left hand side.
+					</td>
+					<td class="deved">
+						<span class="checkmark">✔</span>
+					</td>
+					<td class="qaed">
+						<span class="checkmark">✔</span>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<span style="font-weight:bold;color:darkgreen;">David</span>
+					</td>
+					<td>
+						Greg
+					</td>
+					<td class="problem">
+						When a post fails to send (you can just break your auth), the compose window overlaps the text "Compose Message..." over your message.
+					</td>
+					<td class="deved">
+						
+					</td>
+					<td class="qaed">
+						
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<span style="font-weight:bold;color:deeppink;">Alex</span>
+					</td>
+					<td>
+						Greg
+					</td>
+					<td class="problem">
+						Remove geo icon from search input. Network does not support it.
+					</td>
+					<td class="deved">
+						<span class="checkmark">✔</span>
+					</td>
+					<td class="qaed">
+						<span class="checkmark">✔</span>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<span style="font-weight:bold;color:red;">Beier</span>
+					</td>
+					<td>
+						<span style="font-weight:bold;color:goldenrod;">Paul</span>
+					</td>
+					<td class="problem">
+						Clicking on a team you do not have permission to modify throws an exception.
+					</td>
+					<td class="deved">
+						<span class="checkmark">✔</span>
+					</td>
+					<td class="qaed">
+
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<span style="font-weight:bold;"><span style="color:royalblue;">C</span><span style="color:darkred;">h</span><span style="color:royalblue;">a</span><span style="color:darkred;">r</span><span style="color:royalblue;">l</span><span style="color:darkred;">e</span><span style="color:royalblue;">s</span></span>						
+					</td>
+					<td>
+						Greg
+					</td>
+					<td class="problem">
+						Search Stream &gt; Are you able to like a post in a search stream? If not, we should remove the 'like' action icon.
+					</td>
+					<td class="deved">
+						<span class="checkmark">✔</span>
+					</td>
+					<td class="qaed">
+						<span class="checkmark">✔</span>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						
+					</td>
+					<td>
+						<span style="font-weight:bold;color:sienna;">Geo</span>
+					</td>
+					<td class="problem">
+						Event stream for groups showing user events instead of the group events.
+					</td>
+					<td class="deved">
+						
+					</td>
+					<td class="qaed">
+						
+					</td>
+				</tr>
+				<tr>
+					<td>
+						
+					</td>
+					<td>
+						<span style="font-weight:bold;color:red;">Beier</span>
+					</td>
+					<td class="problem">
+						Deleting team tab does not work.
+					</td>
+					<td class="deved">
+						
+					</td>
+					<td class="qaed">
+						
+					</td>
+				</tr>
+				<tr>
+					<td>
+						
+					</td>
+					<td>
+						<span style="font-weight:bold;color:sienna;">Geo</span>
+					</td>
+					<td class="problem">
+						In IE, team picker does not work.
+					</td>
+					<td class="deved">
+						
+					</td>
+					<td class="qaed">
+						
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<span style="font-weight:bold;color:deeppink;">Alex</span>
+					</td>
+					<td>
+						Greg
+					</td>
+					<td class="problem">
+						Comment pop-up - if you click any avatars you get a popup that says "Information does not exist".
+					</td>
+					<td class="deved">
+						<span class="checkmark">✔</span>
+					</td>
+					<td class="qaed">
+						<span class="checkmark">✔</span>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						
+					</td>
+					<td>
+						Greg
+					</td>
+					<td class="problem">
+						Quick Search - escaped characters problem. if you search for "Greg Williams" then save stream, it will title the Stream "Greg%20Williams".
+					</td>
+					<td class="deved">
+						
+					</td>
+					<td class="qaed">
+						
+					</td>
+				</tr>
+				<tr>
+					<td>
+						
+					</td>
+					<td>
+						
+					</td>
+					<td class="problem">
+						&nbsp;
+					</td>
+					<td class="deved">
+						
+					</td>
+					<td class="qaed">
+						
+					</td>
+				</tr>
+			</tbody>
+		</table>
+
+
+		<h2 class="gregslist">Style / Visual Problems</h2>
+
+		<table cellspacing="0" class="gregslist">
+			<thead>
+				<tr>
+					<th>
+						Assigned to
+					</th>
+					<th>
+						Reported by
+					</th>
+					<th>
+						Problem
+					</th>
+					<th>
+						Dev'd
+					</th>
+					<th>
+						QA'd
+					</th>
+				</tr>
+			</thead>
+
+			<tbody>
+				<tr>
+					<td>
+						<span style="font-weight:bold;font-style:italic;">Eric</span>
+					</td>
+					<td>
+						Greg
+					</td>
+					<td class="problem">
+						Annoying extra pixel line at top of bio.
+					</td>
+					<td class="deved">
+						<span class="checkmark">✔</span>
+					</td>
+					<td class="qaed">
+						
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<span style="font-weight:bold;font-style:italic;">Eric</span>
+					</td>
+					<td>
+						Greg
+					</td>
+					<td class="problem">
+						Search popup needs styling.
+					</td>
+					<td class="deved">
+						
+					</td>
+					<td class="qaed">
+						
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<span style="font-weight:bold;color:goldenrod;">Paul</span>
+					</td>
+					<td>
+						<span style="font-weight:bold;"><span style="color:royalblue;">C</span><span style="color:darkred;">h</span><span style="color:royalblue;">a</span><span style="color:darkred;">r</span><span style="color:royalblue;">l</span><span style="color:darkred;">e</span><span style="color:royalblue;">s</span></span>
+					</td>
+					<td class="problem">
+						New team icon needs to be updated.
+					</td>
+					<td class="deved">
+						<span class="checkmark">✔</span>
+					</td>
+					<td class="qaed">
+						<span class="checkmark">✔</span>
+					</td>
+				</tr>
+				<tr>
+					<td>
+
+					</td>
+					<td>
+						Greg
+					</td>
+					<td class="problem">
+						Edit link for team needs to look like a button.
+					</td>
+					<td class="deved">
+
+					</td>
+					<td class="qaed">
+
+					</td>
+				</tr>
+				<tr>
+					<td>
+						
+					</td>
+					<td>
+						
+					</td>
+					<td class="problem">
+						&nbsp;
+					</td>
+					<td class="deved">
+						
+					</td>
+					<td class="qaed">
+						
+					</td>
+				</tr>
+			</tbody>
+		</table>
+
+
+		<h2 class="gregslist">Legend</h2>
+
+		<table cellspacing="0" class="gregslist legend">
+			<thead>
+				<tr>
+					<th>
+						Person
+					</th>
+					<th>
+						Display
+					</th>
+				</tr>
+			</thead>
+
+			<tbody>
+				<tr>
+					<td class="person">
+						Greg
+					</td>
+					<td class="display">
+						Default
+						(with <span style="color:salmon;">salmon</span> in comments!)
+					</td>
+				</tr>
+				<tr>
+					<td class="person">
+						<span style="font-weight:bold;color:red;">Beier</span>
+					</td>
+					<td class="display">
+						<span style="font-weight:bold;color:red;">Red</span>
+					</td>
+				</tr>
+				<tr>
+					<td class="person">
+						<span style="font-weight:bold;color:darkgreen;">David</span>
+					</td>
+					<td class="display">
+						<span style="font-weight:bold;color:darkgreen;">Green</span>
+					</td>
+				</tr>
+				<tr>
+					<td class="person">
+						<span style="font-weight:bold;color:steelblue;">Michael</span>
+					</td>
+					<td class="display">
+						<span style="font-weight:bold;color:steelblue;">Blue</span>
+					</td>
+				</tr>
+				<tr>
+					<td class="person">
+						<span style="font-weight:bold;color:slateblue;">Bill</span>
+					</td>
+					<td class="display">
+						<span style="font-weight:bold;color:slateblue;">Grape</span>
+					</td>
+				</tr>
+				<tr>
+					<td class="person">
+						<span style="font-weight:bold;font-style:italic;">Eric</span>
+					</td>
+					<td class="display">
+						<span style="font-weight:bold;font-style:italic;">Italics</span>
+					</td>
+				</tr>
+				<tr>
+					<td class="person">
+						<span style="font-weight:bold;color:goldenrod;">Paul</span>
+					</td>
+					<td class="display">
+						<span style="font-weight:bold;color:goldenrod;">Goldenrod</span>
+					</td>
+				</tr>
+				<tr>
+					<td class="person">
+						<span style="font-weight:bold;color:teal;">Simon</span>
+					</td>
+					<td class="display">
+						<span style="font-weight:bold;color:teal;">Teal</span>
+					</td>
+				</tr>
+				<tr>
+					<td class="person">
+						<span style="font-weight:bold;color:limegreen;">Jeff</span>
+					</td>
+					<td class="display">
+						<span style="font-weight:bold;color:limegreen;">Lime Green</span>
+					</td>
+				</tr>
+				<tr>
+					<td class="person">
+						<span style="font-weight:bold;color:darkorange;">Mark</span>
+					</td>
+					<td class="display">
+						<span style="font-weight:bold;color:darkorange;">Cheetos</span>
+					</td>
+				</tr>
+				<tr>
+					<td class="person">
+						<span style="font-weight:bold;"><span style="color:royalblue;">C</span><span style="color:darkred;">h</span><span style="color:royalblue;">a</span><span style="color:darkred;">r</span><span style="color:royalblue;">l</span><span style="color:darkred;">e</span><span style="color:royalblue;">s</span></span>
+					</td>
+					<td class="display">
+						<span style="font-weight:bold;color:sienna;"><span style="color:royalblue;">I</span> <span style="color:darkred;">p</span><span style="color:royalblue;">i</span><span style="color:darkred;">c</span><span style="color:royalblue;">k</span> <span style="color:darkred;">2</span> <span style="color:royalblue;">c</span><span style="color:darkred;">o</span><span style="color:royalblue;">l</span><span style="color:darkred;">o</span><span style="color:royalblue;">r</span><span style="color:darkred;">s</span><span style="color:royalblue;">!</span></span>
+					</td>
+				</tr>
+				<tr>
+					<td class="person">
+						<span style="font-weight:bold;color:deeppink;">Alex</span>
+					</td>
+					<td class="display">
+						<span style="font-weight:bold;color:deeppink;">Pink</span>
+					</td>
+				</tr>
+				<tr>
+					<td class="person">
+						<span style="font-weight:bold;color:deepskyblue;">Joe</span>
+					</td>
+					<td class="display">
+						<span style="font-weight:bold;color:deepskyblue;">Light Blue</span>
+					</td>
+				</tr>
+				<tr>
+					<td class="person">
+						<span style="font-weight:bold;color:purple;">Yasu</span>
+					</td>
+					<td class="display">
+						<span style="font-weight:bold;color:purple;">Purple</span>
+					</td>
+				</tr>
+				<tr>
+					<td class="person">
+						<span style="font-weight:bold;color:hotpink;">Noel</span>
+					</td>
+					<td class="display">
+						<span style="font-weight:bold;color:hotpink;">Hot Pink</span>
+					</td>
+				</tr>
+				<tr>
+					<td class="person">
+						<span style="font-weight:bold;color:sienna;">Geo</span>
+					</td>
+					<td class="display">
+						<span style="font-weight:bold;color:sienna;">Brown</span>
+					</td>
+				</tr>
+				<tr>
+					<td class="person">
+						<span style="font-weight:bold;color:rgb(0,255,0);">Ken</span>
+					</td>
+					<td class="display">
+						<span style="font-weight:bold;color:rgb(0,255,0);">Oh god it hurts my eyes!</span>
+					</td>
+				</tr>
+				<tr>
+					<td class="person">
+						<span style="font-weight:bold;color:dodgerblue;">Andrew</span>
+					</td>
+					<td class="display">
+						<span style="font-weight:bold;color:dodgerblue;">Dodger Blue</span>
+					</td>
+				</tr>
+				<tr>
+					<td class="person">
+						<span style="font-weight:bold;color:white;background-color:darkgreen;">Louisa</span>
+					</td>
+					<td class="display">
+						<span style="font-weight:bold;color:white;background-color:darkgreen;;">Inverted Green</span>
+					</td>
+				</tr>
+			</tbody>
+		</table>
+
+	</body>
+</html>

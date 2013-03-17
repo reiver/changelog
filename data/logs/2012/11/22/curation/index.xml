@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2012-11-22T09:16:12-0700</published>
+
+	<id>21ecca59-0975-4bec-b7b4-5cd02c3be22f</id>
+
+	<category term="Blogging" />
+	<category term="Publishing" />
+
+	<title>Distributed Curation?</title>
+
+	<content type="xhtml">
+	<div xmlns="http://www.w3.org/1999/xhtml">
+		<p>
+			Are there any systems that do <em>distributed curation</em> of the same content, such that each curator's end result would be a different subset? 
+		</p>
+		<p>
+			I suppose if one considers the <em>content</em> to be the entire web, then things like twitter, delicious, etc are examples, 
+			<strong>but</strong> what about a forum or the comments on a blog post (where the curator decides what is signal and what is noise)
+			and anyone could be a curator (of the forum and blog comments) presenting their own curated view (of the forum and blog comments).
+		</p>
+		<p>
+			Or what about a book that many people work together to write, and each curator decides which person's contribution to keep so that you would have a different version of that book from each curator.
+		</p>
+
+
+		<address class="vcard">
+			-- <a rel="author" class="fn n url" href="http://changelog.ca/"><span class="given-name">Charles</span> <span class="additional-name">Iliya</span> <span class="family-name">Krempeaux</span></a>
+		</address>
+	</div>
+	</content>
+</entry>

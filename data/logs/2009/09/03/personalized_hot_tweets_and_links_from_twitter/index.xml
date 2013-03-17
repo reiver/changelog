@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2009-09-03T21:37:59-0700</published>
+
+	<id>eead3d14-8c53-4b76-a010-00f5a9f987be</id>
+
+	<category term="Twitter" />
+
+	<title>Personalized &quot;Hot&quot; Tweets and Links from Twitter</title>
+
+	<content type="xhtml">
+	<div xmlns="http://www.w3.org/1999/xhtml">
+		<p>
+			How do you get a list of the "hottest" tweets and links, with respect to the people you are following on Twitter, when you don't have time to read every or even most tweets?  When you are following 1,000 or more people?
+		</p>
+		<p>
+			Twitter is a different experience when you start following a lot of people.
+			If you're only following a handful of people who rarely tweet anything, it can be quite boring.
+			<strong>But</strong> once you start following 100 people or so (whom tweet about topics you are actually interested in) Twitter becomes quiet enjoyable and even addictive; and there's usually plenty of things to keep your attention.
+			But once the number of people you follow starts approaching 1,000 it starts to get a bit difficult to <em class="idiom">have a handle</em> on things.
+			And, yes <strong>Twitter isn't e-mail</strong>, and you don't have to read everything.
+			But when something is "hot"... when I have many many of the people I follow tweet or retweet a link, it would be nice if it could be brought to my attention. 
+			When many many of the people I follow retweet someone's tweet (which doesn't have a link), it would be nice if it could be brought to my attention.
+		</p>
+		<p>
+			One tool I've thought of whipping together every now and then has been something to <em>collect</em> "hot" links and tweets from the people I'm subscribed to on Twitter.  If enough of the people I follow tweet or retweet a link within a time frame, then it should be brought to my attention.  If enough of the people I follow retweet another person's tweet, then it should be brought to my attention.
+		</p>
+		<p>
+			Not a very complex tool to develop.  But one that would be very very useful!
+		</p>
+		<p>
+			(This could probably be made more sophisticated by not making everyone's tweets worth the same (in this scheme).  And perhaps brings hash tags into play.)
+		</p>
+
+		<address class="vcard">
+			-- <a rel="author" class="fn n url" href="http://changelog.ca/"><span class="given-name">Charles</span> <span class="additional-name">Iliya</span> <span class="family-name">Krempeaux</span></a>
+		</address>
+	</div>
+	</content>
+</entry>

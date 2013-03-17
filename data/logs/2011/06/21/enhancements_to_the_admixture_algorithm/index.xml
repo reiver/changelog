@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2011-06-21T14:45:00-0700</published>
+
+	<id>b2bdefb8-0ed9-4a8e-81e9-36bf03ed8c8e</id>
+
+	<category term="Genetics" />
+
+	<title>Enhancements to the ADMIXTURE algorithm</title>
+
+	<content type="xhtml">
+	<div xmlns="http://www.w3.org/1999/xhtml">
+		<p>
+			<a rel="nofollow" href="http://dienekes.blogspot.com/2011/06/enhancements-to-admixture-algorithm.html">Dienekes Pontikos points</a> me to some enhancements to the ADMIXTURE algorithm (which for some <a href="http://changelog.ca/log/2009/08/05/admixture_algorithm_to_replace_structure_algorithm">replaced the STRUCTURE algorithm</a>).
+		</p>
+		<p>
+			What does the ADMIXTURE algorithm do? It creates (one type of) those nice genetic graphs some people are fond of.
+		</p>
+		<blockquote cite="http://dienekes.blogspot.com/2011/06/enhancements-to-admixture-algorithm.html">
+			<h3>Background</h3>
+			<p>
+				The estimation of individual ancestry from genetic data has become essential to applied population genetics and genetic epidemiology. Software programs for calculating ancestry estimates have become essential tools in the geneticist's analytic arsenal.
+			</p>
+
+			<h3>Results</h3>
+			<p>
+				Here we describe four enhancements to ADMIXTURE, a high-performance tool for estimating individual ancestries and population allele frequencies from SNP (single nucleotide polymorphism) data. First, ADMIXTURE can be used to estimate the number of underlying populations through cross-validation. Second, individuals of known ancestry can be exploited in supervised learning to yield more precise ancestry estimates. Third, by penalizing small admixture coefficients for each individual, one can encourage model parsimony, often yielding more interpretable results for small datasets or datasets with large numbers of ancestral populations. Finally, by exploiting multiple processors, large datasets can be analyzed even more rapidly.
+			</p>
+
+			<h3>Conclusions</h3>
+			<p>
+				The enhancements we have described make ADMIXTURE a more accurate, efficient, and versatile tool for ancestry estimation.
+			</p>
+		</blockquote>
+		<p>
+			<a rel="nofollow" href="http://www.biomedcentral.com/1471-2105/12/246/abstract">See the paper</a> for more information.
+		</p>
+
+		<address class="vcard">
+			-- <a rel="author" class="fn n url" href="http://changelog.ca/"><span class="given-name">Charles</span> <span class="additional-name">Iliya</span> <span class="family-name">Krempeaux</span></a>
+		</address>
+	</div>
+	</content>
+</entry>

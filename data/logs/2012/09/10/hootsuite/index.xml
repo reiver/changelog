@@ -1,0 +1,461 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2012-09-10T12:00:00-0700</published>
+
+	<id>6966d43c-5c67-427a-9aba-931d42276b89</id>
+
+	<category term="HootSuite" />
+	<category term="Owly" />
+
+	<title>HootSuite</title>
+
+	<content type="xhtml">
+	<div xmlns="http://www.w3.org/1999/xhtml">
+		<p>
+			For a while now I've been involved with what became the successful startup known as <a rel="nofollow" href="http://hootsuite.com/">HootSuite</a>.
+			Today, officially, I no longer <em>work at</em> HootSuite.
+		</p>
+
+
+		<h2>Change</h2>
+		<p>
+			Job changes can be seen as milestones in people's lives.
+			But, for HootSuite too, as far as anyone seems to know, although I am not the first person to leave HootSuite, I am the first <em>senior</em> person to leave the company.
+		</p>
+		<p>
+			Stuff like this happens as companies get big(ger).
+			And HootSuite has gotten a lot bigger!
+			No longer is everyone sitting in the same room, with plenty of extra space.
+			It's office<strong>s</strong> span either side of a street.
+			And there's even an office in England now.
+		</p>
+
+		<h2>History</h2>
+		<p>
+			(My history with HootSuite is really through <a href="http://beiercai.com/">Beier Cai</a>, so he's going to come up quite a bit.)
+		</p>
+		<p>
+			What most people might not know is that my history with what became HootSuite started <em>before</em> HootSuite was actually created.
+		</p>
+		<p>
+			Back in 2007/2008 a handful of us, who are at HootSuite now, worked together at a company called <a rel="nofollow" href="http://navarik.com/">Navarik</a>.
+			(<a href="http://changelog.ca/" title="Charles Iliya Krempeaux">Myself</a>,
+			<a href="http://beiercai.com/" title="Beier Cai">Beier</a>,
+			<a href="http://flickr.com/gwilli/" title="Greg Williams">Greg</a>,
+			<a href="http://twitter.com/bmonkman" title="Bill Monkman">Bill</a>,
+			<a href="http://twitter.com/noelpullen" title="Noel Pullen">Noel</a>,
+			<a href="http://twitter.com/elthue" title="Louisa Thue">Louisa</a>,
+			and <a href="http://radogazo.com/">Rado</a>.)
+		</p>
+		<p>
+			The person who is HootSuite's original &amp; principal software engineer (and now Chief Architect) -- Beier Cai -- and I sat next to each other, over at Navarik.
+			(Back then Beier was a junior software engineer.)
+		</p>
+		<p>
+			Back then, I had come to Navarik during a phase when I was freelancing.
+			In a nutshell, it was after I closed down my 3rd company, and before I started my 4th company.
+			It was also a time after I had already gone through another startup (which I didn't start but was the lead &amp; principal software engineer at), which eventually ended up in the hands of Microsoft, after Microsoft bought aQuantive.
+		</p>
+		<p>
+			When I left Navarik, I wanted to keep in touch with a number of the people I had become friends with, which included Beier.
+			I got a number of them to join what was then (outside of tech circles) an obscure social network called <a rel="nofollow" href="http://twitter.com/">Twitter</a>.
+		</p>
+		<p>
+			Fast forward a bit, I was just starting to transition away from freelancing and starting my 4th company (with Rado) and Beier ended up at a company called <a rel="nofollow" href="http://invokemedia.com/">Invoke</a>.
+			(It was under the company Invoke, that HootSuite was created.)
+		</p>
+		<p>
+			Here's an e-mail Beier sent Rado and I back in July 7th, 2008:
+		</p>
+		<blockquote>
+			<p>
+				Hello guys,
+			</p>
+			<p>
+				I started working with a company called InvokeMedia last week, it was the one Noel introduced me, so far is has been good.
+				How are you guying doing?
+				Charles are you looking for a new contracting job or working with Rado on starting your own company?
+			</p>
+		</blockquote>
+		<p>
+			Time passed, <a href="http://twitter.com/invoker" title="Ryan Holmes">Ryan</a> eventually asks Beier if he could build what is now called HootSuite, but then called BrightKit.
+		</p>
+		<p>
+			My <strong><u>extremely</u></strong> minor role in that event is that I happened to introduce Beier to Twitter earlier that year.
+		</p>
+		<p>
+			But having been the one to introduce Beier to Twitter meant I was his "go to guy" for Twitter advice and helping him test the system.
+			(I was also a very heavy Twitter user back then.)
+		</p>
+		<p>
+			In addition to that, with the previous startup I mentioned, I had created a system that was somewhat comparable to HootSuite's architecture.
+			So I was also someone with whom Beier could talk to about system architecture (since I'd already dealt with and solved many of these problems before).
+		</p>
+		<p>
+			Here's an excerpt from another e-mail from Beier to me in November 28th, 2008, after I first noticed the <a href="http://ow.ly/">ow.ly</a> URL shortener being used in <a href="http://twitter.com/beiercai">his twitter feed</a>:
+		</p>
+		<blockquote>
+			<p>
+				Yes, that's something from my work.
+				I'm currently lead the development of two projects, ow.ly and brightkit.com (the logo for brightkit.com is an owl, that's how we came up with ow.ly).
+				both will go public soon.
+				ow.ly is for url shortening and stats collection.
+				[...]
+				Brightkit.com is for twitter advertising [...]
+				Actually I'm planning to send you guys emails helping me promote these two websites, stay tuned! (o;
+			</p>
+		</blockquote>
+		<p>
+			On December 1st, 2008 I received an invite for HootSuite (which was called BrightKit back then).
+			And my involvement with HootSuite, beyond the level of a muse, began.
+			I was a user and beta (or perhaps alpha) tester.
+		</p>
+		<p>
+			In February 27th, 2009, (while I was on vacation in <a href="http://changelog.ca/album/2009/02/11/vacation_in_buenos_aires_argentina_2009">Argentina</a>) Beier sent me an e-mail.
+			Here's an excerpt from that e-mail:
+		</p>
+		<blockquote>
+			<p>
+				[..]
+			</p>
+			<p>
+				A new plan for Hootsuite [...]
+				What we are planning to do is to have a customizable multi-column interface.
+				By customizable multi-column, I mean users can group multiple columns under a single group name, for example, you can group Home|Reply|DM under the group name 'reiver'.
+				But let say you have two Twitter profiles for work, profileA and profileB, then you can group profileA's Home|Reply and profileB's Home|Reply together and give it a group name called 'My Work', which is now a 4 column view.
+				This will add lots of values for users with multiple Twitter profiles.
+				You can switch from one group to another at any time.
+				And you can choose to view a subset of a group's columns.
+				For example if you have a group with 8 columns, 3 can be visible at the same time, the other 5 will be hidden.
+				Another thing we'll do is, for each active/visible column, we'll auto refresh the Twitter feed every 5 minutes.
+			</p>
+		</blockquote>
+		<p>
+			(The <a href="http://twitter.com/reiver">reiver</a> Beier was talking about is <a href="http://twitter.com/reiver">my twitter feed</a>, BTW.)
+		</p>
+		<p>
+			Meanwhile, while all this HootSuite/BrightKit stuff was going on, Rado and I created what was my 4th company.
+			(Although, really there were a couple other side businesses I don't really count. But if you count those I suppose it was my 6th.)
+			We worked hard, the company grew to 13 people.
+			I operated as the company's <em>Director of Engineering</em>.
+			(The company was pretty much <em>all</em> a development team.)
+		</p>
+		<p>
+			After 3 years, Rado and I shut down that company,
+			I left there, and after talking to Beier a bit, I came to HootSuite.
+			(Beier had actually tried to get me to join HootSuite before that.
+			But this time certain things made it a good choice for me.)
+		</p>
+		<p>
+			HootSuite was small back then.
+			This was pre- the funding that lead to the mass hiring spree!
+		</p>
+		<p>
+			The company still really hadn't compartmentalized yet.
+			<a href="http://twitter.com/jorobot" title="Joanna Ambrosio">Joa</a><a href="http://www.matikarevista.com/" title="Joanna Ambrosio">nna</a> (in Community/Marketing) and I (in Engineering) used to sit next to each other.
+			This was before she moved over to sit next to <a href="http://uncleweed.net/" title="Dave Olson">Dave</a> and <a href="http://twitter.com/Jesswakeman" title="Jessica Wakeman">Jess</a> (in the community/marketing area of the room).
+		</p>
+
+		<h2>HootSuite Trivia</h2>
+		<p>
+			BTW, for yet more HootSuite trivia, Jess was the first girl at HootSuite.
+			Beier is (currently) the only person for whom there exist an Owly made in his image;
+			although, it is not his "normal" image, but something that happened at <a href="http://changelog.ca/album/2011/07/01/galiano_island_retreat">the first HootSuite retreat</a>.
+			I suppose I can also mention that <a href="http://twitter.com/pdon" title="Paul Donnell">Paul</a> is the one who originally Owly; although Joanna and even <a href="http://twitter.com/stephawie">Steph</a><a href="http://www.thedandeliontheory.com/">anie</a> have took over the task of created newer ones.
+			There is an "<em>easter egg</em>" in the HootSuite web app; if you search <a href="http://changelog.ca/log">my blog</a> you can find a pretty good hint about it.
+			There are usually a number of dogs in the office, and many of them have twitter accounts; for example:
+			<a href="http://twitter.com/MikaHoots">Mika</a>,
+			<a href="http://twitter.com/tulliveranne">Tully</a>,
+			and
+			<a href="http://twitter.com/MontyPug">Monty</a>.
+			From time to time the office erupts into <em>spontaneous clapping</em>; eventually a twitter account was created so people could figure out why they were clapping.
+		</p>
+
+		<h2>Bye HootSuite</h2>
+		<p>
+			Although certain people knew about it at the beginning of August, it was on August 21st, 2012 that it was announced to the company.
+			In front of the entire engineering and development team it was announced that I'd be leaving.
+		</p>
+		<p style="text-align:center;">
+			<a href="http://changelog.ca/log/2012/09/10/hootsuite/clappingowls.png"><img
+				src="http://changelog.ca/log/2012/09/10/hootsuite/clappingowls.png"
+				alt="Clapping yesterday in Dev room around 2:45pm: It was announced that Charles is leaving HS, to head Engineering dept at another local startup"
+				style="width:70%;"
+			/></a>
+			<br />
+			<a
+				href="http://twitter.com/ClappingOwls/status/238306666125352960"
+				title="Clapping yesterday in Dev room around 2:45pm: It was announced that Charles is leaving HS, to head Engineering dept at another local startup"
+			>tweet</a>
+		</p>
+		<p>
+			I find it a bit strange that I'm considered one of the original people in HootSuite.
+			To me, Beier Cai and Paul Donnelly (along with the founders) are the originals.
+			But I suppose if you were pre- the funding that led to the <em>hiring spree</em>, you're an <em>original</em>.
+		</p>
+		<p>
+			So I say <em>good bye</em> to HootSuite.
+		</p>
+		<p>
+			Well, "<em>good bye</em> to HootSuite" in a professional capacity at least.
+			I have a lot of friends that still work at HootSuite.
+			And I'm sure I'll be at the office from time to time.
+		</p>
+		<p style="text-align:center;">
+			<a href="http://www.flickr.com/photos/gwilli/6894949286/sizes/o/in/photostream/"><img
+				src="http://changelog.ca/log/2012/09/10/hootsuite/hootsuite_foosball.jpg"
+				style="width:70%;"
+			/></a>
+			<br />
+			(In the photo, me in the top-right in the striped shirt, where you can't see my face.)
+		</p>
+		<!--
+		<p>
+			So I say <em>see you around</em> and <em>see you later</em> to
+			(in alphabetical order)
+
+			Adam Arsenault
+			<sup>[<a href="http://twitter.com/adam_arsenault">tw</a>]</sup>,
+
+			Adarsh Pallian
+			<sup>[<a href="http://twitter.com/pallian">tw</a>,
+			<a href="http://linkedin.com/in/pallian">ln</a>]</sup>,
+
+			Aki Kaltenbach
+			<sup>[<a href="http://twitter.com/akikaltenbach">tw</a>,
+			<a href="http://linkedin.com/in/akikaltenbach">ln</a>]</sup>,
+
+			Alanna Kostiw,
+
+			Andrew Gray
+			<sup>[<a href="http://twitter.com/uhAndrew">tw</a>,
+			<a href="http://linkedin.com/pub/andrew-gray/1/bba/87">ln</a>]</sup>,
+
+			Alanna Rogers,
+
+			Alex Grant
+			<sup>[<a href="http://twitter.com/alexegrant">tw</a>,
+			<a href="http://linkedin.com/pub/alexander-grant/24/794/570">ln</a>]</sup>,
+
+			Alexandrine Boissiere (i.e., "Alex"),
+
+			Ambrosia Humphrey,
+
+			Ana Levene,
+
+			Andrew Soro (who goes by "Soro"),
+
+			Ashley Jane Brookes,
+
+			Andy Au,
+
+			Beier Cai
+			<sup>[<a href="http://twitter.com/beiercai">tw</a>,
+			<a href="http://linkedin.com/in/beiercai">ln</a>,
+			<a href="http://beiercai.com/">web</a>]</sup>,
+
+			Ben Watson,
+
+			Bill Monkman
+			<sup>[<a href="http://twitter.com/bmonkman">tw</a>,
+			<a href="http://linkedin.com/in/billmonkman">ln</a>]</sup>,
+
+			Brian Lam,
+
+			Bruce Xia,
+
+			Bocar Dia,
+
+			Carla Cristoffanini
+			<sup>[<a href="http://twitter.com/carlacnini">tw</a>,
+			<a href="http://linkedin.com/pub/carla-cristoffanini/20/694/671">ln</a>,
+			<a href="http://carlacnini.tumblr.com/">tmr</a>]</sup>,
+
+			Cameron Uganec,
+
+			Chris Maxwell,
+
+			Chris Trottier,
+
+			Christof Trafford,
+
+			Connor Meakin,
+
+			Craig Ryomoto,
+
+			Daina Lightfoot,
+
+			Dan Webster,
+
+			Daniel Mathews (i.e., "Danny"),
+
+			Dario Meli
+			<sup>[<a href="http://twitter.com/quikness">tw</a>,
+			<a href="http://linkedin.com/in/dariomeli">ln</a>]</sup>,
+
+			Darren Suomi,
+
+			Dave Olson (i.e., "DaveO")
+			<sup>[<a href="http://twitter.com/DaveOHoots">tw</a>,
+			<a href="http://twitter.com/uncleweed">tw</a>,
+			<a href="http://twitter.com/uncleweed">tw</a>,
+			<a href="http://linkedin.com/in/daveo">ln</a>,
+			<a href="http://uncleweed.net/">blog</a>]</sup>,
+
+			David Chan,
+
+			David Go,
+
+			David Tedman
+			<sup>[<a href="http://twitter.com/d1337">tw</a>,
+			<a href="http://linkedin.com/in/davidtedman">ln</a>]</sup>,
+
+			Destin Haynes,
+
+			Diana Luong,
+
+			Edward Steel,
+
+			Eric Puchmayr,
+
+			Felix Maldifassi,
+
+			Garrett Eidsvig,
+
+			Gary Morrison,
+
+			Gavin McDonald,
+
+			Grant Harris,
+
+			Geordie Henderson,
+
+			Gerard Recio,
+
+			Greg Gunn,
+
+			Greg Williams,
+
+			Helen Park,
+
+			Ian Bevis,
+
+			Ian Robin,
+
+			James Rumble,
+
+			Jaxon Lam,
+
+			Jenny Nguyen
+			<sup>[<a href="http://twitter.com/neyugn">tw</a>,
+			<a href="http://linkedin.com/in/nguyenjenny">ln</a>]</sup>,
+
+			Jeremy Pierre,
+
+			Jeff Mills,
+
+			Jeff Stautz,
+
+			Jess Wakeman,
+
+			Joanna Ambrosio,
+
+			Joe Ying,
+
+			Jordan Ng,
+			Josh Lamb,
+			Julien Emery,
+			Katie Shindler,
+			Kemp Edmonds,
+
+			Ken Ho
+			<sup>[<a href="https://twitter.com/shiunken">tw</a>,
+			<a href="http://linkedin.com/pub/ken-ho/35/730/46b">ln</a>,
+			<a href="http://kenho.ca/">web</a>]</sup>,
+
+			Kerri Bremner,
+			Kingsley Chan,
+			Kirsten Bailey,
+			Kristine Naldoza,
+			Louisa Thue,
+			Lyndsay Tilston,
+			Marcus Jung,
+			Mark Eijsermans,
+			Mark Holder,
+			Matt Switzer,
+			Melissa Joaquin,
+
+			Michael Miner
+			<sup>[<a href="http://twitter.com/m_p_miner">tw</a>,
+			<a href="http://linkedin.com/pub/michael-miner/16/835/184">ln</a>]</sup>,
+
+			Michael Tan,
+			Mohamed Zahid,
+
+			Noel Pullen
+			<sup>[<a href="http://twitter.com/noelpullen">tw</a>,
+			<a href="http://linkedin.com/in/noelpullen">ln</a>]</sup>,
+
+			Nori Inoue,
+			Paul Donnelly,
+			Paul Semenets,
+			Philipp Gebauer,
+			Rahim Lalani,
+			Rob Alderman,
+			Rob Feduk,
+			Ryan Delmaire,
+
+			Ryan Holmes
+			<sup>[<a href="http://twitter.com/invoker">tw</a>,
+			<a href="http://linkedin.com/in/rholmes">ln</a>]</sup>,
+
+			Samantha Milbrath (i.e., "Sam")
+			<sup>[<a href="http://twitter.com/sam_milbrath">tw</a>,
+			<a href="http://www.linkedin.com/in/sammilbrath">ln</a>,
+			<a href="http://another9.tumblr.com/">tmr</a>,
+			<a href="http://flickr.com/sammilbrath">fkr</a>
+			<a href="http://www.onwhitewalls.com/">blog</a>]</sup>,
+
+			Sandra Chung,
+			Sandy Pell,
+			Scott Walker,
+			Sharad Mohan,
+			Simon Stanlake,
+
+			Stephanie Wiriahardja (i.e., "Steph")
+			<sup>[<a href="http://twitter.com/stephawie">tw</a>,
+			<a href="http://linkedin.com/in/stephaniewiriahardja">ln</a>,
+			<a href="http://www.thedandeliontheory.com/">web</a>]</sup>,
+
+			Steve Johnson,
+			Steve Mynett,
+			Tasia Custode,
+
+			Tatsuhiro Ujihisa (i.e., "Uji")
+			<sup>[<a href="http://twitter.com/ujm">tw</a>,
+			<a href="http://linkedin.com/in/ujihisa">ln</a>]</sup>,
+
+			Taylor Loren,
+			Thiago Leite,
+
+			Tracey Ferris
+			<sup>[<a href="http://twitter.com/traceyferris">tw</a>,
+			<a href="http://linkedin.com/pub/tracey-ferris/48/888/663">ln</a>]</sup>,
+
+			Vanessa Fuller,
+			Vicky Truong,
+			Yasunori Mahata (i.e., "Yasu"),
+			Zuo Zhou (i.e., "Geo"),
+			#####
+			and everyone else at HootSuite, in my #### capacity.
+		</p>
+		-->
+
+
+		<address class="vcard">
+			-- <a rel="author" class="fn n url" href="http://changelog.ca/"><span class="given-name">Charles</span> <span class="additional-name">Iliya</span> <span class="family-name">Krempeaux</span></a>
+		</address>
+	</div>
+	</content>
+</entry>

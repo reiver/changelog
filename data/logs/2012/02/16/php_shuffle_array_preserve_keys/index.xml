@@ -1,0 +1,198 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2012-02-16T11:36:22-0700</published>
+
+	<id>fff07ae1-a729-436c-9466-fb309b39bc85</id>
+
+	<category term="PHP" />
+	<category term="Web Development" />
+
+	<title>PHP Shuffle Array Preserve Keys</title>
+
+	<content type="xhtml">
+	<div xmlns="http://www.w3.org/1999/xhtml">
+		<p>
+			PHP is a popular programming language often used to create applications with web-based interfaces.
+			In fact, much of the Internet and Web runs on PHP!
+		</p>
+		<p>
+			Part of what initially fuelled PHP's popularity among software engineers and web developers is that PHP comes with a rich and useful set of built-in libraries, procedures, functions, and classes that provide all sorts of functionality often needed when creating applications with web-based interfaces (saving you the time of creating these things yourself).
+			One of these useful built-in procedures is the PHP <a href="http://php.net/shuffle"><code class="php">shuffle()</code></a> procedure.
+		</p>
+
+
+		<h2>PHP's shuffle()</h2>
+		<p>
+			The PHP <code class="php">shuffle()</code> procedure shuffles what's in an array, putting them in random order.
+			Let's illustrate what it does with an example:
+		</p>
+<pre><code class="php">
+$a = array('adam', 'bob', 'charles', 'dave');
+
+var_export($a); // Output what $a looks like BEFORE any calls to shuffle()
+
+
+shuffle($a);
+
+var_export($a); // Output what $a looks like after the 1st shuffle()
+
+
+shuffle($a);
+
+var_export($a); // Output what $a looks like after the 2nd shuffle()
+
+</code></pre>
+		<p>
+			The output from this <strong>might</strong> look like:
+		</p>
+<pre><code>
+$a = array( 0 => 'adam'
+          , 1 => 'bob'
+          , 2 => 'charles'
+          , 3 => 'dave'
+          );
+
+$a = array( 0 => 'dave'
+          , 1 => 'adam'
+          , 2 => 'charles'
+          , 3 => 'bob'
+          );
+
+$a = array( 0 => 'charles'
+          , 1 => 'dave'
+          , 2 => 'bob'
+          , 3 => 'adam'
+          );
+
+</code></pre>
+		<p>
+			(<strong>Note</strong> that I said "<strong><u>might</u></strong> look like" because PHP's <code class="php">shuffle()</code> procedure 
+reorders the contents of the array in <em>random</em> order.
+			Thus, I won't know exactly what reordering PHP's <code class="php">shuffle()</code> 
+procedure will put the array in when you call it.)
+		</p>
+
+		<h2>Problem with PHP's shuffle()</h2>
+		<p>
+			One of the problems with PHP's <code class="php">shuffle()</code> procedure is that it does <b>not</b> preserve an array's keys!
+			That behavior makes sense when your array has numeric keys (i.e., 0, 1, 2, 3, 4...) but might be problematic for you if you, for instance, have an array with string keys (and want to preserve those string keys in the shuffled array).
+		</p>
+		<p>
+			Let's illustrate this with an example:
+		</p>
+<pre><code class="php">
+$a = array( 'a' => 'apple'
+          , 'b' => 'banana'
+          , 'c' => 'cherry'
+          , 'd' => 'date'
+          , 'e' => 'emblic'
+          );
+
+shuffle($a);
+
+var_export($a);
+</code>	</pre>
+		<p>
+			Your output might be:
+		</p>
+<pre><code>
+array( 0 => 'emblic'
+     , 1 => 'apple'
+     , 2 => 'date'
+     , 3 => 'cherry'
+     , 4 => 'banana'
+     )
+
+</code></pre>
+		<p>
+			<strong>Note that the keys of the shuffled array are different!</strong>
+			In fact, the original keys are gone! replaced by numeric indexes.
+			Sometimes, this may be a problem!
+		</p>
+		<p>
+			For example, you may have wanted the shuffled array to preserve the keys and look like this:
+		</p>
+<pre><code>
+array( 'e' => 'emblic'
+     , 'a' => 'apple'
+     , 'd' => 'date'
+     , 'c' => 'cherry'
+     , 'b' => 'banana'
+     )
+
+</code></pre>
+		<p>
+			<strong>PHP's <code class="php">shuffle()</code> procedure does NOT support this, unfortunately.</strong>
+			However, with the procedure I provide (which I call <code class="php">shuffle_assoc()</code>) you can shuffle an array while preserving the keys.
+		</p>
+
+
+		<h2>shuffle_assoc()</h2>
+		<p>
+			Here's the code for <code class="php">shuffle_assoc()</code>; a function, similar to PHP's <code class="php">shuffle()</code> procedure, but which preserves the original array's keys:
+		</p>
+<pre><code class="php">
+function shuffle_assoc($array)
+{
+    // Initialize
+        $shuffled_array = array();
+
+
+    // Get array's keys and shuffle them.
+        $shuffled_keys = array_keys($array);
+        shuffle($shuffled_keys);
+
+
+    // Create same array, but in shuffled order.
+        foreach ( $shuffled_keys AS $shuffled_key ) {
+
+            $shuffled_array[  $shuffled_key  ] = $array[  $shuffled_key  ];
+
+        } // foreach
+
+
+    // Return
+        return $shuffled_array;
+}
+
+</code></pre>
+
+
+		<h3>shuffle_assoc() Example</h3>
+		<p>
+			Here's an example of <code class="php">shuffle_assoc()</code> being used:
+		</p>
+<pre><code class="php">
+$a = array( 'a' => 'apple'
+          , 'b' => 'banana'
+          , 'c' => 'cherry'
+          , 'd' => 'date'
+          , 'e' => 'emblic'
+          );
+
+$new_a = shuffle_assoc($a);
+
+var_export($new_a);
+</code>	</pre>
+		<p>
+			And your output may be:
+		</p>
+<pre><code>
+array( 'e' => 'emblic'
+     , 'a' => 'apple'
+     , 'd' => 'date'
+     , 'c' => 'cherry'
+     , 'b' => 'banana'
+     )
+
+</code></pre>
+
+
+
+		<address class="vcard">
+			-- <a rel="author" class="fn n url" href="http://changelog.ca/"><span class="given-name">Charles</span> <span class="additional-name">Iliya</span> <span class="family-name">Krempeaux</span></a>
+		</address>
+	</div>
+	</content>
+</entry>

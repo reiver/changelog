@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2012-08-27T10:15:21-0700</published>
+
+	<id>2ed5c9fd-a495-450d-848e-34ef6818b156</id>
+
+	<category term="Blogging" />
+
+	<title>Auto-Subscribing To Blogs / Feeds Of Links Tweeted, Bookmarked Or Posted</title>
+
+	<content type="xhtml">
+	<div xmlns="http://www.w3.org/1999/xhtml">
+		<p>
+			It shouldn't be so difficult for me to follow a blog or anything else that (somehow) exposes a webfeed or any other kind of feed.
+		</p>
+		<p>
+			How about if I tweet, bookmark or post something that contains (one or more) link(s),
+			then some system goes and tentatively auto-subscribes (me) to any RSS/Atom feed (or any other kind of feed) it finds associated with the links in said tweet or bookmark. 
+		</p>
+		<p>
+			Then use various explicit and implicit techniques could be used to figure out what to stay subscribed to, and how to organize. 
+		</p>
+
+
+		<address class="vcard">
+			-- <a rel="author" class="fn n url" href="http://changelog.ca/"><span class="given-name">Charles</span> <span class="additional-name">Iliya</span> <span class="family-name">Krempeaux</span></a>
+		</address>
+	</div>
+	</content>
+</entry>

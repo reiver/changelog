@@ -1,0 +1,134 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2009-04-19T21:23:41-0700</published>
+
+	<id>fd535629-b2f2-4f4f-9e75-4e127a803d95</id>
+
+	<category term="Advertising" />
+	<category term="Facebook" />
+	<category term="Marketing" />
+	<category term="Twitter" />
+
+	<title>Marketing And Advertising On Online Social Networks Still In The "Dark Ages"</title>
+
+	<content type="xhtml">
+	<div xmlns="http://www.w3.org/1999/xhtml">
+		<p>
+			Online social networks have become more and more popular as time has gone on.
+			Examples include:
+			<a rel="nofollow" href="http://twitter.com/">Twitter</a>,
+			<a rel="nofollow" href="http://tumblr.com/">Tumblr</a>,  
+			<a rel="nofollow" hre="http://facebook.com/">Facebook</a>, and
+			blogs.
+			More will likely be created (in the future) as time goes on, and old ones may <i>go the way of the dinosaurs</i>.
+			Online social networks may even become so ubiquitous that most will not be able to imagine the Internet without them;
+			as most today cannot imagine the Internet without e-mail and the Web.
+		</p>
+		<p>
+			With popularity and entrance into the mainstream, online social networks attract marketers, advertisers, and businesses in general.
+			Online social networks become staples of doing business.
+			(If not today, then some day, probably not to far from now.)
+			And business needs start becoming important.
+		</p>
+		<p>
+			But the current methods and tools of businesses, marketers and advertisers interacting with online social networks are, in a lot of ways, still in the "dark ages".
+			Powerful tools and technology have already been created to for the Web.
+		</p>
+		<p>
+			These tools often come fall under the banner of "<em>online advertising technology</em>".
+			For online social networks, they may be given a different name.
+			Technologically though, this kind of technology combines,
+                        software engineering, computer science, mathematics, statistics, artificial intelligence, machine learning, psychology and neuroscience,
+			all to solve a certain kind of problem.
+			For online social networks, this problem will be: '<em>when to post</em>'.
+			Or, at least, it will be the main problem.
+			(Many other related problems will need to be solved too. And as other types of social networks arise, the problem will likely be tweaked. )
+		</p>
+		<p>
+			As far as I know, nothing like this exists for online social networks yet.
+			But, eventually, very very likely, this kind of technology will exist....
+		</p>
+
+		<h2>Why?</h2>
+		<p>
+			So, <i>why do I think this</i>?
+			Part of the reason is because I've #1 been using social networks for while now and have experience and insight with them
+			and #2 I have created quite a lot of <em>online advertising technology</em> over the years,
+			and can see that figuring out the problem of '<em>when to post</em>' on a social network is just an "<em>optimization problem</em>", similar to the "<em>optimization problems</em>" solved by <em>online advertising technology</em>.
+		</p>
+
+
+		<h2>The Problem</h2>
+		<p>
+			Sometimes it's easier to (start to) illustrate a problem with an example.
+			So, here's an example.
+			(Note that although this particular example is Twitter-specific, there's nothing really Twitter-specific about the problem.)
+		</p>
+		<p>
+			Imagine you've constructed a tweet with some text and an link.
+			(Something that's not uncommon.)
+			Let's say that link sends members of your audience to a webpage where you want to sell them something.
+			(In general you may not want to necessarily sell them something.
+			Perhaps you want them to fill out a form, or post or comment, or just read the article, or whatever.
+			But, for the sake of this example, let's say you want to sell them something.)
+		</p>
+		<p>
+			Now let's say you make $100 for each item you sell.
+			In terms of traffic on the Web (and let's assume Twitter too), there's roughly two peaks that you see in US &amp; Canadian traffic, that seem to happen about the same time every Monday through Friday.
+			Roughly, the 1st peak in traffic is around when the east coast wakes up and goes to work and the 2nd peak in traffic is when the west coast does the same.
+		</p>
+		<p>
+			So, you might think, "I'll tweet that during the east coast peak".
+			So, let's say you do that, you get 1,000 clicks on the link.
+			And let's say that 5 people bought whatever it was you were selling.
+			(That's a 0.5% conversion rate.)
+			And thus you made $500 = (5 x $100).
+		</p>
+		<p>
+			But what if instead of doing that you tweeted it at 1pm EST?
+			It's NOT at the east coast peak. Maybe you would have gotten only 200 clicks on the link.
+			But what if 25 people bought it?
+			(That's a 12.5% conversion rate!)
+			And thus you would have made $2,500 = (25 x $100)
+		</p>
+		<p>
+			In this example, we do not simply want to optimize the number of clicks.
+			We want to optimize the total revenue.
+			Although the link got more clicks during the east coast peak, it was NOT optimal to tweet it during that time.
+			The more optimal time was to tweet it at 1pm EST.
+		</p>
+		<p>
+			If you're astute you may be thinking, "<em>how do you figure out that 1pm EST is the best time to post</em>"?
+			That's what an "optimization system" figures out.
+		</p>
+
+		<h2>Optimization</h2>
+		<p>
+			Now, that's just one simple example.
+			There's other types of things we might want to optimize on.
+			<em>But hopefully you see the general problem.</em>
+			That it may not be simple to figure out what the best time to send the tweet is.
+			But, even if the problem isn't simple to "solve", it doesn't mean it can't be "solved" (with various degrees of "success").
+		</p>
+		<p>
+			(Also, obviously, this isn't a Twitter specific issue, and applies to other online social networks also.
+			Both those existing today, and those yet to be created yet, and will exist in the future.)
+		</p>
+		<p>
+			What is "optimization"?
+			Fully explaining it could be the subject of many books.
+			But, like I suggested already, this type of technology (at least in this domain) combines software engineering, computer science, mathematics, statistics, artificial intelligence, machine learning, psychology, and neuroscience.
+		</p>
+		<p>
+			I suspect someone with the necessary skills may create this technology eventually.
+			Suppose it's possible I may even do it.
+			But I'm sure I'm not the only to see this problem and see how it can be solved.
+		</p>
+
+		<address class="vcard">
+			-- <a rel="author" class="fn n url" href="http://changelog.ca/"><span class="given-name">Charles</span> <span class="additional-name">Iliya</span> <span class="family-name">Krempeaux</span></a>
+		</address>
+	</div>
+	</content>
+</entry>

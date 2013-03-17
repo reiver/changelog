@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2012-01-30T15:46:40+0000</published>
+
+	<id>f4f27923-1cc5-4f5e-8d70-f39abb4272c9</id>
+
+	<category term="Neuroscience" />
+	<category term="Psychology" />
+
+	<title>System 1, System 2; False Dichotomy?</title>
+
+	<content type="xhtml">
+	<div xmlns="http://www.w3.org/1999/xhtml">
+		<p>
+			In <a rel="nofollow" href="http://www.princeton.edu/~kahneman">Daniel Kahneman</a>'s book, "<em>Thinking, Fast and Slow</em>", he claims that logic is carried out by '<em>system 2</em>' ('<em>slow thinking</em>').
+			Although I suspect that this is probably true for most people, I suspect for a minority of people that logic is carried out by '<em>system 1</em>' ('<em>fast thinking</em>').
+		</p>
+		<p>
+			For example: all <strong>elite</strong> <em>software engineers</em>, I suspect, carry out logic (even complex logic) in '<em>system 1</em>' ('<em>fast thinking</em>').
+			I suspect the same may also be true with mathematicians, with their version of complex logic: the mathematical proof.
+			(Sometimes this can be in "one shot" and sometimes in "bursts".)
+		</p>
+		<p>
+			Perhaps '<em>system 1</em>' ('<em>fast thinking</em>') logic abilities explain why a small minority of people are attracted to logic basic moral frameworks (<abbr title="for example">ex</abbr>: libertarianism) or (perhaps) at least partially explains it.
+		</p>
+		<p>
+			Although, all that is dependent on '<em>system 1</em>' ('<em>fast thinking</em>') versus '<em>system 2</em>' ('<em>slow thinking</em>') not being a false dichotomy.
+		</p>
+
+
+
+		<address class="vcard">
+			-- <a rel="author" class="fn n url" href="http://changelog.ca/"><span class="given-name">Charles</span> <span class="additional-name">Iliya</span> <span class="family-name">Krempeaux</span></a>
+		</address>
+	</div>
+	</content>
+</entry>

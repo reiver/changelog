@@ -1,0 +1,177 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2012-08-01T16:55:55-0700</published>
+
+	<id>ef54584a-5ffa-48ab-894c-5f8e21bc0fdf</id>
+
+	<category term="Software Engineering" />
+	<category term="Software Management" />
+
+	<title>HootSuite: Measure Everything</title>
+
+	<content type="xhtml">
+	<div xmlns="http://www.w3.org/1999/xhtml">
+		<p>
+			<a href="http://changelog.ca/log/2012/08/01/hootsuite_measure_everything/hs-graphite-on-big-tv.jpg"><img
+				src="http://changelog.ca/log/2012/08/01/hootsuite_measure_everything/hs-graphite-on-big-tv.jpg"
+				align="left"
+				style="width:10%;margin-right:20px;margin-bottom:20px;"
+			/></a>
+
+			At <a rel="nofollow">HootSuite</a> (especially in the engineering and ops teams) the approach of "<a rel="nofollow" href="http://codeascraft.etsy.com/2011/02/15/measure-anything-measure-everything/">measuring everything</a>" has been taken to heart.
+		</p>
+		<p>
+			Tools such as <a rel="nofollow" href="https://github.com/etsy/statsd">StatsD</a> and <a rel="nofollow" href="http://www.sflow.org/">sFlow</a> are used to send statistics to <a rel="nofollow" href="http://graphite.wikidot.com/">Graphite</a>, which allow the creation of various graphs.
+		</p>
+		<p>
+			Many of these graphs are displayed on large TV screens in the HootSuite office.
+			(Obviously not in the lobby where the public would see them.
+			But in the internal parts of the office.)
+		</p>
+		<p>
+			To use an adage, <em>a picture is worth a thousand words</em>, so here are some of those reports....
+		</p>
+
+		<section>
+			<h2>APIs, Performance &amp; Exceptions</h2>
+			<p>
+				<a href="http://changelog.ca/log/2012/08/01/hootsuite_measure_everything/hs-ops-graphite.png"
+				><img
+					src="http://changelog.ca/log/2012/08/01/hootsuite_measure_everything/hs-ops-graphite.png"
+					style="width:80%;"
+				/></a>
+			</p>
+			<p>
+				The <em>ops team</em> at HootSuite has a number of graphite reports they use.
+				The one above is currently one of their favorites.
+			</p>
+			<p>
+				Since HootSuite interacts with a number of 3rd party APIs (such as Twitter, Facebook, Google+, Klout, Foursquare, etc etc), it's important to monitor their "health" of these APIs.
+			</p>
+			<p>
+				In addition to this, things such as page loads and page execution times, in the HootSuite web application, are measured.
+				As well as monitoring various <em>exceptions</em> that the HootSuite application code may throw.
+			</p>
+			<p>
+				This report, with these graphs, let ops (and others who look at the screen), at a glance, get a feel for (some of) "what's happening".
+			</p>
+			<p>
+				And when you look at this graph often, you get a feel for what <em>normal</em> looks like, and when something unusual or bad is happening.
+			</p>
+		</section>
+
+
+		<section>
+			<h2>Computer &amp; Operating System Level Stats</h2>
+			<p>
+				<a href="http://changelog.ca/log/2012/08/01/hootsuite_measure_everything/hs-db-graphite.png"
+				><img
+					src="http://changelog.ca/log/2012/08/01/hootsuite_measure_everything/hs-db-graphite.png"
+					style="width:80%;"
+				/></a>
+			</p>
+			<p>
+				This report contains graphs about computer-level and operating system-level stats.
+			</p>
+			<p>
+				For example, information about disks, CPUs, memory, networks and load average.
+			</p>
+		</section>
+
+
+		<section>
+			<h2>Comparing Days Against Each Other</h2>
+			<p>
+				<a href="http://changelog.ca/log/2012/08/01/hootsuite_measure_everything/hs-twapioverlap-graphite.png"
+				><img
+					src="http://changelog.ca/log/2012/08/01/hootsuite_measure_everything/hs-twapioverlap-graphite.png"
+					style="width:80%;"
+				/></a>
+			</p>
+			<p>
+				This type of graph compares the graph of the same stat, against itself for a weeks worth of time.
+			</p>
+			<p>
+				For example, in the graph above, Twitter API usage is shown.
+			</p>
+			<p>
+				Here is another similar graph, this one for Facebook API usage.
+			</p>
+			<p>
+				<a href="http://changelog.ca/log/2012/08/01/hootsuite_measure_everything/hs-fbapioverlap-graphite.png"
+				><img
+					src="http://changelog.ca/log/2012/08/01/hootsuite_measure_everything/hs-fbapioverlap-graphite.png"
+					style="width:80%;"
+				/></a>
+			</p>
+			<p>
+				And yet another one for page load activity:
+			</p>
+			<p>
+				<a href="http://changelog.ca/log/2012/08/01/hootsuite_measure_everything/hs-pgloadoverlap-graphite.png"
+				><img
+					src="http://changelog.ca/log/2012/08/01/hootsuite_measure_everything/hs-pgloadoverlap-graphite.png"
+					style="width:80%;"
+				/></a>
+			</p>
+			<p>
+				This <em>overlap</em> technique can be tweaked.
+				Perhaps day of the week matters, and in one graph you want to compare the last 5 Mondays against each other;
+				and in another graph you want to compare the last 5 Tuesdays against each other;
+				etc.
+			</p>
+		</section>
+
+
+		<section>
+			<h2>Yet More Graphs</h2>
+			<p>
+				<a href="http://changelog.ca/log/2012/08/01/hootsuite_measure_everything/hs-streaming-graphite.png"
+				><img
+					src="http://changelog.ca/log/2012/08/01/hootsuite_measure_everything/hs-streaming-graphite.png"
+					style="width:80%;"
+				/></a>
+			</p>
+		</section>
+
+
+		<section>
+			<h2>Beyond Graphing</h2>
+			<p>
+				A lot can be gained by recording statistics like this and not only creating these kinds of graphs, but making them amenable to passive inspection, by putting them on large screen TVs in the office.
+				<strong>But there is more that can be done.</strong>
+			</p>
+			<p>
+				Although having these kinds of reports on screens where everyone can see them <strong>helps a lot</strong>!, people aren't paying attention to these reports every second of the day.
+				On top of that people aren't in the office (or even awake) every second of the day, where they could potentially be paying attention to these screens.
+			</p>
+			<p>
+				Having automated systems that monitor these statistics, which have a sense of what <em>normal</em> looks like, and which are able to automatically detect when something outside of the range of <em>normal</em> happens.
+			</p>
+			<p>
+				Such a system could simply send an alert.
+				(Perhaps hooking into <a rel="nofollow" href="http://www.nagios.org/">Nagios</a> or simply sending an e-mail.)
+				In addition to this, in some cases, it could try to <em>deal with</em> or <em>fix</em> the problem it detects.
+			</p>
+		</section>
+
+
+		<section>
+			<h2>On "Measuring Everything"</h2>
+			<p>
+				Now, I should say that recording stats and displaying them in graphs is not a new thing.
+				Back in 2004, I had this type of thing.
+				(I'd be surprised if systems like this didn't exist before that date.)
+				But back then, we created the system ourselves, from scratch.
+				But now, there's already existing free and open source tools that save you the trouble of having to roll your own solution.
+			</p>
+		</section>
+
+
+		<address class="vcard">
+			-- <a rel="author" class="fn n url" href="http://changelog.ca/"><span class="given-name">Charles</span> <span class="additional-name">Iliya</span> <span class="family-name">Krempeaux</span></a>
+		</address>
+	</div>
+	</content>
+</entry>

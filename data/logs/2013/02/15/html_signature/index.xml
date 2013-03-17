@@ -1,0 +1,251 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2013-02-15T08:39:01-0800</published>
+
+	<id>06751b5a-faea-499f-a7c4-97112d8b49ba</id>
+
+	<category term="Semantic HTML" />
+	<category term="HTML" />
+
+	<title>HTML Signatures, With Semantics</title>
+
+	<content type="xhtml">
+	<div xmlns="http://www.w3.org/1999/xhtml">
+		<p>
+			I think most people who are looking to create an <em>HTML signature</em> are looking to add a fancy signature to their e-mail messages.
+			HTML allows you to add images, styles and colors.
+		</p>
+		<p>
+			HTML signatures can also be used in blog posts and articles (like this one).
+			(I have a simple HTML signature at the end of this.)
+		</p>
+		<p>
+			HTML, in addition to giving you the ability to make things <em>look nice</em>, also has another powerful feature. 
+		</p>
+		<p>
+			HTML lets you add <a href="http://changelog.ca/log/2006/11/19/what_is_semantic_html">semantics</a>!
+		</p>
+		<p>
+			(Why would you want to add semantics?
+			Because it helps machines understand what you are trying to say.}
+		</p>
+		<p>
+			(If you don't know what <a href="http://changelog.ca/log/2006/11/19/what_is_semantic_html">semantics</a> and <a href="http://changelog.ca/log/2006/11/19/what_is_semantic_html">semantic HTML</a> are, then go read <a href="http://changelog.ca/log/2006/11/19/what_is_semantic_html">this</a>.)
+		</p>
+
+		<h2>Semantic HTML Signature</h2>
+		<p>
+			There are 4 technologies that are used in creating a <em>semantic HTML signature</em>.
+		</p>
+		<ul>
+			<li>
+				the <a rel="nofollow" href="http://microformats.org/wiki/hcard">hCard</a> <a rel="nofollow" href="http://microformats.org/">Microformat</a>,
+			</li>
+			<li>
+				the <a rel="nofollow" href="http://microformats.org/wiki/rel-author">rel-author</a> <a rel="nofollow" href="http://microformats.org/">Microformat</a>,
+			</li>
+			<li>
+				the HTML <code class="html">&lt;address&gt;</code> element, and
+			</li>
+			<li>
+				the schema.org <a rel="nofollow" href="http://schema.org/Person">Person</a> <a rel="nofollow" href="http://www.whatwg.org/specs/web-apps/current-work/multipage/microdata.html#microdata">Microdata</a>,
+			</li>
+		</ul>
+		<p>
+			(For a number of years now, I've been using <em>semantic HTML signatures</em> with only microformats and the HTML <code>&lt;address&gt;</code> element;
+			but now that HTML5 has the concept of microdata, I thought I'd add that to "the mix" too.)
+		</p>
+
+		<h2>Example</h2>
+		<p>
+			So, let's see a simple example of what a Semantic HTML signature looks like at the markup level.
+			(I'm not going to add any fancy style or images here, so that what's going on with the semantics is clearer.)
+		</p>
+		<p>
+			My first name is: "Charles".
+			My middle name is: "Iliya".
+			Name my last name (my family name) is: "Krempeaux".
+			So, a simple <em>semantic html signature</em> for me is:
+		</p>
+		<blockquote>
+			<address class="vcard" itemscope="1" itemtype="http://schema.org/Person">
+				-- <a rel="author" class="fn n url" itemprop="name url" href="http://changelog.ca/"><span class="given-name" itemprop="givenName">Charles</span> <span class="additional-name" itemprop="additionalName">Iliya</span> <span class="family-name" itemprop="familyName">Krempeaux</span></a>
+			</address>
+		</blockquote>
+		<p>
+			And the source code for this is:
+		</p>
+<pre><code>
+&lt;address class="vcard" itemscope="1" itemtype="http://schema.org/Person"&gt;
+    -- &lt;a rel="author" class="fn n url" itemprop="name url" href="http://changelog.ca/"&gt;&lt;span class="given-name" itemprop="givenName"&gt;Charles&lt;/span&gt; &lt;span class="additional-name" itemprop="additionalName"&gt;Iliya&lt;/span&gt; &lt;span class="family-name" itemprop="familyName"&gt;Krempeaux&lt;/span&gt;&lt;/a&gt;
+&lt;/address&gt;
+
+</code></pre>
+		<p>
+			<strong>That's a bit difficult to read.</strong>
+			Adding some more whitespace, to make that more readable, the same simple <em>semantic HTML signature</em> for me looks like:
+		</p>
+<pre><code>
+&lt;address class="vcard" itemscope="1" itemtype="http://schema.org/Person"&gt;
+    -- &lt;a rel="author" class="fn n url"            itemprop="name url" href="http://changelog.ca/"&gt;
+           &lt;span       class="given-name"          itemprop="givenName"&gt;Charles&lt;/span&gt;
+           &lt;span       class="additional-name"     itemprop="additionalName"&gt;Iliya&lt;/span&gt;
+           &lt;span       class="family-name"         itemprop="familyName"&gt;Krempeaux&lt;/span&gt;
+       &lt;/a&gt;
+&lt;/address&gt;
+
+</code></pre>
+		<p>
+			That's still a bit "noisy", so let's build this up adding each technology, one by one.
+		</p>
+		<p>
+			First, let's start just with a basic signature:
+		</p>
+<pre><code>
+    -- &lt;a href="http://changelog.ca/"&gt;Charles Iliya Krempeaux&lt;/a&gt;
+
+</code></pre>
+		<p>
+			Here the signature is just my name, linked to my homepage.
+		</p>
+		<p>
+			Next, whatever I would add my signature to (like an e-mail or a blog post or an article) is something I'm the author of, so let's add a <strong>rel-author</strong> to signify that:
+		</p>
+<pre><code>
+    -- &lt;a <em>rel="author"</em> href="http://changelog.ca/"&gt;Charles Iliya Krempeaux&lt;/a&gt;
+
+</code></pre>
+		<p>
+			Now, HTML has the <code class="html">&lt;address&gt;</code> element to signify contact information.
+			And since I am the author (of the e-mail or blog post or article) it would be my contact info, so let's add that:
+		</p>
+<pre><code>
+<em>&lt;address&gt;</em>
+    -- &lt;a rel="author" href="http://changelog.ca/"&gt;Charles Iliya Krempeaux&lt;/a&gt;
+<em>&lt;/address&gt;</em>
+
+</code></pre>
+		<p>
+			Next, we have the hCard microformat that lets us specify the different parts of the name.
+			For example, hCard can mark what is the <em>first name</em>, what is the <em>middle name</em>, and what is the <em>last name</em>.
+			(Although hCard calls these <em>given name</em>, <em>additional name</em> and <em>family name</em> respectively.)
+		</p>
+		<p>
+			hCard even lets us specify what your URL (to your blog, homepage, social network account, or whatever) is.
+			(hCard is actually very powerful, and has more features than I am showing here.)
+		</p>
+		<p>
+			First, for hCard, let's specify it is an hCard by adding the <code class="html">vcard</code> class.
+			(Yes, it is "vcard" not "hcard".)
+			And let's mark the full name with the <code class="html">fn</code> and <code class="html">n</code> class, as in:
+		</p>
+<pre><code>
+&lt;address <em>class="vcard"</em>&gt;
+    -- &lt;a rel="author" <em>class="fn n"</em> href="http://changelog.ca/"&gt;Charles Iliya Krempeaux&lt;/a&gt;
+&lt;/address&gt;
+
+</code></pre>
+		<p>
+			We're not done yet with hCard.
+			Now let's mark the URL.
+		</p>
+<pre><code>
+&lt;address class="vcard"&gt;
+    -- &lt;a rel="author" class="fn n <em>url</em>" href="http://changelog.ca/"&gt;Charles Iliya Krempeaux&lt;/a&gt;
+&lt;/address&gt;
+
+</code></pre>
+		<p>
+			So now, for hCard, we want to specify the <em>first name</em> (i.e., <em>given name</em>), the <em>middle name</em> (i.e., <em>additional name</em>) and the <em>last name</em> (i.e., <em>family name</em>).
+			To do that, we will need to add some HTML <code class="html">&lt;span&gt;</code> elements first, as in:
+		</p>
+<pre><code>
+&lt;address class="vcard"&gt;
+    -- &lt;a rel="author" class="fn n url" href="http://changelog.ca/"&gt;<em>&lt;span&gt;</em>Charles<em>&lt;/span&gt;</em> <em>&lt;span&gt;</em>Iliya<em>&lt;/span&gt;</em> <em>&lt;span&gt;</em>Krempeaux<em>&lt;/span&gt;</em>&lt;/a&gt;
+&lt;/address&gt;
+
+</code></pre>
+		<p>
+			This is difficult to read, so lets add some whitespace to make it easier.
+			(I'm not adding anything new here, just reformatting it a bit.)
+		</p>
+<pre><code>
+&lt;address class="vcard"&gt;
+    -- &lt;a rel="author" class="fn n url" href="http://changelog.ca/"&gt;
+           <em>&lt;span&gt;</em>Charles<em>&lt;/span&gt;</em> 
+           <em>&lt;span&gt;</em>Iliya<em>&lt;/span&gt;</em> 
+           <em>&lt;span&gt;</em>Krempeaux<em>&lt;/span&gt;</em>
+       &lt;/a&gt;
+&lt;/address&gt;
+
+</code></pre>
+		<p>
+			Now let's use hCard to actually specify the <em>first name</em> (i.e., <em>given name</em>), the <em>middle name</em> (i.e., <em>additional name</em>) and the <em>last name</em> (i.e., <em>family name</em>):
+		</p>
+<pre><code>
+&lt;address class="vcard"&gt;
+    -- &lt;a rel="author" class="fn n url" href="http://changelog.ca/"&gt;
+           &lt;span <em>class="given-name"</em>&gt;Charles&lt;/span&gt; 
+           &lt;span <em>class="additional-name"</em>&gt;Iliya&lt;/span&gt; 
+           &lt;span <em>class="family-name"</em>&gt;Krempeaux&lt;/span&gt; 
+       &lt;/a&gt;
+&lt;/address&gt;
+
+</code></pre>
+		<p>
+			So now we have all of hCard Microformats we are going to use in there.
+		</p>
+		<p>
+			Now let's add the schema.org Person microdata to it.
+		</p>
+		<p>
+			Now you are going to notice that the schema.org Person microdata really does not add anything new.
+			All the previous stuff we added each contributed some new kind of semantics.
+			But the schema.org Person microdata really just does what hCard does.
+		</p>
+		<p>
+			(So why add a schema.org Person microdata if hCard already does the same?
+			Good question. And you may not want to.
+			I never did in the past.
+			But it doesn't hurt to add it.)
+		</p>
+		<p>
+			So here's the signature with the schema.org Person microdata added:
+		</p>
+<pre><code>
+&lt;address class="vcard" <em>itemscope="1"</em> <em>itemtype="http://schema.org/Person"</em>&gt;
+    -- &lt;a rel="author" class="fn n url" <em>itemprop="name url"</em> href="http://changelog.ca/"&gt;
+           &lt;span class="given-name"      <em>itemprop="givenName"</em>&gt;Charles&lt;/span&gt; 
+           &lt;span class="additional-name" <em>itemprop="additionalName"</em>&gt;Iliya&lt;/span&gt; 
+           &lt;span class="family-name"     <em>itemprop="familyName"</em>&gt;Krempeaux&lt;/span&gt; 
+       &lt;/a&gt;
+&lt;/address&gt;
+
+</code></pre>
+		<p>
+			And that's it for the schema.org Person microdata.
+			(Notice how similar the schema.org Person microdata's <code class="html">itemprop</code> attributes are to the hCard microformat's <code class="html">class</code> attributes are.)
+		</p>
+
+		<h2>Summary</h2>
+		<p>
+			So if you want a <em> semantic HTML signature</em> like this, then just create code like the following for yourself:
+		</p>
+<pre><code>
+&lt;address class="vcard" itemscope="1" itemtype="http://schema.org/Person"&gt;
+    -- &lt;a rel="author" class="fn n url" itemprop="name url" href="<em>YOUR_URL_HERE</em>"&gt;&lt;span class="given-name" itemprop="givenName"&gt;<em>YOUR_FIRST_NAME_HERE</em>&lt;/span&gt; &lt;span class="additional-name" itemprop="additionalName"&gt;<em>YOUR_MIDDLE_NAME_HERE</em>&lt;/span&gt; &lt;span class="family-name" itemprop="familyName"&gt;<em>YOUR_LAST_NAME_HERE</em>&lt;/span&gt;&lt;/a&gt;
+&lt;/address&gt;
+
+</code></pre>
+		<p>
+			Or better yet, take the ideas from this, make a fancy signature, and add "semantic magic" to it.
+		</p>
+
+
+		<address class="vcard" itemscope="1" itemtype="http://schema.org/Person">
+			-- <a rel="author" class="fn n url" itemprop="name url" href="http://changelog.ca/"><span class="given-name" itemprop="givenName">Charles</span> <span class="additional-name" itemprop="additionalName">Iliya</span> <span class="family-name" itemprop="familyName">Krempeaux</span></a>
+		</address>
+	</div>
+	</content>
+</entry>

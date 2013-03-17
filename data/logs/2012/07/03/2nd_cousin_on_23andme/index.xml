@@ -1,0 +1,94 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2012-07-03T00:12:52+0000</published>
+
+	<id>f6785e5e-bfa5-43e0-8dbd-d6604bda0bad</id>
+
+	<category term="Genetics" />
+
+	<title>2nd Cousin (or 1st Cousin Once Removed) on 23andMe</title>
+
+	<content type="xhtml">
+	<div xmlns="http://www.w3.org/1999/xhtml">
+		<p>
+			<a rel="nofollow" href="http://23andme.com/">23andMe</a> has various tools for genealogy.
+			Among them is their <a rel="nofollow" href="https://www.23andme.com/you/relfinder/">relative finder</a> tool.
+		</p>
+		<p>
+			23andMe's <em>relative finder</em> tool uses DNA to figure out who could (potentially) be a relative of yours.
+			As I write this, 985 people show up there for me.
+			(For those interested in the technical details, you can read about how it's done <a rel="nofollow" href="http://www.plosone.org/article/info:doi%2F10.1371%2Fjournal.pone.0034267">here</a>.)
+		</p>
+		<p>
+			The tool (by default) orders your matches by closeness of relation.
+			My mother and brother (who also have their DNA scanned on 23anMe) are (not surprisingly) at the top of this list.
+			Ignoring them though, here is the person at the top of the list:
+		</p>
+		<p style="text-align:ceter;">
+			<img src="http://changelog.ca/log/2012/07/03/2nd_cousin_on_23andme/23andme-2nd-cousin.png" />
+		</p>
+		<p>
+			(The name isn't given, because, by default, 23andMe does not show people's name in <em>relative finder</em> without their permission.)
+		</p>
+		<p>
+			The DNA percentage match I have with this person -- 5.81% -- puts the person in the <em>2nd cousin</em> and even the <em>1st cousin once removed range</em>.
+		</p>
+		<p>
+			Now, I should say that I have tried contacting this person (on 23andMe), but the person has not responed back.
+			(I find this very unfortunate, from a personal point-of-view, as I would very much like to know who this relative is, and, how we are related.)
+		</p>
+
+		<h2>The DNA Evidence</h2>
+		<p>
+			So, what do I know about this person, based on the very limited information I have....
+		</p>
+		<p>
+			Just from that 23andMe record, I know that:
+		</p>
+		<p>
+			#1: The person is a male.
+		</p>
+		<p>
+			#2: The percentage of DNA we share: <em>5.81%</em>.
+		</p>
+		<p>
+			#3: The Y-DNA haplogroup of the person: <em>J1</em>.
+		</p>
+		<p>
+			#4: The mtDNA halogroup of the person: <em>HV</em>.
+		</p>
+		<p>
+			Using information beyond that 23andMe record, I know that....
+		</p>
+		<p>
+			My mother has her DNA scanned on 23andMe, and this person does <b>not</b> show up for her (on 23andMe's <em>relative finder</em> tool), therefore this person would have to be from my father's side of the family.
+			(My father past away, so I can't get his DNA scanned.)
+		</p>
+		<p>
+			mtDNA is passed down from mothers to their children.
+			We happen to share the same mtDNA haplogroup -- mtDNA haplogroup HV -- but that is just a coincidence, since we already know that this person is not related to my mother.
+		</p>
+		<p>
+			Only males have Y-DNA.
+			(Females do not.)
+			Y-DNA is passed down from father to son.
+			23andMe has indicated <a href="http://changelog.ca/offhand/2011/04/28/23andme">my Y-DNA haplogroup is R1b1b2a1a1d1*</a>.
+			This (potential) relative has a Y-DNA haplogroup of J1; which is very different than my Y-DNA haplogroup.
+			Therefore, this puts limits on the ways we could be related.
+		</p>
+		<p>
+			(For example, because we have different Y-DNAs, this could <b>not</b> be my father's brother's (hypothetical) son's son.
+			Just to say it explicitly and avoid any confusion for any relatives that may read this, as far as I know, my father's brother did not have any children; thus why I'm calling it "hypothetical".)
+		</p>
+		<p>
+			I'd very much like to know who this is.
+		</p>
+
+
+		<address class="vcard">
+			-- <a rel="author" class="fn n url" href="http://changelog.ca/"><span class="given-name">Charles</span> <span class="additional-name">Iliya</span> <span class="family-name">Krempeaux</span></a>
+		</address>
+	</div>
+	</content>
+</entry>
