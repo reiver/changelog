@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2010-04-26T10:45:10-07:00</published>
+
+	<id>f4b55400-7d93-44dd-b4f2-0491305a6bc1</id>
+
+	<category term="Emergence" />
+	<category term="Economics" />
+	<category term="Politics" />
+	<category term="Religion" />
+
+	<content type="xhtml">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<div class="offhand">
+				<p>
+					In some ways, notions of "central planning" are the economic and social version of "intelligent design". Both seem to dismiss emergence.
+				</p>
+			</div> <!-- class="offhand" -->
+		</div>
+	</content>
+</entry>

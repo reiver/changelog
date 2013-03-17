@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2012-11-20T01:56:46-0800</published>
+
+	<category term="Mathematics" />
+
+	<id>bca9d67d-71b1-48a5-8755-292a6e74c67c</id>
+
+	<content type="xhtml">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<div class="offhand">
+				<p>
+					Couldn't one extend <a href="http://changelog.ca/quote/2012/11/20/what_is_quantum_calculus"><em>h</em>-calculus and <em>q</em>-calculus</a> to a generic <em>polynomial</em>-calculus?
+				</p>
+			</div> <!-- class="offhand" -->
+		</div>
+	</content>
+</entry>

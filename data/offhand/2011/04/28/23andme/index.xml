@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2011-04-28T05:05:46+0000</published>
+
+	<id>faffb6c3-838a-4afb-8f57-6700f83e13cf</id>
+
+	<category term="Genetics" />
+
+	<content type="xhtml">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<div class="offhand">
+				<p>
+					According to 23andMe my Y-DNA is R1b1b2a1a1d1* and my mtDNA is HV.
+				</p>
+			</div> <!-- class="offhand" -->
+		</div>
+	</content>
+</entry>

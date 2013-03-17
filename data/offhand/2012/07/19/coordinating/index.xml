@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2012-07-19T17:37:17-0700</published>
+
+	<id>0e724d5a-9ba7-4d1d-b6ac-0690b0e6a056</id>
+
+	<category term="Software Engineering" />
+	<category term="Software Management" />
+
+	<content type="xhtml">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<div class="offhand">
+				<p>
+					Coordinating software <em>releases</em> and <em>deployments</em> with marketing teams tends to be important for engineering teams.
+					<a href="http://changelog.ca/log/2012/07/19/dark_launching_software_features">Dark launching</a> can help with this.
+					But communication of dates of marketing press releases, blog post, etc is important too.
+					As well as engineering teams communicating delays.
+				</p>
+			</div> <!-- class="offhand" -->
+		</div>
+	</content>
+</entry>

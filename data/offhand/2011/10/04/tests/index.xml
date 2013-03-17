@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2011-10-04T00:05:00+0000</published>
+
+	<id>db8e067a-dab0-4206-8c8c-56b8c24379ec</id>
+
+	<category term="Psychology" />
+
+	<content type="xhtml">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<div class="offhand">
+				<p>
+					I wonder how useful it would be to have psychological tests be taken by people who know you <em>on your behalf</em>, rather than just self-attested tests.
+				</p>
+			</div> <!-- class="offhand" -->
+		</div>
+	</content>
+</entry>

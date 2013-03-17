@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2012-11-13T07:08:54-0800</published>
+
+	<category term="Artificial Intelligence" />
+	<category term="Genetics" />
+	<category term="Machine Learning" />
+
+	<id>6ab7e389-8f3d-4067-b57c-8b667a343c52</id>
+
+	<content type="xhtml">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<div class="offhand">
+				<p>
+					Has anyone used Self-Organizing Maps (<abbr title="Self-Organizing Map">SOM</abbr>s) with very high dimensionality?
+					What about using Self-Organizing Maps (<abbr title="Self-Organizing Map">SOM</abbr>s) with non-Euclidean distance measures?
+					I suppose one could also consider Self-Organizing Maps (<abbr title="Self-Organizing Map">SOM</abbr>s) on non-numerical data, where non-Euclidean distance measures tend to be a <em>must</em>.
+				</p>
+			</div> <!-- class="offhand" -->
+		</div>
+	</content>
+</entry>

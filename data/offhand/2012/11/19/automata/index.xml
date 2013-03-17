@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2012-11-19T09:46:21-0800</published>
+
+	<category term="Artificial Intelligence" />
+	<category term="Machine Learning" />
+	<category term="Neuroscience" />
+
+	<id>ca396187-5b38-4b1a-bb30-473f1e125c69</id>
+
+	<content type="xhtml">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<div class="offhand">
+				<p>
+					How useful is it to think of <em>self-organizing maps</em> as <em>cellular automata</em>?
+					How useful is it to think of the <em>neocortex</em> as <em>cellular automata</em>?
+				</p>
+			</div> <!-- class="offhand" -->
+		</div>
+	</content>
+</entry>

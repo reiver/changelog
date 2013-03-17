@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2011-10-06T23:08:10+0000</published>
+
+	<id>f03be4c9-034f-4882-b3b8-3e40d6af81be</id>
+
+	<category term="Software Engineering" />
+
+	<content type="xhtml">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<div class="offhand">
+				<p>
+					Operations on UTF-8 encoded text are often O(n) in terms of speed.
+					Be aware of this when going from ASCII encoded text (to UTF-8 encoded text) as operations on ASCII encoded text are often O(1).
+					This can make a <strong>HUGE</strong> difference.
+				</p>
+			</div> <!-- class="offhand" -->
+		</div>
+	</content>
+</entry>

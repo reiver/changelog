@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2012-10-28T09:47:39-0700</published>
+
+	<category term="Computer Science" />
+	<category term="Software Engineering" />
+
+	<id>64274b87-1206-4d5b-b098-0a14b732b23f</id>
+
+	<content type="xhtml">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<div class="offhand">
+				<p>
+					Once it becomes easier to write software that utilizes all the cores on a computer's CPU(s),
+					I suspect you will see people trying to find ways to make software use <em>all</em> of a computer's (usused and available) CPU(s)' core right from the start instead of just through spawning. 
+				</p>
+			</div> <!-- class="offhand" -->
+		</div>
+	</content>
+</entry>

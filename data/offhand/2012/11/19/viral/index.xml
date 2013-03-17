@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2012-11-19T09:53:44-0800</published>
+
+	<category term="Social Network" />
+	<category term="Twitter" />
+
+	<id>cb4472ad-2a8f-41c6-930d-1edb5b611b34</id>
+
+	<content type="xhtml">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<div class="offhand">
+				<p>
+					If the potential for a person's tweet to go "viral" (via retweets) is a function of the non-loop lengths of a person's social graph,
+					then what are useful ways of measuring these non-loop lengths?
+					(Useful in terms of prediction.) 
+				</p>
+			</div> <!-- class="offhand" -->
+		</div>
+	</content>
+</entry>

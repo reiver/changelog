@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2013-01-12T09:27:57-0800</published>
+
+	<id>2f72d0c3-675c-4885-b4a2-0e3341c26525</id>
+
+	<category term="Computer Science" />
+	<category term="Software Engineering" />
+
+	<content type="xhtml">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<div class="offhand">
+				<p>
+					What Alan Turing's <em>universal computing machine</em> misses is that, in a practical sense, sometimes computational complexity matters (a lot).
+				</p>
+			</div> <!-- class="offhand" -->
+		</div>
+	</content>
+</entry>

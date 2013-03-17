@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2004-03-22T10:25:00-07:00</published>
+
+	<id>b2027696-268d-4637-ac7e-4f2db0b5c0bb</id>
+
+	<category term="Software Engineering" />
+	<category term="System Architecture" />
+	<category term="Web Development" />
+
+	<content type="xhtml">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<div class="offhand">
+				<p>
+					My philosophy when designing software that other engineers are going to use (such as <abbr title="application programming interface">API</abbr>s and libraries) is to,
+					make the things they do often easier,
+					but don't force them them use it
+					and don't prevent them from accessing "lower" levels.
+					Ignoring this philosophy will likely result in engineers <em>fighting with</em> you framework and cursing its creator.
+				</p>
+			</div> <!-- class="offhand" -->
+		</div>
+	</content>
+</entry>

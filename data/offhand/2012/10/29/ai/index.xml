@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2012-10-29T11:06:37-0700</published>
+
+	<category term="Artificial Intelligence" />
+	<category term="Machine Learning" />
+
+	<id>f4b81668-802d-422e-925d-cc33a9faa502</id>
+
+	<content type="xhtml">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<div class="offhand">
+				<p>
+					<a rel="nofollow" href="http://radogazo.com/"><abbr title="Radoslav Gazo">A friend of mine</abbr></a> suggested I should look into the <em><abbr title="Artificial Intelligence">AI</abbr></em> and <em>machine learning</em> work of <a rel="nofollow" href="http://martinpelikan.net/">Martin Pelikan</a>.
+				</p>
+				<p>
+					<abbr title="Radoslav Gazo">He</abbr> said <abbr title="Martin Pelikan">Martin</abbr> was one of his brother's childhood friends and has been working the area for years.
+					<abbr title="Radoslav Gazo">He</abbr> also said <abbr title="Martin Pelikan">Martin</abbr> is one of the smartest guys he has ever met.
+					(Given I know what <abbr title="Radoslav Gazo">my friend</abbr> scores on a Raven's Progressive Matrices (IQ) test, that is high praise.)
+				</p>
+			</div> <!-- class="offhand" -->
+		</div>
+	</content>
+</entry>

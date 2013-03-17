@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2012-11-24T20:38:42-0800</published>
+
+	<category term="Artificial Intelligence" />
+	<category term="Genetics" />
+	<category term="Machine Learning" />
+
+	<id>d06fb667-680a-4dfc-b79e-b4276f3180d3</id>
+
+	<content type="xhtml">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<div class="offhand">
+				<p>
+					Usually when people implement Self-Organizing Maps, each node/neuron all get the same inputs.
+					It doesn't have to be that way. 
+				</p>
+			</div> <!-- class="offhand" -->
+		</div>
+	</content>
+</entry>

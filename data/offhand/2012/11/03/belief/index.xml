@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2012-11-03T09:38:27-0700</published>
+
+	<category term="Evolution" />
+	<category term="Genetics" />
+	<category term="Psychology" />
+
+	<id>76b2d356-0fe7-4eb0-944d-5d61511e9726</id>
+
+	<content type="xhtml">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<div class="offhand">
+				<p>
+					For quite a while now I've wondered how much the tendency towards rigidity-of-belief of a person affects cultural evolution.
+					And if rigidity-of-belief of a person significantly affects cultural evolution, then #1 to what degree is it hereditary (and thus might be acted on by selection) and #2 in what way is it important.
+				</p>
+			</div> <!-- class="offhand" -->
+		</div>
+	</content>
+</entry>

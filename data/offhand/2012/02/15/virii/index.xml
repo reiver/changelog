@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2012-02-15T15:39:42+0000</published>
+
+	<id>68c08ded-e889-40b7-9238-525f90930710</id>
+
+	<category term="Artificial Intelligence" />
+	<category term="Evolution" />
+	<category term="Computer Science" />
+
+	<content type="xhtml">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<div class="offhand">
+				<p>
+					Wonder effect of adding (Virtual) Virii to Genetic Algorithm and Evolutionary Algorithm systems?
+					It's not just addition of tiny mutations but large potentially functional change.
+				</p>
+			</div> <!-- class="offhand" -->
+		</div>
+	</content>
+</entry>

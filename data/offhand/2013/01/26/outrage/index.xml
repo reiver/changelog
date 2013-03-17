@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2013-01-26T12:31:05-0800</published>
+
+	<id>f75cca19-0142-4cbd-89c2-7aa55fb94730</id>
+
+	<category term="Morality" />
+	<category term="Politics" />
+	<category term="Psychology" />
+
+	<content type="xhtml">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<div class="offhand">
+				<p>
+					I think many people like being exposed to stimuli (such as TV) where they can feel morally outraged.
+					And even regularly seek it out.
+				</p>
+			</div> <!-- class="offhand" -->
+		</div>
+	</content>
+</entry>

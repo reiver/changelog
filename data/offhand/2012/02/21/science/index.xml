@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2012-02-21T20:30:06+0000</published>
+
+	<id>438be269-91b9-4c47-a82f-068510a4b871</id>
+
+	<category term="Politics" />
+	<category term="Science" />
+
+	<content type="xhtml">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<div class="offhand">
+				<p>
+					I dislike the labels "<em>Citizen Science</em>" and "<em>Citizen Journalism</em>" because I tend to conflate "<em>Citizen</em>" with <em>Serf</em> and <em>Thrall</em>.
+					Prefer labels "<em>Indie Science</em>" and "<em>Indie Journalism</em>", respectively.
+				</p>
+			</div> <!-- class="offhand" -->
+		</div>
+	</content>
+</entry>

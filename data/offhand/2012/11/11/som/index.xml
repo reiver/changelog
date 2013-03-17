@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2012-11-11T19:52:28-0800</published>
+
+	<category term="Artificial Intelligence" />
+	<category term="Genetics" />
+	<category term="Machine Learning" />
+
+	<id>6ab7e389-8f3d-4067-b57c-8b667a343c52</id>
+
+	<content type="xhtml">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<div class="offhand">
+				<p>
+					Is anyone using Self-Organizing Maps (<abbr title="Self-Organizing Map">SOM</abbr>s) on genetic data?
+					Should be able to use it in similar situations as where one would use a Principle Component Analysis (<abbr title="Principle Component Analysis">PCA</abbr>). 
+				</p>
+			</div> <!-- class="offhand" -->
+		</div>
+	</content>
+</entry>

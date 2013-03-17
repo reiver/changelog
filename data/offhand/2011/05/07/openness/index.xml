@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2011-05-07T15:54:09+0000</published>
+
+	<id>7c91b889-ec9e-4ba5-9ee1-5171dbb0bc71</id>
+
+	<category term="Big Five Factors" />
+	<category term="Personality" />
+	<category term="Psychology" />
+	<category term="Psychometrics" />
+
+	<content type="xhtml">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<div class="offhand">
+				<p>
+					I suspect for <b>openness</b>, in the Big 5, one should try to separate <i>openness to new ideas</i> from <i>openness to social experiences</i>. (Needs testing though.)
+				</p>
+			</div> <!-- class="offhand" -->
+		</div>
+	</content>
+</entry>

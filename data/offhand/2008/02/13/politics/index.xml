@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2008-02-15T10:58:48-0700</published>
+
+	<category term="Morality" />
+	<category term="Politics" />
+
+	<id>83ddf164-c12d-4c3c-af71-d1b913025c87</id>
+
+	<content type="xhtml">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<div class="offhand">
+				<p>
+					A river with many fish attracts the bear.
+					Not the other way around: it is not the bear who attracts the fish to the river.
+					The simultaneous occurrence of bear and fish does not imply that it is the bear which causes the fish to be prosperous and numerous.
+					Predation, whether literal or metaphorical (ex: rent-seeking), can explain the simultaneous occurrence of the two.
+				</p>
+			</div> <!-- class="offhand" -->
+		</div>
+	</content>
+</entry>

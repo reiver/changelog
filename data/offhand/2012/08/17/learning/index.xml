@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2012-08-17T16:06:19-07:00</published>
+
+	<id>93e2335a-ad7a-468e-bf8c-c0fe065ca745</id>
+
+	<category term="Intelligence" />
+	<category term="Psychology" />
+	<category term="Psychometrics" />
+
+	<content type="xhtml">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<div class="offhand">
+				<p>
+					The benefits gained from <a href="http://changelog.ca/quote/2012/08/17/while_we_teach_we_learn">the protégé effect</a> would be a reason why one might want write tutorials and HOWTOs (on their blog or where ever), even if not many people or even no one reads it.
+				</p>
+			</div> <!-- class="offhand" -->
+		</div>
+	</content>
+</entry>

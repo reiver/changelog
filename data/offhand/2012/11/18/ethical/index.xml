@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2012-11-18T12:13:09-0800</published>
+
+	<category term="Morality" />
+	<category term="Politics" />
+
+	<id>2b9721cf-80ae-48f5-b54c-6b48f2f17675</id>
+
+	<content type="xhtml">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<div class="offhand">
+				<p>
+					Haven't seen an academic paper claim it is unethical to violate religious rules;
+					however have seen academic papers claim it is unethical to violate goverment rules (i.e., laws). 
+				</p>
+				<p>
+					Both seem to be getting into concepts of (moral) authority and oughts (wrapped in a glaze of "scientific" appearance). 
+				</p>
+			</div> <!-- class="offhand" -->
+		</div>
+	</content>
+</entry>

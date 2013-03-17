@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2011-11-07T12:23:13-0700</published>
+
+	<id>b85f813b-29f9-4745-85aa-d577b2c38440</id>
+
+	<category term="Linux" />
+
+	<content type="xhtml">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<div class="offhand">
+				<p>
+					Linux isn't in the news like it was years ago.
+					It used to be the main topic of numerous articles; of even whole blogs and magazines.
+					Now, it's almost banal.
+					I think it's because Linux is now ubiquitous.
+					It's everywhere!
+				</p>
+			</div> <!-- class="offhand" -->
+		</div>
+	</content>
+</entry>

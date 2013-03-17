@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2012-10-20T19:34:05-0700</published>
+
+	<category term="Economics" />
+	<category term="Morality" />
+	<category term="Politics" />
+
+	<id>d8fc4f2e-51da-426b-86b5-a64867e888e1</id>
+
+	<content type="xhtml">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<div class="offhand">
+				<p>
+					 A river with many fish attracts the bear. Not the other way around.
+				</p>
+			</div> <!-- class="offhand" -->
+		</div>
+	</content>
+</entry>

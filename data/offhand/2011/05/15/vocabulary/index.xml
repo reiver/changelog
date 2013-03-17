@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2011-05-15T16:58:23+0000</published>
+
+	<id>bb185c1d-382f-4b37-abc5-554859c24087</id>
+
+	<category term="Psychology" />
+
+	<content type="xhtml">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<div class="offhand">
+				<p>
+					A problem I think some psychometric and psychological tests have is they use "big" or abstract words I don't think everyone will understand.
+				</p>
+			</div> <!-- class="offhand" -->
+		</div>
+	</content>
+</entry>

@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2012-12-28T11:01:04-0800</published>
+
+	<category term="Morality" />
+	<category term="Psychology" />
+
+	<id>4a834a40-2488-4277-9aa6-ca25121bf9ae</id>
+
+	<content type="xhtml">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<div class="offhand">
+				<p>
+					When facts are lacking people will make appeals to (their) morality.
+					And often, really, the facts never mattered; it was about (their) morality.
+				</p>
+			</div> <!-- class="offhand" -->
+		</div>
+	</content>
+</entry>

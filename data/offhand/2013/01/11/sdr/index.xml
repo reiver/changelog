@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2013-01-11T21:48:46-0800</published>
+
+	<id>ca063e0f-facf-4525-bd24-b393886fbc68</id>
+
+	<category term="Artificial Intelligence" />
+	<category term="Computer Science" />
+	<category term="Machine Learning" />
+	<category term="Software Engineering" />
+
+	<content type="xhtml">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<div class="offhand">
+				<p>
+					These Sparse Distributed Representations (SDRs) (described by Jeff Hawkins) seem like Bloom Filters. 
+				</p>
+			</div> <!-- class="offhand" -->
+		</div>
+	</content>
+</entry>

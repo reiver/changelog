@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2011-03-16T05:40:07+0000</published>
+
+	<id>6548b38a-b7ff-4175-a2d0-1d212fab57e9</id>
+
+	<category term="Psychology" />
+	<category term="Morality" />
+
+	<content type="xhtml">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<div class="offhand">
+				<p>
+					I've noticed that, (some) people tend to become libertarian-ish when they become the victim of other people's "benevolence".
+				</p>
+			</div> <!-- class="offhand" -->
+		</div>
+	</content>
+</entry>

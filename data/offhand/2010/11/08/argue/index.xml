@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2010-11-08T06:06:0 +0000</published>
+
+	<id>866997ad-c14d-4f3e-99f9-8e012df13b06</id>
+
+	<category term="Psychology" />
+
+	<content type="xhtml">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<div class="offhand">
+				<p>
+					My impression is, many people will object to an argument not because the think the claim is false, but because they find it offensive.
+				</p>
+			</div> <!-- class="offhand" -->
+		</div>
+	</content>
+</entry>

@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2011-05-25T23:37:21-07:00</published>
+
+	<id>5ba89320-3e92-4cb0-8459-cdb1eb86ce6c</id>
+
+	<category term="Science" />
+
+	<content type="xhtml">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<div class="offhand">
+				<p>
+					Scientific literacy isn't science education. Person educated in science can understand science; scientifically literate person can do science.
+				</p>
+			</div> <!-- class="offhand" -->
+		</div>
+	</content>
+</entry>

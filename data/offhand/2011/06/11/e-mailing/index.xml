@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2011-06-11T07:07:23+0000</published>
+
+	<id>398ba335-7f7b-4433-a266-5ddd0fdc295b</id>
+
+	<category term="Bookmarking" />
+	<category term="E-mail" />
+
+	<content type="xhtml">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<div class="offhand">
+				<p>
+					It would be nice if I could (socially) bookmark (or post/tweet) things by e-mailing them to a special e-mail address.
+					(I already e-mail links to friends.)
+				</p>
+			</div> <!-- class="offhand" -->
+		</div>
+	</content>
+</entry>

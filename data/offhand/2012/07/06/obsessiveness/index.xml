@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2012-07-06T13:01:27-0700</published>
+
+	<id>232fdf09-301c-4b79-a24d-67e9986f04eb</id>
+
+	<category term="Autism" />
+	<category term="Asperger" />
+	<category term="Psychology" />
+	<category term="Psychometrics" />
+
+	<content type="xhtml">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<div class="offhand">
+				<p>
+					<a href="http://changelog.ca/quote/2012/07/05/different_definitions_of_intellectual_giftedness">Joseph S. Renzulli defines giftedness</a> as <a href="http://changelog.ca/quote/2012/07/06/above-average_general_ability">above-average general ability</a>, <a href="http://changelog.ca/quote/2012/07/06/creativity">creativity</a> &amp; <a href="http://changelog.ca/quote/2012/07/06/task_commitment">task commitment</a>.
+					<em>Task commitment</em> sounds like <em>obsessive-compulsive behavior</em> (that some would label as OCD).
+				</p>
+			</div> <!-- class="offhand" -->
+		</div>
+	</content>
+</entry>

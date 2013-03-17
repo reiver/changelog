@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2011-10-25T18:51:15+0000</published>
+
+	<id>1f338afc-23d6-449e-8510-202e0a2ec4d7</id>
+
+	<category term="Evolution" />
+	<category term="Politics" />
+	<category term="Psychology" />
+	<category term="Vertical Transmission" />
+
+	<content type="xhtml">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<div class="offhand">
+				<p>
+					Modern state can be thought of as "parasite" whose survival strategy is usually Vertical Transmission &amp; thus is in its interest for its "host" to reproduce.
+				</p>
+			</div> <!-- class="offhand" -->
+		</div>
+	</content>
+</entry>

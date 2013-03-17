@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2013-01-17T09:30:46-0800</published>
+
+	<id>96a8767b-c085-4878-95b8-83f41a29b21e</id>
+
+	<category term="Advertising" />
+	<category term="Case Study" />
+	<category term="Marketing" />
+	<category term="White Paper" />
+
+	<content type="xhtml">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<div class="offhand">
+				<p>
+					In case it is something you ever wondered, the tendency is: CTOs and CIOs read White Papers and marketing people read Case Studies.
+					Often, they are both written with that in mind.
+				</p>
+			</div> <!-- class="offhand" -->
+		</div>
+	</content>
+</entry>

@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2013-01-29T08:43:23-0800</published>
+
+	<id>eb8ef7b3-71dc-4415-b4c1-e22a85fa478a</id>
+
+	<category term="Software Business" />
+	<category term="Software Engineering" />
+
+	<content type="xhtml">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<div class="offhand">
+				<p>
+					Was told by someone that the thicker he made the manual for his software, oddly, the more sales he received. 
+					Were people perceiving the software's manual thickness as a proxy for quality?
+					(Did they believe a thicker manual implied more features in the software?)
+				</p>
+			</div> <!-- class="offhand" -->
+		</div>
+	</content>
+</entry>

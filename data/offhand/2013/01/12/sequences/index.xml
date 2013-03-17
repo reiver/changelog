@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2013-01-12T16:03:47-0800</published>
+
+	<id>3ed8a893-a457-463c-bb44-d2a6da54f770</id>
+
+	<category term="Artificial Intelligence" />
+	<category term="Computer Science" />
+	<category term="Machine Learning" />
+	<category term="Software Engineering" />
+	<category term="Software Management" />
+
+	<content type="xhtml">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<div class="offhand">
+				<p>
+					I think you could apply Jeff Hawkins' work to <a rel="nofollow" href="http://graphite.wikidot.com/">Graphite</a>/<a rel="nofollow" href="https://github.com/etsy/statsd">StatsD</a>/<a rel="nofollow" href="http://www.sflow.org/">sFlow</a>/Carbon data, to detect when something is or is about to go wrong.
+					Immediately <em>a lot</em> of people would find it very useful. 
+				</p>
+			</div> <!-- class="offhand" -->
+		</div>
+	</content>
+</entry>

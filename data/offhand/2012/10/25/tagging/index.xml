@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2012-10-25T13:11:30-0700</published>
+
+	<category term="Tagging" />
+	<category term="Usability" />
+
+	<id>7708fc1f-132c-4a0f-ac03-14e01e802f0a</id>
+
+	<content type="xhtml">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<div class="offhand">
+				<p>
+					I have yet to see a web app or other software, which supports <em>tagging</em>, do 
+					<strong>stemming</strong>,
+					<strong>lemmatisation</strong>,
+					account for <strong>synonyms</strong>,
+					account for <strong>translations</strong> in different languages, 
+					or any other technique to combine different <em>tags</em> and different streams of data in <em>tags</em> together that are semantically really the same thing.
+					(For a simple example, "flower" and "flowers" should really be the same <em>tag</em>.)
+				</p>
+			</div> <!-- class="offhand" -->
+		</div>
+	</content>
+</entry>

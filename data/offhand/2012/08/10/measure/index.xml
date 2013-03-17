@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2012-08-10T12:28:23-0700</published>
+
+	<id>3d3d5fb1-6f89-458a-a5bc-f3a9038829c7</id>
+
+	<category term="Software Engineering" />
+	<category term="Software Management" />
+
+	<content type="xhtml">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<div class="offhand">
+				<p>
+					If you can't measure it, it can be difficult for you to fix it.
+				</p>
+				<p>
+					It can be beneficial to constantly test yours and others decisions, assumptions, unproven theories, and folk wisdom.
+				</p>
+				<p>
+					It can be helpful that, when action is taken, it is taken in a way where one can measure, predict outcomes, and analyze results.
+				</p>
+				<p>
+					But beware of <em>analysis paralysis</em>.
+				</p>
+			</div> <!-- class="offhand" -->
+		</div>
+	</content>
+</entry>

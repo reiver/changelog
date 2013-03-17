@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2010-05-20T17:56:14+0000</published>
+
+	<id>9ead618d-6671-4c40-ac91-77f7b77408f6</id>
+
+	<category term="Normal" />
+	<category term="Modal" />
+
+	<content type="xhtml">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<div class="offhand">
+				<p>
+					When I say "normal" (as in a "normal" person) I tend to mean Modal, but I think many people that say "normal" mean how someone Ought to be.
+				</p>
+			</div> <!-- class="offhand" -->
+		</div>
+	</content>
+</entry>

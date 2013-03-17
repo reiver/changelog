@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2012-02-07T06:38:47+0000</published>
+
+	<id>d95011b6-6f3d-483c-821b-bab1f753965a</id>
+
+	<category term="Neuroscience" />
+
+	<content type="xhtml">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<div class="offhand">
+				<p>
+					Wonder if <em>place cells</em> &amp; <em>grid cells</em> play a role in complex logic (ex: math proofs, software/hardware source code) for mathematicians &amp; engineers.
+				</p>
+			</div> <!-- class="offhand" -->
+		</div>
+	</content>
+</entry>

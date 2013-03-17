@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2011-09-29T19:12:15+0000</published>
+
+	<id>888015d0-025b-4a47-9634-57938a101ab8</id>
+
+	<category term="Genetics" />
+	<category term="Economics" />
+	<category term="Evolution" />
+
+	<content type="xhtml">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<div class="offhand">
+				<p>
+					Spandrels and Evolutionary Arms Races are things for evolution to &quot;play&quot; with to create adaptations, and not (simply) undesirable things.
+				</p>
+			</div> <!-- class="offhand" -->
+		</div>
+	</content>
+</entry>

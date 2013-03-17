@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2009-11-09T21:16:47+0000</published>
+
+	<id>e7dcebb1-d2d2-451a-a0ee-a088eaf61bca</id>
+
+	<category term="Evolution" />
+	<category term="Genetics" />
+	<category term="Mathematics" />
+	<category term="Numerical Analysis" />
+
+	<content type="xhtml">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<div class="offhand">
+				<p>
+					I think anyone who has studied (the math topic of) Numerical Analysis can have a certain kind of insight into Genetics and Evolution with DNA.
+				</p>
+			</div> <!-- class="offhand" -->
+		</div>
+	</content>
+</entry>

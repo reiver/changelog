@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2012-07-06T13:04:38-0700</published>
+
+	<id>25b9bd9d-1ff2-4f1a-ad54-dff0de557fc3</id>
+
+	<category term="Autism" />
+	<category term="Asperger" />
+	<category term="Psychology" />
+	<category term="Psychometrics" />
+
+	<content type="xhtml">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<div class="offhand">
+				<p>
+					One man's (psychiatrist's) "restricted, repetitive, intense &amp; focused interests" is another man's (psychometrician's) "<a href="http://changelog.ca/quote/2012/07/06/task_commitment">task commitment</a>"?
+				</p>
+			</div> <!-- class="offhand" -->
+		</div>
+	</content>
+</entry>

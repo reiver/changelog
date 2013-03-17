@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2012-03-10T20:31:45+0000</published>
+
+	<id>8ec39000-ada1-46ad-ba54-c6f76f2661b8</id>
+
+	<category term="Business" />
+
+	<content type="xhtml">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<div class="offhand">
+				<p>
+					I suspect that in any company of even modest size, you are likely going to come across many people committing <em>self-serving biases</em> at your expense.
+				</p>
+			</div> <!-- class="offhand" -->
+		</div>
+	</content>
+</entry>

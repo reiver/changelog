@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2013-01-29T08:31:10-0800</published>
+
+	<id>48c1df95-9dba-4697-a8ba-c700669b0670</id>
+
+	<category term="Computer Science" />
+	<category term="Mathematics" />
+	<category term="Machine Learning" />
+	<category term="Statistics" />
+
+	<content type="xhtml">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<div class="offhand">
+				<p>
+					When creating a model for a system that depends on outside predictions, there is a difference between data availability and data accuracy.
+				</p>
+			</div> <!-- class="offhand" -->
+		</div>
+	</content>
+</entry>

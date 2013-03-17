@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2013-02-16T04:23:35-0800</published>
+
+	<id>9c3e3d49-99c2-4383-b4b0-41b5917e7680</id>
+
+	<category term="Genetics" />
+	<category term="Evolution" />
+	<category term="Intelligence" />
+	<category term="Psychology" />
+	<category term="Psychometics" />
+
+	<content type="xhtml">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<div class="offhand">
+				<p>
+					Are cultures where girls are materialistic, cultures where males are (at least sometimes) being selected for intelligence?
+					(I suppose <em>how</em> wealth is attained will matter.
+					Does intelligence matter for attaining wealth in said culture?)
+				</p>
+			</div> <!-- class="offhand" -->
+		</div>
+	</content>
+</entry>

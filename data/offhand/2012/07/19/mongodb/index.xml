@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2012-07-19T13:40:02-0700</published>
+
+	<id>697392a1-2151-454c-bbec-d9ea61412f7f</id>
+
+	<category term="Databases" />
+	<category term="Software Engineering" />
+	<category term="Web Development" />
+
+	<content type="xhtml">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<div class="offhand">
+				<p>
+					There's a number of nice things about the <a rel="nofollow" href="http://www.mongodb.org/">MongoDB</a>, but its <strong>global write lock</strong> makes its alternatives (such as <a rel="nofollow" href="https://github.com/basho/riak">Riak</a>) look attractive.
+				</p>
+			</div> <!-- class="offhand" -->
+		</div>
+	</content>
+</entry>

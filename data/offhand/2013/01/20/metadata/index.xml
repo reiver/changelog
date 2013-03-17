@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2013-01-20T15:35:47-0700</published>
+
+	<id>6869e9ea-8513-4a4b-abf8-8f6e39d57a4c</id>
+
+	<category term="HTML" />
+	<category term="JSON" />
+	<category term="Software Engineering" />
+	<category term="Web Development" />
+	<category term="XML" />
+
+	<content type="xhtml">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<div class="offhand">
+				<p>
+					An advantage XML and HTML-like markups have over JSON is that the former allow metadata to be added easily via attributes.
+				</p>
+			</div> <!-- class="offhand" -->
+		</div>
+	</content>
+</entry>

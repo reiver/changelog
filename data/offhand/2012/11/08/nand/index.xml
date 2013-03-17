@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2012-11-08T08:42:56-0800</published>
+
+	<category term="Computer Science" />
+
+	<id>bed118a4-970d-4073-9b95-497515a95ae7</id>
+
+	<content type="xhtml">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<div class="offhand">
+				<p>
+					The <em>NAND gate</em> is (almost) the <em>set theory</em> of digital circuitry.
+					(Much theory is built on top of them.) 
+				</p>
+			</div> <!-- class="offhand" -->
+		</div>
+	</content>
+</entry>

@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2011-05-21T04:17:25+0000</published>
+
+	<id>190ef516-a09f-425f-8982-f89e51b8a7fd</id>
+
+	<category term="Databases" />
+	<category term="Software Engineering" />
+
+	<content type="xhtml">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<div class="offhand">
+				<p>
+					I think that whichever NoSQL document style data store comes up with a SQL like querying language will probably get pretty popular.
+					It will make adoption easier.
+				</p>
+			</div> <!-- class="offhand" -->
+		</div>
+	</content>
+</entry>

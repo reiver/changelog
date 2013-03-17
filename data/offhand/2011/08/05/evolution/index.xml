@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2011-08-05T18:13:12+0000</published>
+
+	<id>07751874-f1ad-408b-ac66-444c91f31b45</id>
+
+	<category term="Economics" />
+	<category term="Evolution" />
+	<category term="Genetics" />
+	<category term="Mathematics" />
+	<category term="Numerical Analysis" />
+
+	<content type="xhtml">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<div class="offhand">
+				<p>
+					Said this before but, an understanding of Numerical Analysis gives you an appreciation of and a certain insight into Evolution &amp; Adaptation.
+				</p>
+			</div> <!-- class="offhand" -->
+		</div>
+	</content>
+</entry>

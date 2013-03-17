@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2012-09-14T06:48:34-0700</published>
+
+	<id>f28fddeb-459a-4a67-ad84-5368b96c173e</id>
+
+	<category term="Genetics" />
+
+	<content type="xhtml">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<div class="offhand">
+				<p>
+					According to 23andMe <abbr title="Charles Robert Krempeaux">my father</abbr>'s <abbr title="Audrey Jane Krempeaux">sister</abbr>'s <abbr title="Mark Robert Tindol">eldest son</abbr>'s mtDNA is A2.
+					And thus the mtDNA of <abbr title="Helen Elizabeth Kerr">my father's mother</abbr> (Helen Elizabeth Kerr) would also be A2 too.
+				</p>
+			</div> <!-- class="offhand" -->
+		</div>
+	</content>
+</entry>

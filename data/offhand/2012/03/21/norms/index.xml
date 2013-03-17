@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2012-03-21T14:34:13-0700</published>
+
+	<id>6f50aeca-b102-43fa-9edc-5ba47f5968d5</id>
+
+	<category term="Psychology" />
+	<category term="Morality" />
+
+	<content type="xhtml">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<div class="offhand">
+				<p>
+					 Some literature on social norms &amp; morality seem to suggest that everyone is a "slave" to their social norms and everyone moralizes them.
+					 Suspect those inclined towards libertarianism (systemizers?) are (much) less likely to moralize social norms (and disgust), compared to others.
+				</p>
+			</div> <!-- class="offhand" -->
+		</div>
+	</content>
+</entry>

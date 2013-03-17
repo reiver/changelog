@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2011-09-21T03:41:26+0000</published>
+
+	<id>d9ea7bcf-4c40-499f-8bc6-d0f3195cf58e</id>
+
+	<category term="Language" />
+	<category term="Linguistics" />
+
+	<content type="xhtml">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<div class="offhand">
+				<p>
+					Some people seem to have an institutional point-of-view of language. For them, what is and isn't a word seems to depend on if it is (officially) "blessed" by an institution. Usage of a word is not enough for them.
+				</p>
+			</div> <!-- class="offhand" -->
+		</div>
+	</content>
+</entry>
