@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2013-03-17T11:09:08-07:00</published>
+
+	<id>1ec949a7-3bd4-4668-a8b5-4233583c8b24</id>
+
+	<title>Replication: Strong Data Consistency versus High Data Availability</title>
+
+	<category term="Computer Science" />
+	<category term="Software Engineering" />
+
+	<content type="xhtml">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<div class="quote">
+				<blockquote cite="http://www.allthingsdistributed.com/2007/10/amazons_dynamo.html">
+					<p>
+						Data replication algorithms used in commercial systems traditionally perform synchronous replica coordination in order to provide a strongly consistent data access interface.
+						To achieve this level of consistency, these algorithms are forced to tradeoff the availability of the data under certain failure scenarios.
+						For instance, rather than dealing with the uncertainty of the correctness of an answer, the data is made unavailable until it is absolutely certain that it is correct.
+						From the very early replicated database works, it is well known that when dealing with the possibility of network failures, strong consistency and high data availability cannot be achieved simultaneously (2, 11).
+						As such systems and applications need to be aware which properties can be achieved under which conditions.
+					</p>
+					<p>
+						[...]
+					</p>
+					<p>
+						2.
+						Bernstein, P.A., and Goodman, N.
+						An algorithm for concurrency control and recovery in replicated distributed databases. ACM Trans. on Database Systems, 9(4):596-615, December 1984
+					</p>
+					<p>
+						[...]
+					</p>
+					<p>
+						11.
+						Lindsay, B.G., et. al.,
+						“Notes on Distributed Databases”, Research Report RJ2571(33471), IBM Research, July 1979
+					</p>
+				</blockquote>
+				<p class="quote-by">
+					-- Giuseppe DeCandia
+					 , Deniz Hastorun
+					 , Madan Jampani
+					 , Gunavardhan Kakulapati
+					 , Avinash Lakshman
+					 , Alex Pilchin
+					 , Swaminathan Sivasubramanian
+					 , Peter Vosshall
+					 , <a rel="nofollow" href="http://www.allthingsdistributed.com/">Werner Vogels</a>
+				</p>
+				<p class="quote-from">
+					from "<a rel="nofollow" href="http://www.allthingsdistributed.com/2007/10/amazons_dynamo.html">Dynamo: Amazon’s Highly Available Key-value Store</a>"
+				</p>
+			</div> <!-- class="quote" -->
+		</div>
+	</content>
+</entry>
