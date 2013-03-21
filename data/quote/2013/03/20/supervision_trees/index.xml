@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2013-03-20T20:30:43-07:00</published>
+
+	<id>f1b8cc05-614e-40d4-a281-5e66d9df15b5</id>
+
+	<title>Supervision Trees Design Pattern For Concurrent Programming</title>
+
+	<category term="Software Engineering" />
+
+	<content type="xhtml">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<div class="quote">
+				<blockquote cite="http://www.erlang.org/doc/design_principles/des_princ.html">
+					<p>
+						A basic concept in Erlang/<abbr title="Open Telecom Platform">OTP</abbr> is the <b>supervision tree</b>.
+						This is a process structuring model based on the idea of <b>workers</b> and <b>supervisors</b>.
+					</p>
+					<ul>
+						<li>
+							Workers are processes which perform computations, that is, they do the actual work.
+						</li>
+						<li>
+							Supervisors are processes which monitor the behaviour of workers. A supervisor can restart a worker if something goes wrong.
+						</li>
+						<li>
+							The supervision tree is a hierarchical arrangement of code into supervisors and workers, making it possible to design and program fault-tolerant software.
+						</li>
+					</ul>
+					<figure>
+						<img src="http://changelog.ca/quote/2013/03/20/supervision_trees/sup6.gif" />
+						<figcaption>
+							Figure 1.1:   Supervision Tree
+						</figcaption>
+					</figure>
+					<p>
+						In the figure above, square boxes represents supervisors and circles represent workers.
+					</p>
+				</blockquote>
+				<p class="quote-from">
+					from "<a rel="nofollow" href="http://www.erlang.org/doc/design_principles/des_princ.html">OTP Design Principles User's Guide</a>"
+				</p>
+			</div> <!-- class="quote" -->
+		</div>
+	</content>
+</entry>
