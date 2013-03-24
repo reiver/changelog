@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2013-03-23T23:56:41-07:00</published>
+
+	<id>548b567b-085b-419b-bddc-0f56666da01e</id>
+
+	<title>Turkey Problems: Why Past Data Can Be Unreliable When Assessing Risk</title>
+
+	<category term="Economics" />
+	<category term="Machine Learning" />
+	<category term="Psychology" />
+	<category term="Statistics" />
+
+	<content type="xhtml">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<div class="quote">
+				<blockquote cite="https://docs.google.com/file/d/0B_31K_MP92hURjZxTkxUTFZnMVk/edit">
+					<p>
+						<b>Turkey and Inverse Turkey</b> (from the Glossary for Antifragile): The turkey is fed by the butcher for a thousand days, and every day the turkey pronounces with increased statistical confidence that the butcher "will never hurt it"—until Thanksgiving, which brings a Black Swan revision of belief for the turkey.
+						Indeed not a good day to be a turkey.
+						The inverse turkey error is the mirror confusion, not seeing opportunities— pronouncing that one has evidence that someone digging for gold or searching for cures will "never find" anything because he didn't find anything in the past.
+					</p>
+				</blockquote>
+				<p class="quote-by">
+					-- <a rel="nofollow" href="http://www.fooledbyrandomness.com/">Nassim Nicholas Taleb</a>
+				</p>
+				<p class="quote-from">
+					from "<a rel="nofollow" href="https://docs.google.com/file/d/0B_31K_MP92hURjZxTkxUTFZnMVk/edit">Lectures on Risk and(Anti)fragility</a>"
+				</p>
+			</div> <!-- class="quote" -->
+		</div>
+	</content>
+</entry>
