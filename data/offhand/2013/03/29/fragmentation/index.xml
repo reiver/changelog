@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2013-03-29T17:45:17-0700</published>
+
+	<id>d350df07-ae60-4d0b-8d10-69dbac2b2e7a</id>
+
+	<category term="Software Engineering" />
+
+	<content type="xhtml">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<div class="offhand">
+				<p>
+					When defragmenting memory or disk space, it is important to not only defragment the <em>used</em> memory or disk space, but also to defragment the <strong>unused</strong> memory or disk space.
+					That way future memory or disk space allocations are less likely to be defragmented.
+				</p>
+			</div> <!-- class="offhand" -->
+		</div>
+	</content>
+</entry>
