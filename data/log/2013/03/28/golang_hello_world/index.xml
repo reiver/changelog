@@ -1,0 +1,86 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2013-03-28T11:59:00-07:00</published>
+
+	<id>404f0d43-5056-4bc4-9e25-67a4ed915a6a</id>
+
+	<category term="Golang" />
+	<category term="Software Engineering" />
+
+	<title>Golang Hello World</title>
+
+	<content type="xhtml">
+	<div xmlns="http://www.w3.org/1999/xhtml">
+		<p>
+			<a href="http://golang.org/">Golang</a> (also just called the <em>Go programming language</em>) is a concurrent imperative programming language.
+			Those familiar with concurrent programming may compare <em>Golang</em> to other concurrent programming language like Erlang, Scala and Rust.
+		</p>
+		<p>
+			I have recently become a fan of Golang, and have started using it in a professional capacity.
+			(My interest in the language has even <em>rubbed off</em> on other software engineer friends and colleagues.)
+		</p>
+		<p>
+			When someone first gets started with a programming language, often they seek out what is called the "hello world program".
+			A <em>hello world program</em> is a simple program which simply displays the text "Hello world!" (or something like it).
+			Its purpose is to get something working as quick as possible.
+		</p>
+		<p>
+			So, without any further delay, here is a <em>Golang</em> <em>hello world program</em>:
+		</p>
+<pre><code>
+package main
+
+
+import (
+    "fmt"
+)
+
+
+func main() {
+
+    fmt.Printf("Hello world!\n")
+
+}
+
+</code></pre>
+		<p>
+			And if you save this to a file named "<code>main.go</code>", then you can <em>run</em> this with:
+		</p>
+<pre><code>
+go run main.go
+
+</code></pre>
+		<p>
+			And you can <em>compile</em> this with:
+		</p>
+<pre><code>
+go build main.go
+
+</code></pre>
+		<p>
+			This step with create a binary executable file.
+			(If you named you file "<code>main.go</code>" then) the binary executable file it will created will be named "<code>main</code>".
+		</p>
+		<p>
+			If you want to want your binary executable file to have another name (besides "<code>main</code>") used the <code>-o</code> switch:
+		</p>
+<pre><code>
+go build -o myprogram main.go
+
+</code></pre>
+		<p>
+			Or:
+		</p>
+<pre><code>
+go build -o applebananacherry main.go
+
+</code></pre>
+
+
+		<address class="vcard" itemscope="1" itemtype="http://schema.org/Person">
+			-- <a rel="author" class="fn n url" itemprop="name url" href="http://changelog.ca/"><span class="given-name" itemprop="givenName">Charles</span> <span class="additional-name" itemprop="additionalName">Iliya</span> <span class="family-name" itemprop="familyName">Krempeaux</span></a>
+		</address>
+	</div>
+	</content>
+</entry>
