@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2013-03-26T12:08:55-0700</published>
+
+	<id>3a56b891-e80d-4f63-a572-8bc13c2c11ed</id>
+
+	<category term="Morality" />
+	<category term="Psychology" />
+
+	<content type="xhtml">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<div class="offhand">
+				<p>
+					For many, compassion is about hurting others to help one.
+					It is about pushing someone (else) in front of the train, to save someone else.
+				</p>
+			</div> <!-- class="offhand" -->
+		</div>
+	</content>
+</entry>

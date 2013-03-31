@@ -1,0 +1,146 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2013-03-27T11:47:27-07:00</published>
+
+	<id>4793315c-d9bf-48d6-ae0e-8baedc18a358</id>
+
+	<category term="Software Business" />
+	<category term="Software Engineering" />
+	<category term="Software Management" />
+
+	<title>Hiring: Coding Tests and How To Give Them</title>
+
+	<content type="xhtml">
+	<div xmlns="http://www.w3.org/1999/xhtml">
+		<p>
+			I have done a lot of hiring over the years.
+			Mostly of <em>software engineers</em>.
+			Both at companies I owned and companies I worked for.
+		</p>
+		<p>
+			And there are a lot of things that go into the hiring process I use.
+			But one thing I have used that I have found useful, is <strong>to give a <em>coding test</em></strong>.
+		</p>
+		<p>
+			Nowadays, when I am hiring software engineers I (potentially) put them through two interviews.
+		</p>
+		<p>
+			The first interview is what most would probably expect from an interview.
+			The candidate comes in, we meet face-to-face, and I talk to them and ask them questions.
+			I even encourage them to ask me questions.
+			I "dig" into the details of their experience and their knowledge.
+			(I won't go into this part of the interview here.
+			Although I do have a certain technique for this.)
+		</p>
+		<p>
+			But for the second interview (if the candidate makes it there), I give them a <em>coding test</em>.
+		</p>
+		<p><strong>
+			But how do you give a <em>coding test</em>&#8253;
+			What should be the assignment for the <em>coding test</em>&#8253;
+		</strong></p>
+		<p>
+			Here's what I do....
+		</p>
+
+		<section>
+			<h2>Item #0</h2>
+			<p>
+				Do <strong>not</strong> tell the candidate what the assignment for the coding test is before hand.
+			</p>
+			<p>
+				You don't want them to prepare for it.
+			</p>
+		</section>
+
+		<section>
+			<h2>Item #1</h2>
+			<p>
+				Do the <em>coding test</em> yourself <strong>before</strong> you give it to any of the candidates being interviewed.
+			</p>
+			<p>
+				After all, if you don't do the coding test yourself, how can you judge anyone else who does it, in any meaningful way.
+			</p>
+			<p>
+				Also, doing the <em>coding test</em> yourself will give you a intuitive sense of how difficult and approximately how long the assignment for <em>coding test</em> should take to complete.
+			</p>
+		</section>
+
+		<section>
+			<h2>Item #2</h2>
+			<p>
+				Tell the candidate that they may bring in their own computer for the <em>coding test</em>.
+			</p>
+			<p>
+				You want the candidate to be comfortable with their development environment for the <em>coding test</em>.
+				And don't want them to do worse than they normally would because they were struggling with the IDE, operating system, keyboard, etc of the computer you provided as a development environment for them.
+			</p>
+		</section>
+
+		<section>
+			<h2>Item #3</h2>
+			<p>
+				Give every candidate the same assignment on the <em>coding test</em> (who is applying for the same job).
+			</p>
+			<p>
+				If you are going to compare candidates against each other (even if you hire more than of them) it will be even more difficult to make this comparision if they are given different assignments.
+			</p>
+		</section>
+
+		<section>
+			<h2>Item #4</h2>
+			<p>
+				Make sure the coding assignment for the test is something typical of what is currently being done at the company.
+			</p>
+			<p>
+				Try to pick something that will take about 1 to 4 hours to complete.
+				You don't want it to be trivial.
+				But at the same time, you don't want it to take longer than a day.
+			</p>
+		</section>
+
+		<section>
+			<h2>Item #5</h2>
+			<p>
+				When the cadidate is done, get them to show it working.
+			</p>
+		</section>
+
+		<section>
+			<h2>Item #6</h2>
+			<p>
+				Get the candidate to give you the source code (and other relevant files) when they are done the <em>coding test</em>.
+			</p>
+			<p>
+				You will want to run their program youself, and verify it works.
+			</p>
+		</section>
+
+		<section>
+			<h2>Other Things</h2>
+			<p>
+				Some other points....
+			</p>
+			<p>
+				I do <strong>not</strong> watch the candidates when they are working on the <em>coding test</em>.
+				Standing over someone's shoulder may negatively affect their performance.
+			</p>
+			<p>
+				I don't care if they are looking up online documentation, or looking for online examples.
+				People do this normally when they are doing their software engineering work.
+				So I'm fine with it.
+			</p>
+			<p>
+				I make sure they have Internet access.
+				(That way they can access any online resources they want.)
+			</p>
+		</section>
+
+
+		<address class="vcard" itemscope="1" itemtype="http://schema.org/Person">
+			-- <a rel="author" class="fn n url" itemprop="name url" href="http://changelog.ca/"><span class="given-name" itemprop="givenName">Charles</span> <span class="additional-name" itemprop="additionalName">Iliya</span> <span class="family-name" itemprop="familyName">Krempeaux</span></a>
+		</address>
+	</div>
+	</content>
+</entry>

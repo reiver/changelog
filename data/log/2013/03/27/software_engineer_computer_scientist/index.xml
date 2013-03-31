@@ -1,0 +1,62 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2013-03-27T01:16:27-07:00</published>
+
+	<id>bb1bb18d-2989-40a3-b38b-5b09eb44548c</id>
+
+	<category term="Computer Science" />
+	<category term="Software Engineering" />
+
+	<title>Am I A Software Engineer Or Computer Scientist?</title>
+
+	<content type="xhtml">
+	<div xmlns="http://www.w3.org/1999/xhtml">
+		<p>
+			Should I call myself a <em>Software Engineer</em> or a <em>Computer Scientist</em>?
+		</p>
+		<p>
+			Something I found out recently is that some universities have an actual Software Engineering program that is separate from their Computer Science program.
+		</p>
+		<p>
+			When I was in university, you took Computer Science and became a Software Engineer.
+			There was no Software Engineering program (separate from Computer Science), <abbr title="Simon Fraser University">at least at the University I went to</abbr>.
+			Back then (<abbr title="Simon Fraser University">at the University I went to</abbr>) studying Computer Science required you to also take (and pass) some courses on formal Engineering practice.
+		</p>
+		<p>
+			Back then, Computer Science was (also) in the middle of transitioning from being dominated by Mathematicians.
+			(I was on that Math side of it.)
+			And way very Math heavy.
+			Which was OK with me, as I also had a formal Math background :-)
+		</p>
+		<p>
+			This goes into a topic I was discussing with someone a few weeks ago:
+			<strong>should someone with a Computer Science background call themselves a <em>Software Engineer</em> or <em>Computer Scientist</em></strong>?
+		</p>
+		<p>
+			Although my experience may not be representative, I have never heard anyone with a Computer Science degree working in industry call themselves a Computer Scientist.
+			In my experience, the norm for someone with a Computer Science degree working in industry is to call themselves a Software Engineer (and sometimes, a label which I really dislike because it is so vague to the point that it is almost meaningless, a Software Developer).
+		</p>
+		<p>
+			Perhaps this is a generational thing.
+			Software Engineering was part of Computer Science when I was in school still. 
+			And Computer Science was still Math-heavy.
+			Maybe it is not like that anymore.
+		</p>
+		<p>
+			I guess I should say that conceptually, <em>Computer Scientist</em> and <em>Software Engineer</em> are not mutually exclusive labels.
+			Conceptually, you could be both.
+		</p>
+		<p>
+			(I have also seen a new term being thrown around: "<em>Data Scientist</em>".
+			From the definitions I have seen for this, many Software Engineers qualify for this too, including myself.
+			Although there does seem to be <strong>a lot</strong> of hype built up around <em>Data Science</em>.)
+		</p>
+
+
+		<address class="vcard" itemscope="1" itemtype="http://schema.org/Person">
+			-- <a rel="author" class="fn n url" itemprop="name url" href="http://changelog.ca/"><span class="given-name" itemprop="givenName">Charles</span> <span class="additional-name" itemprop="additionalName">Iliya</span> <span class="family-name" itemprop="familyName">Krempeaux</span></a>
+		</address>
+	</div>
+	</content>
+</entry>

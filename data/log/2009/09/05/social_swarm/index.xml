@@ -1,0 +1,123 @@
+<?xml version="1.0"?>
+
+<entry xmlns="http://www.w3.org/2005/Atom">
+	<published>2009-09-05T14:52:59-0700</published>
+
+	<id>add3351a-4037-4e9a-81c8-d4bc42ad822f</id>
+
+	<category term="Twitter" />
+
+	<title>Social Swarm: Gaming Personalized &quot;Hot&quot; Tweets and Links from Twitter?</title>
+
+	<content type="xhtml">
+	<div xmlns="http://www.w3.org/1999/xhtml">
+		<p>
+			Before I talked about <a href="http://changelog.ca/log/2009/09/03/personalized_hot_tweets_and_links_from_twitter">personalized "hot" tweets and links from twitter</a>.
+			(I am sure I am not the only person who wants something like this.)
+		</p>
+		<p>
+			But I can see that there is a way to "game" and SPAM this type of thing.
+			I call this method: the <strong>social swarm</strong>.
+		</p>
+
+		<h2>Imagine...</h2>
+		<p>
+			Imagine that at some point it becomes popular for people to use software or (online) services where they can get "hot" links, tweets (and if you are on other social networks, posts, quotes, photos, videos, or whatever kind of media other social networks have).
+		</p>
+		<p>
+			Perhaps these software or services "tell" the user about "hot" content, one and a time.
+			Perhaps there is a web interface where the user can go and see a list of "hot" content.
+			Or perhaps the user gets notified whenever there is "hot" content, by e-mail, text message, or via messaging on a social network.
+			(This isn't meant to be an exhaustive list.)
+		</p>
+		<p>
+			Or perhaps these software or services "tell" the user about "hot" content, via a summary (perhaps once a week, or once a day, or whatever).
+			Perhaps there is a summary e-mail one gets, like you can get with mailing lists.
+			(This isn't meant to be an exhaustive list.)
+		</p>
+		<p>
+			Now imagine that you are someone who wants to take advantage of this situation.
+			(Perhaps you want to do some <a href="http://changelog.ca/log/2009/04/19/marketing_and_advertising_on_online_social_networks_still_in_the_dark_ages">marketing and advertising on social network</a>.
+			Or perhaps you have more malicious intent.)
+		</p>
+
+		<h2>Make It "Hot"</h2>
+		<p>
+			One thing you could try to do is try to make your stuff "hot".
+		</p>
+		<p>
+			(Of course, keeping in mind that something is "hot" on a per-person basis, since these are personalized "hot" tweets, links, etc.)
+		</p>
+		<p>
+			Of course, how you would go about making your stuff "hot" would depend on the algorithm that decides what is "hot".
+		</p>
+		<p>
+			But, for the sake of illustration, let's say that the algorithm that decides what is "hot" works by giving things "hotness ratings", such that the more a URL, tweet (or post, quote, photo, video, etc on other social networks) is tweeted or retweet or whatever (or whatever the equivalent is on other social networks) by people you follow, the "hotter" it is.
+		</p>
+		<p>
+			(Obviously, this is a pretty simplle algorithm.
+			But it is sufficient to illustrate what I mean by: <strong>social swarm</strong>.)
+		</p>
+		<p>
+			Maybe there is a threshold the algorithm uses, such that if a tweet, URL, etc gets "hotter" that this "hotness threshold" then it is brought to your attention.
+			(So, for example, perhaps if 10 people tweet, retweet, etc a URL, then it is "hot" enough, and it is brought to your attenion.)
+		</p>
+
+		<h2>Sock Puppets and Meat Puppets</h2>
+		<p>
+			So how do you "game" that kind of system?
+		</p>
+		<p>
+			One way I could think of doing it is by using (what are often called) "<em>sock puppets</em>" and "<em>meat puppets</em>".
+		</p>
+
+		<h2>Sock Puppets</h2>
+		<p>
+			In this context, <em>sock puppets</em> would be other Twitter accounts (or other type of social network accounts) created (by the person who wants to "game" this system) and used to post URLs they want to make "hot".
+		</p>
+		<p>
+			Of course, the person doing this would have to get other people to follow this (and enough of their other sock puppet accounts to get the URLs they post over the "hotness threshold") for this to work.
+		</p>
+		<p>
+			Likely a person engaging in this will have A LOT of sock puppet accounts.
+		</p>
+		<p>
+			And their goal would be to get people to follow enough of these sock puppet accounts to put them over the algorithm's threshold, for each person they are trying to target.
+		</p>
+		<p>
+			Likely they would simply mass post to all their sock puppet accounts.
+			Although, they could be more selective if they only want to target certain users.
+		</p>
+
+		<h2>Meat Puppets</h2>
+		<p>
+			Using meat puppets is doing the same thing you did with sock puppets, but doing it with people's real accounts.
+		</p>
+		<p>
+			Perhaps you get all your friends to tweet a URL.
+			Perhaps you get all the people at your office to tweet a URL.
+			Perhaps you make arrangements with people online such that they tweet and URL you ask them to, and in turn, you tweet and URL they ask you to.
+		</p>
+
+		<h2>Social Swarm</h2>
+		<p>
+			The set of sock puppets and meat puppets is what I call the <strong>social swarm</strong>.
+			And where this technique gets its name.
+		</p>
+		<p>
+			All these sock puppets and meat puppets post the same URL, thus making it "hot".
+		</p>
+
+		<h2>Other Social Networks Too</h2>
+		<p>
+			Really though there is nothing Twitter specific about all this, and this could be extended to other social networks, both existing and yet to be created.
+			So keep that in mind.
+			Both "hot" links, content, etc and the <strong>social swarm</strong> could exist on many many social networks.
+		</p>
+
+		<address class="vcard">
+			-- <a rel="author" class="fn n url" href="http://changelog.ca/"><span class="given-name">Charles</span> <span class="additional-name">Iliya</span> <span class="family-name">Krempeaux</span></a>
+		</address>
+	</div>
+	</content>
+</entry>
